@@ -1,0 +1,1373 @@
+[
+  {
+    "name": "Ren\u00e9 Vidal"
+  },
+  {
+    "name": "Yi Ma"
+  },
+  {
+    "name": "P\u00e9ter Torma"
+  },
+  {
+    "name": "Csaba Szepesv\u00e1ri"
+  },
+  {
+    "name": "Kenji Okuma"
+  },
+  {
+    "name": "Ali Taleghani"
+  },
+  {
+    "name": "Nando de Freitas"
+  },
+  {
+    "name": "James J. Little"
+  },
+  {
+    "name": "David G. Lowe"
+  },
+  {
+    "name": "Vittorio Ferrari"
+  },
+  {
+    "name": "Tinne Tuytelaars"
+  },
+  {
+    "name": "Luc Van Gool"
+  },
+  {
+    "name": "Pierre Moreels"
+  },
+  {
+    "name": "Michael Maire"
+  },
+  {
+    "name": "Pietro Perona"
+  },
+  {
+    "name": "Krystian Mikolajczyk"
+  },
+  {
+    "name": "Cordelia Schmid"
+  },
+  {
+    "name": "Andrew Zisserman"
+  },
+  {
+    "name": "Alireza Bab-Hadiashar"
+  },
+  {
+    "name": "Niloofar Gheissari"
+  },
+  {
+    "name": "Changsoo Je"
+  },
+  {
+    "name": "Sang Wook Lee"
+  },
+  {
+    "name": "Rae-Hong Park"
+  },
+  {
+    "name": "Jiun-Hung Chen"
+  },
+  {
+    "name": "Chu-Song Chen"
+  },
+  {
+    "name": "Shuicheng Yan"
+  },
+  {
+    "name": "HongJiang Zhang"
+  },
+  {
+    "name": "Yuxiao Hu"
+  },
+  {
+    "name": "Benyu Zhang"
+  },
+  {
+    "name": "QianSheng Cheng"
+  },
+  {
+    "name": "Igor Guskov"
+  },
+  {
+    "name": "Ravi Ramamoorthi"
+  },
+  {
+    "name": "Melissa L. Koudelka"
+  },
+  {
+    "name": "Peter N. Belhumeur"
+  },
+  {
+    "name": "Gang Zeng"
+  },
+  {
+    "name": "Sylvain Paris"
+  },
+  {
+    "name": "Long Quan"
+  },
+  {
+    "name": "Maxime Lhuillier"
+  },
+  {
+    "name": "Anurag Mittal"
+  },
+  {
+    "name": "Larry S. Davis"
+  },
+  {
+    "name": "Yihong Wu"
+  },
+  {
+    "name": "Haijiang Zhu"
+  },
+  {
+    "name": "Zhanyi Hu"
+  },
+  {
+    "name": "Fuchao Wu"
+  },
+  {
+    "name": "Thomas Leung"
+  },
+  {
+    "name": "Jason Meltzer"
+  },
+  {
+    "name": "Ming-Hsuan Yang"
+  },
+  {
+    "name": "Rakesh Gupta"
+  },
+  {
+    "name": "Stefano Soatto"
+  },
+  {
+    "name": "Timor Kadir"
+  },
+  {
+    "name": "Michael Brady"
+  },
+  {
+    "name": "Robert Fergus"
+  },
+  {
+    "name": "Paolo Favaro"
+  },
+  {
+    "name": "Martin Burger"
+  },
+  {
+    "name": "Joo-Hwee Lim"
+  },
+  {
+    "name": "Jesse S. Jin"
+  },
+  {
+    "name": "Konstantinos G. Derpanis"
+  },
+  {
+    "name": "Richard P. Wildes"
+  },
+  {
+    "name": "John K. Tsotsos"
+  },
+  {
+    "name": "Helmut Pottmann"
+  },
+  {
+    "name": "Michael Hofer"
+  },
+  {
+    "name": "Boris Odehnal"
+  },
+  {
+    "name": "Johannes Wallner"
+  },
+  {
+    "name": "Yasuyuki Sugaya"
+  },
+  {
+    "name": "Ken-ichi Kanatani"
+  },
+  {
+    "name": "M. Fatih Demirci"
+  },
+  {
+    "name": "Ali Shokoufandeh"
+  },
+  {
+    "name": "Sven J. Dickinson"
+  },
+  {
+    "name": "Yakov Keselman"
+  },
+  {
+    "name": "Lars Bretzner"
+  },
+  {
+    "name": "Xiang Sean Zhou"
+  },
+  {
+    "name": "Dorin Comaniciu"
+  },
+  {
+    "name": "Sriram Krishnan"
+  },
+  {
+    "name": "Peter Carbonetto"
+  },
+  {
+    "name": "Kobus Barnard"
+  },
+  {
+    "name": "Richard I. Hartley"
+  },
+  {
+    "name": "Frederik Schaffalitzky"
+  },
+  {
+    "name": "Pankaj Kumar"
+  },
+  {
+    "name": "Surendra Ranganath"
+  },
+  {
+    "name": "Kuntal Sengupta"
+  },
+  {
+    "name": "Weimin Huang"
+  },
+  {
+    "name": "Richard Bowden"
+  },
+  {
+    "name": "David Windridge"
+  },
+  {
+    "name": "Yen-Yu Lin"
+  },
+  {
+    "name": "Tyng-Luh Liu"
+  },
+  {
+    "name": "Chiou-Shann Fuh"
+  },
+  {
+    "name": "Bodo Rosenhahn"
+  },
+  {
+    "name": "Gerald Sommer"
+  },
+  {
+    "name": "Andrew Blake"
+  },
+  {
+    "name": "Carsten Rother"
+  },
+  {
+    "name": "Matthew A. Brown"
+  },
+  {
+    "name": "Patrick P\u00e9rez"
+  },
+  {
+    "name": "Philip H. S. Torr"
+  },
+  {
+    "name": "Xianghua Ying"
+  },
+  {
+    "name": "Jongwoo Lim"
+  },
+  {
+    "name": "Jeffrey Ho"
+  },
+  {
+    "name": "Kuang-Chih Lee"
+  },
+  {
+    "name": "David J. Kriegman"
+  },
+  {
+    "name": "Timo Ahonen"
+  },
+  {
+    "name": "Abdenour Hadid"
+  },
+  {
+    "name": "Matti Pietik\u00e4inen"
+  },
+  {
+    "name": "Jeffrey Ng"
+  },
+  {
+    "name": "Anil A. Bharath"
+  },
+  {
+    "name": "Guillaume Dewaele"
+  },
+  {
+    "name": "Frederic Devernay"
+  },
+  {
+    "name": "Radu Horaud"
+  },
+  {
+    "name": "Maneesh Kumar Singh"
+  },
+  {
+    "name": "Himanshu Arora"
+  },
+  {
+    "name": "Narendra Ahuja"
+  },
+  {
+    "name": "Thorsten Thorm\u00e4hlen"
+  },
+  {
+    "name": "Hellward Broszio"
+  },
+  {
+    "name": "Axel Weissenfeld"
+  },
+  {
+    "name": "Eduardo Bayro-Corrochano"
+  },
+  {
+    "name": "Carlos L\u00f3pez-Franco"
+  },
+  {
+    "name": "Kazunori Okada"
+  },
+  {
+    "name": "Navneet Dalal"
+  },
+  {
+    "name": "Arun Krishnan"
+  },
+  {
+    "name": "Marco Loog"
+  },
+  {
+    "name": "Bram van Ginneken"
+  },
+  {
+    "name": "Robert P. W. Duin"
+  },
+  {
+    "name": "Darya Frolova"
+  },
+  {
+    "name": "Denis Simakov"
+  },
+  {
+    "name": "Ronen Basri"
+  },
+  {
+    "name": "Shaohua Kevin Zhou"
+  },
+  {
+    "name": "Rama Chellappa"
+  },
+  {
+    "name": "David W. Jacobs"
+  },
+  {
+    "name": "Anat Levin"
+  },
+  {
+    "name": "Yair Weiss"
+  },
+  {
+    "name": "Wolfgang St\u00fcrzl"
+  },
+  {
+    "name": "Hansj\u00fcrgen Dahmen"
+  },
+  {
+    "name": "Hanspeter A. Mallot"
+  },
+  {
+    "name": "Peter F. Sturm"
+  },
+  {
+    "name": "Srikumar Ramalingam"
+  },
+  {
+    "name": "Jingyi Yu"
+  },
+  {
+    "name": "Leonard McMillan"
+  },
+  {
+    "name": "Adrien Bartoli"
+  },
+  {
+    "name": "Mathieu Coquerelle"
+  },
+  {
+    "name": "David Nist\u00e9r"
+  },
+  {
+    "name": "Tamar Avraham"
+  },
+  {
+    "name": "Michael Lindenbaum"
+  },
+  {
+    "name": "Andreas Opelt"
+  },
+  {
+    "name": "Michael Fussenegger"
+  },
+  {
+    "name": "Axel Pinz"
+  },
+  {
+    "name": "Peter Auer"
+  },
+  {
+    "name": "Josef Sivic"
+  },
+  {
+    "name": "Hailin Jin"
+  },
+  {
+    "name": "Anthony J. Yezzi"
+  },
+  {
+    "name": "Mun Wai Lee"
+  },
+  {
+    "name": "Isaac Cohen"
+  },
+  {
+    "name": "P. M. D. S. Pallawala"
+  },
+  {
+    "name": "Wynne Hsu"
+  },
+  {
+    "name": "Mong-Li Lee"
+  },
+  {
+    "name": "Kah-Guan Au Eong"
+  },
+  {
+    "name": "Evgeniy Bart"
+  },
+  {
+    "name": "Evgeny Byvatov"
+  },
+  {
+    "name": "Shimon Ullman"
+  },
+  {
+    "name": "Leah Bar"
+  },
+  {
+    "name": "Nir A. Sochen"
+  },
+  {
+    "name": "Nahum Kiryati"
+  },
+  {
+    "name": "Sinisa Todorovic"
+  },
+  {
+    "name": "Michael C. Nechyba"
+  },
+  {
+    "name": "Yu-Ting Chen"
+  },
+  {
+    "name": "Fay Huang"
+  },
+  {
+    "name": "Marco Cristani"
+  },
+  {
+    "name": "Manuele Bicego"
+  },
+  {
+    "name": "Vittorio Murino"
+  },
+  {
+    "name": "Harald Grossauer"
+  },
+  {
+    "name": "Alexander M. Bronstein"
+  },
+  {
+    "name": "Michael M. Bronstein"
+  },
+  {
+    "name": "Alon Spira"
+  },
+  {
+    "name": "Ron Kimmel"
+  },
+  {
+    "name": "Jue Wang"
+  },
+  {
+    "name": "Bo Thiesson"
+  },
+  {
+    "name": "Yingqing Xu"
+  },
+  {
+    "name": "Michael F. Cohen"
+  },
+  {
+    "name": "Jordi Freixenet"
+  },
+  {
+    "name": "Xavier Mu\u00f1oz"
+  },
+  {
+    "name": "Joan Mart\u00ed"
+  },
+  {
+    "name": "Xavier Llad\u00f3"
+  },
+  {
+    "name": "Matthew Brand"
+  },
+  {
+    "name": "Matthew E. Antone"
+  },
+  {
+    "name": "Seth J. Teller"
+  },
+  {
+    "name": "Yasuyuki Matsushita"
+  },
+  {
+    "name": "Stephen Lin"
+  },
+  {
+    "name": "Sing Bing Kang"
+  },
+  {
+    "name": "Heung-Yeung Shum"
+  },
+  {
+    "name": "Yasutaka Furukawa"
+  },
+  {
+    "name": "Amit Sethi"
+  },
+  {
+    "name": "Jean Ponce"
+  },
+  {
+    "name": "Lorenzo Torresani"
+  },
+  {
+    "name": "Aaron Hertzmann"
+  },
+  {
+    "name": "Arjan Kuijper"
+  },
+  {
+    "name": "Ole Fogh Olsen"
+  },
+  {
+    "name": "Peter J. Giblin"
+  },
+  {
+    "name": "Philip Bille"
+  },
+  {
+    "name": "Mads Nielsen"
+  },
+  {
+    "name": "Tomokazu Sato"
+  },
+  {
+    "name": "Sei Ikeda"
+  },
+  {
+    "name": "Naokazu Yokoya"
+  },
+  {
+    "name": "Sio-Song Ieng"
+  },
+  {
+    "name": "Jean-Philippe Tarel"
+  },
+  {
+    "name": "Pierre Charbonnier"
+  },
+  {
+    "name": "Wilbur C. K. Wong"
+  },
+  {
+    "name": "Albert C. S. Chung"
+  },
+  {
+    "name": "Simon C. H. Yu"
+  },
+  {
+    "name": "Bastian Goldl\u00fccke"
+  },
+  {
+    "name": "Marcus A. Magnor"
+  },
+  {
+    "name": "Annie Yao"
+  },
+  {
+    "name": "Andrew Calway"
+  },
+  {
+    "name": "Martin Weber"
+  },
+  {
+    "name": "Roberto Cipolla"
+  },
+  {
+    "name": "Lorna Herda"
+  },
+  {
+    "name": "Raquel Urtasun"
+  },
+  {
+    "name": "Pascal Fua"
+  },
+  {
+    "name": "Tai-Pang Wu"
+  },
+  {
+    "name": "Chi-Keung Tang"
+  },
+  {
+    "name": "Lihi Zelnik-Manor"
+  },
+  {
+    "name": "Michal Irani"
+  },
+  {
+    "name": "Hieu Tat Nguyen"
+  },
+  {
+    "name": "Arnold W. M. Smeulders"
+  },
+  {
+    "name": "Adrien Treuille"
+  },
+  {
+    "name": "Steven M. Seitz"
+  },
+  {
+    "name": "David A. Ross"
+  },
+  {
+    "name": "Sameer Agarwal"
+  },
+  {
+    "name": "Satya P. Mallick"
+  },
+  {
+    "name": "Serge J. Belongie"
+  },
+  {
+    "name": "Ajmal S. Mian"
+  },
+  {
+    "name": "Mohammed Bennamoun"
+  },
+  {
+    "name": "Robyn A. Owens"
+  },
+  {
+    "name": "Iasonas Kokkinos"
+  },
+  {
+    "name": "Rachid Deriche"
+  },
+  {
+    "name": "Petros Maragos"
+  },
+  {
+    "name": "Olivier D. Faugeras"
+  },
+  {
+    "name": "Johan Thureson"
+  },
+  {
+    "name": "Stefan Carlsson"
+  },
+  {
+    "name": "Anthony J. Pollitt"
+  },
+  {
+    "name": "Benjamin B. Kimia"
+  },
+  {
+    "name": "Lorenzo Sorgi"
+  },
+  {
+    "name": "Kostas Daniilidis"
+  },
+  {
+    "name": "Paulo R. S. Mendon\u00e7a"
+  },
+  {
+    "name": "Dirk Ryan Padfield"
+  },
+  {
+    "name": "James V. Miller"
+  },
+  {
+    "name": "Matt Turek"
+  },
+  {
+    "name": "Ali Shahrokni"
+  },
+  {
+    "name": "Tom Drummond"
+  },
+  {
+    "name": "Thomas Brox"
+  },
+  {
+    "name": "Joachim Weickert"
+  },
+  {
+    "name": "Gianfranco Doretto"
+  },
+  {
+    "name": "Eagle Jones"
+  },
+  {
+    "name": "Lu Yuan"
+  },
+  {
+    "name": "Fang Wen"
+  },
+  {
+    "name": "Ce Liu"
+  },
+  {
+    "name": "Hendrik K\u00fcck"
+  },
+  {
+    "name": "Andrea Torsello"
+  },
+  {
+    "name": "Edwin R. Hancock"
+  },
+  {
+    "name": "Jesse Hoey"
+  },
+  {
+    "name": "Amnon Shashua"
+  },
+  {
+    "name": "Lior Wolf"
+  },
+  {
+    "name": "Ankur Agarwal"
+  },
+  {
+    "name": "Bill Triggs"
+  },
+  {
+    "name": "Gabriel J. Brostow"
+  },
+  {
+    "name": "Irfan A. Essa"
+  },
+  {
+    "name": "Drew Steedly"
+  },
+  {
+    "name": "Vivek Kwatra"
+  },
+  {
+    "name": "St\u00e9phane Nicolau"
+  },
+  {
+    "name": "Xavier Pennec"
+  },
+  {
+    "name": "Luc Soler"
+  },
+  {
+    "name": "Nicholas Ayache"
+  },
+  {
+    "name": "Hanzi Wang"
+  },
+  {
+    "name": "David Suter"
+  },
+  {
+    "name": "Tal Nir"
+  },
+  {
+    "name": "Alfred M. Bruckstein"
+  },
+  {
+    "name": "Charles Kervrann"
+  },
+  {
+    "name": "Gwena\u00eblle Piriou"
+  },
+  {
+    "name": "Patrick Bouthemy"
+  },
+  {
+    "name": "Jian-Feng Yao"
+  },
+  {
+    "name": "Sylvain Fischer"
+  },
+  {
+    "name": "Pierre Bayerl"
+  },
+  {
+    "name": "Heiko Neumann"
+  },
+  {
+    "name": "Gabriel Crist\u00f3bal"
+  },
+  {
+    "name": "Rafael Redondo"
+  },
+  {
+    "name": "Josh Wills"
+  },
+  {
+    "name": "David Demirdjian"
+  },
+  {
+    "name": "Zhuowen Tu"
+  },
+  {
+    "name": "Alan L. Yuille"
+  },
+  {
+    "name": "Shin'ichi Satoh"
+  },
+  {
+    "name": "Andrea Frome"
+  },
+  {
+    "name": "Daniel Huber"
+  },
+  {
+    "name": "Ravi Kolluri"
+  },
+  {
+    "name": "Thomas B\u00fclow"
+  },
+  {
+    "name": "Jitendra Malik"
+  },
+  {
+    "name": "Ye Duan"
+  },
+  {
+    "name": "Liu Yang"
+  },
+  {
+    "name": "Hong Qin"
+  },
+  {
+    "name": "Dimitris Samaras"
+  },
+  {
+    "name": "Henrik Stew\u00e9nius"
+  },
+  {
+    "name": "Kalle \u00c5str\u00f6m"
+  },
+  {
+    "name": "Bernard Besserer"
+  },
+  {
+    "name": "Cedric Thir\u00e9"
+  },
+  {
+    "name": "Marc Ebner"
+  },
+  {
+    "name": "Hongchuan Yu"
+  },
+  {
+    "name": "Chin-Seng Chua"
+  },
+  {
+    "name": "Elise Arnaud"
+  },
+  {
+    "name": "\u00c9tienne M\u00e9min"
+  },
+  {
+    "name": "Eran Borenstein"
+  },
+  {
+    "name": "Michael Kaess"
+  },
+  {
+    "name": "Rafal Zboinski"
+  },
+  {
+    "name": "Frank Dellaert"
+  },
+  {
+    "name": "Jiaya Jia"
+  },
+  {
+    "name": "Jian Sun"
+  },
+  {
+    "name": "Ruofei Zhang"
+  },
+  {
+    "name": "Zhongfei (Mark) Zhang"
+  },
+  {
+    "name": "Antonis A. Argyros"
+  },
+  {
+    "name": "Manolis I. A. Lourakis"
+  },
+  {
+    "name": "Vladimir S. Petrovic"
+  },
+  {
+    "name": "Costas S. Xydeas"
+  },
+  {
+    "name": "Erik A. Engbers"
+  },
+  {
+    "name": "Hui Ji"
+  },
+  {
+    "name": "Cornelia Ferm\u00fcller"
+  },
+  {
+    "name": "Nuno Vasconcelos"
+  },
+  {
+    "name": "Purdy Ho"
+  },
+  {
+    "name": "Pedro J. Moreno"
+  },
+  {
+    "name": "Ying Shan"
+  },
+  {
+    "name": "Harpreet S. Sawhney"
+  },
+  {
+    "name": "Bogdan Matei"
+  },
+  {
+    "name": "Rakesh Kumar"
+  },
+  {
+    "name": "Payam Saisan"
+  },
+  {
+    "name": "Alessandro Bissacco"
+  },
+  {
+    "name": "Alessandro Chiuso"
+  },
+  {
+    "name": "Silvio Savarese"
+  },
+  {
+    "name": "Min Chen"
+  },
+  {
+    "name": "Nail A. Gumerov"
+  },
+  {
+    "name": "Ali Zandifar"
+  },
+  {
+    "name": "Ramani Duraiswami"
+  },
+  {
+    "name": "Huang Fei"
+  },
+  {
+    "name": "Ian D. Reid"
+  },
+  {
+    "name": "Marc Pollefeys"
+  },
+  {
+    "name": "Sudipta N. Sinha"
+  },
+  {
+    "name": "Qian Chen"
+  },
+  {
+    "name": "Haiyuan Wu"
+  },
+  {
+    "name": "Toshikazu Wada"
+  },
+  {
+    "name": "Wei Hong"
+  },
+  {
+    "name": "Yizhou Yu"
+  },
+  {
+    "name": "Vincent Noblet"
+  },
+  {
+    "name": "Christian Heinrich"
+  },
+  {
+    "name": "Fabrice Heitz"
+  },
+  {
+    "name": "Jean-Paul Armspach"
+  },
+  {
+    "name": "Yanghai Tsin"
+  },
+  {
+    "name": "Takeo Kanade"
+  },
+  {
+    "name": "Shantanu H. Joshi"
+  },
+  {
+    "name": "Anuj Srivastava"
+  },
+  {
+    "name": "Washington Mio"
+  },
+  {
+    "name": "Xiuwen Liu"
+  },
+  {
+    "name": "Graham D. Finlayson"
+  },
+  {
+    "name": "Mark S. Drew"
+  },
+  {
+    "name": "Cheng Lu"
+  },
+  {
+    "name": "Daniel B. Russakoff"
+  },
+  {
+    "name": "Carlo Tomasi"
+  },
+  {
+    "name": "Torsten Rohlfing"
+  },
+  {
+    "name": "Calvin R. Maurer Jr."
+  },
+  {
+    "name": "Julien Bect"
+  },
+  {
+    "name": "Laure Blanc-F\u00e9raud"
+  },
+  {
+    "name": "Gilles Aubert"
+  },
+  {
+    "name": "Antonin Chambolle"
+  },
+  {
+    "name": "Andr\u00e9s Bruhn"
+  },
+  {
+    "name": "Nils Papenberg"
+  },
+  {
+    "name": "Jean Michel Lagrange"
+  },
+  {
+    "name": "Isabelle Abraham"
+  },
+  {
+    "name": "Tammy Riklin-Raviv"
+  },
+  {
+    "name": "Daniel Cremers"
+  },
+  {
+    "name": "Christoph Schn\u00f6rr"
+  },
+  {
+    "name": "Siddharth Manay"
+  },
+  {
+    "name": "Byung-Woo Hong"
+  },
+  {
+    "name": "Huaijun Qiu"
+  },
+  {
+    "name": "Christophe Lenglet"
+  },
+  {
+    "name": "Emmanuel Prados"
+  },
+  {
+    "name": "Bernhard Burgeth"
+  },
+  {
+    "name": "Martin Welk"
+  },
+  {
+    "name": "Christian Feddern"
+  },
+  {
+    "name": "Sujit Kuthirummal"
+  },
+  {
+    "name": "C. V. Jawahar"
+  },
+  {
+    "name": "P. J. Narayanan"
+  },
+  {
+    "name": "Peter Johansen"
+  },
+  {
+    "name": "Bogdan Kwolek"
+  },
+  {
+    "name": "Timo Kohlberger"
+  },
+  {
+    "name": "Margarita Osadchy"
+  },
+  {
+    "name": "Patrick Baker"
+  },
+  {
+    "name": "Yiannis Aloimonos"
+  },
+  {
+    "name": "Jan Giebel"
+  },
+  {
+    "name": "Dariu Gavrila"
+  },
+  {
+    "name": "Eric Hayman"
+  },
+  {
+    "name": "Barbara Caputo"
+  },
+  {
+    "name": "Mario Fritz"
+  },
+  {
+    "name": "Jan-Olof Eklundh"
+  },
+  {
+    "name": "Diane Lingrand"
+  },
+  {
+    "name": "Arnaud Charnoz"
+  },
+  {
+    "name": "Pierre Malick Koulibaly"
+  },
+  {
+    "name": "Jacques Darcourt"
+  },
+  {
+    "name": "Johan Montagnat"
+  },
+  {
+    "name": "Zia Khan"
+  },
+  {
+    "name": "Tucker R. Balch"
+  },
+  {
+    "name": "Timothy J. Roberts"
+  },
+  {
+    "name": "Stephen J. McKenna"
+  },
+  {
+    "name": "Ian W. Ricketts"
+  },
+  {
+    "name": "Zhizhou Wang"
+  },
+  {
+    "name": "Baba C. Vemuri"
+  },
+  {
+    "name": "Timothy F. Cootes"
+  },
+  {
+    "name": "Stephen Marsland"
+  },
+  {
+    "name": "Carole J. Twining"
+  },
+  {
+    "name": "Kate Smith"
+  },
+  {
+    "name": "Christopher J. Taylor"
+  },
+  {
+    "name": "Bernard Sarel"
+  },
+  {
+    "name": "Josef Kittler"
+  },
+  {
+    "name": "Alireza Ahmadyfard"
+  },
+  {
+    "name": "Libor Spacek"
+  },
+  {
+    "name": "Peter Nillius"
+  },
+  {
+    "name": "Assaf Zomet"
+  },
+  {
+    "name": "Shmuel Peleg"
+  },
+  {
+    "name": "Jin Hyeong Park"
+  },
+  {
+    "name": "Hongyuan Zha"
+  },
+  {
+    "name": "Rangachar Kasturi"
+  },
+  {
+    "name": "Roberto Manduchi"
+  },
+  {
+    "name": "Dzena Hidovic"
+  },
+  {
+    "name": "Marcello Pelillo"
+  },
+  {
+    "name": "Shai Avidan"
+  },
+  {
+    "name": "Yael Moses"
+  },
+  {
+    "name": "Yoram Moses"
+  },
+  {
+    "name": "Gareth Loy"
+  },
+  {
+    "name": "Martin Eriksson"
+  },
+  {
+    "name": "Josephine Sullivan"
+  },
+  {
+    "name": "Aglika Gyaourova"
+  },
+  {
+    "name": "George Bebis"
+  },
+  {
+    "name": "Ioannis T. Pavlidis"
+  },
+  {
+    "name": "David Claus"
+  },
+  {
+    "name": "Andrew W. Fitzgibbon"
+  },
+  {
+    "name": "Chris Mario Christoudias"
+  },
+  {
+    "name": "Louis-Philippe Morency"
+  },
+  {
+    "name": "Trevor Darrell"
+  },
+  {
+    "name": "Daniel Fagerstr\u00f6m"
+  },
+  {
+    "name": "Ali Rahimi"
+  },
+  {
+    "name": "Brian Dunagan"
+  },
+  {
+    "name": "Ali Ghodsi"
+  },
+  {
+    "name": "Jiayuan Huang"
+  },
+  {
+    "name": "Dale Schuurmans"
+  },
+  {
+    "name": "John Oliensis"
+  },
+  {
+    "name": "Trausti T. Kristjansson"
+  },
+  {
+    "name": "Hagai Attias"
+  },
+  {
+    "name": "John R. Hershey"
+  },
+  {
+    "name": "Tibor Steiner"
+  },
+  {
+    "name": "Christoph Haider"
+  },
+  {
+    "name": "Allan Hanbury"
+  },
+  {
+    "name": "Jing Xiao"
+  },
+  {
+    "name": "Jinxiang Chai"
+  },
+  {
+    "name": "Philippos Mordohai"
+  },
+  {
+    "name": "G\u00e9rard G. Medioni"
+  },
+  {
+    "name": "Tian-Li Yu"
+  },
+  {
+    "name": "Ning Xu"
+  }
+]

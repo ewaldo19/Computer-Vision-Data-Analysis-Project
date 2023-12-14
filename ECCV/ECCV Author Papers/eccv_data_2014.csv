@@ -1,0 +1,1277 @@
+Paper Title,Author Names,Author URLs,Conference Name,Conference Year
+Visual Tracking by Sampling Tree-Structured Graphical Models.,Seunghoon Hong,https://dblp.org/pid/142/3014.html,ECCV,2014
+Visual Tracking by Sampling Tree-Structured Graphical Models.,Bohyung Han,https://dblp.org/pid/73/4880.html,ECCV,2014
+Tracking Interacting Objects Optimally Using Integer Programming.,Xinchao Wang,https://dblp.org/pid/23/8015.html,ECCV,2014
+Tracking Interacting Objects Optimally Using Integer Programming.,Engin Türetken,https://dblp.org/pid/61/8105.html,ECCV,2014
+Tracking Interacting Objects Optimally Using Integer Programming.,François Fleuret,https://dblp.org/pid/90/5265.html,ECCV,2014
+Tracking Interacting Objects Optimally Using Integer Programming.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ECCV,2014
+Learning Latent Constituents for Recognition of Group Activities in Video.,Borislav Antic,https://dblp.org/pid/83/1059.html,ECCV,2014
+Learning Latent Constituents for Recognition of Group Activities in Video.,Björn Ommer,https://dblp.org/pid/11/4098.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Jia Deng,https://dblp.org/pid/07/6526-1.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Nan Ding,https://dblp.org/pid/68/3975-2.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Yangqing Jia,https://dblp.org/pid/19/2618.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Andrea Frome,https://dblp.org/pid/84/2426.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Kevin Murphy,https://dblp.org/pid/26/2599.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Samy Bengio,https://dblp.org/pid/b/SamyBengio.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Yuan Li,https://dblp.org/pid/86/6196.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Hartmut Neven,https://dblp.org/pid/60/7025.html,ECCV,2014
+Large-Scale Object Classification Using Label Relation Graphs.,Hartwig Adam,https://dblp.org/pid/75/948.html,ECCV,2014
+30Hz Object Detection with DPM V5.,Mohammad Amin Sadeghi,https://dblp.org/pid/64/2962.html,ECCV,2014
+30Hz Object Detection with DPM V5.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ECCV,2014
+Knowing a Good HOG Filter When You See It: Efficient Selection of Filters for Detection.,Ejaz Ahmed,https://dblp.org/pid/72/3375-2.html,ECCV,2014
+Knowing a Good HOG Filter When You See It: Efficient Selection of Filters for Detection.,Gregory Shakhnarovich,https://dblp.org/pid/17/1926.html,ECCV,2014
+Knowing a Good HOG Filter When You See It: Efficient Selection of Filters for Detection.,Subhransu Maji,https://dblp.org/pid/92/6598.html,ECCV,2014
+"Linking People in Videos with ""Their"" Names Using Coreference Resolution.",Vignesh Ramanathan,https://dblp.org/pid/30/10073.html,ECCV,2014
+"Linking People in Videos with ""Their"" Names Using Coreference Resolution.",Armand Joulin,https://dblp.org/pid/68/8653.html,ECCV,2014
+"Linking People in Videos with ""Their"" Names Using Coreference Resolution.",Percy Liang,https://dblp.org/pid/04/1701.html,ECCV,2014
+"Linking People in Videos with ""Their"" Names Using Coreference Resolution.",Li Fei-Fei,https://dblp.org/pid/79/2528.html,ECCV,2014
+Optimal Essential Matrix Estimation via Inlier-Set Maximization.,Jiaolong Yang,https://dblp.org/pid/121/6218.html,ECCV,2014
+Optimal Essential Matrix Estimation via Inlier-Set Maximization.,Hongdong Li,https://dblp.org/pid/59/4859.html,ECCV,2014
+Optimal Essential Matrix Estimation via Inlier-Set Maximization.,Yunde Jia,https://dblp.org/pid/71/2334.html,ECCV,2014
+UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability.,Laurent Kneip,https://dblp.org/pid/24/7734.html,ECCV,2014
+UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability.,Hongdong Li,https://dblp.org/pid/59/4859.html,ECCV,2014
+UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability.,Yongduek Seo,https://dblp.org/pid/16/6479.html,ECCV,2014
+3D Reconstruction of Dynamic Textures in Crowd Sourced Data.,Dinghuang Ji,https://dblp.org/pid/08/10733.html,ECCV,2014
+3D Reconstruction of Dynamic Textures in Crowd Sourced Data.,Enrique Dunn,https://dblp.org/pid/27/5341.html,ECCV,2014
+3D Reconstruction of Dynamic Textures in Crowd Sourced Data.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,ECCV,2014
+3D Interest Point Detection via Discriminative Learning.,Leizer Teran,https://dblp.org/pid/139/0717.html,ECCV,2014
+3D Interest Point Detection via Discriminative Learning.,Philippos Mordohai,https://dblp.org/pid/10/618.html,ECCV,2014
+Pose Locality Constrained Representation for 3D Human Pose Reconstruction.,Xiaochuan Fan,https://dblp.org/pid/150/3962.html,ECCV,2014
+Pose Locality Constrained Representation for 3D Human Pose Reconstruction.,Kang Zheng,https://dblp.org/pid/150/4204.html,ECCV,2014
+Pose Locality Constrained Representation for 3D Human Pose Reconstruction.,Youjie Zhou,https://dblp.org/pid/79/8491.html,ECCV,2014
+Pose Locality Constrained Representation for 3D Human Pose Reconstruction.,Song Wang,https://dblp.org/pid/62/3151-2.html,ECCV,2014
+Synchronization of Two Independently Moving Cameras without Feature Correspondences.,Tiago Gaspar,https://dblp.org/pid/73/8362.html,ECCV,2014
+Synchronization of Two Independently Moving Cameras without Feature Correspondences.,Paulo Jorge Ramalho Oliveira,https://dblp.org/pid/93/5768.html,ECCV,2014
+Synchronization of Two Independently Moving Cameras without Feature Correspondences.,Paolo Favaro,https://dblp.org/pid/02/4162.html,ECCV,2014
+Multi Focus Structured Light for Recovering Scene Shape and Global Illumination.,Supreeth Achar,https://dblp.org/pid/94/6366.html,ECCV,2014
+Multi Focus Structured Light for Recovering Scene Shape and Global Illumination.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ECCV,2014
+Coplanar Common Points in Non-centric Cameras.,Wei Yang,https://dblp.org/pid/03/1094-34.html,ECCV,2014
+Coplanar Common Points in Non-centric Cameras.,Yu Ji,https://dblp.org/pid/02/291-1.html,ECCV,2014
+Coplanar Common Points in Non-centric Cameras.,Jinwei Ye,https://dblp.org/pid/117/4793.html,ECCV,2014
+Coplanar Common Points in Non-centric Cameras.,S. Susan Young,https://dblp.org/pid/136/5192.html,ECCV,2014
+Coplanar Common Points in Non-centric Cameras.,Jingyi Yu,https://dblp.org/pid/58/4808.html,ECCV,2014
+SRA: Fast Removal of General Multipath for ToF Sensors.,Daniel Freedman,https://dblp.org/pid/59/1865.html,ECCV,2014
+SRA: Fast Removal of General Multipath for ToF Sensors.,Yoni Smolin,https://dblp.org/pid/143/7335.html,ECCV,2014
+SRA: Fast Removal of General Multipath for ToF Sensors.,Eyal Krupka,https://dblp.org/pid/47/3314.html,ECCV,2014
+SRA: Fast Removal of General Multipath for ToF Sensors.,Ido Leichter,https://dblp.org/pid/57/3032.html,ECCV,2014
+SRA: Fast Removal of General Multipath for ToF Sensors.,Mirko Schmidt,https://dblp.org/pid/68/7416.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Boxin Shi,https://dblp.org/pid/69/783.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Hang Zhao,https://dblp.org/pid/31/2950.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Moshe Ben-Ezra,https://dblp.org/pid/48/6291.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Sai-Kit Yeung,https://dblp.org/pid/144/7479.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Christy Fernandez-Cull,https://dblp.org/pid/150/4053.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,R. Hamilton Shepard,https://dblp.org/pid/150/4088.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Christopher Barsi,https://dblp.org/pid/119/1267.html,ECCV,2014
+Sub-pixel Layout for Super-Resolution with Images in the Octic Group.,Ramesh Raskar,https://dblp.org/pid/r/RameshRaskar.html,ECCV,2014
+Simultaneous Feature and Dictionary Learning for Image Set Based Face Recognition.,Jiwen Lu,https://dblp.org/pid/09/6350.html,ECCV,2014
+Simultaneous Feature and Dictionary Learning for Image Set Based Face Recognition.,Gang Wang,https://dblp.org/pid/71/4292-12.html,ECCV,2014
+Simultaneous Feature and Dictionary Learning for Image Set Based Face Recognition.,Weihong Deng,https://dblp.org/pid/39/232.html,ECCV,2014
+Simultaneous Feature and Dictionary Learning for Image Set Based Face Recognition.,Pierre Moulin,https://dblp.org/pid/33/6665.html,ECCV,2014
+Read My Lips: Continuous Signer Independent Weakly Supervised Viseme Recognition.,Oscar Koller,https://dblp.org/pid/48/9232.html,ECCV,2014
+Read My Lips: Continuous Signer Independent Weakly Supervised Viseme Recognition.,Hermann Ney,https://dblp.org/pid/n/HermannNey.html,ECCV,2014
+Read My Lips: Continuous Signer Independent Weakly Supervised Viseme Recognition.,Richard Bowden,https://dblp.org/pid/b/RichardBowden.html,ECCV,2014
+Multilinear Wavelets: A Statistical Shape Space for Human Faces.,Alan Brunton,https://dblp.org/pid/25/6732.html,ECCV,2014
+Multilinear Wavelets: A Statistical Shape Space for Human Faces.,Timo Bolkart,https://dblp.org/pid/119/4795.html,ECCV,2014
+Multilinear Wavelets: A Statistical Shape Space for Human Faces.,Stefanie Wuhrer,https://dblp.org/pid/00/3950.html,ECCV,2014
+Distance Estimation of an Unknown Person from a Portrait.,Xavier P. Burgos-Artizzu,https://dblp.org/pid/13/37.html,ECCV,2014
+Distance Estimation of an Unknown Person from a Portrait.,Matteo Ruggero Ronchi,https://dblp.org/pid/150/3946.html,ECCV,2014
+Distance Estimation of an Unknown Person from a Portrait.,Pietro Perona,https://dblp.org/pid/p/PietroPerona.html,ECCV,2014
+Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model.,Meltem Demirkus,https://dblp.org/pid/98/3253.html,ECCV,2014
+Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model.,Doina Precup,https://dblp.org/pid/p/DoinaPrecup.html,ECCV,2014
+Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model.,James J. Clark,https://dblp.org/pid/60/4425.html,ECCV,2014
+Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model.,Tal Arbel,https://dblp.org/pid/20/1315.html,ECCV,2014
+Description-Discrimination Collaborative Tracking.,Dapeng Chen,https://dblp.org/pid/04/3068.html,ECCV,2014
+Description-Discrimination Collaborative Tracking.,Zejian Yuan,https://dblp.org/pid/26/455.html,ECCV,2014
+Description-Discrimination Collaborative Tracking.,Gang Hua,https://dblp.org/pid/75/5209.html,ECCV,2014
+Description-Discrimination Collaborative Tracking.,Yang Wu,https://dblp.org/pid/56/1428-1.html,ECCV,2014
+Description-Discrimination Collaborative Tracking.,Nanning Zheng,https://dblp.org/pid/07/256-1.html,ECCV,2014
+"Online, Real-Time Tracking Using a Category-to-Individual Detector.",David Hall,https://dblp.org/pid/83/1238-2.html,ECCV,2014
+"Online, Real-Time Tracking Using a Category-to-Individual Detector.",Pietro Perona,https://dblp.org/pid/p/PietroPerona.html,ECCV,2014
+Robust Visual Tracking with Double Bounding Box Model.,Junseok Kwon,https://dblp.org/pid/04/425.html,ECCV,2014
+Robust Visual Tracking with Double Bounding Box Model.,Junha Roh,https://dblp.org/pid/150/3983.html,ECCV,2014
+Robust Visual Tracking with Double Bounding Box Model.,Kyoung Mu Lee,https://dblp.org/pid/17/4029.html,ECCV,2014
+Robust Visual Tracking with Double Bounding Box Model.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Tractable and Reliable Registration of 2D Point Sets.,Erik Ask,https://dblp.org/pid/16/11261.html,ECCV,2014
+Tractable and Reliable Registration of 2D Point Sets.,Olof Enqvist,https://dblp.org/pid/37/6343.html,ECCV,2014
+Tractable and Reliable Registration of 2D Point Sets.,Linus Svärm,https://dblp.org/pid/83/8617.html,ECCV,2014
+Tractable and Reliable Registration of 2D Point Sets.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ECCV,2014
+Tractable and Reliable Registration of 2D Point Sets.,Giuseppe Lippolis,https://dblp.org/pid/150/4158.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Junchi Yan,https://dblp.org/pid/60/7949.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Yin Li,https://dblp.org/pid/49/5981-3.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Wei Liu,https://dblp.org/pid/49/3283-5.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Hongyuan Zha,https://dblp.org/pid/z/HongyuanZha.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Xiaokang Yang,https://dblp.org/pid/06/3071.html,ECCV,2014
+Graduated Consistency-Regularized Optimization for Multi-graph Matching.,Stephen Mingyu Chu,https://dblp.org/pid/48/752.html,ECCV,2014
+Optical Flow Estimation with Channel Constancy.,Laura Sevilla-Lara,https://dblp.org/pid/117/4853.html,ECCV,2014
+Optical Flow Estimation with Channel Constancy.,Deqing Sun,https://dblp.org/pid/69/4250.html,ECCV,2014
+Optical Flow Estimation with Channel Constancy.,Erik G. Learned-Miller,https://dblp.org/pid/l/ErikGLearnedMiller.html,ECCV,2014
+Optical Flow Estimation with Channel Constancy.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2014
+Non-local Total Generalized Variation for Optical Flow Estimation.,René Ranftl,https://dblp.org/pid/119/1600.html,ECCV,2014
+Non-local Total Generalized Variation for Optical Flow Estimation.,Kristian Bredies,https://dblp.org/pid/82/6121.html,ECCV,2014
+Non-local Total Generalized Variation for Optical Flow Estimation.,Thomas Pock,https://dblp.org/pid/48/6407.html,ECCV,2014
+Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow.,Oliver Demetz,https://dblp.org/pid/51/484.html,ECCV,2014
+Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow.,Michael Stoll,https://dblp.org/pid/44/414.html,ECCV,2014
+Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow.,Sebastian Volz,https://dblp.org/pid/04/3551.html,ECCV,2014
+Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow.,Joachim Weickert,https://dblp.org/pid/w/JoachimWeickert.html,ECCV,2014
+Learning Brightness Transfer Functions for the Joint Recovery of Illumination Changes and Optical Flow.,Andrés Bruhn,https://dblp.org/pid/36/1912.html,ECCV,2014
+Hipster Wars: Discovering Elements of Fashion Styles.,M. Hadi Kiapour,https://dblp.org/pid/117/4781.html,ECCV,2014
+Hipster Wars: Discovering Elements of Fashion Styles.,Kota Yamaguchi,https://dblp.org/pid/69/1598.html,ECCV,2014
+Hipster Wars: Discovering Elements of Fashion Styles.,Alexander C. Berg,https://dblp.org/pid/73/2348.html,ECCV,2014
+Hipster Wars: Discovering Elements of Fashion Styles.,Tamara L. Berg,https://dblp.org/pid/63/6787.html,ECCV,2014
+From Low-Cost Depth Sensors to CAD: Cross-Domain 3D Shape Retrieval via Regression Tree Fields.,Yan Wang,https://dblp.org/pid/59/2227-59.html,ECCV,2014
+From Low-Cost Depth Sensors to CAD: Cross-Domain 3D Shape Retrieval via Regression Tree Fields.,Jie Feng,https://dblp.org/pid/24/7003.html,ECCV,2014
+From Low-Cost Depth Sensors to CAD: Cross-Domain 3D Shape Retrieval via Regression Tree Fields.,Zhixiang Wu,https://dblp.org/pid/150/3965.html,ECCV,2014
+From Low-Cost Depth Sensors to CAD: Cross-Domain 3D Shape Retrieval via Regression Tree Fields.,Jun Wang,https://dblp.org/pid/w/JunWang6.html,ECCV,2014
+From Low-Cost Depth Sensors to CAD: Cross-Domain 3D Shape Retrieval via Regression Tree Fields.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,ECCV,2014
+Fast and Accurate Texture Recognition with Multilayer Convolution and Multifractal Analysis.,Hicham Badri,https://dblp.org/pid/116/7095.html,ECCV,2014
+Fast and Accurate Texture Recognition with Multilayer Convolution and Multifractal Analysis.,Hussein M. Yahia,https://dblp.org/pid/50/3016.html,ECCV,2014
+Fast and Accurate Texture Recognition with Multilayer Convolution and Multifractal Analysis.,Khalid Daoudi,https://dblp.org/pid/99/6959.html,ECCV,2014
+Learning to Rank 3D Features.,Oncel Tuzel,https://dblp.org/pid/73/2943.html,ECCV,2014
+Learning to Rank 3D Features.,Ming-Yu Liu,https://dblp.org/pid/17/8368-1.html,ECCV,2014
+Learning to Rank 3D Features.,Yuichi Taguchi,https://dblp.org/pid/99/5287.html,ECCV,2014
+Learning to Rank 3D Features.,Arvind Raghunathan,https://dblp.org/pid/01/6649.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Yang Yang,https://dblp.org/pid/48/450-62.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Jimei Yang,https://dblp.org/pid/73/3039.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Junjie Yan,https://dblp.org/pid/115/9656.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Shengcai Liao,https://dblp.org/pid/16/8313.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Dong Yi,https://dblp.org/pid/60/1827.html,ECCV,2014
+Salient Color Names for Person Re-identification.,Stan Z. Li,https://dblp.org/pid/l/StanZLi.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Zhen Zuo,https://dblp.org/pid/63/6940.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Gang Wang,https://dblp.org/pid/71/4292-12.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Bing Shuai,https://dblp.org/pid/118/3676.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Lifan Zhao,https://dblp.org/pid/133/7476.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Qingxiong Yang,https://dblp.org/pid/y/QingxiongYang.html,ECCV,2014
+Learning Discriminative and Shareable Features for Scene Classification.,Xudong Jiang,https://dblp.org/pid/11/2494.html,ECCV,2014
+Image Retrieval and Ranking via Consistently Reconstructing Multi-attribute Queries.,Xiaochun Cao,https://dblp.org/pid/39/3695.html,ECCV,2014
+Image Retrieval and Ranking via Consistently Reconstructing Multi-attribute Queries.,Hua Zhang,https://dblp.org/pid/69/2745-8.html,ECCV,2014
+Image Retrieval and Ranking via Consistently Reconstructing Multi-attribute Queries.,Xiaojie Guo,https://dblp.org/pid/43/8066-1.html,ECCV,2014
+Image Retrieval and Ranking via Consistently Reconstructing Multi-attribute Queries.,Si Liu,https://dblp.org/pid/60/7642.html,ECCV,2014
+Image Retrieval and Ranking via Consistently Reconstructing Multi-attribute Queries.,Xiaowu Chen,https://dblp.org/pid/52/2710.html,ECCV,2014
+Neural Codes for Image Retrieval.,Artem Babenko,https://dblp.org/pid/117/4834.html,ECCV,2014
+Neural Codes for Image Retrieval.,Anton Slesarev,https://dblp.org/pid/17/8319.html,ECCV,2014
+Neural Codes for Image Retrieval.,Alexander Chigorin,https://dblp.org/pid/136/8770.html,ECCV,2014
+Neural Codes for Image Retrieval.,Victor S. Lempitsky,https://dblp.org/pid/17/981.html,ECCV,2014
+Architectural Style Classification Using Multinomial Latent Logistic Regression.,Zhe Xu,https://dblp.org/pid/97/3701-3.html,ECCV,2014
+Architectural Style Classification Using Multinomial Latent Logistic Regression.,Dacheng Tao,https://dblp.org/pid/46/3391.html,ECCV,2014
+Architectural Style Classification Using Multinomial Latent Logistic Regression.,Ya Zhang,https://dblp.org/pid/85/3714-2.html,ECCV,2014
+Architectural Style Classification Using Multinomial Latent Logistic Regression.,Junjie Wu,https://dblp.org/pid/35/118.html,ECCV,2014
+Architectural Style Classification Using Multinomial Latent Logistic Regression.,Ah Chung Tsoi,https://dblp.org/pid/03/4407.html,ECCV,2014
+Instance Segmentation of Indoor Scenes Using a Coverage Loss.,Nathan Silberman,https://dblp.org/pid/75/10432.html,ECCV,2014
+Instance Segmentation of Indoor Scenes Using a Coverage Loss.,David A. Sontag,https://dblp.org/pid/12/673.html,ECCV,2014
+Instance Segmentation of Indoor Scenes Using a Coverage Loss.,Rob Fergus,https://dblp.org/pid/77/3763.html,ECCV,2014
+Superpixel Graph Label Transfer with Learned Distance Metric.,Stephen Gould,https://dblp.org/pid/89/1569.html,ECCV,2014
+Superpixel Graph Label Transfer with Learned Distance Metric.,Jiecheng Zhao,https://dblp.org/pid/150/4055.html,ECCV,2014
+Superpixel Graph Label Transfer with Learned Distance Metric.,Xuming He,https://dblp.org/pid/03/4230.html,ECCV,2014
+Superpixel Graph Label Transfer with Learned Distance Metric.,Yuhang Zhang,https://dblp.org/pid/90/2423-1.html,ECCV,2014
+Precision-Recall-Classification Evaluation Framework: Application to Depth Estimation on Single Images.,Guillem Palou,https://dblp.org/pid/05/9877.html,ECCV,2014
+Precision-Recall-Classification Evaluation Framework: Application to Depth Estimation on Single Images.,Philippe Salembier,https://dblp.org/pid/s/PhilippeSalembier.html,ECCV,2014
+A Multi-stage Approach to Curve Extraction.,Yuliang Guo,https://dblp.org/pid/117/8269.html,ECCV,2014
+A Multi-stage Approach to Curve Extraction.,Naman Kumar,https://dblp.org/pid/150/4183.html,ECCV,2014
+A Multi-stage Approach to Curve Extraction.,Maruthi Narayanan,https://dblp.org/pid/117/8252.html,ECCV,2014
+A Multi-stage Approach to Curve Extraction.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,ECCV,2014
+Geometry Driven Semantic Labeling of Indoor Scenes.,Salman Hameed Khan,https://dblp.org/pid/32/11535-1.html,ECCV,2014
+Geometry Driven Semantic Labeling of Indoor Scenes.,Mohammed Bennamoun,https://dblp.org/pid/00/3214.html,ECCV,2014
+Geometry Driven Semantic Labeling of Indoor Scenes.,Ferdous Ahmed Sohel,https://dblp.org/pid/87/1736.html,ECCV,2014
+Geometry Driven Semantic Labeling of Indoor Scenes.,Roberto Togneri,https://dblp.org/pid/86/3744.html,ECCV,2014
+A Novel Topic-Level Random Walk Framework for Scene Image Co-segmentation.,Ze-Huan Yuan,https://dblp.org/pid/116/4934.html,ECCV,2014
+A Novel Topic-Level Random Walk Framework for Scene Image Co-segmentation.,Tong Lu,https://dblp.org/pid/33/4058.html,ECCV,2014
+A Novel Topic-Level Random Walk Framework for Scene Image Co-segmentation.,Palaiahnakote Shivakumara,https://dblp.org/pid/83/1065.html,ECCV,2014
+Surface Matching and Registration by Landmark Curve-Driven Canonical Quasiconformal Mapping.,Wei Zeng,https://dblp.org/pid/80/1961-2.html,ECCV,2014
+Surface Matching and Registration by Landmark Curve-Driven Canonical Quasiconformal Mapping.,Yi-Jun Yang,https://dblp.org/pid/38/3241.html,ECCV,2014
+Motion Words for Videos.,Ekaterina H. Taralova,https://dblp.org/pid/56/10771.html,ECCV,2014
+Motion Words for Videos.,Fernando De la Torre,https://dblp.org/pid/d/FernandoDelaTorre.html,ECCV,2014
+Motion Words for Videos.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2014
+Activity Group Localization by Modeling the Relations among Participants.,Lei Sun,https://dblp.org/pid/02/2264.html,ECCV,2014
+Activity Group Localization by Modeling the Relations among Participants.,Haizhou Ai,https://dblp.org/pid/a/HaizhouAi.html,ECCV,2014
+Activity Group Localization by Modeling the Relations among Participants.,Shihong Lao,https://dblp.org/pid/88/5273.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Weiyue Wang,https://dblp.org/pid/150/4206-2.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Weiyao Lin,https://dblp.org/pid/42/6095.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Yuanzhe Chen,https://dblp.org/pid/59/11438.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Jianxin Wu,https://dblp.org/pid/w/JianxinWu.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Jingdong Wang,https://dblp.org/pid/49/3441.html,ECCV,2014
+Finding Coherent Motions and Semantic Regions in Crowd Scenes: A Diffusion and Clustering Approach.,Bin Sheng,https://dblp.org/pid/24/2408-1.html,ECCV,2014
+Semantic Aware Video Transcription Using Random Forest Classifiers.,Chen Sun,https://dblp.org/pid/01/6072-2.html,ECCV,2014
+Semantic Aware Video Transcription Using Random Forest Classifiers.,Ram Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,ECCV,2014
+Ranking Domain-Specific Highlights by Analyzing Edited Videos.,Min Sun,https://dblp.org/pid/62/2750-1.html,ECCV,2014
+Ranking Domain-Specific Highlights by Analyzing Edited Videos.,Ali Farhadi,https://dblp.org/pid/37/5826.html,ECCV,2014
+Ranking Domain-Specific Highlights by Analyzing Edited Videos.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2014
+A Multi-transformational Model for Background Subtraction with Moving Cameras.,Daniya Zamalieva,https://dblp.org/pid/41/7653.html,ECCV,2014
+A Multi-transformational Model for Background Subtraction with Moving Cameras.,Alper Yilmaz,https://dblp.org/pid/11/1315.html,ECCV,2014
+A Multi-transformational Model for Background Subtraction with Moving Cameras.,James W. Davis,https://dblp.org/pid/72/5679.html,ECCV,2014
+Visualizing and Understanding Convolutional Networks.,Matthew D. Zeiler,https://dblp.org/pid/09/8653.html,ECCV,2014
+Visualizing and Understanding Convolutional Networks.,Rob Fergus,https://dblp.org/pid/77/3763.html,ECCV,2014
+Part-Based R-CNNs for Fine-Grained Category Detection.,Ning Zhang,https://dblp.org/pid/181/2597-14.html,ECCV,2014
+Part-Based R-CNNs for Fine-Grained Category Detection.,Jeff Donahue,https://dblp.org/pid/43/10771.html,ECCV,2014
+Part-Based R-CNNs for Fine-Grained Category Detection.,Ross B. Girshick,https://dblp.org/pid/89/7658.html,ECCV,2014
+Part-Based R-CNNs for Fine-Grained Category Detection.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,ECCV,2014
+Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment.,Jie Zhang,https://dblp.org/pid/84/6889-71.html,ECCV,2014
+Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment.,Shiguang Shan,https://dblp.org/pid/s/ShiguangShan.html,ECCV,2014
+Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment.,Meina Kan,https://dblp.org/pid/21/9606.html,ECCV,2014
+Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment.,Xilin Chen,https://dblp.org/pid/c/XilinChen.html,ECCV,2014
+From Manifold to Manifold: Geometry-Aware Dimensionality Reduction for SPD Matrices.,Mehrtash Tafazzoli Harandi,https://dblp.org/pid/92/5921.html,ECCV,2014
+From Manifold to Manifold: Geometry-Aware Dimensionality Reduction for SPD Matrices.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+From Manifold to Manifold: Geometry-Aware Dimensionality Reduction for SPD Matrices.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ECCV,2014
+Pose Machines: Articulated Pose Estimation via Inference Machines.,Varun Ramakrishna,https://dblp.org/pid/119/1453.html,ECCV,2014
+Pose Machines: Articulated Pose Estimation via Inference Machines.,Daniel Munoz,https://dblp.org/pid/95/7658.html,ECCV,2014
+Pose Machines: Articulated Pose Estimation via Inference Machines.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2014
+Pose Machines: Articulated Pose Estimation via Inference Machines.,James Andrew Bagnell,https://dblp.org/pid/65/2021.html,ECCV,2014
+Pose Machines: Articulated Pose Estimation via Inference Machines.,Yaser Sheikh,https://dblp.org/pid/71/3516.html,ECCV,2014
+Piecewise-Planar StereoScan: Structure and Motion from Plane Primitives.,Carolina Raposo,https://dblp.org/pid/139/2855.html,ECCV,2014
+Piecewise-Planar StereoScan: Structure and Motion from Plane Primitives.,Michel Antunes,https://dblp.org/pid/64/10781.html,ECCV,2014
+Piecewise-Planar StereoScan: Structure and Motion from Plane Primitives.,João Pedro Barreto,https://dblp.org/pid/b/JoaoPBarreto1.html,ECCV,2014
+Nonrigid Surface Registration and Completion from RGBD Images.,WeiPeng Xu,https://dblp.org/pid/33/10875.html,ECCV,2014
+Nonrigid Surface Registration and Completion from RGBD Images.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+Nonrigid Surface Registration and Completion from RGBD Images.,Yongtian Wang,https://dblp.org/pid/00/852.html,ECCV,2014
+Nonrigid Surface Registration and Completion from RGBD Images.,Yue Liu,https://dblp.org/pid/74/1932-5.html,ECCV,2014
+"Unsupervised Dense Object Discovery, Detection, Tracking and Reconstruction.",Lu Ma,https://dblp.org/pid/30/14.html,ECCV,2014
+"Unsupervised Dense Object Discovery, Detection, Tracking and Reconstruction.",Gabe Sibley,https://dblp.org/pid/11/6079.html,ECCV,2014
+Know Your Limits: Accuracy of Long Range Stereoscopic Object Measurements in Practice.,Peter Pinggera,https://dblp.org/pid/128/7857.html,ECCV,2014
+Know Your Limits: Accuracy of Long Range Stereoscopic Object Measurements in Practice.,David Pfeiffer,https://dblp.org/pid/58/7271.html,ECCV,2014
+Know Your Limits: Accuracy of Long Range Stereoscopic Object Measurements in Practice.,Uwe Franke,https://dblp.org/pid/56/2085.html,ECCV,2014
+Know Your Limits: Accuracy of Long Range Stereoscopic Object Measurements in Practice.,Rudolf Mester,https://dblp.org/pid/04/2727.html,ECCV,2014
+As-Rigid-As-Possible Stereo under Second Order Smoothness Priors.,Chi Zhang,https://dblp.org/pid/91/195.html,ECCV,2014
+As-Rigid-As-Possible Stereo under Second Order Smoothness Priors.,Zhiwei Li,https://dblp.org/pid/47/3951.html,ECCV,2014
+As-Rigid-As-Possible Stereo under Second Order Smoothness Priors.,Rui Cai,https://dblp.org/pid/83/462.html,ECCV,2014
+As-Rigid-As-Possible Stereo under Second Order Smoothness Priors.,Hongyang Chao,https://dblp.org/pid/58/4277.html,ECCV,2014
+As-Rigid-As-Possible Stereo under Second Order Smoothness Priors.,Yong Rui,https://dblp.org/pid/r/YongRui.html,ECCV,2014
+Real-Time Minimization of the Piecewise Smooth Mumford-Shah Functional.,Evgeny Strekalovskiy,https://dblp.org/pid/10/9989.html,ECCV,2014
+Real-Time Minimization of the Piecewise Smooth Mumford-Shah Functional.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ECCV,2014
+A MAP-Estimation Framework for Blind Deblurring Using High-Level Edge Priors.,Yipin Zhou,https://dblp.org/pid/150/4221.html,ECCV,2014
+A MAP-Estimation Framework for Blind Deblurring Using High-Level Edge Priors.,Nikos Komodakis,https://dblp.org/pid/05/3782.html,ECCV,2014
+Efficient Color Constancy with Local Surface Reflectance Statistics.,Shaobing Gao,https://dblp.org/pid/135/4942.html,ECCV,2014
+Efficient Color Constancy with Local Surface Reflectance Statistics.,Wangwang Han,https://dblp.org/pid/150/4242.html,ECCV,2014
+Efficient Color Constancy with Local Surface Reflectance Statistics.,Kaifu Yang,https://dblp.org/pid/19/9488.html,ECCV,2014
+Efficient Color Constancy with Local Surface Reflectance Statistics.,Chaoyi Li,https://dblp.org/pid/32/6420.html,ECCV,2014
+Efficient Color Constancy with Local Surface Reflectance Statistics.,Yongjie Li,https://dblp.org/pid/37/1386.html,ECCV,2014
+A Contrast Enhancement Framework with JPEG Artifacts Suppression.,Yu Li,https://dblp.org/pid/34/2997-3.html,ECCV,2014
+A Contrast Enhancement Framework with JPEG Artifacts Suppression.,Fangfang Guo,https://dblp.org/pid/38/7816.html,ECCV,2014
+A Contrast Enhancement Framework with JPEG Artifacts Suppression.,Robby T. Tan,https://dblp.org/pid/t/RobbyTTan.html,ECCV,2014
+A Contrast Enhancement Framework with JPEG Artifacts Suppression.,Michael S. Brown,https://dblp.org/pid/02/4733.html,ECCV,2014
+Radial Bright Channel Prior for Single Image Vignetting Correction.,Hojin Cho,https://dblp.org/pid/05/3038.html,ECCV,2014
+Radial Bright Channel Prior for Single Image Vignetting Correction.,Hyunjoon Lee,https://dblp.org/pid/117/4836.html,ECCV,2014
+Radial Bright Channel Prior for Single Image Vignetting Correction.,Seungyong Lee,https://dblp.org/pid/60/2559-1.html,ECCV,2014
+Tubular Structure Filtering by Ranking Orientation Responses of Path Operators.,Odyssée Merveille,https://dblp.org/pid/150/4226.html,ECCV,2014
+Tubular Structure Filtering by Ranking Orientation Responses of Path Operators.,Hugues Talbot,https://dblp.org/pid/00/1609.html,ECCV,2014
+Tubular Structure Filtering by Ranking Orientation Responses of Path Operators.,Laurent Najman,https://dblp.org/pid/68/4192.html,ECCV,2014
+Tubular Structure Filtering by Ranking Orientation Responses of Path Operators.,Nicolas Passat,https://dblp.org/pid/83/4955.html,ECCV,2014
+Optimization-Based Artifact Correction for Electron Microscopy Image Stacks.,Samaneh Azadi,https://dblp.org/pid/145/9932.html,ECCV,2014
+Optimization-Based Artifact Correction for Electron Microscopy Image Stacks.,Jeremy Maitin-Shepard,https://dblp.org/pid/12/8371.html,ECCV,2014
+Optimization-Based Artifact Correction for Electron Microscopy Image Stacks.,Pieter Abbeel,https://dblp.org/pid/a/PieterAbbeel.html,ECCV,2014
+Metric-Based Pairwise and Multiple Image Registration.,Qian Xie,https://dblp.org/pid/36/789.html,ECCV,2014
+Metric-Based Pairwise and Multiple Image Registration.,Sebastian Kurtek,https://dblp.org/pid/19/5997.html,ECCV,2014
+Metric-Based Pairwise and Multiple Image Registration.,Eric Klassen,https://dblp.org/pid/42/5237.html,ECCV,2014
+Metric-Based Pairwise and Multiple Image Registration.,Gary E. Christensen,https://dblp.org/pid/81/416.html,ECCV,2014
+Metric-Based Pairwise and Multiple Image Registration.,Anuj Srivastava,https://dblp.org/pid/32/6819.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Hyunwoo J. Kim,https://dblp.org/pid/150/4259.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Nagesh Adluru,https://dblp.org/pid/59/6805.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Barbara B. Bendlin,https://dblp.org/pid/98/11403.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Sterling C. Johnson,https://dblp.org/pid/49/8273.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Baba C. Vemuri,https://dblp.org/pid/93/1847.html,ECCV,2014
+Canonical Correlation Analysis on Riemannian Manifolds and Its Applications.,Vikas Singh,https://dblp.org/pid/26/1810.html,ECCV,2014
+Scalable 6-DOF Localization on Mobile Devices.,Sven Middelberg,https://dblp.org/pid/150/4223.html,ECCV,2014
+Scalable 6-DOF Localization on Mobile Devices.,Torsten Sattler,https://dblp.org/pid/51/9054.html,ECCV,2014
+Scalable 6-DOF Localization on Mobile Devices.,Ole Untzelmann,https://dblp.org/pid/150/4240.html,ECCV,2014
+Scalable 6-DOF Localization on Mobile Devices.,Leif Kobbelt,https://dblp.org/pid/k/LeifKobbelt.html,ECCV,2014
+On Mean Pose and Variability of 3D Deformable Models.,Benjamin Allain,https://dblp.org/pid/150/4260.html,ECCV,2014
+On Mean Pose and Variability of 3D Deformable Models.,Jean-Sébastien Franco,https://dblp.org/pid/67/49.html,ECCV,2014
+On Mean Pose and Variability of 3D Deformable Models.,Edmond Boyer,https://dblp.org/pid/b/EdmondBoyer.html,ECCV,2014
+On Mean Pose and Variability of 3D Deformable Models.,Tony Tung,https://dblp.org/pid/54/1097.html,ECCV,2014
+Hybrid Stochastic / Deterministic Optimization for Tracking Sports Players and Pedestrians.,Robert T. Collins,https://dblp.org/pid/76/2806.html,ECCV,2014
+Hybrid Stochastic / Deterministic Optimization for Tracking Sports Players and Pedestrians.,Peter Carr,https://dblp.org/pid/81/2369-1.html,ECCV,2014
+What Do I See? Modeling Human Visual Perception for Multi-person Tracking.,Xu Yan,https://dblp.org/pid/03/4702.html,ECCV,2014
+What Do I See? Modeling Human Visual Perception for Multi-person Tracking.,Ioannis A. Kakadiaris,https://dblp.org/pid/29/1088.html,ECCV,2014
+What Do I See? Modeling Human Visual Perception for Multi-person Tracking.,Shishir K. Shah,https://dblp.org/pid/85/8613.html,ECCV,2014
+Consistent Re-identification in a Camera Network.,Abir Das,https://dblp.org/pid/141/1311.html,ECCV,2014
+Consistent Re-identification in a Camera Network.,Anirban Chakraborty,https://dblp.org/pid/73/2286-1.html,ECCV,2014
+Consistent Re-identification in a Camera Network.,Amit K. Roy-Chowdhury,https://dblp.org/pid/c/AmitKRoyChowdhury.html,ECCV,2014
+Surface Normal Deconvolution: Photometric Stereo for Optically Thick Translucent Objects.,Chika Inoshita,https://dblp.org/pid/119/1417.html,ECCV,2014
+Surface Normal Deconvolution: Photometric Stereo for Optically Thick Translucent Objects.,Yasuhiro Mukaigawa,https://dblp.org/pid/19/5956.html,ECCV,2014
+Surface Normal Deconvolution: Photometric Stereo for Optically Thick Translucent Objects.,Yasuyuki Matsushita,https://dblp.org/pid/11/3619.html,ECCV,2014
+Surface Normal Deconvolution: Photometric Stereo for Optically Thick Translucent Objects.,Yasushi Yagi,https://dblp.org/pid/67/6296.html,ECCV,2014
+Intrinsic Video.,Naejin Kong,https://dblp.org/pid/88/8652.html,ECCV,2014
+Intrinsic Video.,Peter V. Gehler,https://dblp.org/pid/78/1502.html,ECCV,2014
+Intrinsic Video.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2014
+Robust and Accurate Non-parametric Estimation of Reflectance Using Basis Decomposition and Correction Functions.,Tobias Nöll,https://dblp.org/pid/24/7476.html,ECCV,2014
+Robust and Accurate Non-parametric Estimation of Reflectance Using Basis Decomposition and Correction Functions.,Johannes Köhler,https://dblp.org/pid/87/7475.html,ECCV,2014
+Robust and Accurate Non-parametric Estimation of Reflectance Using Basis Decomposition and Correction Functions.,Didier Stricker,https://dblp.org/pid/02/5478.html,ECCV,2014
+Intrinsic Textures for Relightable Free-Viewpoint Video.,James Imber,https://dblp.org/pid/131/0627.html,ECCV,2014
+Intrinsic Textures for Relightable Free-Viewpoint Video.,Jean-Yves Guillemaut,https://dblp.org/pid/98/339.html,ECCV,2014
+Intrinsic Textures for Relightable Free-Viewpoint Video.,Adrian Hilton,https://dblp.org/pid/63/34.html,ECCV,2014
+Reasoning about Object Affordances in a Knowledge Base Representation.,Yuke Zhu,https://dblp.org/pid/133/1772.html,ECCV,2014
+Reasoning about Object Affordances in a Knowledge Base Representation.,Alireza Fathi,https://dblp.org/pid/70/3898.html,ECCV,2014
+Reasoning about Object Affordances in a Knowledge Base Representation.,Li Fei-Fei,https://dblp.org/pid/79/2528.html,ECCV,2014
+Binary Codes Embedding for Fast Image Tagging with Incomplete Labels.,Qifan Wang,https://dblp.org/pid/33/8610.html,ECCV,2014
+Binary Codes Embedding for Fast Image Tagging with Incomplete Labels.,Bin Shen,https://dblp.org/pid/23/1840-2.html,ECCV,2014
+Binary Codes Embedding for Fast Image Tagging with Incomplete Labels.,Shumiao Wang,https://dblp.org/pid/118/1100.html,ECCV,2014
+Binary Codes Embedding for Fast Image Tagging with Incomplete Labels.,Liang Li,https://dblp.org/pid/14/1395.html,ECCV,2014
+Binary Codes Embedding for Fast Image Tagging with Incomplete Labels.,Luo Si,https://dblp.org/pid/14/1217.html,ECCV,2014
+Recognizing Products: A Per-exemplar Multi-label Image Classification Approach.,Marian George,https://dblp.org/pid/45/10827.html,ECCV,2014
+Recognizing Products: A Per-exemplar Multi-label Image Classification Approach.,Christian Floerkemeier,https://dblp.org/pid/13/1245.html,ECCV,2014
+Part-Pair Representation for Part Localization.,Jiongxin Liu,https://dblp.org/pid/56/6877.html,ECCV,2014
+Part-Pair Representation for Part Localization.,Yinxiao Li,https://dblp.org/pid/77/10007.html,ECCV,2014
+Part-Pair Representation for Part Localization.,Peter N. Belhumeur,https://dblp.org/pid/12/5558.html,ECCV,2014
+"Weakly Supervised Learning of Objects, Attributes and Their Associations.",Zhiyuan Shi,https://dblp.org/pid/19/222-1.html,ECCV,2014
+"Weakly Supervised Learning of Objects, Attributes and Their Associations.",Yongxin Yang,https://dblp.org/pid/150/4258.html,ECCV,2014
+"Weakly Supervised Learning of Objects, Attributes and Their Associations.",Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,ECCV,2014
+"Weakly Supervised Learning of Objects, Attributes and Their Associations.",Tao Xiang,https://dblp.org/pid/22/4460.html,ECCV,2014
+Interestingness Prediction by Robust Learning to Rank.,Yanwei Fu,https://dblp.org/pid/63/9065.html,ECCV,2014
+Interestingness Prediction by Robust Learning to Rank.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,ECCV,2014
+Interestingness Prediction by Robust Learning to Rank.,Tao Xiang,https://dblp.org/pid/22/4460.html,ECCV,2014
+Interestingness Prediction by Robust Learning to Rank.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ECCV,2014
+Interestingness Prediction by Robust Learning to Rank.,Yuan Yao,https://dblp.org/pid/25/4120-11.html,ECCV,2014
+Pairwise Probabilistic Voting: Fast Place Recognition without RANSAC.,Edward David Johns,https://dblp.org/pid/68/9968.html,ECCV,2014
+Pairwise Probabilistic Voting: Fast Place Recognition without RANSAC.,Guang-Zhong Yang,https://dblp.org/pid/14/3693.html,ECCV,2014
+Robust Instance Recognition in Presence of Occlusion and Clutter.,Ujwal Bonde,https://dblp.org/pid/130/1831.html,ECCV,2014
+Robust Instance Recognition in Presence of Occlusion and Clutter.,Vijay Badrinarayanan,https://dblp.org/pid/46/1149.html,ECCV,2014
+Robust Instance Recognition in Presence of Occlusion and Clutter.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Eric Brachmann,https://dblp.org/pid/117/9689.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Alexander Krull,https://dblp.org/pid/150/4220.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Frank Michel,https://dblp.org/pid/56/4287-2.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Stefan Gumhold,https://dblp.org/pid/g/StefanGumhold.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Jamie Shotton,https://dblp.org/pid/47/572.html,ECCV,2014
+Learning 6D Object Pose Estimation Using 3D Object Coordinates.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ECCV,2014
+Growing Regression Forests by Classification: Applications to Object Pose Estimation.,Kota Hara,https://dblp.org/pid/46/9606.html,ECCV,2014
+Growing Regression Forests by Classification: Applications to Object Pose Estimation.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,ECCV,2014
+Stacked Deformable Part Model with Shape Regression for Object Part Localization.,Junjie Yan,https://dblp.org/pid/115/9656.html,ECCV,2014
+Stacked Deformable Part Model with Shape Regression for Object Part Localization.,Zhen Lei,https://dblp.org/pid/55/112-1.html,ECCV,2014
+Stacked Deformable Part Model with Shape Regression for Object Part Localization.,Yang Yang,https://dblp.org/pid/48/450-62.html,ECCV,2014
+Stacked Deformable Part Model with Shape Regression for Object Part Localization.,Stan Z. Li,https://dblp.org/pid/l/StanZLi.html,ECCV,2014
+Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation.,Yanwei Fu,https://dblp.org/pid/63/9065.html,ECCV,2014
+Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,ECCV,2014
+Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation.,Tao Xiang,https://dblp.org/pid/22/4460.html,ECCV,2014
+Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation.,Zhen-Yong Fu,https://dblp.org/pid/36/8779.html,ECCV,2014
+Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ECCV,2014
+Self-explanatory Sparse Representation for Image Classification.,Bao-Di Liu,https://dblp.org/pid/295/5553.html,ECCV,2014
+Self-explanatory Sparse Representation for Image Classification.,Yu-Xiong Wang,https://dblp.org/pid/35/10700.html,ECCV,2014
+Self-explanatory Sparse Representation for Image Classification.,Bin Shen,https://dblp.org/pid/23/1840-2.html,ECCV,2014
+Self-explanatory Sparse Representation for Image Classification.,Yu-Jin Zhang,https://dblp.org/pid/99/607.html,ECCV,2014
+Self-explanatory Sparse Representation for Image Classification.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2014
+Efficient k-Support Matrix Pursuit.,Hanjiang Lai,https://dblp.org/pid/31/9937.html,ECCV,2014
+Efficient k-Support Matrix Pursuit.,Yan Pan,https://dblp.org/pid/88/3327.html,ECCV,2014
+Efficient k-Support Matrix Pursuit.,Canyi Lu,https://dblp.org/pid/19/10878.html,ECCV,2014
+Efficient k-Support Matrix Pursuit.,Yong Tang,https://dblp.org/pid/01/2880-1.html,ECCV,2014
+Efficient k-Support Matrix Pursuit.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Yi Hong,https://dblp.org/pid/65/5746-6.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Roland Kwitt,https://dblp.org/pid/60/4140.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Nikhil Singh,https://dblp.org/pid/12/5407-2.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Brad Davis,https://dblp.org/pid/69/2127.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Nuno Vasconcelos,https://dblp.org/pid/78/4806.html,ECCV,2014
+Geodesic Regression on the Grassmannian.,Marc Niethammer,https://dblp.org/pid/88/3304.html,ECCV,2014
+Model Selection by Linear Programming.,Joseph Wang,https://dblp.org/pid/43/2752-1.html,ECCV,2014
+Model Selection by Linear Programming.,Tolga Bolukbasi,https://dblp.org/pid/150/4230.html,ECCV,2014
+Model Selection by Linear Programming.,Kirill Trapeznikov,https://dblp.org/pid/67/10550.html,ECCV,2014
+Model Selection by Linear Programming.,Venkatesh Saligrama,https://dblp.org/pid/67/4721.html,ECCV,2014
+Perceptually Inspired Layout-Aware Losses for Image Segmentation.,Anton Osokin,https://dblp.org/pid/08/8344.html,ECCV,2014
+Perceptually Inspired Layout-Aware Losses for Image Segmentation.,Pushmeet Kohli,https://dblp.org/pid/94/248.html,ECCV,2014
+Large Margin Local Metric Learning.,Julien Bohné,https://dblp.org/pid/150/4234.html,ECCV,2014
+Large Margin Local Metric Learning.,Yiming Ying,https://dblp.org/pid/41/2012.html,ECCV,2014
+Large Margin Local Metric Learning.,Stéphane Gentric,https://dblp.org/pid/34/1006.html,ECCV,2014
+Large Margin Local Metric Learning.,Massimiliano Pontil,https://dblp.org/pid/67/557.html,ECCV,2014
+Movement Pattern Histogram for Action Recognition and Retrieval.,Arridhana Ciptadi,https://dblp.org/pid/47/849.html,ECCV,2014
+Movement Pattern Histogram for Action Recognition and Retrieval.,Matthew S. Goodwin,https://dblp.org/pid/08/7406.html,ECCV,2014
+Movement Pattern Histogram for Action Recognition and Retrieval.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,ECCV,2014
+Pose Filter Based Hidden-CRF Models for Activity Detection.,Prithviraj Banerjee,https://dblp.org/pid/b/PrithvirajBanerjee.html,ECCV,2014
+Pose Filter Based Hidden-CRF Models for Activity Detection.,Ramakant Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,ECCV,2014
+Action Recognition Using Super Sparse Coding Vector with Spatio-temporal Awareness.,Xiaodong Yang,https://dblp.org/pid/19/1551-1.html,ECCV,2014
+Action Recognition Using Super Sparse Coding Vector with Spatio-temporal Awareness.,Yingli Tian,https://dblp.org/pid/54/8250.html,ECCV,2014
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition.,Hossein Rahmani,https://dblp.org/pid/40/7475.html,ECCV,2014
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition.,Arif Mahmood,https://dblp.org/pid/18/4138.html,ECCV,2014
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition.,Du Q. Huynh,https://dblp.org/pid/35/2599.html,ECCV,2014
+HOPC: Histogram of Oriented Principal Components of 3D Pointclouds for Action Recognition.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,ECCV,2014
+Natural Action Recognition Using Invariant 3D Motion Encoding.,Simon Hadfield,https://dblp.org/pid/33/10771.html,ECCV,2014
+Natural Action Recognition Using Invariant 3D Motion Encoding.,Karel Lebeda,https://dblp.org/pid/128/7873.html,ECCV,2014
+Natural Action Recognition Using Invariant 3D Motion Encoding.,Richard Bowden,https://dblp.org/pid/b/RichardBowden.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Eyrun Eyjolfsdottir,https://dblp.org/pid/31/10073.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Steve Branson,https://dblp.org/pid/56/8610.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Xavier P. Burgos-Artizzu,https://dblp.org/pid/13/37.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Eric D. Hoopfer,https://dblp.org/pid/150/4247.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Jonathan Schor,https://dblp.org/pid/150/4265.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,David J. Anderson,https://dblp.org/pid/02/4562.html,ECCV,2014
+Detecting Social Actions of Fruit Flies.,Pietro Perona,https://dblp.org/pid/p/PietroPerona.html,ECCV,2014
+Progressive Mode-Seeking on Graphs for Sparse Feature Matching.,Chao Wang,https://dblp.org/pid/188/7759-63.html,ECCV,2014
+Progressive Mode-Seeking on Graphs for Sparse Feature Matching.,Lei Wang,https://dblp.org/pid/w/LeiWang1.html,ECCV,2014
+Progressive Mode-Seeking on Graphs for Sparse Feature Matching.,Lingqiao Liu,https://dblp.org/pid/45/7776.html,ECCV,2014
+Globally Optimal Inlier Set Maximization with Unknown Rotation and Focal Length.,Jean-Charles Bazin,https://dblp.org/pid/83/6046.html,ECCV,2014
+Globally Optimal Inlier Set Maximization with Unknown Rotation and Focal Length.,Yongduek Seo,https://dblp.org/pid/16/6479.html,ECCV,2014
+Globally Optimal Inlier Set Maximization with Unknown Rotation and Focal Length.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ECCV,2014
+Globally Optimal Inlier Set Maximization with Unknown Rotation and Focal Length.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2014
+Match Selection and Refinement for Highly Accurate Two-View Structure from Motion.,Zhe Liu,https://dblp.org/pid/70/1220-10.html,ECCV,2014
+Match Selection and Refinement for Highly Accurate Two-View Structure from Motion.,Pascal Monasse,https://dblp.org/pid/55/2310.html,ECCV,2014
+Match Selection and Refinement for Highly Accurate Two-View Structure from Motion.,Renaud Marlet,https://dblp.org/pid/61/5462.html,ECCV,2014
+LSD-SLAM: Large-Scale Direct Monocular SLAM.,Jakob Engel,https://dblp.org/pid/30/11461.html,ECCV,2014
+LSD-SLAM: Large-Scale Direct Monocular SLAM.,Thomas Schöps,https://dblp.org/pid/147/6807.html,ECCV,2014
+LSD-SLAM: Large-Scale Direct Monocular SLAM.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ECCV,2014
+The 3D Jigsaw Puzzle: Mapping Large Indoor Spaces.,Ricardo Martin-Brualla,https://dblp.org/pid/16/7968.html,ECCV,2014
+The 3D Jigsaw Puzzle: Mapping Large Indoor Spaces.,Yanling He,https://dblp.org/pid/129/9221.html,ECCV,2014
+The 3D Jigsaw Puzzle: Mapping Large Indoor Spaces.,Bryan C. Russell,https://dblp.org/pid/29/2277.html,ECCV,2014
+The 3D Jigsaw Puzzle: Mapping Large Indoor Spaces.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2014
+Pipe-Run Extraction and Reconstruction from Point Clouds.,Rongqi Qiu,https://dblp.org/pid/150/4214.html,ECCV,2014
+Pipe-Run Extraction and Reconstruction from Point Clouds.,Qian-Yi Zhou,https://dblp.org/pid/74/6382.html,ECCV,2014
+Pipe-Run Extraction and Reconstruction from Point Clouds.,Ulrich Neumann,https://dblp.org/pid/52/4897.html,ECCV,2014
+Image-Based 4-d Reconstruction Using 3-d Change Detection.,Ali Osman Ulusoy,https://dblp.org/pid/118/6671.html,ECCV,2014
+Image-Based 4-d Reconstruction Using 3-d Change Detection.,Joseph L. Mundy,https://dblp.org/pid/32/5297.html,ECCV,2014
+VocMatch: Efficient Multiview Correspondence for Structure from Motion.,Michal Havlena,https://dblp.org/pid/34/3655.html,ECCV,2014
+VocMatch: Efficient Multiview Correspondence for Structure from Motion.,Konrad Schindler,https://dblp.org/pid/73/488.html,ECCV,2014
+Robust Global Translations with 1DSfM.,Kyle Wilson,https://dblp.org/pid/139/2923.html,ECCV,2014
+Robust Global Translations with 1DSfM.,Noah Snavely,https://dblp.org/pid/33/4636.html,ECCV,2014
+Comparing Salient Object Detection Results without Ground Truth.,Long Mai,https://dblp.org/pid/12/10762.html,ECCV,2014
+Comparing Salient Object Detection Results without Ground Truth.,Feng Liu,https://dblp.org/pid/77/1318-15.html,ECCV,2014
+RGBD Salient Object Detection: A Benchmark and Algorithms.,Houwen Peng,https://dblp.org/pid/133/1706.html,ECCV,2014
+RGBD Salient Object Detection: A Benchmark and Algorithms.,Bing Li,https://dblp.org/pid/13/2692-1.html,ECCV,2014
+RGBD Salient Object Detection: A Benchmark and Algorithms.,Weihua Xiong,https://dblp.org/pid/x/WeihuaXiong.html,ECCV,2014
+RGBD Salient Object Detection: A Benchmark and Algorithms.,Weiming Hu,https://dblp.org/pid/41/6824.html,ECCV,2014
+RGBD Salient Object Detection: A Benchmark and Algorithms.,Rongrong Ji,https://dblp.org/pid/86/5681.html,ECCV,2014
+Saliency Detection with Flash and No-flash Image Pairs.,Shengfeng He,https://dblp.org/pid/38/9555.html,ECCV,2014
+Saliency Detection with Flash and No-flash Image Pairs.,Rynson W. H. Lau,https://dblp.org/pid/l/RynsonWHLau.html,ECCV,2014
+Alpha Matting of Motion-Blurred Objects in Bracket Sequence Images.,Heesoo Myeong,https://dblp.org/pid/117/4823.html,ECCV,2014
+Alpha Matting of Motion-Blurred Objects in Bracket Sequence Images.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,ECCV,2014
+Alpha Matting of Motion-Blurred Objects in Bracket Sequence Images.,Kyoung Mu Lee,https://dblp.org/pid/17/4029.html,ECCV,2014
+An Active Patch Model for Real World Texture and Appearance Classification.,Junhua Mao,https://dblp.org/pid/136/1118.html,ECCV,2014
+An Active Patch Model for Real World Texture and Appearance Classification.,Jun Zhu,https://dblp.org/pid/50/2644.html,ECCV,2014
+An Active Patch Model for Real World Texture and Appearance Classification.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,ECCV,2014
+Material Classification Based on Training Data Synthesized Using a BTF Database.,Michael Weinmann,https://dblp.org/pid/79/9941.html,ECCV,2014
+Material Classification Based on Training Data Synthesized Using a BTF Database.,Juergen Gall,https://dblp.org/pid/13/6920.html,ECCV,2014
+Material Classification Based on Training Data Synthesized Using a BTF Database.,Reinhard Klein,https://dblp.org/pid/28/4015.html,ECCV,2014
+Déjà Vu: - Motion Prediction in Static Images.,Silvia L. Pintea,https://dblp.org/pid/150/4232.html,ECCV,2014
+Déjà Vu: - Motion Prediction in Static Images.,Jan C. van Gemert,https://dblp.org/pid/25/3153.html,ECCV,2014
+Déjà Vu: - Motion Prediction in Static Images.,Arnold W. M. Smeulders,https://dblp.org/pid/15/5400.html,ECCV,2014
+Transfer Learning Based Visual Tracking with Gaussian Processes Regression.,Jin Gao,https://dblp.org/pid/13/1653.html,ECCV,2014
+Transfer Learning Based Visual Tracking with Gaussian Processes Regression.,Haibin Ling,https://dblp.org/pid/93/3488.html,ECCV,2014
+Transfer Learning Based Visual Tracking with Gaussian Processes Regression.,Weiming Hu,https://dblp.org/pid/41/6824.html,ECCV,2014
+Transfer Learning Based Visual Tracking with Gaussian Processes Regression.,Junliang Xing,https://dblp.org/pid/43/7659.html,ECCV,2014
+Separable Spatiotemporal Priors for Convex Reconstruction of Time-Varying 3D Point Clouds.,Tomas Simon,https://dblp.org/pid/23/8654.html,ECCV,2014
+Separable Spatiotemporal Priors for Convex Reconstruction of Time-Varying 3D Point Clouds.,Jack Valmadre,https://dblp.org/pid/50/8535.html,ECCV,2014
+Separable Spatiotemporal Priors for Convex Reconstruction of Time-Varying 3D Point Clouds.,Iain A. Matthews,https://dblp.org/pid/58/813.html,ECCV,2014
+Separable Spatiotemporal Priors for Convex Reconstruction of Time-Varying 3D Point Clouds.,Yaser Sheikh,https://dblp.org/pid/71/3516.html,ECCV,2014
+Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,Michael Hornacek,https://dblp.org/pid/31/9990.html,ECCV,2014
+Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,Frederic Besse,https://dblp.org/pid/128/7851.html,ECCV,2014
+Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,Jan Kautz,https://dblp.org/pid/48/6214.html,ECCV,2014
+Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,Andrew W. Fitzgibbon,https://dblp.org/pid/f/AndrewWFitzgibbon.html,ECCV,2014
+Highly Overparameterized Optical Flow Using PatchMatch Belief Propagation.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ECCV,2014
+Local Estimation of High Velocity Optical Flow with Correlation Image Sensor.,Hidekata Hontani,https://dblp.org/pid/24/3623.html,ECCV,2014
+Local Estimation of High Velocity Optical Flow with Correlation Image Sensor.,Go Oishi,https://dblp.org/pid/150/4245.html,ECCV,2014
+Local Estimation of High Velocity Optical Flow with Correlation Image Sensor.,Tomohiro Kitagawa,https://dblp.org/pid/150/4264.html,ECCV,2014
+Rank Minimization with Structured Data Patterns.,Viktor Larsson,https://dblp.org/pid/146/3071.html,ECCV,2014
+Rank Minimization with Structured Data Patterns.,Carl Olsson,https://dblp.org/pid/67/5489.html,ECCV,2014
+Rank Minimization with Structured Data Patterns.,Erik Bylow,https://dblp.org/pid/134/3150.html,ECCV,2014
+Rank Minimization with Structured Data Patterns.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ECCV,2014
+Duality and the Continuous Graphical Model.,Alexander Fix,https://dblp.org/pid/70/10771.html,ECCV,2014
+Duality and the Continuous Graphical Model.,Sameer Agarwal,https://dblp.org/pid/77/4196-1.html,ECCV,2014
+Spectral Clustering with a Convex Regularizer on Millions of Images.,Maxwell D. Collins,https://dblp.org/pid/88/9242.html,ECCV,2014
+Spectral Clustering with a Convex Regularizer on Millions of Images.,Ji Liu,https://dblp.org/pid/51/4433-2.html,ECCV,2014
+Spectral Clustering with a Convex Regularizer on Millions of Images.,Jia Xu,https://dblp.org/pid/95/3616-11.html,ECCV,2014
+Spectral Clustering with a Convex Regularizer on Millions of Images.,Lopamudra Mukherjee,https://dblp.org/pid/66/5341.html,ECCV,2014
+Spectral Clustering with a Convex Regularizer on Millions of Images.,Vikas Singh,https://dblp.org/pid/26/1810.html,ECCV,2014
+Riemannian Sparse Coding for Positive Definite Matrices.,Anoop Cherian,https://dblp.org/pid/44/7734.html,ECCV,2014
+Riemannian Sparse Coding for Positive Definite Matrices.,Suvrit Sra,https://dblp.org/pid/90/930.html,ECCV,2014
+Robust Sparse Coding and Compressed Sensing with the Difference Map.,Will Landecker,https://dblp.org/pid/117/3302.html,ECCV,2014
+Robust Sparse Coding and Compressed Sensing with the Difference Map.,Rick Chartrand,https://dblp.org/pid/03/641.html,ECCV,2014
+Robust Sparse Coding and Compressed Sensing with the Difference Map.,Simon DeDeo,https://dblp.org/pid/132/8972.html,ECCV,2014
+Object Co-detection via Efficient Inference in a Fully-Connected CRF.,Zeeshan Hayder,https://dblp.org/pid/72/9285.html,ECCV,2014
+Object Co-detection via Efficient Inference in a Fully-Connected CRF.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+Object Co-detection via Efficient Inference in a Fully-Connected CRF.,Xuming He,https://dblp.org/pid/03/4230.html,ECCV,2014
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.,Kaiming He,https://dblp.org/pid/34/7659.html,ECCV,2014
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.,Xiangyu Zhang,https://dblp.org/pid/95/3760-5.html,ECCV,2014
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.,Shaoqing Ren,https://dblp.org/pid/147/5182.html,ECCV,2014
+Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.,Jian Sun,https://dblp.org/pid/68/4942-1.html,ECCV,2014
+Context as Supervisory Signal: Discovering Objects with Predictable Context.,Carl Doersch,https://dblp.org/pid/12/8654.html,ECCV,2014
+Context as Supervisory Signal: Discovering Objects with Predictable Context.,Abhinav Gupta,https://dblp.org/pid/36/7024-1.html,ECCV,2014
+Context as Supervisory Signal: Discovering Objects with Predictable Context.,Alexei A. Efros,https://dblp.org/pid/40/6158.html,ECCV,2014
+Learning to Hash with Partial Tags: Exploring Correlation between Tags and Hashing Bits for Large Scale Image Retrieval.,Qifan Wang,https://dblp.org/pid/33/8610.html,ECCV,2014
+Learning to Hash with Partial Tags: Exploring Correlation between Tags and Hashing Bits for Large Scale Image Retrieval.,Luo Si,https://dblp.org/pid/14/1217.html,ECCV,2014
+Learning to Hash with Partial Tags: Exploring Correlation between Tags and Hashing Bits for Large Scale Image Retrieval.,Dan Zhang,https://dblp.org/pid/21/802-7.html,ECCV,2014
+Multi-class Open Set Recognition Using Probability of Inclusion.,Lalit P. Jain,https://dblp.org/pid/141/1293.html,ECCV,2014
+Multi-class Open Set Recognition Using Probability of Inclusion.,Walter J. Scheirer,https://dblp.org/pid/80/4900.html,ECCV,2014
+Multi-class Open Set Recognition Using Probability of Inclusion.,Terrance E. Boult,https://dblp.org/pid/08/6458.html,ECCV,2014
+Sequential Max-Margin Event Detectors.,Dong Huang,https://dblp.org/pid/94/3756-7.html,ECCV,2014
+Sequential Max-Margin Event Detectors.,Shitong Yao,https://dblp.org/pid/150/4218.html,ECCV,2014
+Sequential Max-Margin Event Detectors.,Yi Wang,https://dblp.org/pid/17/221.html,ECCV,2014
+Sequential Max-Margin Event Detectors.,Fernando De la Torre,https://dblp.org/pid/d/FernandoDelaTorre.html,ECCV,2014
+Which Looks Like Which: Exploring Inter-class Relationships in Fine-Grained Visual Categorization.,Jian Pu,https://dblp.org/pid/43/6295.html,ECCV,2014
+Which Looks Like Which: Exploring Inter-class Relationships in Fine-Grained Visual Categorization.,Yu-Gang Jiang,https://dblp.org/pid/24/5818.html,ECCV,2014
+Which Looks Like Which: Exploring Inter-class Relationships in Fine-Grained Visual Categorization.,Jun Wang,https://dblp.org/pid/w/JunWang6.html,ECCV,2014
+Which Looks Like Which: Exploring Inter-class Relationships in Fine-Grained Visual Categorization.,Xiangyang Xue,https://dblp.org/pid/84/3791.html,ECCV,2014
+Object Detection and Viewpoint Estimation with Auto-masking Neural Network.,Linjie Yang,https://dblp.org/pid/126/6794.html,ECCV,2014
+Object Detection and Viewpoint Estimation with Auto-masking Neural Network.,Jianzhuang Liu,https://dblp.org/pid/l/JianzhuangLiu.html,ECCV,2014
+Object Detection and Viewpoint Estimation with Auto-masking Neural Network.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Statistical and Spatial Consensus Collection for Detector Adaptation.,Enver Sangineto,https://dblp.org/pid/36/4635.html,ECCV,2014
+Deep Learning of Scene-Specific Classifier for Pedestrian Detection.,Xingyu Zeng,https://dblp.org/pid/135/4927.html,ECCV,2014
+Deep Learning of Scene-Specific Classifier for Pedestrian Detection.,Wanli Ouyang,https://dblp.org/pid/17/7992.html,ECCV,2014
+Deep Learning of Scene-Specific Classifier for Pedestrian Detection.,Meng Wang,https://dblp.org/pid/93/6765.html,ECCV,2014
+Deep Learning of Scene-Specific Classifier for Pedestrian Detection.,Xiaogang Wang,https://dblp.org/pid/91/6236-1.html,ECCV,2014
+A Contour Completion Model for Augmenting Surface Reconstructions.,Nathan Silberman,https://dblp.org/pid/75/10432.html,ECCV,2014
+A Contour Completion Model for Augmenting Surface Reconstructions.,Lior Shapira,https://dblp.org/pid/06/3284.html,ECCV,2014
+A Contour Completion Model for Augmenting Surface Reconstructions.,Ran Gal,https://dblp.org/pid/g/RanGal.html,ECCV,2014
+A Contour Completion Model for Augmenting Surface Reconstructions.,Pushmeet Kohli,https://dblp.org/pid/94/248.html,ECCV,2014
+Interactive Object Counting.,Carlos Arteta,https://dblp.org/pid/71/11464.html,ECCV,2014
+Interactive Object Counting.,Victor S. Lempitsky,https://dblp.org/pid/17/981.html,ECCV,2014
+Interactive Object Counting.,J. Alison Noble,https://dblp.org/pid/n/JAlisonNoble.html,ECCV,2014
+Interactive Object Counting.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2014
+Recognizing City Identity via Attribute Analysis of Geo-tagged Images.,Bolei Zhou,https://dblp.org/pid/46/8066.html,ECCV,2014
+Recognizing City Identity via Attribute Analysis of Geo-tagged Images.,Liu Liu,https://dblp.org/pid/74/7037.html,ECCV,2014
+Recognizing City Identity via Attribute Analysis of Geo-tagged Images.,Aude Oliva,https://dblp.org/pid/99/5538.html,ECCV,2014
+Recognizing City Identity via Attribute Analysis of Geo-tagged Images.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,ECCV,2014
+A Fast and Simple Algorithm for Producing Candidate Regions.,Boyan Bonev,https://dblp.org/pid/20/368-1.html,ECCV,2014
+A Fast and Simple Algorithm for Producing Candidate Regions.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,ECCV,2014
+Closed-Form Approximate CRF Training for Scalable Image Segmentation.,Alexander Kolesnikov,https://dblp.org/pid/137/6963-3.html,ECCV,2014
+Closed-Form Approximate CRF Training for Scalable Image Segmentation.,Matthieu Guillaumin,https://dblp.org/pid/99/1687.html,ECCV,2014
+Closed-Form Approximate CRF Training for Scalable Image Segmentation.,Vittorio Ferrari,https://dblp.org/pid/16/3608.html,ECCV,2014
+Closed-Form Approximate CRF Training for Scalable Image Segmentation.,Christoph H. Lampert,https://dblp.org/pid/67/2136.html,ECCV,2014
+A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies Using a Hybrid Generative-Descriptive Model.,Ümit Rusen Aktas,https://dblp.org/pid/150/4212.html,ECCV,2014
+A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies Using a Hybrid Generative-Descriptive Model.,Mete Ozay,https://dblp.org/pid/26/5515.html,ECCV,2014
+A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies Using a Hybrid Generative-Descriptive Model.,Ales Leonardis,https://dblp.org/pid/l/AlesLeonardis.html,ECCV,2014
+A Graph Theoretic Approach for Object Shape Representation in Compositional Hierarchies Using a Hybrid Generative-Descriptive Model.,Jeremy L. Wyatt,https://dblp.org/pid/12/4588.html,ECCV,2014
+Finding Approximate Convex Shapes in RGBD Images.,Hao Jiang,https://dblp.org/pid/38/6049-7.html,ECCV,2014
+ShapeForest: Building Constrained Statistical Shape Models with Decision Trees.,Sasa Grbic,https://dblp.org/pid/54/8437.html,ECCV,2014
+ShapeForest: Building Constrained Statistical Shape Models with Decision Trees.,Joshua K. Y. Swee,https://dblp.org/pid/79/8908.html,ECCV,2014
+ShapeForest: Building Constrained Statistical Shape Models with Decision Trees.,Razvan Ioan Ionasec,https://dblp.org/pid/72/885.html,ECCV,2014
+Optimizing Ranking Measures for Compact Binary Code Learning.,Guosheng Lin,https://dblp.org/pid/126/4778.html,ECCV,2014
+Optimizing Ranking Measures for Compact Binary Code Learning.,Chunhua Shen,https://dblp.org/pid/56/1673.html,ECCV,2014
+Optimizing Ranking Measures for Compact Binary Code Learning.,Jianxin Wu,https://dblp.org/pid/w/JianxinWu.html,ECCV,2014
+Exploiting Low-Rank Structure from Latent Domains for Domain Generalization.,Zheng Xu,https://dblp.org/pid/83/2535-2.html,ECCV,2014
+Exploiting Low-Rank Structure from Latent Domains for Domain Generalization.,Wen Li,https://dblp.org/pid/06/721-1.html,ECCV,2014
+Exploiting Low-Rank Structure from Latent Domains for Domain Generalization.,Li Niu,https://dblp.org/pid/02/3166-2.html,ECCV,2014
+Exploiting Low-Rank Structure from Latent Domains for Domain Generalization.,Dong Xu,https://dblp.org/pid/09/3493-1.html,ECCV,2014
+Sparse Additive Subspace Clustering.,Xiao-Tong Yuan,https://dblp.org/pid/64/5926.html,ECCV,2014
+Sparse Additive Subspace Clustering.,Ping Li,https://dblp.org/pid/62/5860-1.html,ECCV,2014
+Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics.,Xiaojiang Peng,https://dblp.org/pid/133/6556.html,ECCV,2014
+Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics.,Limin Wang,https://dblp.org/pid/68/6610-2.html,ECCV,2014
+Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics.,Yu Qiao,https://dblp.org/pid/q/YuQiao1.html,ECCV,2014
+Boosting VLAD with Supervised Dictionary Learning and High-Order Statistics.,Qiang Peng,https://dblp.org/pid/09/3920.html,ECCV,2014
+Recognizing Complex Events in Videos by Learning Key Static-Dynamic Evidences.,Kuan-Ting Lai,https://dblp.org/pid/48/4678.html,ECCV,2014
+Recognizing Complex Events in Videos by Learning Key Static-Dynamic Evidences.,Dong Liu,https://dblp.org/pid/98/1737-1.html,ECCV,2014
+Recognizing Complex Events in Videos by Learning Key Static-Dynamic Evidences.,Ming-Syan Chen,https://dblp.org/pid/c/MingSyanChen.html,ECCV,2014
+Recognizing Complex Events in Videos by Learning Key Static-Dynamic Evidences.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,ECCV,2014
+A Hierarchical Representation for Future Action Prediction.,Tian Lan,https://dblp.org/pid/31/83.html,ECCV,2014
+A Hierarchical Representation for Future Action Prediction.,Tsung-Chuan Chen,https://dblp.org/pid/150/4255.html,ECCV,2014
+A Hierarchical Representation for Future Action Prediction.,Silvio Savarese,https://dblp.org/pid/50/3578.html,ECCV,2014
+Continuous Learning of Human Activity Models Using Deep Nets.,Mahmudul Hasan,https://dblp.org/pid/38/7987-3.html,ECCV,2014
+Continuous Learning of Human Activity Models Using Deep Nets.,Amit K. Roy-Chowdhury,https://dblp.org/pid/c/AmitKRoyChowdhury.html,ECCV,2014
+DaMN - Discriminative and Mutually Nearest: Exploiting Pairwise Category Proximity for Video Action Recognition.,Rui Hou,https://dblp.org/pid/79/3631-8.html,ECCV,2014
+DaMN - Discriminative and Mutually Nearest: Exploiting Pairwise Category Proximity for Video Action Recognition.,Amir Roshan Zamir,https://dblp.org/pid/76/8610.html,ECCV,2014
+DaMN - Discriminative and Mutually Nearest: Exploiting Pairwise Category Proximity for Video Action Recognition.,Rahul Sukthankar,https://dblp.org/pid/57/3775.html,ECCV,2014
+DaMN - Discriminative and Mutually Nearest: Exploiting Pairwise Category Proximity for Video Action Recognition.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ECCV,2014
+Spatio-temporal Object Detection Proposals.,Dan Oneata,https://dblp.org/pid/142/2768.html,ECCV,2014
+Spatio-temporal Object Detection Proposals.,Jérôme Revaud,https://dblp.org/pid/17/6506.html,ECCV,2014
+Spatio-temporal Object Detection Proposals.,Jakob Verbeek,https://dblp.org/pid/v/JakobJVerbeek.html,ECCV,2014
+Spatio-temporal Object Detection Proposals.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2014
+Depth-of-Field and Coded Aperture Imaging on XSlit Lens.,Jinwei Ye,https://dblp.org/pid/117/4793.html,ECCV,2014
+Depth-of-Field and Coded Aperture Imaging on XSlit Lens.,Yu Ji,https://dblp.org/pid/02/291-1.html,ECCV,2014
+Depth-of-Field and Coded Aperture Imaging on XSlit Lens.,Wei Yang,https://dblp.org/pid/03/1094-34.html,ECCV,2014
+Depth-of-Field and Coded Aperture Imaging on XSlit Lens.,Jingyi Yu,https://dblp.org/pid/58/4808.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,Tianfan Xue,https://dblp.org/pid/54/8652.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,Michael Rubinstein,https://dblp.org/pid/16/1356.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,Neal Wadhwa,https://dblp.org/pid/01/175.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,Anat Levin,https://dblp.org/pid/35/4557.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,Frédo Durand,https://dblp.org/pid/87/2617.html,ECCV,2014
+Refraction Wiggles for Measuring Fluid Depth and Velocity from Video.,William T. Freeman,https://dblp.org/pid/86/6650.html,ECCV,2014
+Blind Deblurring Using Internal Patch Recurrence.,Tomer Michaeli,https://dblp.org/pid/70/3188.html,ECCV,2014
+Blind Deblurring Using Internal Patch Recurrence.,Michal Irani,https://dblp.org/pid/04/3190.html,ECCV,2014
+Crisp Boundary Detection Using Pointwise Mutual Information.,Phillip Isola,https://dblp.org/pid/36/9988.html,ECCV,2014
+Crisp Boundary Detection Using Pointwise Mutual Information.,Daniel Zoran,https://dblp.org/pid/18/9054.html,ECCV,2014
+Crisp Boundary Detection Using Pointwise Mutual Information.,Dilip Krishnan,https://dblp.org/pid/08/2316.html,ECCV,2014
+Crisp Boundary Detection Using Pointwise Mutual Information.,Edward H. Adelson,https://dblp.org/pid/73/143.html,ECCV,2014
+Rolling Guidance Filter.,Qi Zhang,https://dblp.org/pid/52/323.html,ECCV,2014
+Rolling Guidance Filter.,Xiaoyong Shen,https://dblp.org/pid/71/11418.html,ECCV,2014
+Rolling Guidance Filter.,Li Xu,https://dblp.org/pid/85/2168-1.html,ECCV,2014
+Rolling Guidance Filter.,Jiaya Jia,https://dblp.org/pid/31/5649.html,ECCV,2014
+Physically Grounded Spatio-temporal Object Affordances.,Hema Swetha Koppula,https://dblp.org/pid/41/7536.html,ECCV,2014
+Physically Grounded Spatio-temporal Object Affordances.,Ashutosh Saxena,https://dblp.org/pid/82/6189.html,ECCV,2014
+Schwarps: Locally Projective Image Warps Based on 2D Schwarzian Derivatives.,Rahat Khan,https://dblp.org/pid/94/11431.html,ECCV,2014
+Schwarps: Locally Projective Image Warps Based on 2D Schwarzian Derivatives.,Daniel Pizarro,https://dblp.org/pid/134/1623.html,ECCV,2014
+Schwarps: Locally Projective Image Warps Based on 2D Schwarzian Derivatives.,Adrien Bartoli,https://dblp.org/pid/58/2064.html,ECCV,2014
+gDLS: A Scalable Solution to the Generalized Pose and Scale Problem.,Chris Sweeney,https://dblp.org/pid/124/0715.html,ECCV,2014
+gDLS: A Scalable Solution to the Generalized Pose and Scale Problem.,Victor Fragoso,https://dblp.org/pid/24/10073.html,ECCV,2014
+gDLS: A Scalable Solution to the Generalized Pose and Scale Problem.,Tobias Höllerer,https://dblp.org/pid/h/TobiasHollerer.html,ECCV,2014
+gDLS: A Scalable Solution to the Generalized Pose and Scale Problem.,Matthew A. Turk,https://dblp.org/pid/61/3381.html,ECCV,2014
+Generalized Connectivity Constraints for Spatio-temporal 3D Reconstruction.,Martin Ralf Oswald,https://dblp.org/pid/37/7272.html,ECCV,2014
+Generalized Connectivity Constraints for Spatio-temporal 3D Reconstruction.,Jan Stühmer,https://dblp.org/pid/91/8483.html,ECCV,2014
+Generalized Connectivity Constraints for Spatio-temporal 3D Reconstruction.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ECCV,2014
+Passive Tomography of Turbulence Strength.,Marina Alterman,https://dblp.org/pid/122/0968.html,ECCV,2014
+Passive Tomography of Turbulence Strength.,Yoav Y. Schechner,https://dblp.org/pid/95/4712.html,ECCV,2014
+Passive Tomography of Turbulence Strength.,Minh Vo,https://dblp.org/pid/69/2765.html,ECCV,2014
+Passive Tomography of Turbulence Strength.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ECCV,2014
+A Non-local Method for Robust Noisy Image Completion.,Wei Li,https://dblp.org/pid/64/6025.html,ECCV,2014
+A Non-local Method for Robust Noisy Image Completion.,Lei Zhao,https://dblp.org/pid/87/734.html,ECCV,2014
+A Non-local Method for Robust Noisy Image Completion.,Duanqing Xu,https://dblp.org/pid/72/3018.html,ECCV,2014
+A Non-local Method for Robust Noisy Image Completion.,Dongming Lu,https://dblp.org/pid/80/3109.html,ECCV,2014
+Improved Motion Invariant Deblurring through Motion Estimation.,Scott McCloskey,https://dblp.org/pid/30/44.html,ECCV,2014
+Consistent Matting for Light Field Images.,Donghyeon Cho,https://dblp.org/pid/142/2590.html,ECCV,2014
+Consistent Matting for Light Field Images.,Sunyeong Kim,https://dblp.org/pid/117/4808.html,ECCV,2014
+Consistent Matting for Light Field Images.,Yu-Wing Tai,https://dblp.org/pid/40/566.html,ECCV,2014
+Consensus of Regression for Occlusion-Robust Facial Feature Localization.,Xiang Yu,https://dblp.org/pid/19/2453-2.html,ECCV,2014
+Consensus of Regression for Occlusion-Robust Facial Feature Localization.,Zhe Lin,https://dblp.org/pid/42/1680-1.html,ECCV,2014
+Consensus of Regression for Occlusion-Robust Facial Feature Localization.,Jonathan Brandt,https://dblp.org/pid/03/8.html,ECCV,2014
+Consensus of Regression for Occlusion-Robust Facial Feature Localization.,Dimitris N. Metaxas,https://dblp.org/pid/m/DNMetaxas.html,ECCV,2014
+Learning the Face Prior for Bayesian Face Recognition.,Chaochao Lu,https://dblp.org/pid/142/2790.html,ECCV,2014
+Learning the Face Prior for Bayesian Face Recognition.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Spatio-temporal Event Classification Using Time-Series Kernel Based Structured Sparsity.,László A. Jeni,https://dblp.org/pid/35/7547.html,ECCV,2014
+Spatio-temporal Event Classification Using Time-Series Kernel Based Structured Sparsity.,András Lörincz,https://dblp.org/pid/81/2260.html,ECCV,2014
+Spatio-temporal Event Classification Using Time-Series Kernel Based Structured Sparsity.,Zoltán Szabó,https://dblp.org/pid/73/2909-1.html,ECCV,2014
+Spatio-temporal Event Classification Using Time-Series Kernel Based Structured Sparsity.,Jeffrey F. Cohn,https://dblp.org/pid/54/1171.html,ECCV,2014
+Spatio-temporal Event Classification Using Time-Series Kernel Based Structured Sparsity.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Ping Liu,https://dblp.org/pid/34/188.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Joey Tianyi Zhou,https://dblp.org/pid/123/5110.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Ivor Wai-Hung Tsang,https://dblp.org/pid/35/5873.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Zibo Meng,https://dblp.org/pid/126/8042.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Shizhong Han,https://dblp.org/pid/73/7894.html,ECCV,2014
+Feature Disentangling Machine - A Novel Approach of Feature Selection and Disentangling in Facial Expression Analysis.,Yan Tong,https://dblp.org/pid/20/2146.html,ECCV,2014
+Joint Unsupervised Face Alignment and Behaviour Analysis.,Lazaros Zafeiriou,https://dblp.org/pid/142/2355.html,ECCV,2014
+Joint Unsupervised Face Alignment and Behaviour Analysis.,Epameinondas Antonakos,https://dblp.org/pid/126/4489.html,ECCV,2014
+Joint Unsupervised Face Alignment and Behaviour Analysis.,Stefanos Zafeiriou,https://dblp.org/pid/25/1885.html,ECCV,2014
+Joint Unsupervised Face Alignment and Behaviour Analysis.,Maja Pantic,https://dblp.org/pid/p/MajaPantic.html,ECCV,2014
+Learning a Deep Convolutional Network for Image Super-Resolution.,Chao Dong,https://dblp.org/pid/16/1278.html,ECCV,2014
+Learning a Deep Convolutional Network for Image Super-Resolution.,Chen Change Loy,https://dblp.org/pid/01/5855.html,ECCV,2014
+Learning a Deep Convolutional Network for Image Super-Resolution.,Kaiming He,https://dblp.org/pid/34/7659.html,ECCV,2014
+Learning a Deep Convolutional Network for Image Super-Resolution.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Discriminative Indexing for Probabilistic Image Patch Priors.,Yan Wang,https://dblp.org/pid/59/2227-59.html,ECCV,2014
+Discriminative Indexing for Probabilistic Image Patch Priors.,Sunghyun Cho,https://dblp.org/pid/22/6163.html,ECCV,2014
+Discriminative Indexing for Probabilistic Image Patch Priors.,Jue Wang,https://dblp.org/pid/69/393-1.html,ECCV,2014
+Discriminative Indexing for Probabilistic Image Patch Priors.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,ECCV,2014
+Modeling Video Dynamics with Deep Dynencoder.,Xing Yan,https://dblp.org/pid/42/4130.html,ECCV,2014
+Modeling Video Dynamics with Deep Dynencoder.,Hong Chang,https://dblp.org/pid/02/2689.html,ECCV,2014
+Modeling Video Dynamics with Deep Dynencoder.,Shiguang Shan,https://dblp.org/pid/s/ShiguangShan.html,ECCV,2014
+Modeling Video Dynamics with Deep Dynencoder.,Xilin Chen,https://dblp.org/pid/c/XilinChen.html,ECCV,2014
+Good Image Priors for Non-blind Deconvolution - Generic vs. Specific.,Libin Sun,https://dblp.org/pid/150/4246.html,ECCV,2014
+Good Image Priors for Non-blind Deconvolution - Generic vs. Specific.,Sunghyun Cho,https://dblp.org/pid/22/6163.html,ECCV,2014
+Good Image Priors for Non-blind Deconvolution - Generic vs. Specific.,Jue Wang,https://dblp.org/pid/69/393-1.html,ECCV,2014
+Good Image Priors for Non-blind Deconvolution - Generic vs. Specific.,James Hays,https://dblp.org/pid/57/5958.html,ECCV,2014
+Image Deconvolution Ringing Artifact Detection and Removal via PSF Frequency Analysis.,Ali Mosleh,https://dblp.org/pid/35/2982-2.html,ECCV,2014
+Image Deconvolution Ringing Artifact Detection and Removal via PSF Frequency Analysis.,J. M. Pierre Langlois,https://dblp.org/pid/93/6531.html,ECCV,2014
+Image Deconvolution Ringing Artifact Detection and Removal via PSF Frequency Analysis.,Paul Green,https://dblp.org/pid/47/6983-2.html,ECCV,2014
+View-Consistent 3D Scene Flow Estimation over Multiple Frames.,Christoph Vogel,https://dblp.org/pid/63/6815.html,ECCV,2014
+View-Consistent 3D Scene Flow Estimation over Multiple Frames.,Stefan Roth,https://dblp.org/pid/24/3452.html,ECCV,2014
+View-Consistent 3D Scene Flow Estimation over Multiple Frames.,Konrad Schindler,https://dblp.org/pid/73/488.html,ECCV,2014
+Hand Waving Away Scale.,Christopher C. W. Ham,https://dblp.org/pid/139/3756.html,ECCV,2014
+Hand Waving Away Scale.,Simon Lucey,https://dblp.org/pid/01/3542.html,ECCV,2014
+Hand Waving Away Scale.,Surya P. N. Singh,https://dblp.org/pid/03/1138.html,ECCV,2014
+A Non-Linear Filter for Gyroscope-Based Video Stabilization.,Steven Bell,https://dblp.org/pid/137/1926.html,ECCV,2014
+A Non-Linear Filter for Gyroscope-Based Video Stabilization.,Alejandro J. Troccoli,https://dblp.org/pid/66/6314.html,ECCV,2014
+A Non-Linear Filter for Gyroscope-Based Video Stabilization.,Kari Pulli,https://dblp.org/pid/61/5171.html,ECCV,2014
+Multi-modal and Multi-spectral Registration for Natural Images.,Xiaoyong Shen,https://dblp.org/pid/71/11418.html,ECCV,2014
+Multi-modal and Multi-spectral Registration for Natural Images.,Li Xu,https://dblp.org/pid/85/2168-1.html,ECCV,2014
+Multi-modal and Multi-spectral Registration for Natural Images.,Qi Zhang,https://dblp.org/pid/52/323.html,ECCV,2014
+Multi-modal and Multi-spectral Registration for Natural Images.,Jiaya Jia,https://dblp.org/pid/31/5649.html,ECCV,2014
+Using Isometry to Classify Correct/Incorrect 3D-2D Correspondences.,Toby Collins,https://dblp.org/pid/96/9395.html,ECCV,2014
+Using Isometry to Classify Correct/Incorrect 3D-2D Correspondences.,Adrien Bartoli,https://dblp.org/pid/58/2064.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Wen-Yan Daniel Lin,https://dblp.org/pid/98/8226.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Ming-Ming Cheng,https://dblp.org/pid/45/7592.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Jiangbo Lu,https://dblp.org/pid/77/6697.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Hongsheng Yang,https://dblp.org/pid/123/2958.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Minh N. Do,https://dblp.org/pid/d/MinhNDo.html,ECCV,2014
+Bilateral Functions for Global Motion Modeling.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,ECCV,2014
+VCDB: A Large-Scale Database for Partial Copy Detection in Videos.,Yu-Gang Jiang,https://dblp.org/pid/24/5818.html,ECCV,2014
+VCDB: A Large-Scale Database for Partial Copy Detection in Videos.,Yudong Jiang,https://dblp.org/pid/150/4256.html,ECCV,2014
+VCDB: A Large-Scale Database for Partial Copy Detection in Videos.,Jiajun Wang,https://dblp.org/pid/77/3258.html,ECCV,2014
+Single-Image Super-Resolution: A Benchmark.,Chih-Yuan Yang,https://dblp.org/pid/73/3345.html,ECCV,2014
+Single-Image Super-Resolution: A Benchmark.,Chao Ma,https://dblp.org/pid/79/1552-4.html,ECCV,2014
+Single-Image Super-Resolution: A Benchmark.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2014
+Well Begun Is Half Done: Generating High-Quality Seeds for Automatic Image Dataset Construction from Web.,Yan Xia,https://dblp.org/pid/17/6518.html,ECCV,2014
+Well Begun Is Half Done: Generating High-Quality Seeds for Automatic Image Dataset Construction from Web.,Xudong Cao,https://dblp.org/pid/40/9090.html,ECCV,2014
+Well Begun Is Half Done: Generating High-Quality Seeds for Automatic Image Dataset Construction from Web.,Fang Wen,https://dblp.org/pid/66/1922-1.html,ECCV,2014
+Well Begun Is Half Done: Generating High-Quality Seeds for Automatic Image Dataset Construction from Web.,Jian Sun,https://dblp.org/pid/68/4942-1.html,ECCV,2014
+Zero-Shot Learning via Visual Abstraction.,Stanislaw Antol,https://dblp.org/pid/150/4236.html,ECCV,2014
+Zero-Shot Learning via Visual Abstraction.,C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,ECCV,2014
+Zero-Shot Learning via Visual Abstraction.,Devi Parikh,https://dblp.org/pid/64/2121.html,ECCV,2014
+Discovering Groups of People in Images.,Wongun Choi,https://dblp.org/pid/04/8611.html,ECCV,2014
+Discovering Groups of People in Images.,Yu-Wei Chao,https://dblp.org/pid/44/10700.html,ECCV,2014
+Discovering Groups of People in Images.,Caroline Pantofaru,https://dblp.org/pid/76/6323.html,ECCV,2014
+Discovering Groups of People in Images.,Silvio Savarese,https://dblp.org/pid/50/3578.html,ECCV,2014
+Untangling Object-View Manifold for Multiview Recognition and Pose Estimation.,Amr Bakry,https://dblp.org/pid/135/4946.html,ECCV,2014
+Untangling Object-View Manifold for Multiview Recognition and Pose Estimation.,Ahmed M. Elgammal,https://dblp.org/pid/e/AhmedMElgammal.html,ECCV,2014
+Parameterizing Object Detectors in the Continuous Pose Space.,Kun He,https://dblp.org/pid/59/1028-3.html,ECCV,2014
+Parameterizing Object Detectors in the Continuous Pose Space.,Leonid Sigal,https://dblp.org/pid/09/4991.html,ECCV,2014
+Parameterizing Object Detectors in the Continuous Pose Space.,Stan Sclaroff,https://dblp.org/pid/s/StanSclaroff.html,ECCV,2014
+Jointly Optimizing 3D Model Fitting and Fine-Grained Classification.,Yen-Liang Lin,https://dblp.org/pid/55/8117.html,ECCV,2014
+Jointly Optimizing 3D Model Fitting and Fine-Grained Classification.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,ECCV,2014
+Jointly Optimizing 3D Model Fitting and Fine-Grained Classification.,Winston H. Hsu,https://dblp.org/pid/16/5668.html,ECCV,2014
+Jointly Optimizing 3D Model Fitting and Fine-Grained Classification.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ECCV,2014
+Pipelining Localized Semantic Features for Fine-Grained Action Recognition.,Yang Zhou,https://dblp.org/pid/07/4580.html,ECCV,2014
+Pipelining Localized Semantic Features for Fine-Grained Action Recognition.,Bingbing Ni,https://dblp.org/pid/64/831.html,ECCV,2014
+Pipelining Localized Semantic Features for Fine-Grained Action Recognition.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,ECCV,2014
+Pipelining Localized Semantic Features for Fine-Grained Action Recognition.,Pierre Moulin,https://dblp.org/pid/33/6665.html,ECCV,2014
+Pipelining Localized Semantic Features for Fine-Grained Action Recognition.,Qi Tian,https://dblp.org/pid/78/1467-1.html,ECCV,2014
+Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees.,Weilin Huang,https://dblp.org/pid/23/1317.html,ECCV,2014
+Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees.,Yu Qiao,https://dblp.org/pid/q/YuQiao1.html,ECCV,2014
+Robust Scene Text Detection with Convolution Neural Network Induced MSER Trees.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Deep Features for Text Spotting.,Max Jaderberg,https://dblp.org/pid/146/0800.html,ECCV,2014
+Deep Features for Text Spotting.,Andrea Vedaldi,https://dblp.org/pid/99/2825.html,ECCV,2014
+Deep Features for Text Spotting.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2014
+Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections.,Yunchao Gong,https://dblp.org/pid/g/YunchaoGong.html,ECCV,2014
+Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections.,Liwei Wang,https://dblp.org/pid/47/1798-9.html,ECCV,2014
+Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections.,Micah Hodosh,https://dblp.org/pid/135/0218.html,ECCV,2014
+Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections.,Julia Hockenmaier,https://dblp.org/pid/64/2448.html,ECCV,2014
+Improving Image-Sentence Embeddings Using Large Weakly Annotated Photo Collections.,Svetlana Lazebnik,https://dblp.org/pid/55/5180.html,ECCV,2014
+Strengthening the Effectiveness of Pedestrian Detection with Spatially Pooled Features.,Sakrapee Paisitkriangkrai,https://dblp.org/pid/94/6172.html,ECCV,2014
+Strengthening the Effectiveness of Pedestrian Detection with Spatially Pooled Features.,Chunhua Shen,https://dblp.org/pid/56/1673.html,ECCV,2014
+Strengthening the Effectiveness of Pedestrian Detection with Spatially Pooled Features.,Anton van den Hengel,https://dblp.org/pid/v/AntonvandenHengel.html,ECCV,2014
+Selecting Influential Examples: Active Learning with Expected Model Output Changes.,Alexander Freytag,https://dblp.org/pid/119/1465.html,ECCV,2014
+Selecting Influential Examples: Active Learning with Expected Model Output Changes.,Erik Rodner,https://dblp.org/pid/90/5428.html,ECCV,2014
+Selecting Influential Examples: Active Learning with Expected Model Output Changes.,Joachim Denzler,https://dblp.org/pid/d/JoachimDenzler.html,ECCV,2014
+Efficient Sparsity Estimation via Marginal-Lasso Coding.,Tzu-Yi Hung,https://dblp.org/pid/05/6184.html,ECCV,2014
+Efficient Sparsity Estimation via Marginal-Lasso Coding.,Jiwen Lu,https://dblp.org/pid/09/6350.html,ECCV,2014
+Efficient Sparsity Estimation via Marginal-Lasso Coding.,Yap-Peng Tan,https://dblp.org/pid/93/4472.html,ECCV,2014
+Efficient Sparsity Estimation via Marginal-Lasso Coding.,Shenghua Gao,https://dblp.org/pid/63/7642.html,ECCV,2014
+Continuous Conditional Neural Fields for Structured Regression.,Tadas Baltrusaitis,https://dblp.org/pid/23/9606.html,ECCV,2014
+Continuous Conditional Neural Fields for Structured Regression.,Peter Robinson,https://dblp.org/pid/06/5220-1.html,ECCV,2014
+Continuous Conditional Neural Fields for Structured Regression.,Louis-Philippe Morency,https://dblp.org/pid/31/739.html,ECCV,2014
+Learning to Rank Using High-Order Information.,Puneet Kumar Dokania,https://dblp.org/pid/150/4211.html,ECCV,2014
+Learning to Rank Using High-Order Information.,Aseem Behl,https://dblp.org/pid/150/4215.html,ECCV,2014
+Learning to Rank Using High-Order Information.,C. V. Jawahar,https://dblp.org/pid/j/CVJawahar.html,ECCV,2014
+Learning to Rank Using High-Order Information.,M. Pawan Kumar,https://dblp.org/pid/45/2527.html,ECCV,2014
+Support Vector Guided Dictionary Learning.,Sijia Cai,https://dblp.org/pid/140/7615.html,ECCV,2014
+Support Vector Guided Dictionary Learning.,Wangmeng Zuo,https://dblp.org/pid/93/2671.html,ECCV,2014
+Support Vector Guided Dictionary Learning.,Lei Zhang,https://dblp.org/pid/64/5666-6.html,ECCV,2014
+Support Vector Guided Dictionary Learning.,Xiangchu Feng,https://dblp.org/pid/80/4229.html,ECCV,2014
+Support Vector Guided Dictionary Learning.,Ping Wang,https://dblp.org/pid/37/1304.html,ECCV,2014
+Video Object Discovery and Co-segmentation with Extremely Weak Supervision.,Le Wang,https://dblp.org/pid/79/652-3.html,ECCV,2014
+Video Object Discovery and Co-segmentation with Extremely Weak Supervision.,Gang Hua,https://dblp.org/pid/75/5209.html,ECCV,2014
+Video Object Discovery and Co-segmentation with Extremely Weak Supervision.,Rahul Sukthankar,https://dblp.org/pid/57/3775.html,ECCV,2014
+Video Object Discovery and Co-segmentation with Extremely Weak Supervision.,Jianru Xue,https://dblp.org/pid/16/6902.html,ECCV,2014
+Video Object Discovery and Co-segmentation with Extremely Weak Supervision.,Nanning Zheng,https://dblp.org/pid/07/256-1.html,ECCV,2014
+Supervoxel-Consistent Foreground Propagation in Video.,Suyog Dutt Jain,https://dblp.org/pid/142/2520.html,ECCV,2014
+Supervoxel-Consistent Foreground Propagation in Video.,Kristen Grauman,https://dblp.org/pid/57/4553.html,ECCV,2014
+Clustering with Hypergraphs: The Case for Large Hyperedges.,Pulak Purkait,https://dblp.org/pid/63/9103.html,ECCV,2014
+Clustering with Hypergraphs: The Case for Large Hyperedges.,Tat-Jun Chin,https://dblp.org/pid/95/2036.html,ECCV,2014
+Clustering with Hypergraphs: The Case for Large Hyperedges.,Hanno Ackermann,https://dblp.org/pid/10/1322.html,ECCV,2014
+Clustering with Hypergraphs: The Case for Large Hyperedges.,David Suter,https://dblp.org/pid/37/5634.html,ECCV,2014
+Person Re-identification by Video Ranking.,Taiqing Wang,https://dblp.org/pid/62/11353.html,ECCV,2014
+Person Re-identification by Video Ranking.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ECCV,2014
+Person Re-identification by Video Ranking.,Xiatian Zhu,https://dblp.org/pid/128/7935.html,ECCV,2014
+Person Re-identification by Video Ranking.,Shengjin Wang,https://dblp.org/pid/38/2763.html,ECCV,2014
+Bayesian Nonparametric Intrinsic Image Decomposition.,Jason Chang,https://dblp.org/pid/07/3524-1.html,ECCV,2014
+Bayesian Nonparametric Intrinsic Image Decomposition.,Randi Cabezas,https://dblp.org/pid/150/4244.html,ECCV,2014
+Bayesian Nonparametric Intrinsic Image Decomposition.,John W. Fisher III,https://dblp.org/pid/23/954.html,ECCV,2014
+Face Detection without Bells and Whistles.,Markus Mathias,https://dblp.org/pid/80/9941.html,ECCV,2014
+Face Detection without Bells and Whistles.,Rodrigo Benenson,https://dblp.org/pid/89/2011.html,ECCV,2014
+Face Detection without Bells and Whistles.,Marco Pedersoli,https://dblp.org/pid/81/4503.html,ECCV,2014
+Face Detection without Bells and Whistles.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+On Image Contours of Projective Shapes.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,ECCV,2014
+On Image Contours of Projective Shapes.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2014
+Programmable Automotive Headlights.,Robert Tamburo,https://dblp.org/pid/150/4254.html,ECCV,2014
+Programmable Automotive Headlights.,Eriko Nurvitadhi,https://dblp.org/pid/43/3042.html,ECCV,2014
+Programmable Automotive Headlights.,Abhishek Chugh,https://dblp.org/pid/66/909.html,ECCV,2014
+Programmable Automotive Headlights.,Mei Chen,https://dblp.org/pid/70/729.html,ECCV,2014
+Programmable Automotive Headlights.,Anthony Rowe,https://dblp.org/pid/02/630.html,ECCV,2014
+Programmable Automotive Headlights.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,ECCV,2014
+Programmable Automotive Headlights.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Simon Placht,https://dblp.org/pid/48/7843.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Peter Fürsattel,https://dblp.org/pid/150/4252.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Etienne Assoumou Mengue,https://dblp.org/pid/80/9613.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Hannes G. Hofmann,https://dblp.org/pid/37/9509.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Christian Schaller,https://dblp.org/pid/42/4881.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Michael Balda,https://dblp.org/pid/05/8529.html,ECCV,2014
+ROCHADE: Robust Checkerboard Advanced Detection for Camera Calibration.,Elli Angelopoulou,https://dblp.org/pid/48/5666.html,ECCV,2014
+Correcting for Duplicate Scene Structure in Sparse 3D Reconstruction.,Jared Heinly,https://dblp.org/pid/94/8602.html,ECCV,2014
+Correcting for Duplicate Scene Structure in Sparse 3D Reconstruction.,Enrique Dunn,https://dblp.org/pid/27/5341.html,ECCV,2014
+Correcting for Duplicate Scene Structure in Sparse 3D Reconstruction.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,ECCV,2014
+Total Moving Face Reconstruction.,Supasorn Suwajanakorn,https://dblp.org/pid/38/9726.html,ECCV,2014
+Total Moving Face Reconstruction.,Ira Kemelmacher-Shlizerman,https://dblp.org/pid/k/IraKemelmacher.html,ECCV,2014
+Total Moving Face Reconstruction.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2014
+Automatic Single-View Calibration and Rectification from Parallel Planar Curves.,Eduardo R. Corral-Soto,https://dblp.org/pid/47/11181.html,ECCV,2014
+Automatic Single-View Calibration and Rectification from Parallel Planar Curves.,James H. Elder,https://dblp.org/pid/21/2977.html,ECCV,2014
+On Sampling Focal Length Values to Solve the Absolute Pose Problem.,Torsten Sattler,https://dblp.org/pid/51/9054.html,ECCV,2014
+On Sampling Focal Length Values to Solve the Absolute Pose Problem.,Chris Sweeney,https://dblp.org/pid/124/0715.html,ECCV,2014
+On Sampling Focal Length Values to Solve the Absolute Pose Problem.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2014
+Video Registration to SfM Models.,Till Kroeger,https://dblp.org/pid/150/4235.html,ECCV,2014
+Video Registration to SfM Models.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Soft Cost Aggregation with Multi-resolution Fusion.,Xiao Tan,https://dblp.org/pid/116/7143-1.html,ECCV,2014
+Soft Cost Aggregation with Multi-resolution Fusion.,Changming Sun,https://dblp.org/pid/s/SMSun.html,ECCV,2014
+Soft Cost Aggregation with Multi-resolution Fusion.,Dadong Wang,https://dblp.org/pid/06/2186.html,ECCV,2014
+Soft Cost Aggregation with Multi-resolution Fusion.,Yi Guo,https://dblp.org/pid/24/3508-1.html,ECCV,2014
+Soft Cost Aggregation with Multi-resolution Fusion.,Tuan D. Pham,https://dblp.org/pid/p/TuanDPham.html,ECCV,2014
+Inverse Kernels for Fast Spatial Deconvolution.,Li Xu,https://dblp.org/pid/85/2168-1.html,ECCV,2014
+Inverse Kernels for Fast Spatial Deconvolution.,Xin Tao,https://dblp.org/pid/98/7443-1.html,ECCV,2014
+Inverse Kernels for Fast Spatial Deconvolution.,Jiaya Jia,https://dblp.org/pid/31/5649.html,ECCV,2014
+Deep Network Cascade for Image Super-resolution.,Zhen Cui,https://dblp.org/pid/59/8491.html,ECCV,2014
+Deep Network Cascade for Image Super-resolution.,Hong Chang,https://dblp.org/pid/02/2689.html,ECCV,2014
+Deep Network Cascade for Image Super-resolution.,Shiguang Shan,https://dblp.org/pid/s/ShiguangShan.html,ECCV,2014
+Deep Network Cascade for Image Super-resolution.,Bineng Zhong,https://dblp.org/pid/25/1637.html,ECCV,2014
+Deep Network Cascade for Image Super-resolution.,Xilin Chen,https://dblp.org/pid/c/XilinChen.html,ECCV,2014
+Spectral Edge Image Fusion: Theory and Applications.,David Connah,https://dblp.org/pid/20/1177.html,ECCV,2014
+Spectral Edge Image Fusion: Theory and Applications.,Mark Samuel Drew,https://dblp.org/pid/d/MarkSDrew.html,ECCV,2014
+Spectral Edge Image Fusion: Theory and Applications.,Graham David Finlayson,https://dblp.org/pid/f/GrahamDFinlayson.html,ECCV,2014
+Spatio-chromatic Opponent Features.,Ioannis Alexiou,https://dblp.org/pid/128/7915.html,ECCV,2014
+Spatio-chromatic Opponent Features.,Anil A. Bharath,https://dblp.org/pid/71/4319.html,ECCV,2014
+Modeling Perceptual Color Differences by Local Metric Learning.,Michaël Perrot,https://dblp.org/pid/123/5099.html,ECCV,2014
+Modeling Perceptual Color Differences by Local Metric Learning.,Amaury Habrard,https://dblp.org/pid/22/2297.html,ECCV,2014
+Modeling Perceptual Color Differences by Local Metric Learning.,Damien Muselet,https://dblp.org/pid/23/996.html,ECCV,2014
+Modeling Perceptual Color Differences by Local Metric Learning.,Marc Sebban,https://dblp.org/pid/s/MarcSebban.html,ECCV,2014
+Online Graph-Based Tracking.,Hyeonseob Nam,https://dblp.org/pid/150/4248.html,ECCV,2014
+Online Graph-Based Tracking.,Seunghoon Hong,https://dblp.org/pid/142/3014.html,ECCV,2014
+Online Graph-Based Tracking.,Bohyung Han,https://dblp.org/pid/73/4880.html,ECCV,2014
+Fast Visual Tracking via Dense Spatio-temporal Context Learning.,Kaihua Zhang,https://dblp.org/pid/84/8017.html,ECCV,2014
+Fast Visual Tracking via Dense Spatio-temporal Context Learning.,Lei Zhang,https://dblp.org/pid/64/5666-6.html,ECCV,2014
+Fast Visual Tracking via Dense Spatio-temporal Context Learning.,Qingshan Liu,https://dblp.org/pid/95/1247.html,ECCV,2014
+Fast Visual Tracking via Dense Spatio-temporal Context Learning.,David Zhang,https://dblp.org/pid/z/DavidZhang.html,ECCV,2014
+Fast Visual Tracking via Dense Spatio-temporal Context Learning.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2014
+Extended Lucas-Kanade Tracking.,Shaul Oron,https://dblp.org/pid/117/4769.html,ECCV,2014
+Extended Lucas-Kanade Tracking.,Aharon Bar-Hillel,https://dblp.org/pid/72/1301.html,ECCV,2014
+Extended Lucas-Kanade Tracking.,Shai Avidan,https://dblp.org/pid/02/617.html,ECCV,2014
+Appearances Can Be Deceiving: Learning Visual Tracking from Few Trajectory Annotations.,Santiago Manen,https://dblp.org/pid/142/2805.html,ECCV,2014
+Appearances Can Be Deceiving: Learning Visual Tracking from Few Trajectory Annotations.,Junseok Kwon,https://dblp.org/pid/04/425.html,ECCV,2014
+Appearances Can Be Deceiving: Learning Visual Tracking from Few Trajectory Annotations.,Matthieu Guillaumin,https://dblp.org/pid/99/1687.html,ECCV,2014
+Appearances Can Be Deceiving: Learning Visual Tracking from Few Trajectory Annotations.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Generalized Background Subtraction Using Superpixels with Label Integrated Motion Estimation.,Jongwoo Lim,https://dblp.org/pid/54/594.html,ECCV,2014
+Generalized Background Subtraction Using Superpixels with Label Integrated Motion Estimation.,Bohyung Han,https://dblp.org/pid/73/4880.html,ECCV,2014
+Spectra Estimation of Fluorescent and Reflective Scenes by Using Ordinary Illuminants.,Yinqiang Zheng,https://dblp.org/pid/79/5068.html,ECCV,2014
+Spectra Estimation of Fluorescent and Reflective Scenes by Using Ordinary Illuminants.,Imari Sato,https://dblp.org/pid/92/1010.html,ECCV,2014
+Spectra Estimation of Fluorescent and Reflective Scenes by Using Ordinary Illuminants.,Yoichi Sato,https://dblp.org/pid/64/5287.html,ECCV,2014
+Interreflection Removal Using Fluorescence.,Ying Fu,https://dblp.org/pid/89/1229.html,ECCV,2014
+Interreflection Removal Using Fluorescence.,Antony Lam,https://dblp.org/pid/43/4481.html,ECCV,2014
+Interreflection Removal Using Fluorescence.,Yasuyuki Matsushita,https://dblp.org/pid/11/3619.html,ECCV,2014
+Interreflection Removal Using Fluorescence.,Imari Sato,https://dblp.org/pid/92/1010.html,ECCV,2014
+Interreflection Removal Using Fluorescence.,Yoichi Sato,https://dblp.org/pid/64/5287.html,ECCV,2014
+Intrinsic Face Image Decomposition with Human Face Priors.,Chen Li,https://dblp.org/pid/164/3294-31.html,ECCV,2014
+Intrinsic Face Image Decomposition with Human Face Priors.,Kun Zhou,https://dblp.org/pid/48/3927-1.html,ECCV,2014
+Intrinsic Face Image Decomposition with Human Face Priors.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,ECCV,2014
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.,Mingjie Zhang,https://dblp.org/pid/150/4231.html,ECCV,2014
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.,Xing Lin,https://dblp.org/pid/17/418.html,ECCV,2014
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.,Mohit Gupta,https://dblp.org/pid/g/MohitGupta.html,ECCV,2014
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.,Jin-Li Suo,https://dblp.org/pid/15/898.html,ECCV,2014
+Recovering Scene Geometry under Wavy Fluid via Distortion and Defocus Analysis.,Qionghai Dai,https://dblp.org/pid/39/4543.html,ECCV,2014
+Human Detection Using Learned Part Alphabet and Pose Dictionary.,Cong Yao,https://dblp.org/pid/82/11201.html,ECCV,2014
+Human Detection Using Learned Part Alphabet and Pose Dictionary.,Xiang Bai,https://dblp.org/pid/59/2741.html,ECCV,2014
+Human Detection Using Learned Part Alphabet and Pose Dictionary.,Wenyu Liu,https://dblp.org/pid/42/4110-1.html,ECCV,2014
+Human Detection Using Learned Part Alphabet and Pose Dictionary.,Longin Jan Latecki,https://dblp.org/pid/44/1633.html,ECCV,2014
+SPADE: Scalar Product Accelerator by Integer Decomposition for Object Detection.,Mitsuru Ambai,https://dblp.org/pid/19/7185.html,ECCV,2014
+SPADE: Scalar Product Accelerator by Integer Decomposition for Object Detection.,Ikuro Sato,https://dblp.org/pid/68/10406.html,ECCV,2014
+Detecting Snap Points in Egocentric Video with a Web Photo Prior.,Bo Xiong,https://dblp.org/pid/64/4642.html,ECCV,2014
+Detecting Snap Points in Egocentric Video with a Web Photo Prior.,Kristen Grauman,https://dblp.org/pid/57/4553.html,ECCV,2014
+Towards Unified Object Detection and Semantic Segmentation.,Jian Dong,https://dblp.org/pid/58/3444.html,ECCV,2014
+Towards Unified Object Detection and Semantic Segmentation.,Qiang Chen,https://dblp.org/pid/62/2719-7.html,ECCV,2014
+Towards Unified Object Detection and Semantic Segmentation.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,ECCV,2014
+Towards Unified Object Detection and Semantic Segmentation.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,ECCV,2014
+Foreground Consistent Human Pose Estimation Using Branch and Bound.,Jens Puwein,https://dblp.org/pid/27/8294.html,ECCV,2014
+Foreground Consistent Human Pose Estimation Using Branch and Bound.,Luca Ballan,https://dblp.org/pid/14/1237.html,ECCV,2014
+Foreground Consistent Human Pose Estimation Using Branch and Bound.,Remo Ziegler,https://dblp.org/pid/30/3117.html,ECCV,2014
+Foreground Consistent Human Pose Estimation Using Branch and Bound.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2014
+Human Pose Estimation with Fields of Parts.,Martin Kiefel,https://dblp.org/pid/50/9183.html,ECCV,2014
+Human Pose Estimation with Fields of Parts.,Peter Vincent Gehler,https://dblp.org/pid/78/1502.html,ECCV,2014
+Unsupervised Video Adaptation for Parsing Human Motion.,Haoquan Shen,https://dblp.org/pid/135/5126.html,ECCV,2014
+Unsupervised Video Adaptation for Parsing Human Motion.,Shoou-I Yu,https://dblp.org/pid/23/7442.html,ECCV,2014
+Unsupervised Video Adaptation for Parsing Human Motion.,Yi Yang,https://dblp.org/pid/33/4854-1.html,ECCV,2014
+Unsupervised Video Adaptation for Parsing Human Motion.,Deyu Meng,https://dblp.org/pid/22/5614.html,ECCV,2014
+Unsupervised Video Adaptation for Parsing Human Motion.,Alexander G. Hauptmann,https://dblp.org/pid/h/AlexanderGHauptmann.html,ECCV,2014
+Training Object Class Detectors from Eye Tracking Data.,Dim P. Papadopoulos,https://dblp.org/pid/09/10259.html,ECCV,2014
+Training Object Class Detectors from Eye Tracking Data.,Alasdair D. F. Clarke,https://dblp.org/pid/98/9656.html,ECCV,2014
+Training Object Class Detectors from Eye Tracking Data.,Frank Keller,https://dblp.org/pid/30/4872.html,ECCV,2014
+Training Object Class Detectors from Eye Tracking Data.,Vittorio Ferrari,https://dblp.org/pid/16/3608.html,ECCV,2014
+Depth Based Object Detection from Partial Pose Estimation of Symmetric Objects.,Ehud Barnea,https://dblp.org/pid/150/4241.html,ECCV,2014
+Depth Based Object Detection from Partial Pose Estimation of Symmetric Objects.,Ohad Ben-Shahar,https://dblp.org/pid/59/3818.html,ECCV,2014
+Edge Boxes: Locating Object Proposals from Edges.,C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,ECCV,2014
+Edge Boxes: Locating Object Proposals from Edges.,Piotr Dollár,https://dblp.org/pid/62/750.html,ECCV,2014
+Training Deformable Object Models for Human Detection Based on Alignment and Clustering.,Benjamin Drayer,https://dblp.org/pid/68/10065.html,ECCV,2014
+Training Deformable Object Models for Human Detection Based on Alignment and Clustering.,Thomas Brox,https://dblp.org/pid/97/4586.html,ECCV,2014
+Predicting Actions from Static Scenes.,Tuan-Hung Vu,https://dblp.org/pid/150/4239.html,ECCV,2014
+Predicting Actions from Static Scenes.,Catherine Olsson,https://dblp.org/pid/132/5757.html,ECCV,2014
+Predicting Actions from Static Scenes.,Ivan Laptev,https://dblp.org/pid/41/1854.html,ECCV,2014
+Predicting Actions from Static Scenes.,Aude Oliva,https://dblp.org/pid/99/5538.html,ECCV,2014
+Predicting Actions from Static Scenes.,Josef Sivic,https://dblp.org/pid/71/5006.html,ECCV,2014
+Exploiting Privileged Information from Web Data for Image Categorization.,Wen Li,https://dblp.org/pid/06/721-1.html,ECCV,2014
+Exploiting Privileged Information from Web Data for Image Categorization.,Li Niu,https://dblp.org/pid/02/3166-2.html,ECCV,2014
+Exploiting Privileged Information from Web Data for Image Categorization.,Dong Xu,https://dblp.org/pid/09/3493-1.html,ECCV,2014
+Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,Anran Wang,https://dblp.org/pid/138/4209-1.html,ECCV,2014
+Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,Jiwen Lu,https://dblp.org/pid/09/6350.html,ECCV,2014
+Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,Gang Wang,https://dblp.org/pid/71/4292-12.html,ECCV,2014
+Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,Jianfei Cai,https://dblp.org/pid/83/6096.html,ECCV,2014
+Multi-modal Unsupervised Feature Learning for RGB-D Scene Labeling.,Tat-Jen Cham,https://dblp.org/pid/29/3808.html,ECCV,2014
+Discriminatively Trained Dense Surface Normal Estimation.,Lubor Ladicky,https://dblp.org/pid/44/4353.html,ECCV,2014
+Discriminatively Trained Dense Surface Normal Estimation.,Bernhard Zeisl,https://dblp.org/pid/56/7988.html,ECCV,2014
+Discriminatively Trained Dense Surface Normal Estimation.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2014
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects.,Qian Xie,https://dblp.org/pid/36/789.html,ECCV,2014
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects.,Ian H. Jermyn,https://dblp.org/pid/j/IanHJermyn.html,ECCV,2014
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects.,Sebastian Kurtek,https://dblp.org/pid/19/5997.html,ECCV,2014
+Numerical Inversion of SRNFs for Efficient Elastic Shape Analysis of Star-Shaped Objects.,Anuj Srivastava,https://dblp.org/pid/32/6819.html,ECCV,2014
+Non-associative Higher-Order Markov Networks for Point Cloud Classification.,Mohammad Najafi,https://dblp.org/pid/00/10171.html,ECCV,2014
+Non-associative Higher-Order Markov Networks for Point Cloud Classification.,Sarah Taghavi Namin,https://dblp.org/pid/29/8741.html,ECCV,2014
+Non-associative Higher-Order Markov Networks for Point Cloud Classification.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+Non-associative Higher-Order Markov Networks for Point Cloud Classification.,Lars Petersson,https://dblp.org/pid/18/5485.html,ECCV,2014
+Learning Where to Classify in Multi-view Semantic Segmentation.,Hayko Riemenschneider,https://dblp.org/pid/88/5817.html,ECCV,2014
+Learning Where to Classify in Multi-view Semantic Segmentation.,András Bódis-Szomorú,https://dblp.org/pid/150/4228.html,ECCV,2014
+Learning Where to Classify in Multi-view Semantic Segmentation.,Julien Weissenberg,https://dblp.org/pid/44/9941.html,ECCV,2014
+Learning Where to Classify in Multi-view Semantic Segmentation.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding.,Timo Scharwächter,https://dblp.org/pid/85/10781.html,ECCV,2014
+Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding.,Markus Enzweiler,https://dblp.org/pid/90/4932.html,ECCV,2014
+Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding.,Uwe Franke,https://dblp.org/pid/56/2085.html,ECCV,2014
+Stixmantics: A Medium-Level Model for Real-Time Semantic Scene Understanding.,Stefan Roth,https://dblp.org/pid/24/3452.html,ECCV,2014
+Sparse Dictionaries for Semantic Segmentation.,Lingling Tao,https://dblp.org/pid/80/11496.html,ECCV,2014
+Sparse Dictionaries for Semantic Segmentation.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,ECCV,2014
+Sparse Dictionaries for Semantic Segmentation.,René Vidal,https://dblp.org/pid/v/ReneVidal.html,ECCV,2014
+Video Action Detection with Relational Dynamic-Poselets.,Limin Wang,https://dblp.org/pid/68/6610-2.html,ECCV,2014
+Video Action Detection with Relational Dynamic-Poselets.,Yu Qiao,https://dblp.org/pid/q/YuQiao1.html,ECCV,2014
+Video Action Detection with Relational Dynamic-Poselets.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Action Recognition with Stacked Fisher Vectors.,Xiaojiang Peng,https://dblp.org/pid/133/6556.html,ECCV,2014
+Action Recognition with Stacked Fisher Vectors.,Changqing Zou,https://dblp.org/pid/126/1043.html,ECCV,2014
+Action Recognition with Stacked Fisher Vectors.,Yu Qiao,https://dblp.org/pid/q/YuQiao1.html,ECCV,2014
+Action Recognition with Stacked Fisher Vectors.,Qiang Peng,https://dblp.org/pid/09/3920.html,ECCV,2014
+A Discriminative Model with Multiple Temporal Scales for Action Prediction.,Yu Kong,https://dblp.org/pid/55/3630.html,ECCV,2014
+A Discriminative Model with Multiple Temporal Scales for Action Prediction.,Dmitry Kit,https://dblp.org/pid/66/3780.html,ECCV,2014
+A Discriminative Model with Multiple Temporal Scales for Action Prediction.,Yun Fu,https://dblp.org/pid/00/5815-1.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Andrei Barbu,https://dblp.org/pid/58/8365.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Daniel Paul Barrett,https://dblp.org/pid/131/6587.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Wei Chen,https://dblp.org/pid/181/2832-134.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Siddharth Narayanaswamy,https://dblp.org/pid/67/8366.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Caiming Xiong,https://dblp.org/pid/80/7282.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Jason J. Corso,https://dblp.org/pid/68/2447.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Christiane D. Fellbaum,https://dblp.org/pid/01/2215.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Catherine Hanson,https://dblp.org/pid/68/3299.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Stephen José Hanson,https://dblp.org/pid/76/2831.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Sébastien Hélie,https://dblp.org/pid/83/6192.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Evguenia Malaia,https://dblp.org/pid/86/1939.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Barak A. Pearlmutter,https://dblp.org/pid/36/3031.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Jeffrey Mark Siskind,https://dblp.org/pid/49/5331.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Thomas Michael Talavage,https://dblp.org/pid/40/6524.html,ECCV,2014
+Seeing is Worse than Believing: Reading People's Minds Better than Computer-Vision Methods Recognize Actions.,Ronnie B. Wilbur,https://dblp.org/pid/42/2214.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Piotr Bojanowski,https://dblp.org/pid/142/2542.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Rémi Lajugie,https://dblp.org/pid/127/6662.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Francis R. Bach,https://dblp.org/pid/b/FrancisRBach.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Ivan Laptev,https://dblp.org/pid/41/1854.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2014
+Weakly Supervised Action Labeling in Videos under Ordering Constraints.,Josef Sivic,https://dblp.org/pid/71/5006.html,ECCV,2014
+Active Random Forests: An Application to Autonomous Unfolding of Clothes.,Andreas Doumanoglou,https://dblp.org/pid/150/4213.html,ECCV,2014
+Active Random Forests: An Application to Autonomous Unfolding of Clothes.,Tae-Kyun Kim,https://dblp.org/pid/28/787.html,ECCV,2014
+Active Random Forests: An Application to Autonomous Unfolding of Clothes.,Xiaowei Zhao,https://dblp.org/pid/02/8134.html,ECCV,2014
+Active Random Forests: An Application to Autonomous Unfolding of Clothes.,Sotiris Malassiotis,https://dblp.org/pid/45/1931.html,ECCV,2014
+Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects.,Umar Asif,https://dblp.org/pid/11/10094.html,ECCV,2014
+Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects.,Mohammed Bennamoun,https://dblp.org/pid/00/3214.html,ECCV,2014
+Model-Free Segmentation and Grasp Selection of Unknown Stacked Objects.,Ferdous Ahmed Sohel,https://dblp.org/pid/87/1736.html,ECCV,2014
+Convexity Shape Prior for Segmentation.,Lena Gorelick,https://dblp.org/pid/59/4850.html,ECCV,2014
+Convexity Shape Prior for Segmentation.,Olga Veksler,https://dblp.org/pid/v/OlgaVeksler.html,ECCV,2014
+Convexity Shape Prior for Segmentation.,Yuri Boykov,https://dblp.org/pid/b/YuriBoykov.html,ECCV,2014
+Convexity Shape Prior for Segmentation.,Claudia Nieuwenhuis,https://dblp.org/pid/25/5548.html,ECCV,2014
+Pseudo-bound Optimization for Binary Energies.,Meng Tang,https://dblp.org/pid/53/4380-1.html,ECCV,2014
+Pseudo-bound Optimization for Binary Energies.,Ismail Ben Ayed,https://dblp.org/pid/68/4478.html,ECCV,2014
+Pseudo-bound Optimization for Binary Energies.,Yuri Boykov,https://dblp.org/pid/b/YuriBoykov.html,ECCV,2014
+A Closer Look at Context: From Coxels to the Contextual Emergence of Object Saliency.,Rotem Mairon,https://dblp.org/pid/150/4222.html,ECCV,2014
+A Closer Look at Context: From Coxels to the Contextual Emergence of Object Saliency.,Ohad Ben-Shahar,https://dblp.org/pid/59/3818.html,ECCV,2014
+Geodesic Object Proposals.,Philipp Krähenbühl,https://dblp.org/pid/43/7592.html,ECCV,2014
+Geodesic Object Proposals.,Vladlen Koltun,https://dblp.org/pid/66/5458.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Tsung-Yi Lin,https://dblp.org/pid/47/8105.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Michael Maire,https://dblp.org/pid/73/1498.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,James Hays,https://dblp.org/pid/57/5958.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Pietro Perona,https://dblp.org/pid/p/PietroPerona.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Deva Ramanan,https://dblp.org/pid/49/488.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,Piotr Dollár,https://dblp.org/pid/62/750.html,ECCV,2014
+Microsoft COCO: Common Objects in Context.,C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,ECCV,2014
+"Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation.",Koichiro Yamaguchi,https://dblp.org/pid/30/1774.html,ECCV,2014
+"Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation.",David A. McAllester,https://dblp.org/pid/m/DavidAMcAllester.html,ECCV,2014
+"Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation.",Raquel Urtasun,https://dblp.org/pid/u/RaquelUrtasun.html,ECCV,2014
+Robust Bundle Adjustment Revisited.,Christopher Zach,https://dblp.org/pid/93/4824.html,ECCV,2014
+Accurate Intrinsic Calibration of Depth Camera with Cuboids.,Bingwen Jin,https://dblp.org/pid/150/4243.html,ECCV,2014
+Accurate Intrinsic Calibration of Depth Camera with Cuboids.,Hao Lei,https://dblp.org/pid/43/5038.html,ECCV,2014
+Accurate Intrinsic Calibration of Depth Camera with Cuboids.,Weidong Geng,https://dblp.org/pid/55/6597.html,ECCV,2014
+Statistical Pose Averaging with Non-isotropic and Incomplete Relative Measurements.,Roberto Tron,https://dblp.org/pid/63/1790.html,ECCV,2014
+Statistical Pose Averaging with Non-isotropic and Incomplete Relative Measurements.,Kostas Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,ECCV,2014
+A Pot of Gold: Rainbows as a Calibration Cue.,Scott Workman,https://dblp.org/pid/135/4920.html,ECCV,2014
+A Pot of Gold: Rainbows as a Calibration Cue.,Radu Paul Mihail,https://dblp.org/pid/138/1582.html,ECCV,2014
+A Pot of Gold: Rainbows as a Calibration Cue.,Nathan Jacobs,https://dblp.org/pid/82/3140.html,ECCV,2014
+Let There Be Color! Large-Scale Texturing of 3D Reconstructions.,Michael Waechter,https://dblp.org/pid/116/5116.html,ECCV,2014
+Let There Be Color! Large-Scale Texturing of 3D Reconstructions.,Nils Moehrle,https://dblp.org/pid/150/4224.html,ECCV,2014
+Let There Be Color! Large-Scale Texturing of 3D Reconstructions.,Michael Goesele,https://dblp.org/pid/94/104.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Tao Yang,https://dblp.org/pid/67/1120-6.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Yanning Zhang,https://dblp.org/pid/14/6655.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Jingyi Yu,https://dblp.org/pid/58/4808.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Jing Li,https://dblp.org/pid/l/JingLi10.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Wenguang Ma,https://dblp.org/pid/136/5460.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Xiaomin Tong,https://dblp.org/pid/71/7949.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Rui Yu,https://dblp.org/pid/43/4940.html,ECCV,2014
+All-In-Focus Synthetic Aperture Imaging.,Lingyan Ran,https://dblp.org/pid/118/3505.html,ECCV,2014
+Photo Uncrop.,Qi Shan,https://dblp.org/pid/14/1682.html,ECCV,2014
+Photo Uncrop.,Brian Curless,https://dblp.org/pid/c/BrianCurless.html,ECCV,2014
+Photo Uncrop.,Yasutaka Furukawa,https://dblp.org/pid/37/1720.html,ECCV,2014
+Photo Uncrop.,Carlos Hernández,https://dblp.org/pid/14/1804.html,ECCV,2014
+Photo Uncrop.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2014
+Solving Square Jigsaw Puzzles with Loop Constraints.,Kilho Son,https://dblp.org/pid/66/2066.html,ECCV,2014
+Solving Square Jigsaw Puzzles with Loop Constraints.,James Hays,https://dblp.org/pid/57/5958.html,ECCV,2014
+Solving Square Jigsaw Puzzles with Loop Constraints.,David B. Cooper,https://dblp.org/pid/37/1085.html,ECCV,2014
+Geometric Calibration of Micro-Lens-Based Light-Field Cameras Using Line Features.,Yunsu Bok,https://dblp.org/pid/37/5562.html,ECCV,2014
+Geometric Calibration of Micro-Lens-Based Light-Field Cameras Using Line Features.,Hae-Gon Jeon,https://dblp.org/pid/142/2427.html,ECCV,2014
+Geometric Calibration of Micro-Lens-Based Light-Field Cameras Using Line Features.,In-So Kweon,https://dblp.org/pid/74/4917.html,ECCV,2014
+Spatio-temporal Matching for Human Detection in Video.,Feng Zhou,https://dblp.org/pid/21/6430-2.html,ECCV,2014
+Spatio-temporal Matching for Human Detection in Video.,Fernando De la Torre,https://dblp.org/pid/d/FernandoDelaTorre.html,ECCV,2014
+Collaborative Facial Landmark Localization for Transferring Annotations Across Datasets.,Brandon M. Smith,https://dblp.org/pid/42/7659-1.html,ECCV,2014
+Collaborative Facial Landmark Localization for Transferring Annotations Across Datasets.,Li Zhang,https://dblp.org/pid/89/5992-3.html,ECCV,2014
+Facial Landmark Detection by Deep Multi-task Learning.,Zhanpeng Zhang,https://dblp.org/pid/117/2916.html,ECCV,2014
+Facial Landmark Detection by Deep Multi-task Learning.,Ping Luo,https://dblp.org/pid/54/4989-2.html,ECCV,2014
+Facial Landmark Detection by Deep Multi-task Learning.,Chen Change Loy,https://dblp.org/pid/01/5855.html,ECCV,2014
+Facial Landmark Detection by Deep Multi-task Learning.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,ECCV,2014
+Joint Cascade Face Detection and Alignment.,Dong Chen,https://dblp.org/pid/44/3371-3.html,ECCV,2014
+Joint Cascade Face Detection and Alignment.,Shaoqing Ren,https://dblp.org/pid/147/5182.html,ECCV,2014
+Joint Cascade Face Detection and Alignment.,Yichen Wei,https://dblp.org/pid/49/944.html,ECCV,2014
+Joint Cascade Face Detection and Alignment.,Xudong Cao,https://dblp.org/pid/40/9090.html,ECCV,2014
+Joint Cascade Face Detection and Alignment.,Jian Sun,https://dblp.org/pid/68/4942-1.html,ECCV,2014
+Weighted Block-Sparse Low Rank Representation for Face Clustering in Videos.,Shijie Xiao,https://dblp.org/pid/135/4891.html,ECCV,2014
+Weighted Block-Sparse Low Rank Representation for Face Clustering in Videos.,Mingkui Tan,https://dblp.org/pid/49/2007.html,ECCV,2014
+Weighted Block-Sparse Low Rank Representation for Face Clustering in Videos.,Dong Xu,https://dblp.org/pid/09/3493-1.html,ECCV,2014
+Crowd Tracking with Dynamic Evolution of Group Structures.,Feng Zhu,https://dblp.org/pid/71/2791-6.html,ECCV,2014
+Crowd Tracking with Dynamic Evolution of Group Structures.,Xiaogang Wang,https://dblp.org/pid/91/6236-1.html,ECCV,2014
+Crowd Tracking with Dynamic Evolution of Group Structures.,Nenghai Yu,https://dblp.org/pid/96/5144.html,ECCV,2014
+Tracking Using Multilevel Quantizations.,Zhibin Hong,https://dblp.org/pid/119/1422.html,ECCV,2014
+Tracking Using Multilevel Quantizations.,Chaohui Wang,https://dblp.org/pid/51/711.html,ECCV,2014
+Tracking Using Multilevel Quantizations.,Xue Mei,https://dblp.org/pid/29/4521.html,ECCV,2014
+Tracking Using Multilevel Quantizations.,Danil V. Prokhorov,https://dblp.org/pid/74/5147.html,ECCV,2014
+Tracking Using Multilevel Quantizations.,Dacheng Tao,https://dblp.org/pid/46/3391.html,ECCV,2014
+Occlusion and Motion Reasoning for Long-Term Tracking.,Yang Hua,https://dblp.org/pid/34/9988.html,ECCV,2014
+Occlusion and Motion Reasoning for Long-Term Tracking.,Karteek Alahari,https://dblp.org/pid/a/KarteekAlahari.html,ECCV,2014
+Occlusion and Motion Reasoning for Long-Term Tracking.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2014
+MEEM: Robust Tracking via Multiple Experts Using Entropy Minimization.,Jianming Zhang,https://dblp.org/pid/12/3933-1.html,ECCV,2014
+MEEM: Robust Tracking via Multiple Experts Using Entropy Minimization.,Shugao Ma,https://dblp.org/pid/70/418.html,ECCV,2014
+MEEM: Robust Tracking via Multiple Experts Using Entropy Minimization.,Stan Sclaroff,https://dblp.org/pid/s/StanSclaroff.html,ECCV,2014
+Robust Motion Segmentation with Unknown Correspondences.,Pan Ji,https://dblp.org/pid/133/6525.html,ECCV,2014
+Robust Motion Segmentation with Unknown Correspondences.,Hongdong Li,https://dblp.org/pid/59/4859.html,ECCV,2014
+Robust Motion Segmentation with Unknown Correspondences.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+Robust Motion Segmentation with Unknown Correspondences.,Yuchao Dai,https://dblp.org/pid/65/7804.html,ECCV,2014
+Monocular Multiview Object Tracking with 3D Aspect Parts.,Yu Xiang,https://dblp.org/pid/00/6716.html,ECCV,2014
+Monocular Multiview Object Tracking with 3D Aspect Parts.,Changkyu Song,https://dblp.org/pid/150/4250.html,ECCV,2014
+Monocular Multiview Object Tracking with 3D Aspect Parts.,Roozbeh Mottaghi,https://dblp.org/pid/36/633.html,ECCV,2014
+Monocular Multiview Object Tracking with 3D Aspect Parts.,Silvio Savarese,https://dblp.org/pid/50/3578.html,ECCV,2014
+Modeling Blurred Video with Layers.,Jonas Wulff,https://dblp.org/pid/79/7090.html,ECCV,2014
+Modeling Blurred Video with Layers.,Michael Julian Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2014
+Efficient Image and Video Co-localization with Frank-Wolfe Algorithm.,Armand Joulin,https://dblp.org/pid/68/8653.html,ECCV,2014
+Efficient Image and Video Co-localization with Frank-Wolfe Algorithm.,Kevin D. Tang,https://dblp.org/pid/90/8652.html,ECCV,2014
+Efficient Image and Video Co-localization with Frank-Wolfe Algorithm.,Li Fei-Fei,https://dblp.org/pid/79/2528.html,ECCV,2014
+Non-parametric Higher-Order Random Fields for Image Segmentation.,Pablo Márquez-Neila,https://dblp.org/pid/74/7899.html,ECCV,2014
+Non-parametric Higher-Order Random Fields for Image Segmentation.,Pushmeet Kohli,https://dblp.org/pid/94/248.html,ECCV,2014
+Non-parametric Higher-Order Random Fields for Image Segmentation.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ECCV,2014
+Non-parametric Higher-Order Random Fields for Image Segmentation.,Luis Baumela,https://dblp.org/pid/48/3819.html,ECCV,2014
+Co-Sparse Textural Similarity for Interactive Segmentation.,Claudia Nieuwenhuis,https://dblp.org/pid/25/5548.html,ECCV,2014
+Co-Sparse Textural Similarity for Interactive Segmentation.,Simon Hawe,https://dblp.org/pid/28/9792.html,ECCV,2014
+Co-Sparse Textural Similarity for Interactive Segmentation.,Martin Kleinsteuber,https://dblp.org/pid/31/677.html,ECCV,2014
+Co-Sparse Textural Similarity for Interactive Segmentation.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ECCV,2014
+A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding.,Chenglong Bao,https://dblp.org/pid/117/4815.html,ECCV,2014
+A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding.,Yuhui Quan,https://dblp.org/pid/62/10771.html,ECCV,2014
+A Convergent Incoherent Dictionary Learning Algorithm for Sparse Coding.,Hui Ji,https://dblp.org/pid/52/6573.html,ECCV,2014
+Free-Shape Polygonal Object Localization.,Xiaolu Sun,https://dblp.org/pid/31/5684.html,ECCV,2014
+Free-Shape Polygonal Object Localization.,C. Mario Christoudias,https://dblp.org/pid/c/ChrisMarioChristoudias.html,ECCV,2014
+Free-Shape Polygonal Object Localization.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ECCV,2014
+Interactively Guiding Semi-Supervised Clustering via Attribute-Based Explanations.,Shrenik Lad,https://dblp.org/pid/127/6679.html,ECCV,2014
+Interactively Guiding Semi-Supervised Clustering via Attribute-Based Explanations.,Devi Parikh,https://dblp.org/pid/64/2121.html,ECCV,2014
+Attributes Make Sense on Segmented Objects.,Zhenyang Li,https://dblp.org/pid/29/8627.html,ECCV,2014
+Attributes Make Sense on Segmented Objects.,Efstratios Gavves,https://dblp.org/pid/03/8693.html,ECCV,2014
+Attributes Make Sense on Segmented Objects.,Thomas Mensink,https://dblp.org/pid/95/2677.html,ECCV,2014
+Attributes Make Sense on Segmented Objects.,Cees G. M. Snoek,https://dblp.org/pid/s/CeesSnoek.html,ECCV,2014
+Towards Transparent Systems: Semantic Characterization of Failure Modes.,Aayush Bansal,https://dblp.org/pid/148/7044.html,ECCV,2014
+Towards Transparent Systems: Semantic Characterization of Failure Modes.,Ali Farhadi,https://dblp.org/pid/37/5826.html,ECCV,2014
+Towards Transparent Systems: Semantic Characterization of Failure Modes.,Devi Parikh,https://dblp.org/pid/64/2121.html,ECCV,2014
+Orientation Covariant Aggregation of Local Descriptors with Embeddings.,Giorgos Tolias,https://dblp.org/pid/09/4652.html,ECCV,2014
+Orientation Covariant Aggregation of Local Descriptors with Embeddings.,Teddy Furon,https://dblp.org/pid/00/3862.html,ECCV,2014
+Orientation Covariant Aggregation of Local Descriptors with Embeddings.,Hervé Jégou,https://dblp.org/pid/19/2115.html,ECCV,2014
+Similarity-Invariant Sketch-Based Image Retrieval in Large Databases.,Sarthak Parui,https://dblp.org/pid/150/4257.html,ECCV,2014
+Similarity-Invariant Sketch-Based Image Retrieval in Large Databases.,Anurag Mittal,https://dblp.org/pid/59/6614.html,ECCV,2014
+Discovering Object Classes from Activities.,Abhilash Srikantha,https://dblp.org/pid/03/8712.html,ECCV,2014
+Discovering Object Classes from Activities.,Juergen Gall,https://dblp.org/pid/13/6920.html,ECCV,2014
+Weakly Supervised Object Localization with Latent Category Learning.,Chong Wang,https://dblp.org/pid/72/1334.html,ECCV,2014
+Weakly Supervised Object Localization with Latent Category Learning.,Weiqiang Ren,https://dblp.org/pid/119/8160.html,ECCV,2014
+Weakly Supervised Object Localization with Latent Category Learning.,Kaiqi Huang,https://dblp.org/pid/89/7026.html,ECCV,2014
+Weakly Supervised Object Localization with Latent Category Learning.,Tieniu Tan,https://dblp.org/pid/t/TieniuTan.html,ECCV,2014
+Food-101 - Mining Discriminative Components with Random Forests.,Lukas Bossard,https://dblp.org/pid/09/6717.html,ECCV,2014
+Food-101 - Mining Discriminative Components with Random Forests.,Matthieu Guillaumin,https://dblp.org/pid/99/1687.html,ECCV,2014
+Food-101 - Mining Discriminative Components with Random Forests.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Latent-Class Hough Forests for 3D Object Detection and Pose Estimation.,Alykhan Tejani,https://dblp.org/pid/150/4263.html,ECCV,2014
+Latent-Class Hough Forests for 3D Object Detection and Pose Estimation.,Danhang Tang,https://dblp.org/pid/128/7847.html,ECCV,2014
+Latent-Class Hough Forests for 3D Object Detection and Pose Estimation.,Rigas Kouskouridas,https://dblp.org/pid/78/7626.html,ECCV,2014
+Latent-Class Hough Forests for 3D Object Detection and Pose Estimation.,Tae-Kyun Kim,https://dblp.org/pid/28/787.html,ECCV,2014
+FPM: Fine Pose Parts-Based Model with 3D CAD Models.,Joseph J. Lim,https://dblp.org/pid/08/3086.html,ECCV,2014
+FPM: Fine Pose Parts-Based Model with 3D CAD Models.,Aditya Khosla,https://dblp.org/pid/01/8315.html,ECCV,2014
+FPM: Fine Pose Parts-Based Model with 3D CAD Models.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,ECCV,2014
+Learning High-Level Judgments of Urban Perception.,Vicente Ordonez,https://dblp.org/pid/74/7584.html,ECCV,2014
+Learning High-Level Judgments of Urban Perception.,Tamara L. Berg,https://dblp.org/pid/63/6787.html,ECCV,2014
+CollageParsing: Nonparametric Scene Parsing by Adaptive Overlapping Windows.,Frederick Tung,https://dblp.org/pid/10/7697.html,ECCV,2014
+CollageParsing: Nonparametric Scene Parsing by Adaptive Overlapping Windows.,James J. Little,https://dblp.org/pid/18/2287.html,ECCV,2014
+Discovering Video Clusters from Visual Features and Noisy Tags.,Arash Vahdat,https://dblp.org/pid/92/8108.html,ECCV,2014
+Discovering Video Clusters from Visual Features and Noisy Tags.,Guang-Tong Zhou,https://dblp.org/pid/37/8315.html,ECCV,2014
+Discovering Video Clusters from Visual Features and Noisy Tags.,Greg Mori,https://dblp.org/pid/m/GregMori.html,ECCV,2014
+Category-Specific Video Summarization.,Danila Potapov,https://dblp.org/pid/150/4249.html,ECCV,2014
+Category-Specific Video Summarization.,Matthijs Douze,https://dblp.org/pid/64/5801.html,ECCV,2014
+Category-Specific Video Summarization.,Zaïd Harchaoui,https://dblp.org/pid/39/2793.html,ECCV,2014
+Category-Specific Video Summarization.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2014
+Assessing the Quality of Actions.,Hamed Pirsiavash,https://dblp.org/pid/07/6340.html,ECCV,2014
+Assessing the Quality of Actions.,Carl Vondrick,https://dblp.org/pid/26/8610.html,ECCV,2014
+Assessing the Quality of Actions.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,ECCV,2014
+HiRF: Hierarchical Random Field for Collective Activity Recognition in Videos.,Mohamed Rabie Amer,https://dblp.org/pid/87/10771.html,ECCV,2014
+HiRF: Hierarchical Random Field for Collective Activity Recognition in Videos.,Peng Lei,https://dblp.org/pid/22/8752.html,ECCV,2014
+HiRF: Hierarchical Random Field for Collective Activity Recognition in Videos.,Sinisa Todorovic,https://dblp.org/pid/01/6892.html,ECCV,2014
+Part Bricolage: Flow-Assisted Part-Based Graphs for Detecting Activities in Videos.,Sukrit Shankar,https://dblp.org/pid/141/1953.html,ECCV,2014
+Part Bricolage: Flow-Assisted Part-Based Graphs for Detecting Activities in Videos.,Vijay Badrinarayanan,https://dblp.org/pid/46/1149.html,ECCV,2014
+Part Bricolage: Flow-Assisted Part-Based Graphs for Detecting Activities in Videos.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,ECCV,2014
+GIS-Assisted Object Detection and Geospatial Localization.,Shervin Ardeshir,https://dblp.org/pid/150/4238.html,ECCV,2014
+GIS-Assisted Object Detection and Geospatial Localization.,Amir Roshan Zamir,https://dblp.org/pid/76/8610.html,ECCV,2014
+GIS-Assisted Object Detection and Geospatial Localization.,Alejandro Torroella,https://dblp.org/pid/150/4210.html,ECCV,2014
+GIS-Assisted Object Detection and Geospatial Localization.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ECCV,2014
+Context-Based Pedestrian Path Prediction.,Julian Francisco Pieter Kooij,https://dblp.org/pid/56/7158.html,ECCV,2014
+Context-Based Pedestrian Path Prediction.,Nicolas Schneider,https://dblp.org/pid/47/9958.html,ECCV,2014
+Context-Based Pedestrian Path Prediction.,Fabian Flohr,https://dblp.org/pid/148/7150.html,ECCV,2014
+Context-Based Pedestrian Path Prediction.,Dariu M. Gavrila,https://dblp.org/pid/g/DariuGavrila.html,ECCV,2014
+Sliding Shapes for 3D Object Detection in Depth Images.,Shuran Song,https://dblp.org/pid/123/4433.html,ECCV,2014
+Sliding Shapes for 3D Object Detection in Depth Images.,Jianxiong Xiao,https://dblp.org/pid/57/5248.html,ECCV,2014
+Integrating Context and Occlusion for Car Detection by Hierarchical And-Or Model.,Bo Li,https://dblp.org/pid/50/3402-31.html,ECCV,2014
+Integrating Context and Occlusion for Car Detection by Hierarchical And-Or Model.,Tianfu Wu,https://dblp.org/pid/08/4148-1.html,ECCV,2014
+Integrating Context and Occlusion for Car Detection by Hierarchical And-Or Model.,Song-Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2014
+PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding.,Yinda Zhang,https://dblp.org/pid/135/4896-1.html,ECCV,2014
+PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding.,Shuran Song,https://dblp.org/pid/123/4433.html,ECCV,2014
+PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding.,Ping Tan,https://dblp.org/pid/61/6118.html,ECCV,2014
+PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding.,Jianxiong Xiao,https://dblp.org/pid/57/5248.html,ECCV,2014
+Unfolding an Indoor Origami World.,David Ford Fouhey,https://dblp.org/pid/29/8613.html,ECCV,2014
+Unfolding an Indoor Origami World.,Abhinav Gupta,https://dblp.org/pid/36/7024-1.html,ECCV,2014
+Unfolding an Indoor Origami World.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2014
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video.,Abhijit Kundu,https://dblp.org/pid/34/7743.html,ECCV,2014
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video.,Yin Li,https://dblp.org/pid/49/5981-3.html,ECCV,2014
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video.,Frank Dellaert,https://dblp.org/pid/d/FrankDellaert.html,ECCV,2014
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video.,Fuxin Li,https://dblp.org/pid/03/2783.html,ECCV,2014
+Joint Semantic Segmentation and 3D Reconstruction from Monocular Video.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,ECCV,2014
+A New Variational Framework for Multiview Surface Reconstruction.,Ben Semerjian,https://dblp.org/pid/150/4219.html,ECCV,2014
+Multi-body Depth-Map Fusion with Non-intersection Constraints.,Bastien Jacquet,https://dblp.org/pid/135/4885.html,ECCV,2014
+Multi-body Depth-Map Fusion with Non-intersection Constraints.,Christian Häne,https://dblp.org/pid/63/10335.html,ECCV,2014
+Multi-body Depth-Map Fusion with Non-intersection Constraints.,Roland Angst,https://dblp.org/pid/64/6280.html,ECCV,2014
+Multi-body Depth-Map Fusion with Non-intersection Constraints.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2014
+Shape from Light Field Meets Robust PCA.,Stefan Heber,https://dblp.org/pid/119/1587.html,ECCV,2014
+Shape from Light Field Meets Robust PCA.,Thomas Pock,https://dblp.org/pid/48/6407.html,ECCV,2014
+Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval.,Bor-Chun Chen,https://dblp.org/pid/86/10575.html,ECCV,2014
+Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval.,Chu-Song Chen,https://dblp.org/pid/67/1007.html,ECCV,2014
+Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval.,Winston H. Hsu,https://dblp.org/pid/16/5668.html,ECCV,2014
+Reverse Training: An Efficient Approach for Image Set Classification.,Munawar Hayat,https://dblp.org/pid/126/1131.html,ECCV,2014
+Reverse Training: An Efficient Approach for Image Set Classification.,Mohammed Bennamoun,https://dblp.org/pid/00/3214.html,ECCV,2014
+Reverse Training: An Efficient Approach for Image Set Classification.,Senjian An,https://dblp.org/pid/17/3718.html,ECCV,2014
+Real-Time Exemplar-Based Face Sketch Synthesis.,Yibing Song,https://dblp.org/pid/77/2117.html,ECCV,2014
+Real-Time Exemplar-Based Face Sketch Synthesis.,Linchao Bao,https://dblp.org/pid/126/1018.html,ECCV,2014
+Real-Time Exemplar-Based Face Sketch Synthesis.,Qingxiong Yang,https://dblp.org/pid/y/QingxiongYang.html,ECCV,2014
+Real-Time Exemplar-Based Face Sketch Synthesis.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2014
+Domain-Adaptive Discriminative One-Shot Learning of Gestures.,Tomas Pfister,https://dblp.org/pid/14/8360.html,ECCV,2014
+Domain-Adaptive Discriminative One-Shot Learning of Gestures.,James Charles,https://dblp.org/pid/91/7705.html,ECCV,2014
+Domain-Adaptive Discriminative One-Shot Learning of Gestures.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2014
+Person Re-Identification Using Kernel-Based Metric Learning Methods.,Fei Xiong,https://dblp.org/pid/95/3744.html,ECCV,2014
+Person Re-Identification Using Kernel-Based Metric Learning Methods.,Mengran Gou,https://dblp.org/pid/150/4227.html,ECCV,2014
+Person Re-Identification Using Kernel-Based Metric Learning Methods.,Octavia I. Camps,https://dblp.org/pid/69/6960.html,ECCV,2014
+Person Re-Identification Using Kernel-Based Metric Learning Methods.,Mario Sznaier,https://dblp.org/pid/14/1686.html,ECCV,2014
+Saliency in Crowd.,Ming Jiang,https://dblp.org/pid/02/10377.html,ECCV,2014
+Saliency in Crowd.,Juan Xu,https://dblp.org/pid/42/5953.html,ECCV,2014
+Saliency in Crowd.,Qi Zhao,https://dblp.org/pid/05/490.html,ECCV,2014
+Webpage Saliency.,Chengyao Shen,https://dblp.org/pid/87/10460.html,ECCV,2014
+Webpage Saliency.,Qi Zhao,https://dblp.org/pid/05/490.html,ECCV,2014
+Deblurring Face Images with Exemplars.,Jin-shan Pan,https://dblp.org/pid/06/10816.html,ECCV,2014
+Deblurring Face Images with Exemplars.,Zhe Hu,https://dblp.org/pid/88/6765.html,ECCV,2014
+Deblurring Face Images with Exemplars.,Zhixun Su,https://dblp.org/pid/96/4421.html,ECCV,2014
+Deblurring Face Images with Exemplars.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2014
+Sparse Spatio-spectral Representation for Hyperspectral Image Super-resolution.,Naveed Akhtar,https://dblp.org/pid/147/2745.html,ECCV,2014
+Sparse Spatio-spectral Representation for Hyperspectral Image Super-resolution.,Faisal Shafait,https://dblp.org/pid/86/378.html,ECCV,2014
+Sparse Spatio-spectral Representation for Hyperspectral Image Super-resolution.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,ECCV,2014
+Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information.,Tao Yue,https://dblp.org/pid/40/7423-3.html,ECCV,2014
+Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information.,Sunghyun Cho,https://dblp.org/pid/22/6163.html,ECCV,2014
+Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information.,Jue Wang,https://dblp.org/pid/69/393-1.html,ECCV,2014
+Hybrid Image Deblurring by Fusing Edge and Power Spectrum Information.,Qionghai Dai,https://dblp.org/pid/39/4543.html,ECCV,2014
+Affine Subspace Representation for Feature Description.,Zhenhua Wang,https://dblp.org/pid/33/4679-2.html,ECCV,2014
+Affine Subspace Representation for Feature Description.,Bin Fan,https://dblp.org/pid/60/105-1.html,ECCV,2014
+Affine Subspace Representation for Feature Description.,Fuchao Wu,https://dblp.org/pid/46/1990.html,ECCV,2014
+A Generative Model for the Joint Registration of Multiple Point Sets.,Georgios D. Evangelidis,https://dblp.org/pid/05/3392-2.html,ECCV,2014
+A Generative Model for the Joint Registration of Multiple Point Sets.,Dionyssos Kounades-Bastian,https://dblp.org/pid/150/4237.html,ECCV,2014
+A Generative Model for the Joint Registration of Multiple Point Sets.,Radu Horaud,https://dblp.org/pid/59/2097.html,ECCV,2014
+A Generative Model for the Joint Registration of Multiple Point Sets.,Emmanouil Z. Psarakis,https://dblp.org/pid/44/5719.html,ECCV,2014
+Change Detection in the Presence of Motion Blur and Rolling Shutter Effect.,Vijay Rengarajan Angarai Pichaikuppan,https://dblp.org/pid/155/3273.html,ECCV,2014
+Change Detection in the Presence of Motion Blur and Rolling Shutter Effect.,Rajagopalan Ambasamudram Narayanan,https://dblp.org/pid/73/3473.html,ECCV,2014
+Change Detection in the Presence of Motion Blur and Rolling Shutter Effect.,Rangarajan Aravind,https://dblp.org/pid/04/2364.html,ECCV,2014
+An Analysis of Errors in Graph-Based Keypoint Matching and Proposed Solutions.,Toby Collins,https://dblp.org/pid/96/9395.html,ECCV,2014
+An Analysis of Errors in Graph-Based Keypoint Matching and Proposed Solutions.,Pablo Mesejo,https://dblp.org/pid/03/9015.html,ECCV,2014
+An Analysis of Errors in Graph-Based Keypoint Matching and Proposed Solutions.,Adrien Bartoli,https://dblp.org/pid/58/2064.html,ECCV,2014
+OpenDR: An Approximate Differentiable Renderer.,Matthew M. Loper,https://dblp.org/pid/56/6429.html,ECCV,2014
+OpenDR: An Approximate Differentiable Renderer.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2014
+A Superior Tracking Approach: Building a Strong Tracker through Fusion.,Christian Bailer,https://dblp.org/pid/119/1518.html,ECCV,2014
+A Superior Tracking Approach: Building a Strong Tracker through Fusion.,Alain Pagani,https://dblp.org/pid/59/3540.html,ECCV,2014
+A Superior Tracking Approach: Building a Strong Tracker through Fusion.,Didier Stricker,https://dblp.org/pid/02/5478.html,ECCV,2014
+Training-Based Spectral Reconstruction from a Single RGB Image.,Nguyen Ho Man Rang,https://dblp.org/pid/151/8882.html,ECCV,2014
+Training-Based Spectral Reconstruction from a Single RGB Image.,Dilip K. Prasad,https://dblp.org/pid/93/8841.html,ECCV,2014
+Training-Based Spectral Reconstruction from a Single RGB Image.,Michael S. Brown,https://dblp.org/pid/02/4733.html,ECCV,2014
+On Shape and Material Recovery from Motion.,Manmohan Chandraker,https://dblp.org/pid/79/589.html,ECCV,2014
+Intrinsic Image Decomposition Using Structure-Texture Separation and Surface Normals.,Junho Jeon,https://dblp.org/pid/150/4262.html,ECCV,2014
+Intrinsic Image Decomposition Using Structure-Texture Separation and Surface Normals.,Sunghyun Cho,https://dblp.org/pid/22/6163.html,ECCV,2014
+Intrinsic Image Decomposition Using Structure-Texture Separation and Surface Normals.,Xin Tong,https://dblp.org/pid/86/2176-1.html,ECCV,2014
+Intrinsic Image Decomposition Using Structure-Texture Separation and Surface Normals.,Seungyong Lee,https://dblp.org/pid/60/2559-1.html,ECCV,2014
+Multi-level Adaptive Active Learning for Scene Classification.,Xin Li,https://dblp.org/pid/09/1365-13.html,ECCV,2014
+Multi-level Adaptive Active Learning for Scene Classification.,Yuhong Guo,https://dblp.org/pid/34/5185.html,ECCV,2014
+Graph Cuts for Supervised Binary Coding.,Tiezheng Ge,https://dblp.org/pid/135/4944.html,ECCV,2014
+Graph Cuts for Supervised Binary Coding.,Kaiming He,https://dblp.org/pid/34/7659.html,ECCV,2014
+Graph Cuts for Supervised Binary Coding.,Jian Sun,https://dblp.org/pid/68/4942-1.html,ECCV,2014
+Planar Structure Matching under Projective Uncertainty for Geolocation.,Ang Li,https://dblp.org/pid/33/2805-1.html,ECCV,2014
+Planar Structure Matching under Projective Uncertainty for Geolocation.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,ECCV,2014
+Planar Structure Matching under Projective Uncertainty for Geolocation.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ECCV,2014
+Active Deformable Part Models Inference.,Menglong Zhu,https://dblp.org/pid/119/1462.html,ECCV,2014
+Active Deformable Part Models Inference.,Nikolay Atanasov,https://dblp.org/pid/117/2111.html,ECCV,2014
+Active Deformable Part Models Inference.,George J. Pappas,https://dblp.org/pid/p/GeorgeJPappas.html,ECCV,2014
+Active Deformable Part Models Inference.,Kostas Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,ECCV,2014
+Simultaneous Detection and Segmentation.,Bharath Hariharan,https://dblp.org/pid/05/8412.html,ECCV,2014
+Simultaneous Detection and Segmentation.,Pablo Andrés Arbeláez,https://dblp.org/pid/41/639.html,ECCV,2014
+Simultaneous Detection and Segmentation.,Ross B. Girshick,https://dblp.org/pid/89/7658.html,ECCV,2014
+Simultaneous Detection and Segmentation.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2014
+Learning Graphs to Model Visual Objects across Different Depictive Styles.,Qi Wu,https://dblp.org/pid/96/3446-1.html,ECCV,2014
+Learning Graphs to Model Visual Objects across Different Depictive Styles.,Hongping Cai,https://dblp.org/pid/18/6706.html,ECCV,2014
+Learning Graphs to Model Visual Objects across Different Depictive Styles.,Peter Hall,https://dblp.org/pid/h/PeterMHall.html,ECCV,2014
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition.,Pulkit Agrawal,https://dblp.org/pid/149/2672.html,ECCV,2014
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition.,Ross B. Girshick,https://dblp.org/pid/89/7658.html,ECCV,2014
+Analyzing the Performance of Multilayer Neural Networks for Object Recognition.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2014
+Learning Rich Features from RGB-D Images for Object Detection and Segmentation.,Saurabh Gupta,https://dblp.org/pid/06/5843-1.html,ECCV,2014
+Learning Rich Features from RGB-D Images for Object Detection and Segmentation.,Ross B. Girshick,https://dblp.org/pid/89/7658.html,ECCV,2014
+Learning Rich Features from RGB-D Images for Object Detection and Segmentation.,Pablo Andrés Arbeláez,https://dblp.org/pid/41/639.html,ECCV,2014
+Learning Rich Features from RGB-D Images for Object Detection and Segmentation.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2014
+Scene Classification via Hypergraph-Based Semantic Attributes Subnetworks Identification.,Sun-Wook Choi,https://dblp.org/pid/58/7229.html,ECCV,2014
+Scene Classification via Hypergraph-Based Semantic Attributes Subnetworks Identification.,Chong Ho Lee,https://dblp.org/pid/69/1204.html,ECCV,2014
+Scene Classification via Hypergraph-Based Semantic Attributes Subnetworks Identification.,In Kyu Park,https://dblp.org/pid/72/5728.html,ECCV,2014
+OTC: A Novel Local Descriptor for Scene Classification.,Ran Margolin,https://dblp.org/pid/128/4251.html,ECCV,2014
+OTC: A Novel Local Descriptor for Scene Classification.,Lihi Zelnik-Manor,https://dblp.org/pid/z/LihiZelnikManor.html,ECCV,2014
+OTC: A Novel Local Descriptor for Scene Classification.,Ayellet Tal,https://dblp.org/pid/54/3491.html,ECCV,2014
+Multi-scale Orderless Pooling of Deep Convolutional Activation Features.,Yunchao Gong,https://dblp.org/pid/g/YunchaoGong.html,ECCV,2014
+Multi-scale Orderless Pooling of Deep Convolutional Activation Features.,Liwei Wang,https://dblp.org/pid/47/1798-9.html,ECCV,2014
+Multi-scale Orderless Pooling of Deep Convolutional Activation Features.,Ruiqi Guo,https://dblp.org/pid/78/7198.html,ECCV,2014
+Multi-scale Orderless Pooling of Deep Convolutional Activation Features.,Svetlana Lazebnik,https://dblp.org/pid/55/5180.html,ECCV,2014
+Expanding the Family of Grassmannian Kernels: An Embedding Perspective.,Mehrtash Tafazzoli Harandi,https://dblp.org/pid/92/5921.html,ECCV,2014
+Expanding the Family of Grassmannian Kernels: An Embedding Perspective.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ECCV,2014
+Expanding the Family of Grassmannian Kernels: An Embedding Perspective.,Sadeep Jayasumana,https://dblp.org/pid/135/4884.html,ECCV,2014
+Expanding the Family of Grassmannian Kernels: An Embedding Perspective.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ECCV,2014
+Expanding the Family of Grassmannian Kernels: An Embedding Perspective.,Hongdong Li,https://dblp.org/pid/59/4859.html,ECCV,2014
+Image Tag Completion by Noisy Matrix Recovery.,Zheyun Feng,https://dblp.org/pid/142/2893.html,ECCV,2014
+Image Tag Completion by Noisy Matrix Recovery.,Songhe Feng,https://dblp.org/pid/92/2415.html,ECCV,2014
+Image Tag Completion by Noisy Matrix Recovery.,Rong Jin,https://dblp.org/pid/j/RongJin.html,ECCV,2014
+Image Tag Completion by Noisy Matrix Recovery.,Anil K. Jain,https://dblp.org/pid/j/AnilKJain.html,ECCV,2014
+ConceptMap: Mining Noisy Web Data for Concept Learning.,Eren Golge,https://dblp.org/pid/139/0810.html,ECCV,2014
+ConceptMap: Mining Noisy Web Data for Concept Learning.,Pinar Duygulu,https://dblp.org/pid/16/4903.html,ECCV,2014
+Shrinkage Expansion Adaptive Metric Learning.,Qilong Wang,https://dblp.org/pid/119/1488.html,ECCV,2014
+Shrinkage Expansion Adaptive Metric Learning.,Wangmeng Zuo,https://dblp.org/pid/93/2671.html,ECCV,2014
+Shrinkage Expansion Adaptive Metric Learning.,Lei Zhang,https://dblp.org/pid/64/5666-6.html,ECCV,2014
+Shrinkage Expansion Adaptive Metric Learning.,Peihua Li,https://dblp.org/pid/80/5257.html,ECCV,2014
+Salient Montages from Unconstrained Videos.,Min Sun,https://dblp.org/pid/62/2750-1.html,ECCV,2014
+Salient Montages from Unconstrained Videos.,Ali Farhadi,https://dblp.org/pid/37/5826.html,ECCV,2014
+Salient Montages from Unconstrained Videos.,Ben Taskar,https://dblp.org/pid/t/BenjaminTaskar.html,ECCV,2014
+Salient Montages from Unconstrained Videos.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2014
+Action-Reaction: Forecasting the Dynamics of Human Interaction.,De-An Huang,https://dblp.org/pid/119/0335.html,ECCV,2014
+Action-Reaction: Forecasting the Dynamics of Human Interaction.,Kris M. Kitani,https://dblp.org/pid/42/163.html,ECCV,2014
+Creating Summaries from User Videos.,Michael Gygli,https://dblp.org/pid/135/4875.html,ECCV,2014
+Creating Summaries from User Videos.,Helmut Grabner,https://dblp.org/pid/25/1065.html,ECCV,2014
+Creating Summaries from User Videos.,Hayko Riemenschneider,https://dblp.org/pid/88/5817.html,ECCV,2014
+Creating Summaries from User Videos.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2014
+Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow.,Mingliang Chen,https://dblp.org/pid/122/9619.html,ECCV,2014
+Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow.,Qingxiong Yang,https://dblp.org/pid/y/QingxiongYang.html,ECCV,2014
+Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow.,Qing Li,https://dblp.org/pid/181/2689-1.html,ECCV,2014
+Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow.,Gang Wang,https://dblp.org/pid/71/4292-12.html,ECCV,2014
+Spatiotemporal Background Subtraction Using Minimum Spanning Tree and Optical Flow.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2014
+Robust Foreground Detection Using Smoothness and Arbitrariness Constraints.,Xiaojie Guo,https://dblp.org/pid/43/8066-1.html,ECCV,2014
+Robust Foreground Detection Using Smoothness and Arbitrariness Constraints.,Xinggang Wang,https://dblp.org/pid/95/3056.html,ECCV,2014
+Robust Foreground Detection Using Smoothness and Arbitrariness Constraints.,Liang Yang,https://dblp.org/pid/05/3933-2.html,ECCV,2014
+Robust Foreground Detection Using Smoothness and Arbitrariness Constraints.,Xiaochun Cao,https://dblp.org/pid/39/3695.html,ECCV,2014
+Robust Foreground Detection Using Smoothness and Arbitrariness Constraints.,Yi Ma,https://dblp.org/pid/69/1112-1.html,ECCV,2014
+Video Object Co-segmentation by Regulated Maximum Weight Cliques.,Dong Zhang,https://dblp.org/pid/68/3245.html,ECCV,2014
+Video Object Co-segmentation by Regulated Maximum Weight Cliques.,Omar Javed,https://dblp.org/pid/17/3429.html,ECCV,2014
+Video Object Co-segmentation by Regulated Maximum Weight Cliques.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ECCV,2014
+Dense Semi-rigid Scene Flow Estimation from RGBD Images.,Julian Quiroga,https://dblp.org/pid/97/1015.html,ECCV,2014
+Dense Semi-rigid Scene Flow Estimation from RGBD Images.,Thomas Brox,https://dblp.org/pid/97/4586.html,ECCV,2014
+Dense Semi-rigid Scene Flow Estimation from RGBD Images.,Frédéric Devernay,https://dblp.org/pid/10/2822.html,ECCV,2014
+Dense Semi-rigid Scene Flow Estimation from RGBD Images.,James L. Crowley,https://dblp.org/pid/50/3289.html,ECCV,2014
+Video Pop-up: Monocular 3D Reconstruction of Dynamic Scenes.,Chris Russell,https://dblp.org/pid/57/9988-1.html,ECCV,2014
+Video Pop-up: Monocular 3D Reconstruction of Dynamic Scenes.,Rui Yu,https://dblp.org/pid/43/4940.html,ECCV,2014
+Video Pop-up: Monocular 3D Reconstruction of Dynamic Scenes.,Lourdes Agapito,https://dblp.org/pid/70/3697.html,ECCV,2014
+Joint Object Class Sequencing and Trajectory Triangulation (JOST).,Enliang Zheng,https://dblp.org/pid/35/9941.html,ECCV,2014
+Joint Object Class Sequencing and Trajectory Triangulation (JOST).,Ke Wang,https://dblp.org/pid/181/2613-21.html,ECCV,2014
+Joint Object Class Sequencing and Trajectory Triangulation (JOST).,Enrique Dunn,https://dblp.org/pid/27/5341.html,ECCV,2014
+Joint Object Class Sequencing and Trajectory Triangulation (JOST).,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,ECCV,2014
+Scene Chronology.,Kevin Matzen,https://dblp.org/pid/142/2812.html,ECCV,2014
+Scene Chronology.,Noah Snavely,https://dblp.org/pid/33/4636.html,ECCV,2014

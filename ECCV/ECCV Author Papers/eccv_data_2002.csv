@@ -1,0 +1,566 @@
+Paper Title,Author Names,Author URLs,Conference Name,Conference Year
+Tracking with the EM Contour Algorithm.,Arthur E. C. Pece,https://dblp.org/pid/98/3237.html,ECCV,2002
+Tracking with the EM Contour Algorithm.,Anthony D. Worrall,https://dblp.org/pid/18/3848.html,ECCV,2002
+M2Tracker: A Multi-view Approach to Segmenting and Tracking People in a Cluttered Scene Using Region-Based Stereo.,Anurag Mittal,https://dblp.org/pid/59/6614.html,ECCV,2002
+M2Tracker: A Multi-view Approach to Segmenting and Tracking People in a Cluttered Scene Using Region-Based Stereo.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ECCV,2002
+Analytical Image Models and Their Applications.,Anuj Srivastava,https://dblp.org/pid/32/6819.html,ECCV,2002
+Analytical Image Models and Their Applications.,Xiuwen Liu,https://dblp.org/pid/89/3077.html,ECCV,2002
+Analytical Image Models and Their Applications.,Ulf Grenander,https://dblp.org/pid/g/UlfGrenander.html,ECCV,2002
+Time-Recursive Velocity-Adapted Spatio-Temporal Scale-Space Filters.,Tony Lindeberg,https://dblp.org/pid/33/1119.html,ECCV,2002
+Combining Appearance and Topology for Wide Baseline Matching.,Dennis Tell,https://dblp.org/pid/30/3075.html,ECCV,2002
+Combining Appearance and Topology for Wide Baseline Matching.,Stefan Carlsson,https://dblp.org/pid/17/709.html,ECCV,2002
+Guided Sampling and Consensus for Motion Estimation.,Ben Tordoff,https://dblp.org/pid/23/2619.html,ECCV,2002
+Guided Sampling and Consensus for Motion Estimation.,David William Murray,https://dblp.org/pid/60/5939-1.html,ECCV,2002
+Fast Anisotropic Gauss Filtering.,Jan-Mark Geusebroek,https://dblp.org/pid/68/2181.html,ECCV,2002
+Fast Anisotropic Gauss Filtering.,Arnold W. M. Smeulders,https://dblp.org/pid/15/5400.html,ECCV,2002
+Fast Anisotropic Gauss Filtering.,Joost van de Weijer,https://dblp.org/pid/67/3379.html,ECCV,2002
+Adaptive Rest Condition Potentials: Second Order Edge-Preserving Regularization.,Mariano Rivera,https://dblp.org/pid/72/501.html,ECCV,2002
+Adaptive Rest Condition Potentials: Second Order Edge-Preserving Regularization.,José L. Marroquín,https://dblp.org/pid/18/5283.html,ECCV,2002
+An Affine Invariant Interest Point Detector.,Krystian Mikolajczyk,https://dblp.org/pid/96/433.html,ECCV,2002
+An Affine Invariant Interest Point Detector.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2002
+Understanding and Modeling the Evolution of Critical Points under Gaussian Blurring.,Arjan Kuijper,https://dblp.org/pid/k/ArjanKuijper.html,ECCV,2002
+Understanding and Modeling the Evolution of Critical Points under Gaussian Blurring.,Luc Florack,https://dblp.org/pid/48/1307.html,ECCV,2002
+Image Processing Done Right.,Jan J. Koenderink,https://dblp.org/pid/48/5115.html,ECCV,2002
+Image Processing Done Right.,Andrea J. van Doorn,https://dblp.org/pid/93/3278.html,ECCV,2002
+Multimodal Data Representations with Parameterized Local Structures.,Ying Zhu,https://dblp.org/pid/01/2082.html,ECCV,2002
+Multimodal Data Representations with Parameterized Local Structures.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,ECCV,2002
+Multimodal Data Representations with Parameterized Local Structures.,Stuart C. Schwartz,https://dblp.org/pid/36/1175.html,ECCV,2002
+Multimodal Data Representations with Parameterized Local Structures.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,ECCV,2002
+The Relevance of Non-generic Events in Scale Space Models.,Arjan Kuijper,https://dblp.org/pid/k/ArjanKuijper.html,ECCV,2002
+The Relevance of Non-generic Events in Scale Space Models.,Luc Florack,https://dblp.org/pid/48/1307.html,ECCV,2002
+The Localized Consistency Principle for Image Matching under Non-uniform Illumination Variation and Affine Distortion.,Bing Wang,https://dblp.org/pid/06/1909.html,ECCV,2002
+The Localized Consistency Principle for Image Matching under Non-uniform Illumination Variation and Affine Distortion.,Kah Kay Sung,https://dblp.org/pid/91/6575.html,ECCV,2002
+The Localized Consistency Principle for Image Matching under Non-uniform Illumination Variation and Affine Distortion.,Teck Khim Ng,https://dblp.org/pid/88/1588.html,ECCV,2002
+Resolution Selection Using Generalized Entropies of Multiresolution Histograms.,Efstathios Hadjidemetriou,https://dblp.org/pid/32/4301.html,ECCV,2002
+Resolution Selection Using Generalized Entropies of Multiresolution Histograms.,Michael D. Grossberg,https://dblp.org/pid/32/4909.html,ECCV,2002
+Resolution Selection Using Generalized Entropies of Multiresolution Histograms.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ECCV,2002
+Robust Computer Vision through Kernel Density Estimation.,Haifeng Chen,https://dblp.org/pid/08/57.html,ECCV,2002
+Robust Computer Vision through Kernel Density Estimation.,Peter Meer,https://dblp.org/pid/60/6290.html,ECCV,2002
+Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization.,Christophe Chefd'Hotel,https://dblp.org/pid/17/387.html,ECCV,2002
+Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization.,David Tschumperlé,https://dblp.org/pid/56/4705.html,ECCV,2002
+Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization.,Rachid Deriche,https://dblp.org/pid/07/4284.html,ECCV,2002
+Constrained Flows of Matrix-Valued Functions: Application to Diffusion Tensor Regularization.,Olivier D. Faugeras,https://dblp.org/pid/48/4143.html,ECCV,2002
+A Hierarchical Framework for Spectral Correspondence.,Marco Carcassoni,https://dblp.org/pid/84/6143.html,ECCV,2002
+A Hierarchical Framework for Spectral Correspondence.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,ECCV,2002
+Phase-Based Local Features.,Gustavo Carneiro,https://dblp.org/pid/53/3609.html,ECCV,2002
+Phase-Based Local Features.,Allan D. Jepson,https://dblp.org/pid/93/4241.html,ECCV,2002
+What Is the Role of Independence for Visual Recognition?,Nuno Vasconcelos,https://dblp.org/pid/78/4806.html,ECCV,2002
+What Is the Role of Independence for Visual Recognition?,Gustavo Carneiro,https://dblp.org/pid/53/3609.html,ECCV,2002
+A Probabilistic Multi-scale Model for Contour Completion Based on Image Statistics.,Xiaofeng Ren,https://dblp.org/pid/84/3585.html,ECCV,2002
+A Probabilistic Multi-scale Model for Contour Completion Based on Image Statistics.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2002
+Toward a Full Probability Model of Edges in Natural Images.,Kim Steenstrup Pedersen,https://dblp.org/pid/22/3613.html,ECCV,2002
+Toward a Full Probability Model of Edges in Natural Images.,Ann B. Lee,https://dblp.org/pid/03/3920.html,ECCV,2002
+Fast Difference Schemes for Edge Enhancing Beltrami Flow.,Ravi Malladi,https://dblp.org/pid/98/5040.html,ECCV,2002
+Fast Difference Schemes for Edge Enhancing Beltrami Flow.,Igor Ravve,https://dblp.org/pid/04/6994.html,ECCV,2002
+A Fast Radial Symmetry Transform for Detecting Points of Interest.,Gareth Loy,https://dblp.org/pid/24/6065.html,ECCV,2002
+A Fast Radial Symmetry Transform for Detecting Points of Interest.,Alexander Zelinsky,https://dblp.org/pid/35/1386.html,ECCV,2002
+Image Features Based on a New Approach to 2D Rotation Invariant Quadrature Filters.,Michael Felsberg,https://dblp.org/pid/00/78.html,ECCV,2002
+Image Features Based on a New Approach to 2D Rotation Invariant Quadrature Filters.,Gerald Sommer,https://dblp.org/pid/57/6794.html,ECCV,2002
+Representing Edge Models via Local Principal Component Analysis.,Patrick S. Huggins,https://dblp.org/pid/88/1742.html,ECCV,2002
+Representing Edge Models via Local Principal Component Analysis.,Steven W. Zucker,https://dblp.org/pid/40/1041.html,ECCV,2002
+Regularized Shock Filters and Complex Diffusion.,Guy Gilboa,https://dblp.org/pid/44/4220.html,ECCV,2002
+Regularized Shock Filters and Complex Diffusion.,Nir A. Sochen,https://dblp.org/pid/s/NirASochen.html,ECCV,2002
+Regularized Shock Filters and Complex Diffusion.,Yehoshua Y. Zeevi,https://dblp.org/pid/83/2568.html,ECCV,2002
+"Multi-view Matching for Unordered Image Sets, or ""How Do I Organize My Holiday Snaps?"".",Frederik Schaffalitzky,https://dblp.org/pid/42/70.html,ECCV,2002
+"Multi-view Matching for Unordered Image Sets, or ""How Do I Organize My Holiday Snaps?"".",Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+Parameter Estimates for a Pencil of Lines: Bounds and Estimators.,Gavriel Speyer,https://dblp.org/pid/11/4040.html,ECCV,2002
+Parameter Estimates for a Pencil of Lines: Bounds and Estimators.,Michael Werman,https://dblp.org/pid/24/6738.html,ECCV,2002
+Multilinear Analysis of Image Ensembles: TensorFaces.,M. Alex O. Vasilescu,https://dblp.org/pid/15/4964.html,ECCV,2002
+Multilinear Analysis of Image Ensembles: TensorFaces.,Demetri Terzopoulos,https://dblp.org/pid/85/4738.html,ECCV,2002
+'Dynamism of a Dog on a Leash' or Behavior Classification by Eigen-Decomposition of Periodic Motions.,Roman Goldenberg,https://dblp.org/pid/99/3512.html,ECCV,2002
+'Dynamism of a Dog on a Leash' or Behavior Classification by Eigen-Decomposition of Periodic Motions.,Ron Kimmel,https://dblp.org/pid/k/RonKimmel.html,ECCV,2002
+'Dynamism of a Dog on a Leash' or Behavior Classification by Eigen-Decomposition of Periodic Motions.,Ehud Rivlin,https://dblp.org/pid/32/5978.html,ECCV,2002
+'Dynamism of a Dog on a Leash' or Behavior Classification by Eigen-Decomposition of Periodic Motions.,Michael Rudzsky,https://dblp.org/pid/60/6511.html,ECCV,2002
+Automatic Detection and Tracking of Human Motion with a View-Based Representation.,Ronan Fablet,https://dblp.org/pid/57/5644.html,ECCV,2002
+Automatic Detection and Tracking of Human Motion with a View-Based Representation.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2002
+Using Robust Estimation Algorithms for Tracking Explicit Curves.,Jean-Philippe Tarel,https://dblp.org/pid/27/4360.html,ECCV,2002
+Using Robust Estimation Algorithms for Tracking Explicit Curves.,Sio-Song Ieng,https://dblp.org/pid/07/1837.html,ECCV,2002
+Using Robust Estimation Algorithms for Tracking Explicit Curves.,Pierre Charbonnier,https://dblp.org/pid/88/3093.html,ECCV,2002
+On the Motion and Appearance of Specularities in Image Sequences.,Rahul Swaminathan,https://dblp.org/pid/60/399.html,ECCV,2002
+On the Motion and Appearance of Specularities in Image Sequences.,Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,ECCV,2002
+On the Motion and Appearance of Specularities in Image Sequences.,Richard Szeliski,https://dblp.org/pid/46/2186.html,ECCV,2002
+On the Motion and Appearance of Specularities in Image Sequences.,Antonio Criminisi,https://dblp.org/pid/c/AntonioCriminisi.html,ECCV,2002
+On the Motion and Appearance of Specularities in Image Sequences.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ECCV,2002
+Multiple Hypothesis Tracking for Automatic Optical Motion Capture.,Maurice Ringer,https://dblp.org/pid/18/6744.html,ECCV,2002
+Multiple Hypothesis Tracking for Automatic Optical Motion Capture.,Joan Lasenby,https://dblp.org/pid/62/3833.html,ECCV,2002
+Single Axis Geometry by Fitting Conics.,Guang Jiang,https://dblp.org/pid/01/3928.html,ECCV,2002
+Single Axis Geometry by Fitting Conics.,Hung-Tat Tsui,https://dblp.org/pid/72/5783.html,ECCV,2002
+Single Axis Geometry by Fitting Conics.,Long Quan,https://dblp.org/pid/04/575.html,ECCV,2002
+Single Axis Geometry by Fitting Conics.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+Computing the Physical Parameters of Rigid-Body Motion from Video.,Kiran S. Bhat,https://dblp.org/pid/15/3087.html,ECCV,2002
+Computing the Physical Parameters of Rigid-Body Motion from Video.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ECCV,2002
+Computing the Physical Parameters of Rigid-Body Motion from Video.,Jovan Popovic,https://dblp.org/pid/p/JovanPopovic.html,ECCV,2002
+Building Roadmaps of Local Minima of Visual Models.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,ECCV,2002
+Building Roadmaps of Local Minima of Visual Models.,Bill Triggs,https://dblp.org/pid/49/1622.html,ECCV,2002
+A Generative Method for Textured Motion: Analysis and Synthesis.,Yizhou Wang,https://dblp.org/pid/71/3387-1.html,ECCV,2002
+A Generative Method for Textured Motion: Analysis and Synthesis.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2002
+Is Super-Resolution with Optical Flow Feasible?,Wen-Yi Zhao,https://dblp.org/pid/38/6375.html,ECCV,2002
+Is Super-Resolution with Optical Flow Feasible?,Harpreet S. Sawhney,https://dblp.org/pid/86/689.html,ECCV,2002
+New View Generation with a Bi-centric Camera.,Daphna Weinshall,https://dblp.org/pid/93/1568.html,ECCV,2002
+New View Generation with a Bi-centric Camera.,Mi-Suen Lee,https://dblp.org/pid/99/4123.html,ECCV,2002
+New View Generation with a Bi-centric Camera.,Tomás Brodský,https://dblp.org/pid/77/4775.html,ECCV,2002
+New View Generation with a Bi-centric Camera.,M. Trajkovic,https://dblp.org/pid/32/5924.html,ECCV,2002
+New View Generation with a Bi-centric Camera.,Doron Feldman,https://dblp.org/pid/20/86.html,ECCV,2002
+Recognizing and Tracking Human Action.,Josephine Sullivan,https://dblp.org/pid/32/3671.html,ECCV,2002
+Recognizing and Tracking Human Action.,Stefan Carlsson,https://dblp.org/pid/17/709.html,ECCV,2002
+Towards Improved Observation Models for Visual Tracking: Selective Adaptation.,Jaco Vermaak,https://dblp.org/pid/45/4445.html,ECCV,2002
+Towards Improved Observation Models for Visual Tracking: Selective Adaptation.,Patrick Pérez,https://dblp.org/pid/71/1167.html,ECCV,2002
+Towards Improved Observation Models for Visual Tracking: Selective Adaptation.,Michel Gangnet,https://dblp.org/pid/77/3327.html,ECCV,2002
+Towards Improved Observation Models for Visual Tracking: Selective Adaptation.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,ECCV,2002
+Color-Based Probabilistic Tracking.,Patrick Pérez,https://dblp.org/pid/71/1167.html,ECCV,2002
+Color-Based Probabilistic Tracking.,Carine Hue,https://dblp.org/pid/10/6243.html,ECCV,2002
+Color-Based Probabilistic Tracking.,Jaco Vermaak,https://dblp.org/pid/45/4445.html,ECCV,2002
+Color-Based Probabilistic Tracking.,Michel Gangnet,https://dblp.org/pid/77/3327.html,ECCV,2002
+Dense Motion Analysis in Fluid Imagery.,Thomas Corpetti,https://dblp.org/pid/39/2836.html,ECCV,2002
+Dense Motion Analysis in Fluid Imagery.,Étienne Mémin,https://dblp.org/pid/90/2632.html,ECCV,2002
+Dense Motion Analysis in Fluid Imagery.,Patrick Pérez,https://dblp.org/pid/71/1167.html,ECCV,2002
+A Layered Motion Representation with Occlusion and Compact Spatial Support.,Allan D. Jepson,https://dblp.org/pid/93/4241.html,ECCV,2002
+A Layered Motion Representation with Occlusion and Compact Spatial Support.,David J. Fleet,https://dblp.org/pid/07/2099.html,ECCV,2002
+A Layered Motion Representation with Occlusion and Compact Spatial Support.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2002
+Incremental Singular Value Decomposition of Uncertain Data with Missing Values.,Matthew Brand,https://dblp.org/pid/49/3829.html,ECCV,2002
+Symmetrical Dense Optical Flow Estimation with Occlusions Detection.,Luis Álvarez,https://dblp.org/pid/27/644.html,ECCV,2002
+Symmetrical Dense Optical Flow Estimation with Occlusions Detection.,Rachid Deriche,https://dblp.org/pid/07/4284.html,ECCV,2002
+Symmetrical Dense Optical Flow Estimation with Occlusions Detection.,Théodore Papadopoulo,https://dblp.org/pid/65/2103.html,ECCV,2002
+Symmetrical Dense Optical Flow Estimation with Occlusions Detection.,Javier Sánchez Pérez,https://dblp.org/pid/92/546.html,ECCV,2002
+Audio-Video Sensor Fusion with Probabilistic Graphical Models.,Matthew J. Beal,https://dblp.org/pid/95/6103.html,ECCV,2002
+Audio-Video Sensor Fusion with Probabilistic Graphical Models.,Hagai Attias,https://dblp.org/pid/a/HTAttias.html,ECCV,2002
+Audio-Video Sensor Fusion with Probabilistic Graphical Models.,Nebojsa Jojic,https://dblp.org/pid/20/1944.html,ECCV,2002
+Increasing Space-Time Resolution in Video.,Eli Shechtman,https://dblp.org/pid/50/1918.html,ECCV,2002
+Increasing Space-Time Resolution in Video.,Yaron Caspi,https://dblp.org/pid/98/4125.html,ECCV,2002
+Increasing Space-Time Resolution in Video.,Michal Irani,https://dblp.org/pid/04/3190.html,ECCV,2002
+Hyperdynamics Importance Sampling.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,ECCV,2002
+Hyperdynamics Importance Sampling.,Bill Triggs,https://dblp.org/pid/49/1622.html,ECCV,2002
+Implicit Probabilistic Models of Human Motion for Synthesis and Tracking.,Hedvig Sidenbladh,https://dblp.org/pid/k/HedvigKjellstrom.html,ECCV,2002
+Implicit Probabilistic Models of Human Motion for Synthesis and Tracking.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2002
+Implicit Probabilistic Models of Human Motion for Synthesis and Tracking.,Leonid Sigal,https://dblp.org/pid/09/4991.html,ECCV,2002
+Space-Time Tracking.,Lorenzo Torresani,https://dblp.org/pid/75/2854.html,ECCV,2002
+Space-Time Tracking.,Christoph Bregler,https://dblp.org/pid/b/ChristophBregler.html,ECCV,2002
+A Variational Approach to Recovering a Manifold from Sample Points.,José Gomes,https://dblp.org/pid/18/760.html,ECCV,2002
+A Variational Approach to Recovering a Manifold from Sample Points.,Aleksandra Mojsilovic,https://dblp.org/pid/43/280.html,ECCV,2002
+A Variational Approach to Shape from Defocus.,Hailin Jin,https://dblp.org/pid/78/102.html,ECCV,2002
+A Variational Approach to Shape from Defocus.,Paolo Favaro,https://dblp.org/pid/02/4162.html,ECCV,2002
+Shadow Graphs and Surface Reconstruction.,Yizhou Yu,https://dblp.org/pid/90/6896.html,ECCV,2002
+Shadow Graphs and Surface Reconstruction.,Johnny T. Chang,https://dblp.org/pid/93/3687.html,ECCV,2002
+Specularities Reduce Ambiguity of Uncalibrated Photometric Stereo.,Ondrej Drbohlav,https://dblp.org/pid/79/5367.html,ECCV,2002
+Specularities Reduce Ambiguity of Uncalibrated Photometric Stereo.,Radim Sára,https://dblp.org/pid/50/2275.html,ECCV,2002
+Pairwise Clustering with Matrix Factorisation and the EM Algorithm.,Antonio Robles-Kelly,https://dblp.org/pid/07/3794.html,ECCV,2002
+Pairwise Clustering with Matrix Factorisation and the EM Algorithm.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,ECCV,2002
+Shape Priors for Level Set Representations.,Mikaël Rousson,https://dblp.org/pid/r/MikaelRousson.html,ECCV,2002
+Shape Priors for Level Set Representations.,Nikos Paragios,https://dblp.org/pid/p/NikosParagios.html,ECCV,2002
+Nonlinear Shape Statistics in Mumford-Shah Based Segmentation.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ECCV,2002
+Nonlinear Shape Statistics in Mumford-Shah Based Segmentation.,Timo Kohlberger,https://dblp.org/pid/42/895.html,ECCV,2002
+Nonlinear Shape Statistics in Mumford-Shah Based Segmentation.,Christoph Schnörr,https://dblp.org/pid/59/5226.html,ECCV,2002
+"Class-Specific, Top-Down Segmentation.",Eran Borenstein,https://dblp.org/pid/87/222.html,ECCV,2002
+"Class-Specific, Top-Down Segmentation.",Shimon Ullman,https://dblp.org/pid/93/2158.html,ECCV,2002
+Quasi-Dense Reconstruction from Image Sequence.,Maxime Lhuillier,https://dblp.org/pid/l/MaximeLhuillier.html,ECCV,2002
+Quasi-Dense Reconstruction from Image Sequence.,Long Quan,https://dblp.org/pid/04/575.html,ECCV,2002
+Properties of the Catadioptric Fundamental Matrix.,Christopher Geyer,https://dblp.org/pid/64/5222.html,ECCV,2002
+Properties of the Catadioptric Fundamental Matrix.,Konstantinos Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,ECCV,2002
+Building Architectural Models from Many Views Using Map Constraints.,Duncan P. Robertson,https://dblp.org/pid/00/4013.html,ECCV,2002
+Building Architectural Models from Many Views Using Map Constraints.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,ECCV,2002
+Motion - Stereo Integration for Depth Estimation.,Christoph Strecha,https://dblp.org/pid/27/3603.html,ECCV,2002
+Motion - Stereo Integration for Depth Estimation.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+Lens Distortion Recovery for Accurate Sequential Structure and Motion Recovery.,Kurt Cornelis,https://dblp.org/pid/44/2625.html,ECCV,2002
+Lens Distortion Recovery for Accurate Sequential Structure and Motion Recovery.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2002
+Lens Distortion Recovery for Accurate Sequential Structure and Motion Recovery.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+Generalized Rank Conditions in Multiple View Geometry with Applications to Dynamical Scenes.,Kun Huang,https://dblp.org/pid/10/4151-1.html,ECCV,2002
+Generalized Rank Conditions in Multiple View Geometry with Applications to Dynamical Scenes.,Robert M. Fossum,https://dblp.org/pid/66/6014.html,ECCV,2002
+Generalized Rank Conditions in Multiple View Geometry with Applications to Dynamical Scenes.,Yi Ma,https://dblp.org/pid/69/1112-1.html,ECCV,2002
+Dense Structure-from-Motion: An Approach Based on Segment Matching.,Fabian Ernst,https://dblp.org/pid/40/5341.html,ECCV,2002
+Dense Structure-from-Motion: An Approach Based on Segment Matching.,Piotr Wilinski,https://dblp.org/pid/33/4120.html,ECCV,2002
+Dense Structure-from-Motion: An Approach Based on Segment Matching.,Cornelius W. A. M. van Overveld,https://dblp.org/pid/o/KvOverveld.html,ECCV,2002
+Maximizing Rigidity: Optimal Matching under Scaled-Orthography.,João Maciel,https://dblp.org/pid/35/1872.html,ECCV,2002
+Maximizing Rigidity: Optimal Matching under Scaled-Orthography.,João Paulo Costeira,https://dblp.org/pid/10/887.html,ECCV,2002
+Dramatic Improvements to Feature Based Stereo.,Vadim N. Smelyansky,https://dblp.org/pid/18/2353.html,ECCV,2002
+Dramatic Improvements to Feature Based Stereo.,Robin D. Morris,https://dblp.org/pid/26/6567.html,ECCV,2002
+Dramatic Improvements to Feature Based Stereo.,Frank O. Kuehnel,https://dblp.org/pid/52/1440.html,ECCV,2002
+Dramatic Improvements to Feature Based Stereo.,David A. Maluf,https://dblp.org/pid/65/2472.html,ECCV,2002
+Dramatic Improvements to Feature Based Stereo.,Peter C. Cheeseman,https://dblp.org/pid/11/6762.html,ECCV,2002
+Motion Curves for Parametric Shape and Motion Estimation.,Pierre-Louis Bazin,https://dblp.org/pid/03/5942.html,ECCV,2002
+Motion Curves for Parametric Shape and Motion Estimation.,Jean-Marc Vézien,https://dblp.org/pid/20/532.html,ECCV,2002
+Bayesian Self-Calibration of a Moving Camera.,Gang Qian,https://dblp.org/pid/54/2806.html,ECCV,2002
+Bayesian Self-Calibration of a Moving Camera.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,ECCV,2002
+Balanced Recovery of 3D Structure and Camera Motion from Uncalibrated Image Sequences.,Bogdan Georgescu,https://dblp.org/pid/91/1880.html,ECCV,2002
+Balanced Recovery of 3D Structure and Camera Motion from Uncalibrated Image Sequences.,Peter Meer,https://dblp.org/pid/60/6290.html,ECCV,2002
+Linear Multi View Reconstruction with Missing Data.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ECCV,2002
+Linear Multi View Reconstruction with Missing Data.,Stefan Carlsson,https://dblp.org/pid/17/709.html,ECCV,2002
+Model-Based Silhouette Extraction for Accurate People Tracking.,Ralf Plänkers,https://dblp.org/pid/67/4202.html,ECCV,2002
+Model-Based Silhouette Extraction for Accurate People Tracking.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ECCV,2002
+On the Non-linear Optimization of Projective Motion Using Minimal Parameters.,Adrien Bartoli,https://dblp.org/pid/58/2064.html,ECCV,2002
+Structure from Many Perspective Images with Occlusions.,Daniel Martinec,https://dblp.org/pid/50/442.html,ECCV,2002
+Structure from Many Perspective Images with Occlusions.,Tomás Pajdla,https://dblp.org/pid/p/TomasPajdla.html,ECCV,2002
+Sequence-to-Sequence Self Calibration.,Lior Wolf,https://dblp.org/pid/83/4103.html,ECCV,2002
+Sequence-to-Sequence Self Calibration.,Assaf Zomet,https://dblp.org/pid/48/2087.html,ECCV,2002
+Structure from Planar Motions with Small Baselines.,René Vidal,https://dblp.org/pid/v/ReneVidal.html,ECCV,2002
+Structure from Planar Motions with Small Baselines.,John Oliensis,https://dblp.org/pid/99/5076.html,ECCV,2002
+Revisiting Single-View Shape Tensors: Theory and Applications.,Anat Levin,https://dblp.org/pid/35/4557.html,ECCV,2002
+Revisiting Single-View Shape Tensors: Theory and Applications.,Amnon Shashua,https://dblp.org/pid/47/1492.html,ECCV,2002
+Tracking and Rendering Using Dynamic Textures on Geometric Structure from Motion.,Dana Cobzas,https://dblp.org/pid/60/2646.html,ECCV,2002
+Tracking and Rendering Using Dynamic Textures on Geometric Structure from Motion.,Martin Jägersand,https://dblp.org/pid/j/MartinJagersand.html,ECCV,2002
+Sensitivity of Calibration to Principal Point Position.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ECCV,2002
+Sensitivity of Calibration to Principal Point Position.,Robert Kaucic,https://dblp.org/pid/80/1423.html,ECCV,2002
+Critical Curves and Surfaces for Euclidean Reconstruction.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ECCV,2002
+Critical Curves and Surfaces for Euclidean Reconstruction.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ECCV,2002
+View Synthesis with Occlusion Reasoning Using Quasi-Sparse Feature Correspondences.,David Jelinek,https://dblp.org/pid/93/6750.html,ECCV,2002
+View Synthesis with Occlusion Reasoning Using Quasi-Sparse Feature Correspondences.,Camillo J. Taylor,https://dblp.org/pid/t/CamilloJTaylor.html,ECCV,2002
+Eye Gaze Correction with Stereovision for Video-Teleconferencing.,Ruigang Yang,https://dblp.org/pid/08/5690.html,ECCV,2002
+Eye Gaze Correction with Stereovision for Video-Teleconferencing.,Zhengyou Zhang,https://dblp.org/pid/73/5043.html,ECCV,2002
+Wavelet-Based Correlation for Stereopsis.,Maureen Clerc,https://dblp.org/pid/c/MaureenClerc.html,ECCV,2002
+Stereo Matching Using Belief Propagation.,Jian Sun,https://dblp.org/pid/68/4942-1.html,ECCV,2002
+Stereo Matching Using Belief Propagation.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ECCV,2002
+Stereo Matching Using Belief Propagation.,Nanning Zheng,https://dblp.org/pid/07/256-1.html,ECCV,2002
+Symmetric Sub-Pixel Stereo Matching.,Richard Szeliski,https://dblp.org/pid/46/2186.html,ECCV,2002
+Symmetric Sub-Pixel Stereo Matching.,Daniel Scharstein,https://dblp.org/pid/s/DanielScharstein.html,ECCV,2002
+New Techniques for Automated Architectural Reconstruction from Photographs.,Tomás Werner,https://dblp.org/pid/02/227.html,ECCV,2002
+New Techniques for Automated Architectural Reconstruction from Photographs.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+Stereo Matching with Segmentation-Based Cooperation.,Ye Zhang,https://dblp.org/pid/147/0497.html,ECCV,2002
+Stereo Matching with Segmentation-Based Cooperation.,Chandra Kambhamettu,https://dblp.org/pid/47/4773.html,ECCV,2002
+Coarse Registration of Surface Patches with Local Symmetries.,Joris Vanden Wyngaerd,https://dblp.org/pid/11/6810.html,ECCV,2002
+Coarse Registration of Surface Patches with Local Symmetries.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+Multiview Registration of 3D Scenes by Minimizing Error between Coordinate Frames.,Gregory C. Sharp,https://dblp.org/pid/71/5686.html,ECCV,2002
+Multiview Registration of 3D Scenes by Minimizing Error between Coordinate Frames.,Sang Wook Lee,https://dblp.org/pid/15/151.html,ECCV,2002
+Multiview Registration of 3D Scenes by Minimizing Error between Coordinate Frames.,David K. Wehe,https://dblp.org/pid/04/6932.html,ECCV,2002
+Recovering Surfaces from the Restoring Force.,George I. Kamberov,https://dblp.org/pid/128/2023.html,ECCV,2002
+Recovering Surfaces from the Restoring Force.,Gerda Kamberova,https://dblp.org/pid/76/2550.html,ECCV,2002
+Interpolating Sporadic Data.,Lyle Noakes,https://dblp.org/pid/63/1756.html,ECCV,2002
+Interpolating Sporadic Data.,Ryszard Kozera,https://dblp.org/pid/97/6638.html,ECCV,2002
+Highlight Removal Using Shape-from-Shading.,Hossein Ragheb,https://dblp.org/pid/75/135.html,ECCV,2002
+Highlight Removal Using Shape-from-Shading.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,ECCV,2002
+A Reflective Symmetry Descriptor.,Michael M. Kazhdan,https://dblp.org/pid/68/6770.html,ECCV,2002
+A Reflective Symmetry Descriptor.,Bernard Chazelle,https://dblp.org/pid/c/BernardChazelle.html,ECCV,2002
+A Reflective Symmetry Descriptor.,David P. Dobkin,https://dblp.org/pid/d/DavidPDobkin.html,ECCV,2002
+A Reflective Symmetry Descriptor.,Adam Finkelstein,https://dblp.org/pid/f/AdamFinkelstein.html,ECCV,2002
+A Reflective Symmetry Descriptor.,Thomas A. Funkhouser,https://dblp.org/pid/f/TAFunkhouser.html,ECCV,2002
+Gait Sequence Analysis Using Frieze Patterns.,Yanxi Liu,https://dblp.org/pid/l/YanxiLiu.html,ECCV,2002
+Gait Sequence Analysis Using Frieze Patterns.,Robert T. Collins,https://dblp.org/pid/76/2806.html,ECCV,2002
+Gait Sequence Analysis Using Frieze Patterns.,Yanghai Tsin,https://dblp.org/pid/17/4227.html,ECCV,2002
+Feature-Preserving Medial Axis Noise Removal.,Roger C. Tam,https://dblp.org/pid/09/5693.html,ECCV,2002
+Feature-Preserving Medial Axis Noise Removal.,Wolfgang Heidrich,https://dblp.org/pid/h/WolfgangHeidrich.html,ECCV,2002
+Hierarchical Shape Modeling for Automatic Face Localization.,Ce Liu,https://dblp.org/pid/61/3937-1.html,ECCV,2002
+Hierarchical Shape Modeling for Automatic Face Localization.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ECCV,2002
+Hierarchical Shape Modeling for Automatic Face Localization.,Changshui Zhang,https://dblp.org/pid/z/ChangshuiZhang.html,ECCV,2002
+Using Dirichlet Free Form Deformation to Fit Deformable Models to Noisy 3-D Data.,Slobodan Ilic,https://dblp.org/pid/76/20.html,ECCV,2002
+Using Dirichlet Free Form Deformation to Fit Deformable Models to Noisy 3-D Data.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ECCV,2002
+Transitions of the 3D Medial Axis under a One-Parameter Family of Deformations.,Peter J. Giblin,https://dblp.org/pid/59/1833.html,ECCV,2002
+Transitions of the 3D Medial Axis under a One-Parameter Family of Deformations.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,ECCV,2002
+Learning Shape from Defocus.,Paolo Favaro,https://dblp.org/pid/02/4162.html,ECCV,2002
+Learning Shape from Defocus.,Stefano Soatto,https://dblp.org/pid/08/1262.html,ECCV,2002
+A Rectilinearity Measurement for Polygons.,Jovisa D. Zunic,https://dblp.org/pid/44/2058.html,ECCV,2002
+A Rectilinearity Measurement for Polygons.,Paul L. Rosin,https://dblp.org/pid/r/PaulLRosin.html,ECCV,2002
+Local Analysis for 3D Reconstruction of Specular Surfaces - Part II.,Silvio Savarese,https://dblp.org/pid/50/3578.html,ECCV,2002
+Local Analysis for 3D Reconstruction of Specular Surfaces - Part II.,Pietro Perona,https://dblp.org/pid/p/PietroPerona.html,ECCV,2002
+Matching Distance Functions: A Shape-to-Area Variational Approach for Global-to-Local Registration.,Nikos Paragios,https://dblp.org/pid/p/NikosParagios.html,ECCV,2002
+Matching Distance Functions: A Shape-to-Area Variational Approach for Global-to-Local Registration.,Mikaël Rousson,https://dblp.org/pid/r/MikaelRousson.html,ECCV,2002
+Matching Distance Functions: A Shape-to-Area Variational Approach for Global-to-Local Registration.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,ECCV,2002
+Shape from Shading and Viscosity Solutions.,Emmanuel Prados,https://dblp.org/pid/26/6163.html,ECCV,2002
+Shape from Shading and Viscosity Solutions.,Olivier D. Faugeras,https://dblp.org/pid/48/4143.html,ECCV,2002
+Shape from Shading and Viscosity Solutions.,Elisabeth Rouy,https://dblp.org/pid/02/120.html,ECCV,2002
+Model Acquisition by Registration of Multiple Acoustic Range Views.,Andrea Fusiello,https://dblp.org/pid/f/AndreaFusiello.html,ECCV,2002
+Model Acquisition by Registration of Multiple Acoustic Range Views.,Umberto Castellani,https://dblp.org/pid/29/6640.html,ECCV,2002
+Model Acquisition by Registration of Multiple Acoustic Range Views.,Lucca Ronchetti,https://dblp.org/pid/50/185.html,ECCV,2002
+Model Acquisition by Registration of Multiple Acoustic Range Views.,Vittorio Murino,https://dblp.org/pid/62/6790.html,ECCV,2002
+General Trajectory Triangulation.,Jeremy Yermiyahou Kaminski,https://dblp.org/pid/53/192.html,ECCV,2002
+General Trajectory Triangulation.,Mina Teicher,https://dblp.org/pid/17/6917.html,ECCV,2002
+Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ECCV,2002
+Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery.,Frank Verbiest,https://dblp.org/pid/19/5812.html,ECCV,2002
+Surviving Dominant Planes in Uncalibrated Structure and Motion Recovery.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+A Bayesian Estimation of Building Shape Using MCMC.,Anthony R. Dick,https://dblp.org/pid/77/4964.html,ECCV,2002
+A Bayesian Estimation of Building Shape Using MCMC.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,ECCV,2002
+A Bayesian Estimation of Building Shape Using MCMC.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,ECCV,2002
+Structure and Motion for Dynamic Scenes - The Case of Points Moving in Planes.,Peter F. Sturm,https://dblp.org/pid/s/PeterFSturm.html,ECCV,2002
+What Does the Scene Look Like from a Scene Point?,Michal Irani,https://dblp.org/pid/04/3190.html,ECCV,2002
+What Does the Scene Look Like from a Scene Point?,Tal Hassner,https://dblp.org/pid/62/6.html,ECCV,2002
+What Does the Scene Look Like from a Scene Point?,P. Anandan,https://dblp.org/pid/34/659-1.html,ECCV,2002
+3D Statistical Shape Models Using Direct Optimisation of Description Length.,Rhodri H. Davies,https://dblp.org/pid/80/6149.html,ECCV,2002
+3D Statistical Shape Models Using Direct Optimisation of Description Length.,Carole J. Twining,https://dblp.org/pid/83/6160.html,ECCV,2002
+3D Statistical Shape Models Using Direct Optimisation of Description Length.,Timothy F. Cootes,https://dblp.org/pid/22/4959.html,ECCV,2002
+3D Statistical Shape Models Using Direct Optimisation of Description Length.,John C. Waterton,https://dblp.org/pid/57/1383.html,ECCV,2002
+3D Statistical Shape Models Using Direct Optimisation of Description Length.,Christopher J. Taylor,https://dblp.org/pid/37/6755.html,ECCV,2002
+Approximate Thin Plate Spline Mappings.,Gianluca Donato,https://dblp.org/pid/01/6176.html,ECCV,2002
+Approximate Thin Plate Spline Mappings.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,ECCV,2002
+"DEFORMOTION: Deforming Motion, Shape Average and the Joint Registration and Segmentation of Images.",Stefano Soatto,https://dblp.org/pid/08/1262.html,ECCV,2002
+"DEFORMOTION: Deforming Motion, Shape Average and the Joint Registration and Segmentation of Images.",Anthony J. Yezzi,https://dblp.org/pid/y/AJYezzi.html,ECCV,2002
+Region Matching with Missing Parts.,Alessandro Duci,https://dblp.org/pid/57/6496.html,ECCV,2002
+Region Matching with Missing Parts.,Anthony J. Yezzi,https://dblp.org/pid/y/AJYezzi.html,ECCV,2002
+Region Matching with Missing Parts.,Sanjoy K. Mitter,https://dblp.org/pid/54/5601.html,ECCV,2002
+Region Matching with Missing Parts.,Stefano Soatto,https://dblp.org/pid/08/1262.html,ECCV,2002
+What Energy Functions Can Be Minimized via Graph Cuts?,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,ECCV,2002
+What Energy Functions Can Be Minimized via Graph Cuts?,Ramin Zabih,https://dblp.org/pid/z/RaminZabih.html,ECCV,2002
+Multi-camera Scene Reconstruction via Graph Cuts.,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,ECCV,2002
+Multi-camera Scene Reconstruction via Graph Cuts.,Ramin Zabih,https://dblp.org/pid/z/RaminZabih.html,ECCV,2002
+A Markov Chain Monte Carlo Approach to Stereovision.,Julien Sénégas,https://dblp.org/pid/42/600.html,ECCV,2002
+A Probabilistic Theory of Occupancy and Emptiness.,Rahul Bhotika,https://dblp.org/pid/28/2609.html,ECCV,2002
+A Probabilistic Theory of Occupancy and Emptiness.,David J. Fleet,https://dblp.org/pid/07/2099.html,ECCV,2002
+A Probabilistic Theory of Occupancy and Emptiness.,Kiriakos N. Kutulakos,https://dblp.org/pid/64/4875.html,ECCV,2002
+Texture Similarity Measure Using Kullback-Leibler Divergence between Gamma Distributions.,John Reidar Mathiassen,https://dblp.org/pid/42/2348.html,ECCV,2002
+Texture Similarity Measure Using Kullback-Leibler Divergence between Gamma Distributions.,Amund Skavhaug,https://dblp.org/pid/33/1830.html,ECCV,2002
+Texture Similarity Measure Using Kullback-Leibler Divergence between Gamma Distributions.,Ketil Bø,https://dblp.org/pid/33/1774.html,ECCV,2002
+All the Images of an Outdoor Scene.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ECCV,2002
+All the Images of an Outdoor Scene.,Chi Wang,https://dblp.org/pid/09/404.html,ECCV,2002
+All the Images of an Outdoor Scene.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ECCV,2002
+Recovery of Reflectances and Varying Illuminants from Multiple Views.,Quang-Tuan Luong,https://dblp.org/pid/53/2745.html,ECCV,2002
+Recovery of Reflectances and Varying Illuminants from Multiple Views.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ECCV,2002
+Recovery of Reflectances and Varying Illuminants from Multiple Views.,Yvan G. Leclerc,https://dblp.org/pid/62/6513.html,ECCV,2002
+Composite Texture Descriptions.,Alexey Zalesny,https://dblp.org/pid/26/2680.html,ECCV,2002
+Composite Texture Descriptions.,Vittorio Ferrari,https://dblp.org/pid/16/3608.html,ECCV,2002
+Composite Texture Descriptions.,Geert Caenen,https://dblp.org/pid/98/1836.html,ECCV,2002
+Composite Texture Descriptions.,Dominik Auf der Maur,https://dblp.org/pid/30/6364.html,ECCV,2002
+Composite Texture Descriptions.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+Constructing Illumination Image Basis from Object Motion.,Akiko Nakashima,https://dblp.org/pid/50/2609.html,ECCV,2002
+Constructing Illumination Image Basis from Object Motion.,Atsuto Maki,https://dblp.org/pid/36/5430.html,ECCV,2002
+Constructing Illumination Image Basis from Object Motion.,Kazuhiro Fukui,https://dblp.org/pid/01/1485.html,ECCV,2002
+Diffuse-Specular Separation and Depth Recovery from Image Sequences.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,ECCV,2002
+Diffuse-Specular Separation and Depth Recovery from Image Sequences.,Yuanzhen Li,https://dblp.org/pid/97/371.html,ECCV,2002
+Diffuse-Specular Separation and Depth Recovery from Image Sequences.,Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,ECCV,2002
+Diffuse-Specular Separation and Depth Recovery from Image Sequences.,Xin Tong,https://dblp.org/pid/86/2176-1.html,ECCV,2002
+Diffuse-Specular Separation and Depth Recovery from Image Sequences.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ECCV,2002
+Shape from Texture without Boundaries.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ECCV,2002
+Statistical Modeling of Texture Sketch.,Ying Nian Wu,https://dblp.org/pid/18/568.html,ECCV,2002
+Statistical Modeling of Texture Sketch.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2002
+Statistical Modeling of Texture Sketch.,Cheng-en Guo,https://dblp.org/pid/62/5268.html,ECCV,2002
+Classifying Images of Materials: Achieving Viewpoint and Illumination Independence.,Manik Varma,https://dblp.org/pid/07/918.html,ECCV,2002
+Classifying Images of Materials: Achieving Viewpoint and Illumination Independence.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+Estimation of Multiple Illuminants from a Single Image of Arbitrary Known Geometry.,Yang Wang,https://dblp.org/pid/w/YangWang1.html,ECCV,2002
+Estimation of Multiple Illuminants from a Single Image of Arbitrary Known Geometry.,Dimitris Samaras,https://dblp.org/pid/s/DimitrisSamaras.html,ECCV,2002
+The Effect of Illuminant Rotation on Texture Filters: Lissajous's Ellipses.,Mike J. Chantler,https://dblp.org/pid/67/2821.html,ECCV,2002
+The Effect of Illuminant Rotation on Texture Filters: Lissajous's Ellipses.,M. Schmidt,https://dblp.org/pid/26/2167.html,ECCV,2002
+The Effect of Illuminant Rotation on Texture Filters: Lissajous's Ellipses.,Maria Petrou,https://dblp.org/pid/80/6759.html,ECCV,2002
+The Effect of Illuminant Rotation on Texture Filters: Lissajous's Ellipses.,Ged McGunnigle,https://dblp.org/pid/12/1832.html,ECCV,2002
+On Affine Invariant Clustering and Automatic Cast Listing in Movies.,Andrew W. Fitzgibbon,https://dblp.org/pid/f/AndrewWFitzgibbon.html,ECCV,2002
+On Affine Invariant Clustering and Automatic Cast Listing in Movies.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+Factorial Markov Random Fields.,Junhwan Kim,https://dblp.org/pid/46/2367.html,ECCV,2002
+Factorial Markov Random Fields.,Ramin Zabih,https://dblp.org/pid/z/RaminZabih.html,ECCV,2002
+Evaluation and Selection of Models for Motion Segmentation.,Ken-ichi Kanatani,https://dblp.org/pid/k/KenichiKanatani.html,ECCV,2002
+Surface Extraction from Volumetric Images Using Deformable Meshes: A Comparative Study.,Jussi Tohka,https://dblp.org/pid/71/3667.html,ECCV,2002
+DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation.,Stéphanie Jehan-Besson,https://dblp.org/pid/j/SJehanBesson.html,ECCV,2002
+DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation.,Michel Barlaud,https://dblp.org/pid/b/MichelBarlaud.html,ECCV,2002
+DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation.,Gilles Aubert,https://dblp.org/pid/10/4890.html,ECCV,2002
+Neuro-Fuzzy Shadow Filter.,Benny P. L. Lo,https://dblp.org/pid/l/BennyPLLo.html,ECCV,2002
+Neuro-Fuzzy Shadow Filter.,Guang-Zhong Yang,https://dblp.org/pid/14/3693.html,ECCV,2002
+Parsing Images into Region and Curve Processes.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,ECCV,2002
+Parsing Images into Region and Curve Processes.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2002
+Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.,Jordi Freixenet,https://dblp.org/pid/00/2951.html,ECCV,2002
+Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.,Xavier Muñoz,https://dblp.org/pid/15/5133.html,ECCV,2002
+Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.,David Raba,https://dblp.org/pid/46/1726.html,ECCV,2002
+Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.,Joan Martí,https://dblp.org/pid/30/1336.html,ECCV,2002
+Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.,Xavier Cufí,https://dblp.org/pid/33/2539.html,ECCV,2002
+Perceptual Grouping from Motion Cues Using Tensor Voting in 4-D.,Mircea Nicolescu,https://dblp.org/pid/87/424.html,ECCV,2002
+Perceptual Grouping from Motion Cues Using Tensor Voting in 4-D.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,ECCV,2002
+Deformable Model with Non-euclidean Metrics.,Benjamin Taton,https://dblp.org/pid/28/4141.html,ECCV,2002
+Deformable Model with Non-euclidean Metrics.,Jacques-Olivier Lachaud,https://dblp.org/pid/76/4220.html,ECCV,2002
+Finding Deformable Shapes Using Loopy Belief Propagation.,James M. Coughlan,https://dblp.org/pid/43/6505.html,ECCV,2002
+Finding Deformable Shapes Using Loopy Belief Propagation.,Sabino J. Ferreira,https://dblp.org/pid/43/2546.html,ECCV,2002
+Probabilistic and Voting Approaches to Cue Integration for Figure-Ground Segmentation.,Eric Hayman,https://dblp.org/pid/96/5250.html,ECCV,2002
+Probabilistic and Voting Approaches to Cue Integration for Figure-Ground Segmentation.,Jan-Olof Eklundh,https://dblp.org/pid/69/1593.html,ECCV,2002
+Bayesian Estimation of Layers from Multiple Images.,Yonatan Wexler,https://dblp.org/pid/75/5527.html,ECCV,2002
+Bayesian Estimation of Layers from Multiple Images.,Andrew W. Fitzgibbon,https://dblp.org/pid/f/AndrewWFitzgibbon.html,ECCV,2002
+Bayesian Estimation of Layers from Multiple Images.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ECCV,2002
+A Stochastic Algorithm for 3D Scene Segmentation and Reconstruction.,Feng Han,https://dblp.org/pid/58/2012-1.html,ECCV,2002
+A Stochastic Algorithm for 3D Scene Segmentation and Reconstruction.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,ECCV,2002
+A Stochastic Algorithm for 3D Scene Segmentation and Reconstruction.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2002
+Normalized Gradient Vector Diffusion and Image Segmentation.,Zeyun Yu,https://dblp.org/pid/54/1920.html,ECCV,2002
+Normalized Gradient Vector Diffusion and Image Segmentation.,Chandrajit L. Bajaj,https://dblp.org/pid/b/ChandrajitLBajaj.html,ECCV,2002
+Spectral Partitioning with Indefinite Kernels Using the Nyström Extension.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,ECCV,2002
+Spectral Partitioning with Indefinite Kernels Using the Nyström Extension.,Charless C. Fowlkes,https://dblp.org/pid/90/4157.html,ECCV,2002
+Spectral Partitioning with Indefinite Kernels Using the Nyström Extension.,Fan R. K. Chung,https://dblp.org/pid/c/FRKChung.html,ECCV,2002
+Spectral Partitioning with Indefinite Kernels Using the Nyström Extension.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2002
+"A Framework for High-Level Feedback to Adaptive, Per-Pixel, Mixture-of-Gaussian Background Models.",Michael Harville,https://dblp.org/pid/35/5319.html,ECCV,2002
+Multivariate Saddle Point Detection for Statistical Clustering.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,ECCV,2002
+Multivariate Saddle Point Detection for Statistical Clustering.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,ECCV,2002
+Multivariate Saddle Point Detection for Statistical Clustering.,Alessio Del Bue,https://dblp.org/pid/73/6117.html,ECCV,2002
+Parametric Distributional Clustering for Image Segmentation.,Lothar Hermes,https://dblp.org/pid/55/1750.html,ECCV,2002
+Parametric Distributional Clustering for Image Segmentation.,Thomas Zöller,https://dblp.org/pid/47/3937.html,ECCV,2002
+Parametric Distributional Clustering for Image Segmentation.,Joachim M. Buhmann,https://dblp.org/pid/b/JMBuhmann.html,ECCV,2002
+Probabalistic Models and Informative Subspaces for Audiovisual Correspondence.,John W. Fisher III,https://dblp.org/pid/23/954.html,ECCV,2002
+Probabalistic Models and Informative Subspaces for Audiovisual Correspondence.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,ECCV,2002
+Volterra Filtering of Noisy Images of Curves.,Jonas August,https://dblp.org/pid/17/6721.html,ECCV,2002
+Image Segmentation by Flexible Models Based on Robust Regularized Networks.,Mariano Rivera,https://dblp.org/pid/72/501.html,ECCV,2002
+Image Segmentation by Flexible Models Based on Robust Regularized Networks.,James C. Gee,https://dblp.org/pid/30/6904.html,ECCV,2002
+Principal Component Analysis over Continuous Subspaces and Intersection of Half-Spaces.,Anat Levin,https://dblp.org/pid/35/4557.html,ECCV,2002
+Principal Component Analysis over Continuous Subspaces and Intersection of Half-Spaces.,Amnon Shashua,https://dblp.org/pid/47/1492.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,Svetlana Lazebnik,https://dblp.org/pid/55/5180.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,Amit Sethi,https://dblp.org/pid/32/455.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,ECCV,2002
+On Pencils of Tangent Planes and the Recognition of Smooth 3D Shapes from Silhouettes.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2002
+Estimating Human Body Configurations Using Shape Context Matching.,Greg Mori,https://dblp.org/pid/m/GregMori.html,ECCV,2002
+Estimating Human Body Configurations Using Shape Context Matching.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ECCV,2002
+Probabilistic Human Recognition from Video.,Shaohua Kevin Zhou,https://dblp.org/pid/57/98.html,ECCV,2002
+Probabilistic Human Recognition from Video.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,ECCV,2002
+SoftPOSIT: Simultaneous Pose and Correspondence Determination.,Philip David,https://dblp.org/pid/31/6188.html,ECCV,2002
+SoftPOSIT: Simultaneous Pose and Correspondence Determination.,Daniel DeMenthon,https://dblp.org/pid/53/2909.html,ECCV,2002
+SoftPOSIT: Simultaneous Pose and Correspondence Determination.,Ramani Duraiswami,https://dblp.org/pid/d/RamaniDuraiswami.html,ECCV,2002
+SoftPOSIT: Simultaneous Pose and Correspondence Determination.,Hanan Samet,https://dblp.org/pid/s/HananSamet.html,ECCV,2002
+A Pseudo-Metric for Weighted Point Sets.,Panos Giannopoulos,https://dblp.org/pid/88/2945.html,ECCV,2002
+A Pseudo-Metric for Weighted Point Sets.,Remco C. Veltkamp,https://dblp.org/pid/v/RemcoCVeltkamp.html,ECCV,2002
+Shock-Based Indexing into Large Shape Databases.,Thomas B. Sebastian,https://dblp.org/pid/38/857.html,ECCV,2002
+Shock-Based Indexing into Large Shape Databases.,Philip N. Klein,https://dblp.org/pid/k/PhilipNKlein.html,ECCV,2002
+Shock-Based Indexing into Large Shape Databases.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,ECCV,2002
+EigenSegments: A Spatio-Temporal Decomposition of an Ensemble of Images.,Shai Avidan,https://dblp.org/pid/02/617.html,ECCV,2002
+On the Representation and Matching of Qualitative Shape at Multiple Scales.,Ali Shokoufandeh,https://dblp.org/pid/82/5760.html,ECCV,2002
+On the Representation and Matching of Qualitative Shape at Multiple Scales.,Sven J. Dickinson,https://dblp.org/pid/d/SvenJDickinson.html,ECCV,2002
+On the Representation and Matching of Qualitative Shape at Multiple Scales.,Clas Jönsson,https://dblp.org/pid/05/6111.html,ECCV,2002
+On the Representation and Matching of Qualitative Shape at Multiple Scales.,Lars Bretzner,https://dblp.org/pid/45/5445.html,ECCV,2002
+On the Representation and Matching of Qualitative Shape at Multiple Scales.,Tony Lindeberg,https://dblp.org/pid/33/1119.html,ECCV,2002
+Combining Simple Discriminators for Object Discrimination.,Shyjan Mahamud,https://dblp.org/pid/39/1510.html,ECCV,2002
+Combining Simple Discriminators for Object Discrimination.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,ECCV,2002
+Combining Simple Discriminators for Object Discrimination.,John D. Lafferty,https://dblp.org/pid/46/6823.html,ECCV,2002
+Probabilistic Search for Object Segmentation and Recognition.,Ulrich Hillenbrand,https://dblp.org/pid/05/1369.html,ECCV,2002
+Probabilistic Search for Object Segmentation and Recognition.,Gerd Hirzinger,https://dblp.org/pid/h/GerdHirzinger.html,ECCV,2002
+Real-Time Interactive Path Extraction with on-the-Fly Adaptation of the External Forces.,Olivier Gérard,https://dblp.org/pid/42/5224.html,ECCV,2002
+Real-Time Interactive Path Extraction with on-the-Fly Adaptation of the External Forces.,Thomas Deschamps,https://dblp.org/pid/16/1735.html,ECCV,2002
+Real-Time Interactive Path Extraction with on-the-Fly Adaptation of the External Forces.,Myriam Greff,https://dblp.org/pid/21/271.html,ECCV,2002
+Real-Time Interactive Path Extraction with on-the-Fly Adaptation of the External Forces.,Laurent D. Cohen,https://dblp.org/pid/c/LaurentDCohen.html,ECCV,2002
+Matching and Embedding through Edit-Union of Trees.,Andrea Torsello,https://dblp.org/pid/11/2491.html,ECCV,2002
+Matching and Embedding through Edit-Union of Trees.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,ECCV,2002
+A Comparison of Search Strategies for Geometric Branch and Bound Algorithms.,Thomas M. Breuel,https://dblp.org/pid/b/ThomasMBreuel.html,ECCV,2002
+Face Recognition from Long-Term Observations.,Gregory Shakhnarovich,https://dblp.org/pid/17/1926.html,ECCV,2002
+Face Recognition from Long-Term Observations.,John W. Fisher III,https://dblp.org/pid/23/954.html,ECCV,2002
+Face Recognition from Long-Term Observations.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,ECCV,2002
+Helmholtz Stereopsis: Exploiting Reciprocity for Surface Reconstruction.,Todd E. Zickler,https://dblp.org/pid/33/2279.html,ECCV,2002
+Helmholtz Stereopsis: Exploiting Reciprocity for Surface Reconstruction.,Peter N. Belhumeur,https://dblp.org/pid/12/5558.html,ECCV,2002
+Helmholtz Stereopsis: Exploiting Reciprocity for Surface Reconstruction.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,ECCV,2002
+Minimal Surfaces for Stereo.,Chris Buehler,https://dblp.org/pid/21/3298.html,ECCV,2002
+Minimal Surfaces for Stereo.,Steven J. Gortler,https://dblp.org/pid/86/3747.html,ECCV,2002
+Minimal Surfaces for Stereo.,Michael F. Cohen,https://dblp.org/pid/07/1994.html,ECCV,2002
+Minimal Surfaces for Stereo.,Leonard McMillan,https://dblp.org/pid/m/LeonardMcMillan.html,ECCV,2002
+Finding the Largest Unambiguous Component of Stereo Matching.,Radim Sára,https://dblp.org/pid/50/2275.html,ECCV,2002
+Face Identification by Fitting a 3D Morphable Model Using Linear Shape and Texture Error Functions.,Sami Romdhani,https://dblp.org/pid/63/2549.html,ECCV,2002
+Face Identification by Fitting a 3D Morphable Model Using Linear Shape and Texture Error Functions.,Volker Blanz,https://dblp.org/pid/b/VolkerBlanz.html,ECCV,2002
+Face Identification by Fitting a 3D Morphable Model Using Linear Shape and Texture Error Functions.,Thomas Vetter,https://dblp.org/pid/38/5718.html,ECCV,2002
+Hausdorff Kernel for 3D Object Acquisition and Detection.,Annalisa Barla,https://dblp.org/pid/32/3989.html,ECCV,2002
+Hausdorff Kernel for 3D Object Acquisition and Detection.,Francesca Odone,https://dblp.org/pid/73/2633.html,ECCV,2002
+Hausdorff Kernel for 3D Object Acquisition and Detection.,Alessandro Verri,https://dblp.org/pid/79/2899.html,ECCV,2002
+Evaluating Image Segmentation Algorithms Using the Pareto Front.,Mark Everingham,https://dblp.org/pid/63/4673.html,ECCV,2002
+Evaluating Image Segmentation Algorithms Using the Pareto Front.,Henk L. Muller,https://dblp.org/pid/m/HenkLMuller.html,ECCV,2002
+Evaluating Image Segmentation Algorithms Using the Pareto Front.,Barry T. Thomas,https://dblp.org/pid/t/BarryTThomas.html,ECCV,2002
+On Performance Characterization and Optimization for Image Retrieval.,Julia Vogel,https://dblp.org/pid/41/2914.html,ECCV,2002
+On Performance Characterization and Optimization for Image Retrieval.,Bernt Schiele,https://dblp.org/pid/s/BerntSchiele.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,Stan Z. Li,https://dblp.org/pid/l/StanZLi.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,Long Zhu,https://dblp.org/pid/z/LongZhu.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,ZhenQiu Zhang,https://dblp.org/pid/15/3632.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,HongJiang Zhang,https://dblp.org/pid/z/HongJiangZhang.html,ECCV,2002
+Statistical Learning of Multi-view Face Detection.,Harry Shum,https://dblp.org/pid/s/HarryShum.html,ECCV,2002
+Dynamic Trees: Learning to Model Outdoor Scenes.,Nicholas J. Adams,https://dblp.org/pid/88/6984.html,ECCV,2002
+Dynamic Trees: Learning to Model Outdoor Scenes.,Christopher K. I. Williams,https://dblp.org/pid/w/ChristopherKIWilliams.html,ECCV,2002
+Object Recognition as Machine Translation: Learning a Lexicon for a Fixed Image Vocabulary.,Pinar Duygulu,https://dblp.org/pid/16/4903.html,ECCV,2002
+Object Recognition as Machine Translation: Learning a Lexicon for a Fixed Image Vocabulary.,Kobus Barnard,https://dblp.org/pid/53/2666.html,ECCV,2002
+Object Recognition as Machine Translation: Learning a Lexicon for a Fixed Image Vocabulary.,João F. G. de Freitas,https://dblp.org/pid/45/735.html,ECCV,2002
+Object Recognition as Machine Translation: Learning a Lexicon for a Fixed Image Vocabulary.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ECCV,2002
+Learning a Sparse Representation for Object Detection.,Shivani Agarwal,https://dblp.org/pid/51/6471-1.html,ECCV,2002
+Learning a Sparse Representation for Object Detection.,Dan Roth,https://dblp.org/pid/r/DanRoth.html,ECCV,2002
+Stratified Self Calibration from Screw-Transform Manifolds.,Russell A. Manning,https://dblp.org/pid/38/3706.html,ECCV,2002
+Stratified Self Calibration from Screw-Transform Manifolds.,Charles R. Dyer,https://dblp.org/pid/d/CharlesRDyer.html,ECCV,2002
+Self-Organization of Randomly Placed Sensors.,Robert B. Fisher,https://dblp.org/pid/f/RobertBFisher.html,ECCV,2002
+Camera Calibration with One-Dimensional Objects.,Zhengyou Zhang,https://dblp.org/pid/73/5043.html,ECCV,2002
+Automatic Camera Calibration from a Single Manhattan Image.,Jonathan Deutscher,https://dblp.org/pid/57/3526.html,ECCV,2002
+Automatic Camera Calibration from a Single Manhattan Image.,Michael Isard,https://dblp.org/pid/17/5751.html,ECCV,2002
+Automatic Camera Calibration from a Single Manhattan Image.,John MacCormick,https://dblp.org/pid/17/429.html,ECCV,2002
+What Can Be Known about the Radiometric Response from Images?,Michael D. Grossberg,https://dblp.org/pid/32/4909.html,ECCV,2002
+What Can Be Known about the Radiometric Response from Images?,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ECCV,2002
+Estimation of Illuminant Direction and Intensity of Multiple Light Sources.,Wei Zhou,https://dblp.org/pid/69/5011.html,ECCV,2002
+Estimation of Illuminant Direction and Intensity of Multiple Light Sources.,Chandra Kambhamettu,https://dblp.org/pid/47/4773.html,ECCV,2002
+3D Modelling Using Geometric Constraints: A Parallelepiped Based Approach.,Marta Wilczkowiak,https://dblp.org/pid/27/5133.html,ECCV,2002
+3D Modelling Using Geometric Constraints: A Parallelepiped Based Approach.,Edmond Boyer,https://dblp.org/pid/b/EdmondBoyer.html,ECCV,2002
+3D Modelling Using Geometric Constraints: A Parallelepiped Based Approach.,Peter F. Sturm,https://dblp.org/pid/s/PeterFSturm.html,ECCV,2002
+Geometric Properties of Central Catadioptric Line Images.,João Pedro Barreto,https://dblp.org/pid/b/JoaoPBarreto1.html,ECCV,2002
+Geometric Properties of Central Catadioptric Line Images.,Helder Araújo,https://dblp.org/pid/64/6554.html,ECCV,2002
+Another Way of Looking at Plane-Based Calibration: The Centre Circle Constraint.,Pierre Gurdjos,https://dblp.org/pid/74/526.html,ECCV,2002
+Another Way of Looking at Plane-Based Calibration: The Centre Circle Constraint.,Alain Crouzil,https://dblp.org/pid/35/4845.html,ECCV,2002
+Another Way of Looking at Plane-Based Calibration: The Centre Circle Constraint.,René Payrissat,https://dblp.org/pid/83/5651.html,ECCV,2002
+Active Surface Reconstruction Using the Gradient Strategy.,Marcel Mitran,https://dblp.org/pid/94/4434.html,ECCV,2002
+Active Surface Reconstruction Using the Gradient Strategy.,Frank P. Ferrie,https://dblp.org/pid/57/4701.html,ECCV,2002
+Linear Pose Estimation from Points or Lines.,Adnan Ansar,https://dblp.org/pid/02/6798.html,ECCV,2002
+Linear Pose Estimation from Points or Lines.,Konstantinos Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,ECCV,2002
+A Video-Based Drowning Detection System.,Alvin Harvey Kam,https://dblp.org/pid/68/862.html,ECCV,2002
+A Video-Based Drowning Detection System.,Wenmiao Lu,https://dblp.org/pid/90/1563.html,ECCV,2002
+A Video-Based Drowning Detection System.,Wei-Yun Yau,https://dblp.org/pid/15/6819.html,ECCV,2002
+Visual Data Fusion for Objects Localization by Active Vision.,Grégory Flandin,https://dblp.org/pid/81/6240.html,ECCV,2002
+Visual Data Fusion for Objects Localization by Active Vision.,François Chaumette,https://dblp.org/pid/72/4838.html,ECCV,2002
+Towards Real-Time Cue Integration by Using Partial Results.,Douglas DeCarlo,https://dblp.org/pid/50/5262.html,ECCV,2002
+Tracking and Object Classification for Automated Surveillance.,Omar Javed,https://dblp.org/pid/17/3429.html,ECCV,2002
+Tracking and Object Classification for Automated Surveillance.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ECCV,2002
+Very Fast Template Matching.,Haim Schweitzer,https://dblp.org/pid/s/HaimSchweitzer.html,ECCV,2002
+Very Fast Template Matching.,J. W. Bell,https://dblp.org/pid/34/3465.html,ECCV,2002
+Very Fast Template Matching.,Feng Wu,https://dblp.org/pid/25/3972.html,ECCV,2002
+Fusion of Multiple Tracking Algorithms for Robust People Tracking.,Nils T. Siebel,https://dblp.org/pid/s/NilsTSiebel.html,ECCV,2002
+Fusion of Multiple Tracking Algorithms for Robust People Tracking.,Stephen J. Maybank,https://dblp.org/pid/m/StephenJMaybank.html,ECCV,2002
+Video Summaries through Mosaic-Based Shot and Scene Clustering.,Aya Aner,https://dblp.org/pid/06/6221.html,ECCV,2002
+Video Summaries through Mosaic-Based Shot and Scene Clustering.,John R. Kender,https://dblp.org/pid/l/JohnRKender.html,ECCV,2002
+Optimization Algorithms for the Selection of Key Frame Sequences of Variable Length.,Tiecheng Liu,https://dblp.org/pid/11/5433.html,ECCV,2002
+Optimization Algorithms for the Selection of Key Frame Sequences of Variable Length.,John R. Kender,https://dblp.org/pid/l/JohnRKender.html,ECCV,2002
+Multi-scale EM-ICP: A Fast and Robust Approach for Surface Registration.,Sébastien Granger,https://dblp.org/pid/38/655.html,ECCV,2002
+Multi-scale EM-ICP: A Fast and Robust Approach for Surface Registration.,Xavier Pennec,https://dblp.org/pid/45/2126.html,ECCV,2002
+An Unified Approach to Model-Based and Model-Free Visual Servoing.,Ezio Malis,https://dblp.org/pid/41/6093.html,ECCV,2002
+Comparing Intensity Transformations and Their Invariants in the Context of Color Pattern Recognition.,Florica Mindru,https://dblp.org/pid/39/142.html,ECCV,2002
+Comparing Intensity Transformations and Their Invariants in the Context of Color Pattern Recognition.,Theo Moons,https://dblp.org/pid/51/1578.html,ECCV,2002
+Comparing Intensity Transformations and Their Invariants in the Context of Color Pattern Recognition.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ECCV,2002
+A Probabilistic Framework for Spatio-Temporal Video Representation & Indexing.,Hayit Greenspan,https://dblp.org/pid/51/382.html,ECCV,2002
+A Probabilistic Framework for Spatio-Temporal Video Representation & Indexing.,Jacob Goldberger,https://dblp.org/pid/65/6574.html,ECCV,2002
+A Probabilistic Framework for Spatio-Temporal Video Representation & Indexing.,Arnaldo Mayer,https://dblp.org/pid/69/1059.html,ECCV,2002
+Video Compass.,Jana Kosecká,https://dblp.org/pid/j/JanaKosecka.html,ECCV,2002
+Video Compass.,Wei Zhang,https://dblp.org/pid/10/4661-18.html,ECCV,2002
+Computing Content-Plots for Video.,Haim Schweitzer,https://dblp.org/pid/s/HaimSchweitzer.html,ECCV,2002
+Classification and Localisation of Diabetic-Related Eye Disease.,Alireza Osareh,https://dblp.org/pid/42/4539.html,ECCV,2002
+Classification and Localisation of Diabetic-Related Eye Disease.,Majid Mirmehdi,https://dblp.org/pid/79/2375.html,ECCV,2002
+Classification and Localisation of Diabetic-Related Eye Disease.,Barry T. Thomas,https://dblp.org/pid/t/BarryTThomas.html,ECCV,2002
+Classification and Localisation of Diabetic-Related Eye Disease.,Richard Markham,https://dblp.org/pid/58/4449.html,ECCV,2002
+Robust Active Shape Model Search.,Mike Rogers,https://dblp.org/pid/83/4047.html,ECCV,2002
+Robust Active Shape Model Search.,Jim Graham,https://dblp.org/pid/82/4623.html,ECCV,2002
+A New Image Registration Technique with Free Boundary Constraints: Application to Mammography.,Frédéric J. P. Richard,https://dblp.org/pid/42/5828.html,ECCV,2002
+A New Image Registration Technique with Free Boundary Constraints: Application to Mammography.,Laurent D. Cohen,https://dblp.org/pid/c/LaurentDCohen.html,ECCV,2002
+Registration Assisted Image Smoothing and Segmentation.,Baba C. Vemuri,https://dblp.org/pid/93/1847.html,ECCV,2002
+Registration Assisted Image Smoothing and Segmentation.,Yunmei Chen,https://dblp.org/pid/c/YunmeiChen.html,ECCV,2002
+Registration Assisted Image Smoothing and Segmentation.,Zhizhou Wang,https://dblp.org/pid/87/3634.html,ECCV,2002
+An Accurate and Efficient Bayesian Method for Automatic Segmentation of Brain MRI.,José L. Marroquín,https://dblp.org/pid/18/5283.html,ECCV,2002
+An Accurate and Efficient Bayesian Method for Automatic Segmentation of Brain MRI.,Baba C. Vemuri,https://dblp.org/pid/93/1847.html,ECCV,2002
+An Accurate and Efficient Bayesian Method for Automatic Segmentation of Brain MRI.,Salvador Botello,https://dblp.org/pid/14/498.html,ECCV,2002
+An Accurate and Efficient Bayesian Method for Automatic Segmentation of Brain MRI.,Félix Calderón,https://dblp.org/pid/83/4919.html,ECCV,2002
+"A PDE Approach for Thickness, Correspondence, and Gridding of Annular Tissues.",Anthony J. Yezzi,https://dblp.org/pid/y/AJYezzi.html,ECCV,2002
+"A PDE Approach for Thickness, Correspondence, and Gridding of Annular Tissues.",Jerry L. Prince,https://dblp.org/pid/p/JerryLPrince.html,ECCV,2002
+Statistical Characterization of Morphological Operator Sequences.,Xiang Gao,https://dblp.org/pid/14/3881.html,ECCV,2002
+Statistical Characterization of Morphological Operator Sequences.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,ECCV,2002
+Statistical Characterization of Morphological Operator Sequences.,Terrance E. Boult,https://dblp.org/pid/08/6458.html,ECCV,2002
+Image Registration for Foveated Omnidirectional Sensing.,Fadi Dornaika,https://dblp.org/pid/83/4280.html,ECCV,2002
+Image Registration for Foveated Omnidirectional Sensing.,James H. Elder,https://dblp.org/pid/21/2977.html,ECCV,2002
+Automatic Model Selection by Modelling the Distribution of Residuals.,Timothy F. Cootes,https://dblp.org/pid/22/4959.html,ECCV,2002
+Automatic Model Selection by Modelling the Distribution of Residuals.,Neil A. Thacker,https://dblp.org/pid/85/1035.html,ECCV,2002
+Automatic Model Selection by Modelling the Distribution of Residuals.,Christopher J. Taylor,https://dblp.org/pid/37/6755.html,ECCV,2002
+Assorted Pixels: Multi-sampled Imaging with Structural Models.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ECCV,2002
+Assorted Pixels: Multi-sampled Imaging with Structural Models.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ECCV,2002
+Robust Parameterized Component Analysis.,Fernando De la Torre,https://dblp.org/pid/d/FernandoDelaTorre.html,ECCV,2002
+Robust Parameterized Component Analysis.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ECCV,2002
+Learning Intrinsic Video Content Using Levenshtein Distance in Graph Partitioning.,Jeffrey Ng,https://dblp.org/pid/90/4581.html,ECCV,2002
+Learning Intrinsic Video Content Using Levenshtein Distance in Graph Partitioning.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ECCV,2002
+A Tale of Two Classifiers: SNoW vs. SVM in Visual Recognition.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ECCV,2002
+A Tale of Two Classifiers: SNoW vs. SVM in Visual Recognition.,Dan Roth,https://dblp.org/pid/r/DanRoth.html,ECCV,2002
+A Tale of Two Classifiers: SNoW vs. SVM in Visual Recognition.,Narendra Ahuja,https://dblp.org/pid/30/3572.html,ECCV,2002
+Learning to Parse Pictures of People.,Rémi Ronfard,https://dblp.org/pid/23/4044.html,ECCV,2002
+Learning to Parse Pictures of People.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ECCV,2002
+Learning to Parse Pictures of People.,Bill Triggs,https://dblp.org/pid/49/1622.html,ECCV,2002
+Learning Montages of Transformed Latent Images as Representations of Objects That Change in Appearance.,Chris Pal,https://dblp.org/pid/45/1217.html,ECCV,2002
+Learning Montages of Transformed Latent Images as Representations of Objects That Change in Appearance.,Brendan J. Frey,https://dblp.org/pid/15/1159.html,ECCV,2002
+Learning Montages of Transformed Latent Images as Representations of Objects That Change in Appearance.,Nebojsa Jojic,https://dblp.org/pid/20/1944.html,ECCV,2002
+Exemplar-Based Face Recognition from Video.,Volker Krüger,https://dblp.org/pid/64/4864.html,ECCV,2002
+Exemplar-Based Face Recognition from Video.,Shaohua Kevin Zhou,https://dblp.org/pid/57/98.html,ECCV,2002
+Learning the Topology of Object Views.,Jan Wieghardt,https://dblp.org/pid/84/5097.html,ECCV,2002
+Learning the Topology of Object Views.,Rolf P. Würtz,https://dblp.org/pid/89/4363.html,ECCV,2002
+Learning the Topology of Object Views.,Christoph von der Malsburg,https://dblp.org/pid/v/vdMalsburg.html,ECCV,2002
+A Robust PCA Algorithm for Building Representations from Panoramic Images.,Danijel Skocaj,https://dblp.org/pid/41/2303.html,ECCV,2002
+A Robust PCA Algorithm for Building Representations from Panoramic Images.,Horst Bischof,https://dblp.org/pid/69/3793.html,ECCV,2002
+A Robust PCA Algorithm for Building Representations from Panoramic Images.,Ales Leonardis,https://dblp.org/pid/l/AlesLeonardis.html,ECCV,2002
+Adjustment Learning and Relevant Component Analysis.,Noam Shental,https://dblp.org/pid/62/6146.html,ECCV,2002
+Adjustment Learning and Relevant Component Analysis.,Tomer Hertz,https://dblp.org/pid/97/1369.html,ECCV,2002
+Adjustment Learning and Relevant Component Analysis.,Daphna Weinshall,https://dblp.org/pid/93/1568.html,ECCV,2002
+Adjustment Learning and Relevant Component Analysis.,Misha Pavel,https://dblp.org/pid/62/3644.html,ECCV,2002
+What Are Textons?,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ECCV,2002
+What Are Textons?,Cheng-en Guo,https://dblp.org/pid/62/5268.html,ECCV,2002
+What Are Textons?,Ying Nian Wu,https://dblp.org/pid/18/568.html,ECCV,2002
+What Are Textons?,Yizhou Wang,https://dblp.org/pid/71/3387-1.html,ECCV,2002
+Bidirectional Texture Contrast Function.,Sylvia C. Pont,https://dblp.org/pid/99/2633.html,ECCV,2002
+Bidirectional Texture Contrast Function.,Jan J. Koenderink,https://dblp.org/pid/48/5115.html,ECCV,2002
+Removing Shadows from Images.,Graham D. Finlayson,https://dblp.org/pid/f/GrahamDFinlayson.html,ECCV,2002
+Removing Shadows from Images.,Steven D. Hordley,https://dblp.org/pid/81/3761.html,ECCV,2002
+Removing Shadows from Images.,Mark S. Drew,https://dblp.org/pid/d/MarkSDrew.html,ECCV,2002

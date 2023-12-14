@@ -1,0 +1,650 @@
+Paper Title,Author Names,Author URLs,Conference Name,Conference Year
+Probabilistic and Deep Models for 3D Reconstruction.,Andreas Geiger,https://dblp.org/pid/40/5825-1.html,BMVC,2017
+Intro to Reinforcement Learning.,Shimon Whiteson,https://dblp.org/pid/42/2548.html,BMVC,2017
+Deep Learning for 3D Localization.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,BMVC,2017
+3D Reconstruction of Dynamic Scenes from Monocular Video.,Lourdes Agapito,https://dblp.org/pid/70/3697.html,BMVC,2017
+Semantics-Preserving Locality Embedding for Zero-Shot Learning.,Shi-Yen Tao,https://dblp.org/pid/184/9466.html,BMVC,2017
+Semantics-Preserving Locality Embedding for Zero-Shot Learning.,Yi-Ren Yeh,https://dblp.org/pid/41/4830.html,BMVC,2017
+Semantics-Preserving Locality Embedding for Zero-Shot Learning.,Yu-Chiang Frank Wang,https://dblp.org/pid/30/1690.html,BMVC,2017
+Hyperspectral CNN Classification with Limited Training Samples.,Lloyd Windrim,https://dblp.org/pid/190/7009.html,BMVC,2017
+Hyperspectral CNN Classification with Limited Training Samples.,Rishi Ramakrishnan,https://dblp.org/pid/142/6269.html,BMVC,2017
+Hyperspectral CNN Classification with Limited Training Samples.,Arman Melkumyan,https://dblp.org/pid/97/7441.html,BMVC,2017
+Hyperspectral CNN Classification with Limited Training Samples.,Richard J. Murphy,https://dblp.org/pid/97/8729.html,BMVC,2017
+Which is the better inpainted image? Learning without subjective annotation.,Mariko Isogawa,https://dblp.org/pid/149/1494.html,BMVC,2017
+Which is the better inpainted image? Learning without subjective annotation.,Dan Mikami,https://dblp.org/pid/96/6239.html,BMVC,2017
+Which is the better inpainted image? Learning without subjective annotation.,Kosuke Takahashi,https://dblp.org/pid/117/4845.html,BMVC,2017
+Which is the better inpainted image? Learning without subjective annotation.,Hideaki Kimata,https://dblp.org/pid/32/3620.html,BMVC,2017
+Spatio-Temporal Consistency to Detect and Segment Carried Objects.,Farnoosh Ghadiri,https://dblp.org/pid/185/6837.html,BMVC,2017
+Spatio-Temporal Consistency to Detect and Segment Carried Objects.,Robert Bergevin,https://dblp.org/pid/87/1030.html,BMVC,2017
+Spatio-Temporal Consistency to Detect and Segment Carried Objects.,Guillaume-Alexandre Bilodeau,https://dblp.org/pid/90/2054.html,BMVC,2017
+Improved Image Segmentation via Cost Minimization of Multiple Hypotheses.,Marc Bosch,https://dblp.org/pid/33/3901.html,BMVC,2017
+Improved Image Segmentation via Cost Minimization of Multiple Hypotheses.,Christopher M. Gifford,https://dblp.org/pid/68/3401.html,BMVC,2017
+Improved Image Segmentation via Cost Minimization of Multiple Hypotheses.,Austin G. Dress,https://dblp.org/pid/215/3928.html,BMVC,2017
+Improved Image Segmentation via Cost Minimization of Multiple Hypotheses.,Clare W. Lau,https://dblp.org/pid/215/3870.html,BMVC,2017
+Improved Image Segmentation via Cost Minimization of Multiple Hypotheses.,Jeffrey G. Skibo,https://dblp.org/pid/215/3603.html,BMVC,2017
+Face Parsing via Recurrent Propagation.,Sifei Liu,https://dblp.org/pid/118/1301.html,BMVC,2017
+Face Parsing via Recurrent Propagation.,Jianping Shi,https://dblp.org/pid/00/3188.html,BMVC,2017
+Face Parsing via Recurrent Propagation.,Liang Ji,https://dblp.org/pid/75/4581.html,BMVC,2017
+Face Parsing via Recurrent Propagation.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,BMVC,2017
+Accurate Camera Registration in Urban Environments Using High-Level Feature Matching.,Anil Armagan,https://dblp.org/pid/138/0861.html,BMVC,2017
+Accurate Camera Registration in Urban Environments Using High-Level Feature Matching.,Martin Hirzer,https://dblp.org/pid/43/9054.html,BMVC,2017
+Accurate Camera Registration in Urban Environments Using High-Level Feature Matching.,Peter M. Roth,https://dblp.org/pid/18/4857.html,BMVC,2017
+Accurate Camera Registration in Urban Environments Using High-Level Feature Matching.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,BMVC,2017
+The Devil is in the Decoder.,Zbigniew Wojna,https://dblp.org/pid/173/5141.html,BMVC,2017
+The Devil is in the Decoder.,Jasper R. R. Uijlings,https://dblp.org/pid/88/7541.html,BMVC,2017
+The Devil is in the Decoder.,Sergio Guadarrama,https://dblp.org/pid/89/2073.html,BMVC,2017
+The Devil is in the Decoder.,Nathan Silberman,https://dblp.org/pid/75/10432.html,BMVC,2017
+The Devil is in the Decoder.,Liang-Chieh Chen,https://dblp.org/pid/138/2443.html,BMVC,2017
+The Devil is in the Decoder.,Alireza Fathi,https://dblp.org/pid/70/3898.html,BMVC,2017
+The Devil is in the Decoder.,Vittorio Ferrari,https://dblp.org/pid/16/3608.html,BMVC,2017
+Virtual to Real Reinforcement Learning for Autonomous Driving.,Xinlei Pan,https://dblp.org/pid/188/6125.html,BMVC,2017
+Virtual to Real Reinforcement Learning for Autonomous Driving.,Yurong You,https://dblp.org/pid/199/1968.html,BMVC,2017
+Virtual to Real Reinforcement Learning for Autonomous Driving.,Ziyan Wang,https://dblp.org/pid/61/2757.html,BMVC,2017
+Virtual to Real Reinforcement Learning for Autonomous Driving.,Cewu Lu,https://dblp.org/pid/96/10571.html,BMVC,2017
+Real-Time Salient Closed Boundary Tracking using Perceptual Grouping and Shape Priors.,Xuebin Qin,https://dblp.org/pid/142/6561.html,BMVC,2017
+Real-Time Salient Closed Boundary Tracking using Perceptual Grouping and Shape Priors.,Shida He,https://dblp.org/pid/200/8141.html,BMVC,2017
+Real-Time Salient Closed Boundary Tracking using Perceptual Grouping and Shape Priors.,Zichen Zhang,https://dblp.org/pid/200/8127.html,BMVC,2017
+Real-Time Salient Closed Boundary Tracking using Perceptual Grouping and Shape Priors.,Masood Dehghan,https://dblp.org/pid/97/11044.html,BMVC,2017
+Real-Time Salient Closed Boundary Tracking using Perceptual Grouping and Shape Priors.,Martin Jägersand,https://dblp.org/pid/j/MartinJagersand.html,BMVC,2017
+Kinematic-Layout-aware Random Forests for Depth-based Action Recognition.,Seungryul Baek,https://dblp.org/pid/188/6205.html,BMVC,2017
+Kinematic-Layout-aware Random Forests for Depth-based Action Recognition.,Zhiyuan Shi,https://dblp.org/pid/19/222.html,BMVC,2017
+Kinematic-Layout-aware Random Forests for Depth-based Action Recognition.,Masato Kawade,https://dblp.org/pid/70/3513.html,BMVC,2017
+Kinematic-Layout-aware Random Forests for Depth-based Action Recognition.,Tae-Kyun Kim,https://dblp.org/pid/28/787.html,BMVC,2017
+Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors.,Matthew Trumble,https://dblp.org/pid/129/9887.html,BMVC,2017
+Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors.,Andrew Gilbert,https://dblp.org/pid/63/3257.html,BMVC,2017
+Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors.,Charles Malleson,https://dblp.org/pid/36/10781.html,BMVC,2017
+Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors.,Adrian Hilton,https://dblp.org/pid/63/34.html,BMVC,2017
+Total Capture: 3D Human Pose Estimation Fusing Video and Inertial Sensors.,John P. Collomosse,https://dblp.org/pid/72/4504.html,BMVC,2017
+Indirect deep structured learning for 3D human body shape and pose prediction.,Vince Tan,https://dblp.org/pid/226/3360.html,BMVC,2017
+Indirect deep structured learning for 3D human body shape and pose prediction.,Ignas Budvytis,https://dblp.org/pid/08/8939.html,BMVC,2017
+Indirect deep structured learning for 3D human body shape and pose prediction.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,BMVC,2017
+Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization.,Henri Rebecq,https://dblp.org/pid/181/3927.html,BMVC,2017
+Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization.,Timo Horstschaefer,https://dblp.org/pid/196/8551.html,BMVC,2017
+Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization.,Davide Scaramuzza,https://dblp.org/pid/62/3318.html,BMVC,2017
+Adapting Models to Signal Degradation using Distillation.,Jong-Chyi Su,https://dblp.org/pid/179/2111.html,BMVC,2017
+Adapting Models to Signal Degradation using Distillation.,Subhransu Maji,https://dblp.org/pid/92/6598.html,BMVC,2017
+Localizing Actions from Video Labels and Pseudo-Annotations.,Pascal Mettes,https://dblp.org/pid/147/4008.html,BMVC,2017
+Localizing Actions from Video Labels and Pseudo-Annotations.,Cees Snoek,https://dblp.org/pid/s/CeesSnoek.html,BMVC,2017
+Localizing Actions from Video Labels and Pseudo-Annotations.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,BMVC,2017
+Introduction to Coherent Depth Fields for Dense Monocular Surface Recovery.,Vladislav Golyanik,https://dblp.org/pid/180/6438.html,BMVC,2017
+Introduction to Coherent Depth Fields for Dense Monocular Surface Recovery.,Torben Fetzer,https://dblp.org/pid/199/8360.html,BMVC,2017
+Introduction to Coherent Depth Fields for Dense Monocular Surface Recovery.,Didier Stricker,https://dblp.org/pid/02/5478.html,BMVC,2017
+Real-time Factored ConvNets: Extracting the X Factor in Human Parsing.,James Charles,https://dblp.org/pid/91/7705.html,BMVC,2017
+Real-time Factored ConvNets: Extracting the X Factor in Human Parsing.,Ignas Budvytis,https://dblp.org/pid/08/8939.html,BMVC,2017
+Real-time Factored ConvNets: Extracting the X Factor in Human Parsing.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,BMVC,2017
+"Holistic, Instance-level Human Parsing.",Qizhu Li,https://dblp.org/pid/206/6324.html,BMVC,2017
+"Holistic, Instance-level Human Parsing.",Anurag Arnab,https://dblp.org/pid/165/9719.html,BMVC,2017
+"Holistic, Instance-level Human Parsing.",Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,BMVC,2017
+CT from Motion: Volumetric Capture of Moving Shapes using X-rays.,Julien Pansiot,https://dblp.org/pid/40/6095.html,BMVC,2017
+CT from Motion: Volumetric Capture of Moving Shapes using X-rays.,Edmond Boyer,https://dblp.org/pid/b/EdmondBoyer.html,BMVC,2017
+Concise Radiometric Calibration Using The Power of Ranking.,Han Gong,https://dblp.org/pid/135/5079.html,BMVC,2017
+Concise Radiometric Calibration Using The Power of Ranking.,Graham D. Finlayson,https://dblp.org/pid/f/GrahamDFinlayson.html,BMVC,2017
+Concise Radiometric Calibration Using The Power of Ranking.,Maryam M. Darrodi,https://dblp.org/pid/203/9110.html,BMVC,2017
+Scale Exploiting Minimal Solvers for Relative Pose with Calibrated Cameras.,Stephan Liwicki,https://dblp.org/pid/60/9606.html,BMVC,2017
+Scale Exploiting Minimal Solvers for Relative Pose with Calibrated Cameras.,Christopher Zach,https://dblp.org/pid/93/4824.html,BMVC,2017
+Multiple Instance Curriculum Learning for Weakly Supervised Object Detection.,Siyang Li,https://dblp.org/pid/170/3371.html,BMVC,2017
+Multiple Instance Curriculum Learning for Weakly Supervised Object Detection.,Xiangxin Zhu,https://dblp.org/pid/117/4843.html,BMVC,2017
+Multiple Instance Curriculum Learning for Weakly Supervised Object Detection.,Qin Huang,https://dblp.org/pid/46/4826.html,BMVC,2017
+Multiple Instance Curriculum Learning for Weakly Supervised Object Detection.,Hao Xu,https://dblp.org/pid/43/6008.html,BMVC,2017
+Multiple Instance Curriculum Learning for Weakly Supervised Object Detection.,C.-C. Jay Kuo,https://dblp.org/pid/k/CCJayKuo.html,BMVC,2017
+Fast Feature Fool: A data independent approach to universal adversarial perturbations.,Konda Reddy Mopuri,https://dblp.org/pid/162/0085.html,BMVC,2017
+Fast Feature Fool: A data independent approach to universal adversarial perturbations.,Utsav Garg,https://dblp.org/pid/203/8233.html,BMVC,2017
+Fast Feature Fool: A data independent approach to universal adversarial perturbations.,Venkatesh Babu Radhakrishnan,https://dblp.org/pid/20/6289.html,BMVC,2017
+3D color charts for camera spectral sensitivity estimation.,Rada Deeb,https://dblp.org/pid/217/1594.html,BMVC,2017
+3D color charts for camera spectral sensitivity estimation.,Damien Muselet,https://dblp.org/pid/23/996.html,BMVC,2017
+3D color charts for camera spectral sensitivity estimation.,Mathieu Hébert,https://dblp.org/pid/148/0764.html,BMVC,2017
+3D color charts for camera spectral sensitivity estimation.,Alain Trémeau,https://dblp.org/pid/39/1067.html,BMVC,2017
+3D color charts for camera spectral sensitivity estimation.,Joost van de Weijer,https://dblp.org/pid/67/3379.html,BMVC,2017
+Guided Robust Matte-Model Fitting for Accelerating Multi-light Reflectance Processing Techniques.,Ruggero Pintus,https://dblp.org/pid/85/4945.html,BMVC,2017
+Guided Robust Matte-Model Fitting for Accelerating Multi-light Reflectance Processing Techniques.,Andrea Giachetti,https://dblp.org/pid/40/4954-1.html,BMVC,2017
+Guided Robust Matte-Model Fitting for Accelerating Multi-light Reflectance Processing Techniques.,Giovanni Pintore,https://dblp.org/pid/33/4033.html,BMVC,2017
+Guided Robust Matte-Model Fitting for Accelerating Multi-light Reflectance Processing Techniques.,Enrico Gobbetti,https://dblp.org/pid/31/2575.html,BMVC,2017
+Fast Event-based Corner Detection.,Elias Mueggler,https://dblp.org/pid/123/6494.html,BMVC,2017
+Fast Event-based Corner Detection.,Chiara Bartolozzi,https://dblp.org/pid/48/307.html,BMVC,2017
+Fast Event-based Corner Detection.,Davide Scaramuzza,https://dblp.org/pid/62/3318.html,BMVC,2017
+PCN: Part and Context Information for Pedestrian Detection with CNNs.,Shiguang Wang,https://dblp.org/pid/133/3850.html,BMVC,2017
+Adaptive Local Contrast Normalization for Robust Object Detection and Pose Estimation.,Mahdi Rad,https://dblp.org/pid/176/1510.html,BMVC,2017
+Adaptive Local Contrast Normalization for Robust Object Detection and Pose Estimation.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,BMVC,2017
+Adaptive Local Contrast Normalization for Robust Object Detection and Pose Estimation.,Peter M. Roth,https://dblp.org/pid/18/4857.html,BMVC,2017
+Object-Extent Pooling for Weakly Supervised Single-Shot Localization.,Amogh Gudi,https://dblp.org/pid/154/2901.html,BMVC,2017
+Object-Extent Pooling for Weakly Supervised Single-Shot Localization.,Nicolai van Rosmalen,https://dblp.org/pid/203/8313.html,BMVC,2017
+Object-Extent Pooling for Weakly Supervised Single-Shot Localization.,Marco Loog,https://dblp.org/pid/85/4677.html,BMVC,2017
+Object-Extent Pooling for Weakly Supervised Single-Shot Localization.,Jan C. van Gemert,https://dblp.org/pid/25/3153.html,BMVC,2017
+Transformed Anti-Sparse Hashing.,Zhangyang Wang,https://dblp.org/pid/119/4026.html,BMVC,2017
+Transformed Anti-Sparse Hashing.,Ji Liu,https://dblp.org/pid/51/4433-2.html,BMVC,2017
+Transformed Anti-Sparse Hashing.,Shuai Huang,https://dblp.org/pid/97/9989-1.html,BMVC,2017
+Transformed Anti-Sparse Hashing.,Xinchao Wang,https://dblp.org/pid/23/8015.html,BMVC,2017
+Transformed Anti-Sparse Hashing.,Shiyu Chang,https://dblp.org/pid/28/9988.html,BMVC,2017
+Deeply Supervised 3D Recurrent FCN for Salient Object Detection in Videos.,Trung-Nghia Le,https://dblp.org/pid/00/11111.html,BMVC,2017
+Deeply Supervised 3D Recurrent FCN for Salient Object Detection in Videos.,Akihiro Sugimoto,https://dblp.org/pid/36/4318.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Dongqing Zou,https://dblp.org/pid/122/4806.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Feng Shi,https://dblp.org/pid/06/468.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Wei-Heng Liu,https://dblp.org/pid/141/7820.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Jia Li,https://dblp.org/pid/23/6950.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Qiang Wang,https://dblp.org/pid/64/5630-23.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Paul K. J. Park,https://dblp.org/pid/119/4249.html,BMVC,2017
+Robust Dense Depth Maps Generations from Sparse DVS Stereos.,Hyunsurk Ryu,https://dblp.org/pid/56/5207.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Jia Li,https://dblp.org/pid/23/6950.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Feng Shi,https://dblp.org/pid/06/468.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Wei-Heng Liu,https://dblp.org/pid/141/7820.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Dongqing Zou,https://dblp.org/pid/122/4806.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Qiang Wang,https://dblp.org/pid/64/5630-23.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Paul K. J. Park,https://dblp.org/pid/119/4249.html,BMVC,2017
+Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor.,Hyunsurk Ryu,https://dblp.org/pid/56/5207.html,BMVC,2017
+High-Resolution Stereo Matching based on Sampled Photoconsistency Computation.,Chloe LeGendre,https://dblp.org/pid/182/7029.html,BMVC,2017
+High-Resolution Stereo Matching based on Sampled Photoconsistency Computation.,Konstantinos Batsos,https://dblp.org/pid/218/5287.html,BMVC,2017
+High-Resolution Stereo Matching based on Sampled Photoconsistency Computation.,Philippos Mordohai,https://dblp.org/pid/10/618.html,BMVC,2017
+Generative OpenMax for Multi-Class Open Set Classification.,Zongyuan Ge,https://dblp.org/pid/147/2757.html,BMVC,2017
+Generative OpenMax for Multi-Class Open Set Classification.,Sergey Demyanov,https://dblp.org/pid/123/5122.html,BMVC,2017
+Generative OpenMax for Multi-Class Open Set Classification.,Rahil Garnavi,https://dblp.org/pid/36/2498.html,BMVC,2017
+ANSAC: Adaptive Non-Minimal Sample and Consensus.,Victor Fragoso,https://dblp.org/pid/24/10073.html,BMVC,2017
+ANSAC: Adaptive Non-Minimal Sample and Consensus.,Christopher Sweeney,https://dblp.org/pid/124/0715.html,BMVC,2017
+ANSAC: Adaptive Non-Minimal Sample and Consensus.,Pradeep Sen,https://dblp.org/pid/09/1364.html,BMVC,2017
+ANSAC: Adaptive Non-Minimal Sample and Consensus.,Matthew A. Turk,https://dblp.org/pid/61/3381.html,BMVC,2017
+Color Restoration of Underwater Images.,Dana Menaker,https://dblp.org/pid/144/7832.html,BMVC,2017
+Color Restoration of Underwater Images.,Tali Treibitz,https://dblp.org/pid/55/405.html,BMVC,2017
+Color Restoration of Underwater Images.,Shai Avidan,https://dblp.org/pid/02/617.html,BMVC,2017
+Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma.,Jifei Song,https://dblp.org/pid/198/2576.html,BMVC,2017
+Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma.,Yi-Zhe Song,https://dblp.org/pid/98/1684.html,BMVC,2017
+Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma.,Tony Xiang,https://dblp.org/pid/128/7920.html,BMVC,2017
+Fine-Grained Image Retrieval: the Text/Sketch Input Dilemma.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,BMVC,2017
+Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval.,Kaiyue Pang,https://dblp.org/pid/180/6351.html,BMVC,2017
+Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval.,Yi-Zhe Song,https://dblp.org/pid/98/1684.html,BMVC,2017
+Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval.,Tony Xiang,https://dblp.org/pid/128/7920.html,BMVC,2017
+Cross-domain Generative Learning for Fine-Grained Sketch-Based Image Retrieval.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,BMVC,2017
+Epipolar Plane Diffusion: An Efficient Approach for Light Field Editing.,Oriel Frigo,https://dblp.org/pid/161/1893.html,BMVC,2017
+Group Cost-sensitive Boosting with Multi-scale Decorrelated Filters for Pedestrian Detection.,Chengju Zhou,https://dblp.org/pid/150/6745.html,BMVC,2017
+Group Cost-sensitive Boosting with Multi-scale Decorrelated Filters for Pedestrian Detection.,Meiqing Wu,https://dblp.org/pid/119/4173.html,BMVC,2017
+Group Cost-sensitive Boosting with Multi-scale Decorrelated Filters for Pedestrian Detection.,Siew-Kei Lam,https://dblp.org/pid/74/1907.html,BMVC,2017
+Moving Object Segmentation in Jittery Videos by Stabilizing Trajectories Modeled in Kendall's Shape Space.,Geethu Miriam Jacob,https://dblp.org/pid/192/2443.html,BMVC,2017
+Moving Object Segmentation in Jittery Videos by Stabilizing Trajectories Modeled in Kendall's Shape Space.,Sukhendu Das,https://dblp.org/pid/96/1248.html,BMVC,2017
+Urban Image Stitching using Planar Perspective Guidance.,Joo Ho Lee,https://dblp.org/pid/75/6843-3.html,BMVC,2017
+Urban Image Stitching using Planar Perspective Guidance.,Seung-Hwan Baek,https://dblp.org/pid/161/1845.html,BMVC,2017
+Urban Image Stitching using Planar Perspective Guidance.,Min H. Kim,https://dblp.org/pid/92/5142.html,BMVC,2017
+Detecting Parts for Action Localization.,Nicolas Chesneau,https://dblp.org/pid/203/8095.html,BMVC,2017
+Detecting Parts for Action Localization.,Grégory Rogez,https://dblp.org/pid/49/4408.html,BMVC,2017
+Detecting Parts for Action Localization.,Karteek Alahari,https://dblp.org/pid/a/KarteekAlahari.html,BMVC,2017
+Detecting Parts for Action Localization.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,BMVC,2017
+Cascaded Boundary Regression for Temporal Action Detection.,Jiyang Gao,https://dblp.org/pid/162/0662.html,BMVC,2017
+Cascaded Boundary Regression for Temporal Action Detection.,Zhenheng Yang,https://dblp.org/pid/186/7818.html,BMVC,2017
+Cascaded Boundary Regression for Temporal Action Detection.,Ram Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,BMVC,2017
+Confidence and Diversity for Active Selection of Feedback in Image Retrieval.,Bhavin Modi,https://dblp.org/pid/226/3350.html,BMVC,2017
+Confidence and Diversity for Active Selection of Feedback in Image Retrieval.,Adriana Kovashka,https://dblp.org/pid/51/8652.html,BMVC,2017
+Shape Generation using Spatially Partitioned Point Clouds.,Matheus Gadelha,https://dblp.org/pid/192/1466.html,BMVC,2017
+Shape Generation using Spatially Partitioned Point Clouds.,Subhransu Maji,https://dblp.org/pid/92/6598.html,BMVC,2017
+Shape Generation using Spatially Partitioned Point Clouds.,Rui Wang,https://dblp.org/pid/w/RuiWang3.html,BMVC,2017
+Person Re-Identification by Localizing Discriminative Regions.,Tanzila Rahman,https://dblp.org/pid/218/2257.html,BMVC,2017
+Person Re-Identification by Localizing Discriminative Regions.,Mrigank Rochan,https://dblp.org/pid/12/10720.html,BMVC,2017
+Person Re-Identification by Localizing Discriminative Regions.,Yang Wang,https://dblp.org/pid/w/YangWang3.html,BMVC,2017
+Adapting Object Detectors from Images to Weakly Labeled Videos.,Omit Chanda,https://dblp.org/pid/226/3454.html,BMVC,2017
+Adapting Object Detectors from Images to Weakly Labeled Videos.,Eu Wern Teh,https://dblp.org/pid/30/9826.html,BMVC,2017
+Adapting Object Detectors from Images to Weakly Labeled Videos.,Mrigank Rochan,https://dblp.org/pid/12/10720.html,BMVC,2017
+Adapting Object Detectors from Images to Weakly Labeled Videos.,Zhenyu Guo,https://dblp.org/pid/53/1850.html,BMVC,2017
+Adapting Object Detectors from Images to Weakly Labeled Videos.,Yang Wang,https://dblp.org/pid/w/YangWang3.html,BMVC,2017
+Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding.,Alex Kendall,https://dblp.org/pid/163/1946.html,BMVC,2017
+Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding.,Vijay Badrinarayanan,https://dblp.org/pid/46/1149.html,BMVC,2017
+Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,BMVC,2017
+DepthComp: Real-time Depth Image Completion Based on Prior Semantic Scene Segmentation.,Amir Atapour Abarghouei,https://dblp.org/pid/62/8811.html,BMVC,2017
+DepthComp: Real-time Depth Image Completion Based on Prior Semantic Scene Segmentation.,Toby P. Breckon,https://dblp.org/pid/43/3031.html,BMVC,2017
+DEEP eye contact detector: Robust eye contact bid detection using convolutional neural network.,Yu Mitsuzumi,https://dblp.org/pid/226/3395.html,BMVC,2017
+DEEP eye contact detector: Robust eye contact bid detection using convolutional neural network.,Atsushi Nakazawa,https://dblp.org/pid/02/2151.html,BMVC,2017
+DEEP eye contact detector: Robust eye contact bid detection using convolutional neural network.,Toyoaki Nishida,https://dblp.org/pid/89/1538.html,BMVC,2017
+BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks.,Viet Quoc Pham,https://dblp.org/pid/36/6049.html,BMVC,2017
+BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks.,Satoshi Ito,https://dblp.org/pid/97/1315.html,BMVC,2017
+BiSeg: Simultaneous Instance Segmentation and Semantic Segmentation with Fully Convolutional Networks.,Tatsuo Kozakaya,https://dblp.org/pid/80/5388.html,BMVC,2017
+Salient Object Detection using a Context-Aware Refinement Network.,Md. Amirul Islam,https://dblp.org/pid/161/1015.html,BMVC,2017
+Salient Object Detection using a Context-Aware Refinement Network.,Mahmoud Kalash,https://dblp.org/pid/195/7520.html,BMVC,2017
+Salient Object Detection using a Context-Aware Refinement Network.,Mrigank Rochan,https://dblp.org/pid/12/10720.html,BMVC,2017
+Salient Object Detection using a Context-Aware Refinement Network.,Neil D. B. Bruce,https://dblp.org/pid/00/5848.html,BMVC,2017
+Salient Object Detection using a Context-Aware Refinement Network.,Yang Wang,https://dblp.org/pid/w/YangWang3.html,BMVC,2017
+Visual Odometry with Drift-Free Rotation Estimation Using Indoor Scene Regularities.,Pyojin Kim,https://dblp.org/pid/155/4572.html,BMVC,2017
+Visual Odometry with Drift-Free Rotation Estimation Using Indoor Scene Regularities.,Brian Coltin,https://dblp.org/pid/49/9923.html,BMVC,2017
+Visual Odometry with Drift-Free Rotation Estimation Using Indoor Scene Regularities.,Hyoun Jin Kim,https://dblp.org/pid/91/5753.html,BMVC,2017
+One For All: Adaptive Learning-based Temporal Tracker for 3D Head Shape Models.,David Joseph Tan,https://dblp.org/pid/119/1285.html,BMVC,2017
+One For All: Adaptive Learning-based Temporal Tracker for 3D Head Shape Models.,Federico Tombari,https://dblp.org/pid/16/3539.html,BMVC,2017
+One For All: Adaptive Learning-based Temporal Tracker for 3D Head Shape Models.,Nassir Navab,https://dblp.org/pid/n/NassirNavab.html,BMVC,2017
+Dominant Set Clustering and Pooling for Multi-View 3D Object Recognition.,Chu Wang,https://dblp.org/pid/45/1543.html,BMVC,2017
+Dominant Set Clustering and Pooling for Multi-View 3D Object Recognition.,Marcello Pelillo,https://dblp.org/pid/42/1745.html,BMVC,2017
+Dominant Set Clustering and Pooling for Multi-View 3D Object Recognition.,Kaleem Siddiqi,https://dblp.org/pid/s/KaleemSiddiqi.html,BMVC,2017
+A Generalised Formulation for Collaborative Representation of Image Patches (GP-CRC).,Tapabrata Chakraborti,https://dblp.org/pid/147/9917.html,BMVC,2017
+A Generalised Formulation for Collaborative Representation of Image Patches (GP-CRC).,Brendan McCane,https://dblp.org/pid/64/4743.html,BMVC,2017
+A Generalised Formulation for Collaborative Representation of Image Patches (GP-CRC).,Steven Mills,https://dblp.org/pid/20/974.html,BMVC,2017
+A Generalised Formulation for Collaborative Representation of Image Patches (GP-CRC).,Umapada Pal,https://dblp.org/pid/p/UmapadaPal.html,BMVC,2017
+DeepShoe: A Multi-Task View-Invariant CNN for Street-to-Shop Shoe Retrieval.,Huijing Zhan,https://dblp.org/pid/168/3015.html,BMVC,2017
+DeepShoe: A Multi-Task View-Invariant CNN for Street-to-Shop Shoe Retrieval.,Boxin Shi,https://dblp.org/pid/69/783.html,BMVC,2017
+DeepShoe: A Multi-Task View-Invariant CNN for Street-to-Shop Shoe Retrieval.,Alex C. Kot,https://dblp.org/pid/k/AlexChiChungKot.html,BMVC,2017
+Weakly Supervised Saliency Detection with A Category-Driven Map Generator.,Kuang-Jui Hsu,https://dblp.org/pid/127/5013.html,BMVC,2017
+Weakly Supervised Saliency Detection with A Category-Driven Map Generator.,Yen-Yu Lin,https://dblp.org/pid/44/4894.html,BMVC,2017
+Weakly Supervised Saliency Detection with A Category-Driven Map Generator.,Yung-Yu Chuang,https://dblp.org/pid/39/2152.html,BMVC,2017
+Saliency Detection by Compactness Diffusion.,Qi Zheng,https://dblp.org/pid/52/1078.html,BMVC,2017
+Saliency Detection by Compactness Diffusion.,Peng Zhang,https://dblp.org/pid/21/1048-40.html,BMVC,2017
+Saliency Detection by Compactness Diffusion.,Xinge You,https://dblp.org/pid/16/1184.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Yang Zhou,https://dblp.org/pid/07/4580.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Kai Yu,https://dblp.org/pid/197/1322.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Biao Leng,https://dblp.org/pid/42/2913.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Zhang Zhang,https://dblp.org/pid/94/2468-1.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Dangwei Li,https://dblp.org/pid/177/9111.html,BMVC,2017
+Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization.,Kaiqi Huang,https://dblp.org/pid/89/7026.html,BMVC,2017
+AST-Net: An Attribute-based Siamese Temporal Network for Real-Time Emotion Recognition.,Shu-hui Wang,https://dblp.org/pid/146/4021.html,BMVC,2017
+AST-Net: An Attribute-based Siamese Temporal Network for Real-Time Emotion Recognition.,Chiou-Ting Hsu,https://dblp.org/pid/70/6821.html,BMVC,2017
+Combined Internal and External Category-Specific Image Denoising.,Saeed Anwar,https://dblp.org/pid/176/1488.html,BMVC,2017
+Combined Internal and External Category-Specific Image Denoising.,Cong Phuoc Huynh,https://dblp.org/pid/05/4123.html,BMVC,2017
+Combined Internal and External Category-Specific Image Denoising.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,BMVC,2017
+Temporal Perceptive Network for Skeleton-Based Action Recognition.,Yueyu Hu,https://dblp.org/pid/198/1410.html,BMVC,2017
+Temporal Perceptive Network for Skeleton-Based Action Recognition.,Chunhui Liu,https://dblp.org/pid/20/5393.html,BMVC,2017
+Temporal Perceptive Network for Skeleton-Based Action Recognition.,Yanghao Li,https://dblp.org/pid/159/3873.html,BMVC,2017
+Temporal Perceptive Network for Skeleton-Based Action Recognition.,Jiaying Liu,https://dblp.org/pid/32/197.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Jianyu Wang,https://dblp.org/pid/98/6805-1.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Zhishuai Zhang,https://dblp.org/pid/172/1219.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Cihang Xie,https://dblp.org/pid/175/3366.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Jun Zhu,https://dblp.org/pid/50/2644.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Lingxi Xie,https://dblp.org/pid/123/2869.html,BMVC,2017
+Detecting Semantic Parts on Partially Occluded Objects.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,BMVC,2017
+Place Recognition in Semi-Dense Maps.,Yawei Ye,https://dblp.org/pid/226/3359.html,BMVC,2017
+Place Recognition in Semi-Dense Maps.,Titus Cieslewski,https://dblp.org/pid/164/8154.html,BMVC,2017
+Place Recognition in Semi-Dense Maps.,Antonio Loquercio,https://dblp.org/pid/203/5131.html,BMVC,2017
+Place Recognition in Semi-Dense Maps.,Davide Scaramuzza,https://dblp.org/pid/62/3318.html,BMVC,2017
+Image Completion with Intrinsic Reflectance Guidance.,Soomin Kim,https://dblp.org/pid/145/5306-4.html,BMVC,2017
+Image Completion with Intrinsic Reflectance Guidance.,Taeyoung Kim,https://dblp.org/pid/46/6697.html,BMVC,2017
+Image Completion with Intrinsic Reflectance Guidance.,Min H. Kim,https://dblp.org/pid/92/5142.html,BMVC,2017
+Image Completion with Intrinsic Reflectance Guidance.,Sung-Eui Yoon,https://dblp.org/pid/96/4574.html,BMVC,2017
+Enhancement of SSD by concatenating feature maps for object detection.,Jisoo Jeong,https://dblp.org/pid/200/8501.html,BMVC,2017
+Enhancement of SSD by concatenating feature maps for object detection.,Hyojin Park,https://dblp.org/pid/122/9421.html,BMVC,2017
+Enhancement of SSD by concatenating feature maps for object detection.,Nojun Kwak,https://dblp.org/pid/49/2806.html,BMVC,2017
+Colour Constancy: Biologically-inspired Contrast Variant Pooling Mechanism.,Arash Akbarinia,https://dblp.org/pid/198/2526.html,BMVC,2017
+Colour Constancy: Biologically-inspired Contrast Variant Pooling Mechanism.,Raquel Gil Rodríguez,https://dblp.org/pid/179/6140.html,BMVC,2017
+Colour Constancy: Biologically-inspired Contrast Variant Pooling Mechanism.,C. Alejandro Párraga,https://dblp.org/pid/80/2059.html,BMVC,2017
+Superpixel-based semantic segmentation trained by statistical process control.,Hyojin Park,https://dblp.org/pid/122/9421.html,BMVC,2017
+Superpixel-based semantic segmentation trained by statistical process control.,Jisoo Jeong,https://dblp.org/pid/200/8501.html,BMVC,2017
+Superpixel-based semantic segmentation trained by statistical process control.,Youngjoon Yoo,https://dblp.org/pid/146/4031.html,BMVC,2017
+Superpixel-based semantic segmentation trained by statistical process control.,Nojun Kwak,https://dblp.org/pid/49/2806.html,BMVC,2017
+Robust Pixel-wise Dehazing Algorithm based on Advanced Haze-Relevant Features.,Guisik Kim,https://dblp.org/pid/197/6673.html,BMVC,2017
+Robust Pixel-wise Dehazing Algorithm based on Advanced Haze-Relevant Features.,Junseok Kwon,https://dblp.org/pid/04/425.html,BMVC,2017
+General Deep Image Completion with Lightweight Conditional Generative Adversarial Networks.,Ching Wei Tseng,https://dblp.org/pid/193/6449.html,BMVC,2017
+General Deep Image Completion with Lightweight Conditional Generative Adversarial Networks.,Hung-Jin Lin,https://dblp.org/pid/213/3964.html,BMVC,2017
+General Deep Image Completion with Lightweight Conditional Generative Adversarial Networks.,Shang-Hong Lai,https://dblp.org/pid/27/679.html,BMVC,2017
+Augmented Reality meets Deep Learning.,Hassan Abu Alhaija,https://dblp.org/pid/169/1205.html,BMVC,2017
+Augmented Reality meets Deep Learning.,Siva Karthik Mustikovela,https://dblp.org/pid/188/6172.html,BMVC,2017
+Augmented Reality meets Deep Learning.,Lars M. Mescheder,https://dblp.org/pid/190/7702.html,BMVC,2017
+Augmented Reality meets Deep Learning.,Andreas Geiger,https://dblp.org/pid/40/5825-1.html,BMVC,2017
+Augmented Reality meets Deep Learning.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,BMVC,2017
+Improved IR-Colorization using Adversarial Training and Estuary Networks.,Matthias Limmer,https://dblp.org/pid/135/8894.html,BMVC,2017
+Improved IR-Colorization using Adversarial Training and Estuary Networks.,Hendrik P. A. Lensch,https://dblp.org/pid/99/6552.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Yuta Nakashima,https://dblp.org/pid/03/2323.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Fumio Okura,https://dblp.org/pid/18/9717.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Norihiko Kawai,https://dblp.org/pid/92/1207.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Ryosuke Kimura,https://dblp.org/pid/91/8861.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Hiroshi Kawasaki,https://dblp.org/pid/84/4575.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Katsushi Ikeuchi,https://dblp.org/pid/44/4771.html,BMVC,2017
+Realtime Novel View Synthesis with Eigen-Texture Regression.,Ambrosio Blanco,https://dblp.org/pid/192/2143.html,BMVC,2017
+Human Action Recognition Using A Multi-Modal Hybrid Deep Learning Model.,Hany A. El-Ghaish,https://dblp.org/pid/216/8505.html,BMVC,2017
+Human Action Recognition Using A Multi-Modal Hybrid Deep Learning Model.,Mohamed E. Hussein,https://dblp.org/pid/70/7061.html,BMVC,2017
+Human Action Recognition Using A Multi-Modal Hybrid Deep Learning Model.,Amin A. Shoukry,https://dblp.org/pid/46/5176.html,BMVC,2017
+Probabilistic Image Colorization.,Amelie Royer,https://dblp.org/pid/169/4804.html,BMVC,2017
+Probabilistic Image Colorization.,Alexander Kolesnikov,https://dblp.org/pid/137/6963-3.html,BMVC,2017
+Probabilistic Image Colorization.,Christoph H. Lampert,https://dblp.org/pid/67/2136.html,BMVC,2017
+Iterated Lifting for Robust Cost Optimization.,Christopher Zach,https://dblp.org/pid/93/4824.html,BMVC,2017
+Iterated Lifting for Robust Cost Optimization.,Guillaume Bourmaud,https://dblp.org/pid/127/7587.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Daniel Hernández Juárez,https://dblp.org/pid/182/0264.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Lukas Schneider,https://dblp.org/pid/152/5072.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Antonio Espinosa,https://dblp.org/pid/21/3965.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Juan C. Moure,https://dblp.org/pid/59/5413.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,David Vázquez,https://dblp.org/pid/94/8653.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Antonio M. López,https://dblp.org/pid/11/6007.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Uwe Franke,https://dblp.org/pid/56/2085.html,BMVC,2017
+Slanted Stixels: Representing San Francisco's Steepest Streets.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,BMVC,2017
+Deformable Part-based Fully Convolutional Network for Object Detection.,Taylor Mordan,https://dblp.org/pid/203/8404.html,BMVC,2017
+Deformable Part-based Fully Convolutional Network for Object Detection.,Nicolas Thome,https://dblp.org/pid/66/4095.html,BMVC,2017
+Deformable Part-based Fully Convolutional Network for Object Detection.,Gilles Hénaff,https://dblp.org/pid/172/9618.html,BMVC,2017
+Deformable Part-based Fully Convolutional Network for Object Detection.,Matthieu Cord,https://dblp.org/pid/68/3117.html,BMVC,2017
+Multiple Instance Visual-Semantic Embedding.,Zhou Ren,https://dblp.org/pid/09/8012.html,BMVC,2017
+Multiple Instance Visual-Semantic Embedding.,Hailin Jin,https://dblp.org/pid/78/102.html,BMVC,2017
+Multiple Instance Visual-Semantic Embedding.,Zhe Lin,https://dblp.org/pid/42/1680-1.html,BMVC,2017
+Multiple Instance Visual-Semantic Embedding.,Chen Fang,https://dblp.org/pid/60/2548.html,BMVC,2017
+Multiple Instance Visual-Semantic Embedding.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,BMVC,2017
+Thinking Outside the Box: Spatial Anticipation of Semantic Categories.,Martin Garbade,https://dblp.org/pid/177/9024.html,BMVC,2017
+Thinking Outside the Box: Spatial Anticipation of Semantic Categories.,Juergen Gall,https://dblp.org/pid/13/6920.html,BMVC,2017
+Real-Time Temporal Action Localization in Untrimmed Videos by Sub-Action Discovery.,Rui Hou,https://dblp.org/pid/79/3631-8.html,BMVC,2017
+Real-Time Temporal Action Localization in Untrimmed Videos by Sub-Action Discovery.,Rahul Sukthankar,https://dblp.org/pid/57/3775.html,BMVC,2017
+Real-Time Temporal Action Localization in Untrimmed Videos by Sub-Action Discovery.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,BMVC,2017
+RED: Reinforced Encoder-Decoder Networks for Action Anticipation.,Jiyang Gao,https://dblp.org/pid/162/0662.html,BMVC,2017
+RED: Reinforced Encoder-Decoder Networks for Action Anticipation.,Zhenheng Yang,https://dblp.org/pid/186/7818.html,BMVC,2017
+RED: Reinforced Encoder-Decoder Networks for Action Anticipation.,Ram Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,BMVC,2017
+"End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos.",Shyamal Buch,https://dblp.org/pid/207/8458.html,BMVC,2017
+"End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos.",Victor Escorcia,https://dblp.org/pid/169/4850.html,BMVC,2017
+"End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos.",Bernard Ghanem,https://dblp.org/pid/37/2516.html,BMVC,2017
+"End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos.",Li Fei-Fei,https://dblp.org/pid/79/2528.html,BMVC,2017
+"End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos.",Juan Carlos Niebles,https://dblp.org/pid/26/647.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Yufei Wang,https://dblp.org/pid/61/5568-1.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Zhe Lin,https://dblp.org/pid/42/1680-1.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Xiaohui Shen,https://dblp.org/pid/88/6582.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Radomír Mech,https://dblp.org/pid/08/1740.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Gavin S. P. Miller,https://dblp.org/pid/93/4325.html,BMVC,2017
+Recognizing and Curating Photo Albums via Event-Specific Image Importance.,Garrison W. Cottrell,https://dblp.org/pid/c/GWCottrell.html,BMVC,2017
+Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation.,Zhenheng Yang,https://dblp.org/pid/186/7818.html,BMVC,2017
+Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation.,Jiyang Gao,https://dblp.org/pid/162/0662.html,BMVC,2017
+Spatio-Temporal Action Detection with Cascade Proposal and Location Anticipation.,Ram Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,BMVC,2017
+Video Segmentation with Background Motion Models.,Scott Wehrwein,https://dblp.org/pid/135/4929.html,BMVC,2017
+Video Segmentation with Background Motion Models.,Richard Szeliski,https://dblp.org/pid/46/2186.html,BMVC,2017
+Orientation-boosted Voxel Nets for 3D Object Recognition.,Nima Sedaghat,https://dblp.org/pid/128/7923.html,BMVC,2017
+Orientation-boosted Voxel Nets for 3D Object Recognition.,Mohammadreza Zolfaghari,https://dblp.org/pid/126/1066.html,BMVC,2017
+Orientation-boosted Voxel Nets for 3D Object Recognition.,Ehsan Amiri,https://dblp.org/pid/88/1596.html,BMVC,2017
+Orientation-boosted Voxel Nets for 3D Object Recognition.,Thomas Brox,https://dblp.org/pid/97/4586.html,BMVC,2017
+Semantic 3D Reconstruction with Finite Element Bases.,Audrey Richard,https://dblp.org/pid/191/4681.html,BMVC,2017
+Semantic 3D Reconstruction with Finite Element Bases.,Christoph Vogel,https://dblp.org/pid/63/6815.html,BMVC,2017
+Semantic 3D Reconstruction with Finite Element Bases.,Maros Blaha,https://dblp.org/pid/191/4643.html,BMVC,2017
+Semantic 3D Reconstruction with Finite Element Bases.,Thomas Pock,https://dblp.org/pid/48/6407.html,BMVC,2017
+Semantic 3D Reconstruction with Finite Element Bases.,Konrad Schindler,https://dblp.org/pid/73/488.html,BMVC,2017
+SilNet : Single- and Multi-View Reconstruction by Learning from Silhouettes.,Olivia Wiles,https://dblp.org/pid/194/3191.html,BMVC,2017
+SilNet : Single- and Multi-View Reconstruction by Learning from Silhouettes.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,BMVC,2017
+A Differential Approach to Shape from Polarization.,Roberto Mecca,https://dblp.org/pid/61/10105.html,BMVC,2017
+A Differential Approach to Shape from Polarization.,Fotios Logothetis,https://dblp.org/pid/193/9511.html,BMVC,2017
+A Differential Approach to Shape from Polarization.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,BMVC,2017
+Fast dense feature extraction with convolutional neural networks that have pooling or striding layers.,Christian Bailer,https://dblp.org/pid/119/1518.html,BMVC,2017
+Fast dense feature extraction with convolutional neural networks that have pooling or striding layers.,Tewodros Habtegebrial,https://dblp.org/pid/218/6158.html,BMVC,2017
+Fast dense feature extraction with convolutional neural networks that have pooling or striding layers.,Kiran Varanasi,https://dblp.org/pid/92/1624.html,BMVC,2017
+Fast dense feature extraction with convolutional neural networks that have pooling or striding layers.,Didier Stricker,https://dblp.org/pid/02/5478.html,BMVC,2017
+Local Visual Microphones: Improved Sound Extraction from Silent Video.,Mohammad Amin Sadeghi,https://dblp.org/pid/64/2962.html,BMVC,2017
+Local Visual Microphones: Improved Sound Extraction from Silent Video.,Mohammad Amin Shabani,https://dblp.org/pid/213/7836.html,BMVC,2017
+Local Visual Microphones: Improved Sound Extraction from Silent Video.,Laleh Samadfam,https://dblp.org/pid/213/7888.html,BMVC,2017
+Unsupervised Deep Generative Hashing.,Yuming Shen,https://dblp.org/pid/00/1438.html,BMVC,2017
+Unsupervised Deep Generative Hashing.,Li Liu,https://dblp.org/pid/33/4528-4.html,BMVC,2017
+Unsupervised Deep Generative Hashing.,Ling Shao,https://dblp.org/pid/75/1281.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Karl Ni,https://dblp.org/pid/42/4189.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Kyle Zaragoza,https://dblp.org/pid/174/4838.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Alexander Gude,https://dblp.org/pid/190/7396.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Yonas Tesfaye,https://dblp.org/pid/190/7754.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Carmen Carrano,https://dblp.org/pid/161/8813.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Charles Foster,https://dblp.org/pid/226/3387.html,BMVC,2017
+Sampled Image Tagging and Retrieval Methods on User Generated Content.,Barry Chen,https://dblp.org/pid/43/6702.html,BMVC,2017
+Criteria Sliders: Learning Continuous Database Criteria via Interactive Ranking.,James Tompkin,https://dblp.org/pid/95/7687.html,BMVC,2017
+Criteria Sliders: Learning Continuous Database Criteria via Interactive Ranking.,Kwang In Kim,https://dblp.org/pid/49/1431.html,BMVC,2017
+Criteria Sliders: Learning Continuous Database Criteria via Interactive Ranking.,Hanspeter Pfister,https://dblp.org/pid/p/HanspeterPfister.html,BMVC,2017
+Criteria Sliders: Learning Continuous Database Criteria via Interactive Ranking.,Christian Theobalt,https://dblp.org/pid/55/3346.html,BMVC,2017
+Now You See Me: Deep Face Hallucination for Unviewed Sketches.,Conghui Hu,https://dblp.org/pid/218/6215.html,BMVC,2017
+Now You See Me: Deep Face Hallucination for Unviewed Sketches.,Da Li,https://dblp.org/pid/43/4804-1.html,BMVC,2017
+Now You See Me: Deep Face Hallucination for Unviewed Sketches.,Yi-Zhe Song,https://dblp.org/pid/98/1684.html,BMVC,2017
+Now You See Me: Deep Face Hallucination for Unviewed Sketches.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,BMVC,2017
+From Benedict Cumberbatch to Sherlock Holmes: Character Identification in TV series without a Script.,Arsha Nagrani,https://dblp.org/pid/202/1922.html,BMVC,2017
+From Benedict Cumberbatch to Sherlock Holmes: Character Identification in TV series without a Script.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,BMVC,2017
+Quantifying Facial Age by Posterior of Age Comparisons.,Yunxuan Zhang,https://dblp.org/pid/205/3095.html,BMVC,2017
+Quantifying Facial Age by Posterior of Age Comparisons.,Li Liu,https://dblp.org/pid/33/4528.html,BMVC,2017
+Quantifying Facial Age by Posterior of Age Comparisons.,Cheng Li,https://dblp.org/pid/16/6465-9.html,BMVC,2017
+Quantifying Facial Age by Posterior of Age Comparisons.,Chen Change Loy,https://dblp.org/pid/01/5855.html,BMVC,2017
+You said that?,Joon Son Chung,https://dblp.org/pid/160/2692.html,BMVC,2017
+You said that?,Amir Jamaludin,https://dblp.org/pid/185/0350.html,BMVC,2017
+You said that?,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,BMVC,2017
+Video to Text Summary: Joint Video Summarization and Captioning with Recurrent Neural Networks.,Bor-Chun Chen,https://dblp.org/pid/86/10575.html,BMVC,2017
+Video to Text Summary: Joint Video Summarization and Captioning with Recurrent Neural Networks.,Yan-Ying Chen,https://dblp.org/pid/66/9376.html,BMVC,2017
+Video to Text Summary: Joint Video Summarization and Captioning with Recurrent Neural Networks.,Francine Chen,https://dblp.org/pid/95/4481.html,BMVC,2017
+A Recurrent Variational Autoencoder for Human Motion Synthesis.,Ikhsanul Habibie,https://dblp.org/pid/159/5555.html,BMVC,2017
+A Recurrent Variational Autoencoder for Human Motion Synthesis.,Daniel Holden,https://dblp.org/pid/165/9944.html,BMVC,2017
+A Recurrent Variational Autoencoder for Human Motion Synthesis.,Jonathan Schwarz,https://dblp.org/pid/211/7673.html,BMVC,2017
+A Recurrent Variational Autoencoder for Human Motion Synthesis.,Joe Yearsley,https://dblp.org/pid/223/4373.html,BMVC,2017
+A Recurrent Variational Autoencoder for Human Motion Synthesis.,Taku Komura,https://dblp.org/pid/97/6832.html,BMVC,2017
+A deep learning pipeline for semantic facade segmentation.,Radwa Fathalla,https://dblp.org/pid/157/3594.html,BMVC,2017
+A deep learning pipeline for semantic facade segmentation.,George Vogiatzis,https://dblp.org/pid/36/2989.html,BMVC,2017
+Deep Reinforcement Learning Attention Selection For Person Re-Identification.,Xu Lan,https://dblp.org/pid/175/7944.html,BMVC,2017
+Deep Reinforcement Learning Attention Selection For Person Re-Identification.,Hangxiao Wang,https://dblp.org/pid/226/3844.html,BMVC,2017
+Deep Reinforcement Learning Attention Selection For Person Re-Identification.,Shaogang Gong,https://dblp.org/pid/17/4389.html,BMVC,2017
+Deep Reinforcement Learning Attention Selection For Person Re-Identification.,Xiatian Zhu,https://dblp.org/pid/128/7935.html,BMVC,2017
+Case-Based Histopathological Malignancy Diagnosis using Convolutional Neural Networks.,Qicheng Lao,https://dblp.org/pid/222/3004.html,BMVC,2017
+Case-Based Histopathological Malignancy Diagnosis using Convolutional Neural Networks.,Thomas Fevens,https://dblp.org/pid/f/ThomasFevens.html,BMVC,2017
+Labelless Scene Classification with Semantic Matching.,Meng Ye,https://dblp.org/pid/70/6818-2.html,BMVC,2017
+Labelless Scene Classification with Semantic Matching.,Yuhong Guo,https://dblp.org/pid/34/5185.html,BMVC,2017
+Patch-based Interferometric Phase Estimation via Mixture of Gaussian Density Modelling & Non-local Averaging in the Complex Domain.,Joshin Krishnan,https://dblp.org/pid/226/3467.html,BMVC,2017
+Patch-based Interferometric Phase Estimation via Mixture of Gaussian Density Modelling & Non-local Averaging in the Complex Domain.,José M. Bioucas-Dias,https://dblp.org/pid/35/4893.html,BMVC,2017
+Feature Sequence Representation Via Slow Feature Analysis For Action Classification.,Takumi Kobayashi,https://dblp.org/pid/57/439-1.html,BMVC,2017
+A Convolutional Temporal Encoder for Video Caption Generation.,Qingle Huang,https://dblp.org/pid/226/3457.html,BMVC,2017
+A Convolutional Temporal Encoder for Video Caption Generation.,Zicheng Liao,https://dblp.org/pid/65/9522.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Jian Zhao,https://dblp.org/pid/70/2932-6.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Jianshu Li,https://dblp.org/pid/142/8988.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Fang Zhao,https://dblp.org/pid/72/4898-6.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Xuecheng Nie,https://dblp.org/pid/124/9139.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Yunpeng Chen,https://dblp.org/pid/156/7824.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,BMVC,2017
+Marginalized CNN: Learning Deep Invariant Representations.,Jiashi Feng,https://dblp.org/pid/56/8278.html,BMVC,2017
+Correlation Hashing Network for Efficient Cross-Modal Retrieval.,Yue Cao,https://dblp.org/pid/74/5570-1.html,BMVC,2017
+Correlation Hashing Network for Efficient Cross-Modal Retrieval.,Mingsheng Long,https://dblp.org/pid/74/9023.html,BMVC,2017
+Correlation Hashing Network for Efficient Cross-Modal Retrieval.,Jianmin Wang,https://dblp.org/pid/06/3456-1.html,BMVC,2017
+Sunrise or Sunset: Selective Comparison Learning for Subtle Attribute Recognition.,Hong-Yu Zhou,https://dblp.org/pid/76/7825.html,BMVC,2017
+Sunrise or Sunset: Selective Comparison Learning for Subtle Attribute Recognition.,Bin-Bin Gao,https://dblp.org/pid/152/6672.html,BMVC,2017
+Sunrise or Sunset: Selective Comparison Learning for Subtle Attribute Recognition.,Jianxin Wu,https://dblp.org/pid/w/JianxinWu.html,BMVC,2017
+BIM: Ball Intersection Multi Template Matching.,Bat El Shlomo,https://dblp.org/pid/226/3427.html,BMVC,2017
+Visual Textbook Network: Watch Carefully before Answering Visual Questions.,Difei Gao,https://dblp.org/pid/172/9932.html,BMVC,2017
+Visual Textbook Network: Watch Carefully before Answering Visual Questions.,Ruiping Wang,https://dblp.org/pid/60/1529-1.html,BMVC,2017
+Visual Textbook Network: Watch Carefully before Answering Visual Questions.,Shiguang Shan,https://dblp.org/pid/s/ShiguangShan.html,BMVC,2017
+Visual Textbook Network: Watch Carefully before Answering Visual Questions.,Xilin Chen,https://dblp.org/pid/c/XilinChen.html,BMVC,2017
+Key Person Aided Re-identification in Partially Ordered Pedestrian Set.,Chen Chen,https://dblp.org/pid/65/4423-36.html,BMVC,2017
+Key Person Aided Re-identification in Partially Ordered Pedestrian Set.,Min Cao,https://dblp.org/pid/92/5343.html,BMVC,2017
+Key Person Aided Re-identification in Partially Ordered Pedestrian Set.,Silong Peng,https://dblp.org/pid/04/776.html,BMVC,2017
+Learning confidence measures in the wild.,Fabio Tosi,https://dblp.org/pid/205/3975.html,BMVC,2017
+Learning confidence measures in the wild.,Matteo Poggi,https://dblp.org/pid/167/0722.html,BMVC,2017
+Learning confidence measures in the wild.,Stefano Mattoccia,https://dblp.org/pid/05/6147.html,BMVC,2017
+Learning confidence measures in the wild.,Alessio Tonioni,https://dblp.org/pid/203/8831.html,BMVC,2017
+Learning confidence measures in the wild.,Luigi Di Stefano,https://dblp.org/pid/00/2029.html,BMVC,2017
+Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model.,M. Saquib Sarfraz,https://dblp.org/pid/12/1561.html,BMVC,2017
+Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model.,Arne Schumann,https://dblp.org/pid/119/8461.html,BMVC,2017
+Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model.,Yan Wang,https://dblp.org/pid/59/2227.html,BMVC,2017
+Deep View-Sensitive Pedestrian Attribute Inference in an end-to-end Model.,Rainer Stiefelhagen,https://dblp.org/pid/31/4699.html,BMVC,2017
+Divide and Fuse: A Re-ranking Approach for Person Re-identification.,Rui Yu,https://dblp.org/pid/43/4940-2.html,BMVC,2017
+Divide and Fuse: A Re-ranking Approach for Person Re-identification.,Zhichao Zhou,https://dblp.org/pid/136/9853.html,BMVC,2017
+Divide and Fuse: A Re-ranking Approach for Person Re-identification.,Song Bai,https://dblp.org/pid/151/6422.html,BMVC,2017
+Divide and Fuse: A Re-ranking Approach for Person Re-identification.,Xiang Bai,https://dblp.org/pid/59/2741.html,BMVC,2017
+Joint Optimization of Coded Illumination and Grayscale Conversion for One-Shot Raw Material Classification.,Chao Wang,https://dblp.org/pid/188/7759.html,BMVC,2017
+Joint Optimization of Coded Illumination and Grayscale Conversion for One-Shot Raw Material Classification.,Takahiro Okabe,https://dblp.org/pid/83/431.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Haitian Zheng,https://dblp.org/pid/171/0919.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Mengqi Ji,https://dblp.org/pid/168/4541.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Lei Han,https://dblp.org/pid/75/2307.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Ziwei Xu,https://dblp.org/pid/23/8998-1.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Haoqian Wang,https://dblp.org/pid/57/7040.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Yebin Liu,https://dblp.org/pid/84/1411.html,BMVC,2017
+Learning Cross-scale Correspondence and Patch-based Synthesis for Reference-based Super-Resolution.,Lu Fang,https://dblp.org/pid/33/8116.html,BMVC,2017
+Anomaly Detection using a Convolutional Winner-Take-All Autoencoder.,Hanh Tran,https://dblp.org/pid/148/9006.html,BMVC,2017
+Anomaly Detection using a Convolutional Winner-Take-All Autoencoder.,David C. Hogg,https://dblp.org/pid/h/DHogg.html,BMVC,2017
+A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.,Akshay Jain,https://dblp.org/pid/55/4824.html,BMVC,2017
+A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.,Alexander Fell,https://dblp.org/pid/07/2195.html,BMVC,2017
+A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.,Saket Anand,https://dblp.org/pid/11/4747.html,BMVC,2017
+Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition.,Takato Kurokawa,https://dblp.org/pid/165/1818.html,BMVC,2017
+Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition.,Yuji Yamauchi,https://dblp.org/pid/08/3687.html,BMVC,2017
+Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition.,Mitsuru Ambai,https://dblp.org/pid/19/7185.html,BMVC,2017
+Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition.,Takayoshi Yamashita,https://dblp.org/pid/64/5510.html,BMVC,2017
+Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition.,Hironobu Fujiyoshi,https://dblp.org/pid/79/2304.html,BMVC,2017
+Sparse and Noisy to Dense Depth Map Upsampling Based on Mesh and Colour Consistency.,Hanshin Lim,https://dblp.org/pid/164/7876.html,BMVC,2017
+Sparse and Noisy to Dense Depth Map Upsampling Based on Mesh and Colour Consistency.,Junseok Lee,https://dblp.org/pid/77/3729.html,BMVC,2017
+Efficient 3D Tracking in Urban Environments with Semantic Segmentation.,Martin Hirzer,https://dblp.org/pid/43/9054.html,BMVC,2017
+Efficient 3D Tracking in Urban Environments with Semantic Segmentation.,Peter M. Roth,https://dblp.org/pid/18/4857.html,BMVC,2017
+Efficient 3D Tracking in Urban Environments with Semantic Segmentation.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,BMVC,2017
+Class Weighted Convolutional Features for Visual Instance Search.,Albert Jimenez,https://dblp.org/pid/203/8518.html,BMVC,2017
+Class Weighted Convolutional Features for Visual Instance Search.,Jose M. Alvarez,https://dblp.org/pid/40/2514.html,BMVC,2017
+Class Weighted Convolutional Features for Visual Instance Search.,Xavier Giró-i-Nieto,https://dblp.org/pid/12/7205.html,BMVC,2017
+Dynamic Steerable Blocks in Deep Residual Networks.,Jörn-Henrik Jacobsen,https://dblp.org/pid/180/5526.html,BMVC,2017
+Dynamic Steerable Blocks in Deep Residual Networks.,Bert De Brabandere,https://dblp.org/pid/177/8992.html,BMVC,2017
+Dynamic Steerable Blocks in Deep Residual Networks.,Arnold W. M. Smeulders,https://dblp.org/pid/15/5400.html,BMVC,2017
+Towards Complete Scene Reconstruction from Single-View Depth and Human Motion.,Sam Fowler,https://dblp.org/pid/226/3426.html,BMVC,2017
+Towards Complete Scene Reconstruction from Single-View Depth and Human Motion.,Hansung Kim,https://dblp.org/pid/44/4871.html,BMVC,2017
+Towards Complete Scene Reconstruction from Single-View Depth and Human Motion.,Adrian Hilton,https://dblp.org/pid/63/34.html,BMVC,2017
+Flow Based Video Super-Resolution with Spatio-temporal Patch Similarity.,Joan Duran,https://dblp.org/pid/153/3954.html,BMVC,2017
+Flow Based Video Super-Resolution with Spatio-temporal Patch Similarity.,Antoni Buades,https://dblp.org/pid/53/1015.html,BMVC,2017
+BV-CNNs: Binary Volumetric Convolutional Networks for 3D Object Recognition.,Chao Ma,https://dblp.org/pid/79/1552-14.html,BMVC,2017
+BV-CNNs: Binary Volumetric Convolutional Networks for 3D Object Recognition.,Wei An,https://dblp.org/pid/74/8455.html,BMVC,2017
+BV-CNNs: Binary Volumetric Convolutional Networks for 3D Object Recognition.,Yinjie Lei,https://dblp.org/pid/28/9238.html,BMVC,2017
+BV-CNNs: Binary Volumetric Convolutional Networks for 3D Object Recognition.,Yulan Guo,https://dblp.org/pid/127/0477.html,BMVC,2017
+Combining Edge Images and Depth Maps for Robust Visual Odometry.,Fabian Schenk,https://dblp.org/pid/153/1602.html,BMVC,2017
+Combining Edge Images and Depth Maps for Robust Visual Odometry.,Friedrich Fraundorfer,https://dblp.org/pid/60/2234.html,BMVC,2017
+Order-Adaptive and Illumination-Aware Variational Optical Flow Refinement.,Daniel Maurer,https://dblp.org/pid/44/10641-2.html,BMVC,2017
+Order-Adaptive and Illumination-Aware Variational Optical Flow Refinement.,Michael Stoll,https://dblp.org/pid/44/414.html,BMVC,2017
+Order-Adaptive and Illumination-Aware Variational Optical Flow Refinement.,Andrés Bruhn,https://dblp.org/pid/36/1912.html,BMVC,2017
+Large-scale Continual Road Inspection: Visual Infrastructure Assessment in the Wild.,Ke Ma,https://dblp.org/pid/98/2014-5.html,BMVC,2017
+Large-scale Continual Road Inspection: Visual Infrastructure Assessment in the Wild.,Minh Hoai,https://dblp.org/pid/135/4935.html,BMVC,2017
+Large-scale Continual Road Inspection: Visual Infrastructure Assessment in the Wild.,Dimitris Samaras,https://dblp.org/pid/s/DimitrisSamaras.html,BMVC,2017
+Correlation Filter Tracking: Beyond an Open-loop System.,Qingyong Hu,https://dblp.org/pid/192/3850.html,BMVC,2017
+Correlation Filter Tracking: Beyond an Open-loop System.,Yulan Guo,https://dblp.org/pid/127/0477.html,BMVC,2017
+Correlation Filter Tracking: Beyond an Open-loop System.,Yunjin Chen,https://dblp.org/pid/134/3031.html,BMVC,2017
+Correlation Filter Tracking: Beyond an Open-loop System.,Jingjing Xiao,https://dblp.org/pid/121/0292.html,BMVC,2017
+Correlation Filter Tracking: Beyond an Open-loop System.,Wei An,https://dblp.org/pid/74/8455.html,BMVC,2017
+Photorealistic Style Transfer with Screened Poisson Equation.,Roey Mechrez,https://dblp.org/pid/177/2541.html,BMVC,2017
+Photorealistic Style Transfer with Screened Poisson Equation.,Eli Shechtman,https://dblp.org/pid/50/1918.html,BMVC,2017
+Photorealistic Style Transfer with Screened Poisson Equation.,Lihi Zelnik-Manor,https://dblp.org/pid/z/LihiZelnikManor.html,BMVC,2017
+Probabilistic Spatial Regression using a Deep Fully Convolutional Neural Network.,S. M. Masudur Rahman Al-Arif,https://dblp.org/pid/97/10614.html,BMVC,2017
+Probabilistic Spatial Regression using a Deep Fully Convolutional Neural Network.,Karen Knapp,https://dblp.org/pid/167/9667.html,BMVC,2017
+Probabilistic Spatial Regression using a Deep Fully Convolutional Neural Network.,Greg G. Slabaugh,https://dblp.org/pid/s/GregoryGSlabaugh.html,BMVC,2017
+Lip Reading in Profile.,Joon Son Chung,https://dblp.org/pid/160/2692.html,BMVC,2017
+Lip Reading in Profile.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,BMVC,2017
+Adversarial Robustness: Softmax versus Openmax.,Andras Rozsa,https://dblp.org/pid/169/9112.html,BMVC,2017
+Adversarial Robustness: Softmax versus Openmax.,Manuel Günther,https://dblp.org/pid/92/7377.html,BMVC,2017
+Adversarial Robustness: Softmax versus Openmax.,Terrance E. Boult,https://dblp.org/pid/08/6458.html,BMVC,2017
+Generative 3D Hand Tracking with Spatially Constrained Pose Sampling.,Konstantinos Roditakis,https://dblp.org/pid/163/9053.html,BMVC,2017
+Generative 3D Hand Tracking with Spatially Constrained Pose Sampling.,Alexandros Makris,https://dblp.org/pid/01/3606.html,BMVC,2017
+Generative 3D Hand Tracking with Spatially Constrained Pose Sampling.,Antonis A. Argyros,https://dblp.org/pid/81/3715.html,BMVC,2017
+Efficient Online Surface Correction for Real-time Large-Scale 3D Reconstruction.,Robert Maier,https://dblp.org/pid/22/2386-1.html,BMVC,2017
+Efficient Online Surface Correction for Real-time Large-Scale 3D Reconstruction.,Raphael Schaller,https://dblp.org/pid/188/1829.html,BMVC,2017
+Efficient Online Surface Correction for Real-time Large-Scale 3D Reconstruction.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,BMVC,2017
+Long Range Stereo from Synchronized Monocular Optical Flow Streamss.,Darius Burschka,https://dblp.org/pid/b/DariusBurschka.html,BMVC,2017
+Learning temporal structures for human activity recognition.,Tiantian Xu,https://dblp.org/pid/117/2265.html,BMVC,2017
+Learning temporal structures for human activity recognition.,Edward K. Wong,https://dblp.org/pid/11/690.html,BMVC,2017
+End-to-End Multi-View Lipreading.,Stavros Petridis,https://dblp.org/pid/57/2474.html,BMVC,2017
+End-to-End Multi-View Lipreading.,Yujiang Wang,https://dblp.org/pid/125/0429-1.html,BMVC,2017
+End-to-End Multi-View Lipreading.,Zuwei Li,https://dblp.org/pid/194/2979.html,BMVC,2017
+End-to-End Multi-View Lipreading.,Maja Pantic,https://dblp.org/pid/p/MajaPantic.html,BMVC,2017
+Supervised Scale-Regularized Linear Convolutionary Filters.,Marco Loog,https://dblp.org/pid/85/4677.html,BMVC,2017
+Supervised Scale-Regularized Linear Convolutionary Filters.,François Lauze,https://dblp.org/pid/79/4639.html,BMVC,2017
+Sparse Deep Feature Representation for Object Detection from Wearable Cameras.,Quanfu Fan,https://dblp.org/pid/66/3950.html,BMVC,2017
+Sparse Deep Feature Representation for Object Detection from Wearable Cameras.,Richard Chen,https://dblp.org/pid/27/5891.html,BMVC,2017
+Human Action Segmentation using 3D Fully Convolutional Network.,Pei Yu,https://dblp.org/pid/33/674.html,BMVC,2017
+Human Action Segmentation using 3D Fully Convolutional Network.,Jiang Wang,https://dblp.org/pid/01/2998-1.html,BMVC,2017
+Human Action Segmentation using 3D Fully Convolutional Network.,Ying Wu,https://dblp.org/pid/64/5840-1.html,BMVC,2017
+Deep fisher faces.,Harald Hanselmann,https://dblp.org/pid/39/9514.html,BMVC,2017
+Deep fisher faces.,Shen Yan,https://dblp.org/pid/51/8939.html,BMVC,2017
+Deep fisher faces.,Hermann Ney,https://dblp.org/pid/n/HermannNey.html,BMVC,2017
+Improving target tracking robustness with Bayesian data fusion.,Yevgeniy Reznichenko,https://dblp.org/pid/199/2062.html,BMVC,2017
+Improving target tracking robustness with Bayesian data fusion.,Henry Medeiros,https://dblp.org/pid/62/8630.html,BMVC,2017
+One-Shot Learning for Semantic Segmentation.,Amirreza Shaban,https://dblp.org/pid/99/9987.html,BMVC,2017
+One-Shot Learning for Semantic Segmentation.,Shray Bansal,https://dblp.org/pid/151/9632.html,BMVC,2017
+One-Shot Learning for Semantic Segmentation.,Zhen Liu,https://dblp.org/pid/77/35-19.html,BMVC,2017
+One-Shot Learning for Semantic Segmentation.,Irfan Essa,https://dblp.org/pid/e/IrfanAEssa.html,BMVC,2017
+One-Shot Learning for Semantic Segmentation.,Byron Boots,https://dblp.org/pid/27/1803.html,BMVC,2017
+Efficent Traffic-Sign Recognition with Scale-aware CNN.,Yuchen Yang,https://dblp.org/pid/06/7124.html,BMVC,2017
+Efficent Traffic-Sign Recognition with Scale-aware CNN.,Shuo Liu,https://dblp.org/pid/07/6773-9.html,BMVC,2017
+Efficent Traffic-Sign Recognition with Scale-aware CNN.,Wei Ma,https://dblp.org/pid/32/32.html,BMVC,2017
+Efficent Traffic-Sign Recognition with Scale-aware CNN.,Qiuyuan Wang,https://dblp.org/pid/56/2795.html,BMVC,2017
+Efficent Traffic-Sign Recognition with Scale-aware CNN.,Zheng Liu,https://dblp.org/pid/06/3580-2.html,BMVC,2017
+Plane-Aided Visual-Inertial Odometry for Pose Estimation of a 3D Camera based Indoor Blind Navigation System.,He Zhang,https://dblp.org/pid/24/2058.html,BMVC,2017
+Plane-Aided Visual-Inertial Odometry for Pose Estimation of a 3D Camera based Indoor Blind Navigation System.,Cang Ye,https://dblp.org/pid/37/4779.html,BMVC,2017
+Dissecting scale from pose estimation in visual odometry.,Rong Yuan,https://dblp.org/pid/47/782.html,BMVC,2017
+Dissecting scale from pose estimation in visual odometry.,Hongyi Fan,https://dblp.org/pid/226/3332.html,BMVC,2017
+Dissecting scale from pose estimation in visual odometry.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,BMVC,2017
+Automatic Image transformation for inducing affect.,Mohsen Ali,https://dblp.org/pid/02/10964.html,BMVC,2017
+Automatic Image transformation for inducing affect.,Afsheen Rafaqat Ali,https://dblp.org/pid/199/8328.html,BMVC,2017
+Subpixel Semantic Flow.,Berk Sevilmis,https://dblp.org/pid/136/8750.html,BMVC,2017
+Subpixel Semantic Flow.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,BMVC,2017
+Light Cascaded Convolutional Neural Networks for Accurate Player Detection.,Keyu Lu,https://dblp.org/pid/151/9382.html,BMVC,2017
+Light Cascaded Convolutional Neural Networks for Accurate Player Detection.,Jianhui Chen,https://dblp.org/pid/86/6709.html,BMVC,2017
+Light Cascaded Convolutional Neural Networks for Accurate Player Detection.,James J. Little,https://dblp.org/pid/18/2287.html,BMVC,2017
+Light Cascaded Convolutional Neural Networks for Accurate Player Detection.,Hangen He,https://dblp.org/pid/56/6153.html,BMVC,2017
+Exploiting Protrusion Cues for Fast and Effective Shape Modeling via Ellipses.,Alex Wong,https://dblp.org/pid/39/6537-1.html,BMVC,2017
+Exploiting Protrusion Cues for Fast and Effective Shape Modeling via Ellipses.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,BMVC,2017
+Exploiting Protrusion Cues for Fast and Effective Shape Modeling via Ellipses.,Brian Taylor,https://dblp.org/pid/56/1964-1.html,BMVC,2017
+A CNN-Based Approach for Automatic License Plate Recognition in the Wild.,Meng Dong,https://dblp.org/pid/58/2821.html,BMVC,2017
+A CNN-Based Approach for Automatic License Plate Recognition in the Wild.,Dongliang He,https://dblp.org/pid/167/0539.html,BMVC,2017
+A CNN-Based Approach for Automatic License Plate Recognition in the Wild.,Chong Luo,https://dblp.org/pid/79/3712.html,BMVC,2017
+A CNN-Based Approach for Automatic License Plate Recognition in the Wild.,Dong Liu,https://dblp.org/pid/98/1737-2.html,BMVC,2017
+A CNN-Based Approach for Automatic License Plate Recognition in the Wild.,Wenjun Zeng,https://dblp.org/pid/57/145.html,BMVC,2017
+Multi-Region Ensemble Convolutional Neural Network for High Accuracy Age Estimation.,Yiliang Chen,https://dblp.org/pid/226/3318.html,BMVC,2017
+Multi-Region Ensemble Convolutional Neural Network for High Accuracy Age Estimation.,Zichang Tan,https://dblp.org/pid/196/7379.html,BMVC,2017
+Multi-Region Ensemble Convolutional Neural Network for High Accuracy Age Estimation.,Alex Po Leung,https://dblp.org/pid/20/799.html,BMVC,2017
+Multi-Region Ensemble Convolutional Neural Network for High Accuracy Age Estimation.,Jun Wan,https://dblp.org/pid/69/6563-1.html,BMVC,2017
+Multi-Region Ensemble Convolutional Neural Network for High Accuracy Age Estimation.,Jianguo Zhang,https://dblp.org/pid/90/6415.html,BMVC,2017
+Primitive-based Surface Regularization for Urban 3D Reconstruction.,Thomas Holzmann,https://dblp.org/pid/130/4993.html,BMVC,2017
+Primitive-based Surface Regularization for Urban 3D Reconstruction.,Martin R. Oswald,https://dblp.org/pid/37/7272.html,BMVC,2017
+Primitive-based Surface Regularization for Urban 3D Reconstruction.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,BMVC,2017
+Primitive-based Surface Regularization for Urban 3D Reconstruction.,Friedrich Fraundorfer,https://dblp.org/pid/60/2234.html,BMVC,2017
+Primitive-based Surface Regularization for Urban 3D Reconstruction.,Horst Bischof,https://dblp.org/pid/69/3793.html,BMVC,2017
+Cross-modal Retrieval via Memory Network.,Ge Song,https://dblp.org/pid/86/2187.html,BMVC,2017
+Cross-modal Retrieval via Memory Network.,Xiaoyang Tan,https://dblp.org/pid/79/768.html,BMVC,2017
+A Compact Parametric Solution to Depth Sensor Calibration.,Andrew Spek,https://dblp.org/pid/202/2401.html,BMVC,2017
+A Compact Parametric Solution to Depth Sensor Calibration.,Tom Drummond,https://dblp.org/pid/50/1633.html,BMVC,2017
+Pansharpening via Locality-Constrained Sparse Representation.,Songze Tang,https://dblp.org/pid/158/8331.html,BMVC,2017
+Pansharpening via Locality-Constrained Sparse Representation.,Nan Zhou,https://dblp.org/pid/06/5140.html,BMVC,2017
+Pansharpening via Locality-Constrained Sparse Representation.,Liang Xiao,https://dblp.org/pid/x/LiangXiao1.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Damien Fourure,https://dblp.org/pid/188/9580.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Rémi Emonet,https://dblp.org/pid/53/2975.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Élisa Fromont,https://dblp.org/pid/06/5764.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Damien Muselet,https://dblp.org/pid/23/996.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Alain Trémeau,https://dblp.org/pid/39/1067.html,BMVC,2017
+Residual Conv-Deconv Grid Network for Semantic Segmentation.,Christian Wolf,https://dblp.org/pid/38/2606-1.html,BMVC,2017
+Deep GrabCut for Object Selection.,Ning Xu,https://dblp.org/pid/04/5856-7.html,BMVC,2017
+Deep GrabCut for Object Selection.,Brian L. Price,https://dblp.org/pid/38/5397.html,BMVC,2017
+Deep GrabCut for Object Selection.,Scott Cohen,https://dblp.org/pid/54/4155.html,BMVC,2017
+Deep GrabCut for Object Selection.,Jimei Yang,https://dblp.org/pid/73/3039.html,BMVC,2017
+Deep GrabCut for Object Selection.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,BMVC,2017
+Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion.,Nevrez Imamoglu,https://dblp.org/pid/29/10695.html,BMVC,2017
+Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion.,Motoki Kimura,https://dblp.org/pid/55/141.html,BMVC,2017
+Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion.,Hiroki Miyamoto,https://dblp.org/pid/77/8367.html,BMVC,2017
+Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion.,Aito Fujita,https://dblp.org/pid/199/2258.html,BMVC,2017
+Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion.,Ryosuke Nakamura,https://dblp.org/pid/32/4267.html,BMVC,2017
+Multiple-Kernel Local-Patch Descriptor.,Arun Mukundan,https://dblp.org/pid/200/1065.html,BMVC,2017
+Multiple-Kernel Local-Patch Descriptor.,Giorgos Tolias,https://dblp.org/pid/09/4652.html,BMVC,2017
+Multiple-Kernel Local-Patch Descriptor.,Ondrej Chum,https://dblp.org/pid/96/63.html,BMVC,2017
+AutoScaler: Scale-Attention Networks for Visual Correspondence.,Shenlong Wang,https://dblp.org/pid/117/4842.html,BMVC,2017
+AutoScaler: Scale-Attention Networks for Visual Correspondence.,Linjie Luo,https://dblp.org/pid/17/1788.html,BMVC,2017
+AutoScaler: Scale-Attention Networks for Visual Correspondence.,Ning Zhang,https://dblp.org/pid/181/2597.html,BMVC,2017
+AutoScaler: Scale-Attention Networks for Visual Correspondence.,Jia Li,https://dblp.org/pid/23/6950.html,BMVC,2017
+Cross-View GAN Based Vehicle Generation for Re-identification.,Yi Zhou,https://dblp.org/pid/01/1901-7.html,BMVC,2017
+Cross-View GAN Based Vehicle Generation for Re-identification.,Ling Shao,https://dblp.org/pid/75/1281.html,BMVC,2017
+Efficient Video Summarization Using Principal Person Appearance for Video-Based Person Re-Identification.,Seongro Yoon,https://dblp.org/pid/226/3338.html,BMVC,2017
+Efficient Video Summarization Using Principal Person Appearance for Video-Based Person Re-Identification.,Furqan Khan,https://dblp.org/pid/215/2057.html,BMVC,2017
+Efficient Video Summarization Using Principal Person Appearance for Video-Based Person Re-Identification.,François Brémond,https://dblp.org/pid/90/6418.html,BMVC,2017
+Fine-Grained Forensic Matching.,Bailey Kong,https://dblp.org/pid/158/6378.html,BMVC,2017
+Fine-Grained Forensic Matching.,James Steven Supancic III,https://dblp.org/pid/135/4933.html,BMVC,2017
+Fine-Grained Forensic Matching.,Deva Ramanan,https://dblp.org/pid/49/488.html,BMVC,2017
+Fine-Grained Forensic Matching.,Charless C. Fowlkes,https://dblp.org/pid/90/4157.html,BMVC,2017
+Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization.,Yinpeng Dong,https://dblp.org/pid/183/0980.html,BMVC,2017
+Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization.,Jianguo Li,https://dblp.org/pid/70/6237.html,BMVC,2017
+Learning Accurate Low-Bit Deep Neural Networks with Stochastic Quantization.,Renkun Ni,https://dblp.org/pid/183/7067.html,BMVC,2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation.,Tong Shen,https://dblp.org/pid/131/4331.html,BMVC,2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation.,Guosheng Lin,https://dblp.org/pid/126/4778.html,BMVC,2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation.,Lingqiao Liu,https://dblp.org/pid/45/7776.html,BMVC,2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation.,Chunhua Shen,https://dblp.org/pid/56/1673.html,BMVC,2017
+Weakly Supervised Semantic Segmentation Based on Co-segmentation.,Ian Reid,https://dblp.org/pid/r/IanDReid1.html,BMVC,2017
+Semantic Segmentation with Reverse Attention.,Qin Huang,https://dblp.org/pid/46/4826.html,BMVC,2017
+Semantic Segmentation with Reverse Attention.,Chi-Hao Wu,https://dblp.org/pid/50/5051.html,BMVC,2017
+Semantic Segmentation with Reverse Attention.,Chunyang Xia,https://dblp.org/pid/147/1177.html,BMVC,2017
+Semantic Segmentation with Reverse Attention.,Ye Wang,https://dblp.org/pid/44/6292-13.html,BMVC,2017
+Semantic Segmentation with Reverse Attention.,C.-C. Jay Kuo,https://dblp.org/pid/k/CCJayKuo.html,BMVC,2017
+Double Expansion for Optimization of Multilabel Energies.,Lena Gorelick,https://dblp.org/pid/59/4850.html,BMVC,2017
+Double Expansion for Optimization of Multilabel Energies.,Zhengqin Li,https://dblp.org/pid/169/4895.html,BMVC,2017
+Double Expansion for Optimization of Multilabel Energies.,Olga Veksler,https://dblp.org/pid/v/OlgaVeksler.html,BMVC,2017
+Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation.,Arslan Chaudhry,https://dblp.org/pid/203/8835.html,BMVC,2017
+Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation.,Puneet Kumar Dokania,https://dblp.org/pid/150/4211.html,BMVC,2017
+Discovering Class-Specific Pixels for Weakly-Supervised Semantic Segmentation.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,BMVC,2017
+Online Adaptation of Convolutional Neural Networks for Video Object Segmentation.,Paul Voigtlaender,https://dblp.org/pid/166/6430.html,BMVC,2017
+Online Adaptation of Convolutional Neural Networks for Video Object Segmentation.,Bastian Leibe,https://dblp.org/pid/41/1228.html,BMVC,2017
+Improved Bilinear Pooling with CNNs.,Tsung-Yu Lin,https://dblp.org/pid/37/9004.html,BMVC,2017
+Improved Bilinear Pooling with CNNs.,Subhransu Maji,https://dblp.org/pid/92/6598.html,BMVC,2017
+Reflectance and Shape Estimation with a Light Field Camera under Natural Illumination.,Trung Ngo Thanh,https://dblp.org/pid/46/684.html,BMVC,2017
+Reflectance and Shape Estimation with a Light Field Camera under Natural Illumination.,Hajime Nagahara,https://dblp.org/pid/78/5843.html,BMVC,2017
+Reflectance and Shape Estimation with a Light Field Camera under Natural Illumination.,Ko Nishino,https://dblp.org/pid/07/2706.html,BMVC,2017
+Reflectance and Shape Estimation with a Light Field Camera under Natural Illumination.,Rin-Ichiro Taniguchi,https://dblp.org/pid/14/1303.html,BMVC,2017
+Reflectance and Shape Estimation with a Light Field Camera under Natural Illumination.,Yasushi Yagi,https://dblp.org/pid/67/6296.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Shuchang Zhou,https://dblp.org/pid/67/8436-1.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Taihong Xiao,https://dblp.org/pid/200/8099.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Yi Yang,https://dblp.org/pid/33/4854-33.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Dieqiao Feng,https://dblp.org/pid/192/1458.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Qinyao He,https://dblp.org/pid/190/7692.html,BMVC,2017
+GeneGAN: Learning Object Transfiguration and Object Subspace from Unpaired Data.,Weiran He,https://dblp.org/pid/159/9443.html,BMVC,2017
+PixColor: Pixel Recursive Colorization.,Sergio Guadarrama,https://dblp.org/pid/89/2073.html,BMVC,2017
+PixColor: Pixel Recursive Colorization.,Ryan Dahl,https://dblp.org/pid/195/6101.html,BMVC,2017
+PixColor: Pixel Recursive Colorization.,David Bieber,https://dblp.org/pid/200/8035.html,BMVC,2017
+PixColor: Pixel Recursive Colorization.,Jonathon Shlens,https://dblp.org/pid/12/7659-2.html,BMVC,2017
+PixColor: Pixel Recursive Colorization.,Mohammad Norouzi,https://dblp.org/pid/26/2599.html,BMVC,2017
+Depth Estimation and Blur Removal from a Single Out-of-focus Image.,Saeed Anwar,https://dblp.org/pid/176/1488.html,BMVC,2017
+Depth Estimation and Blur Removal from a Single Out-of-focus Image.,Zeeshan Hayder,https://dblp.org/pid/72/9285.html,BMVC,2017
+Depth Estimation and Blur Removal from a Single Out-of-focus Image.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,BMVC,2017
+"Exploring the structure of a real-time, arbitrary neural artistic stylization network.",Golnaz Ghiasi,https://dblp.org/pid/17/8614.html,BMVC,2017
+"Exploring the structure of a real-time, arbitrary neural artistic stylization network.",Honglak Lee,https://dblp.org/pid/58/2562.html,BMVC,2017
+"Exploring the structure of a real-time, arbitrary neural artistic stylization network.",Manjunath Kudlur,https://dblp.org/pid/49/1513.html,BMVC,2017
+"Exploring the structure of a real-time, arbitrary neural artistic stylization network.",Vincent Dumoulin,https://dblp.org/pid/133/8606.html,BMVC,2017
+Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization.,Frederick Tung,https://dblp.org/pid/10/7697.html,BMVC,2017
+Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization.,Srikanth Muralidharan,https://dblp.org/pid/147/3967.html,BMVC,2017
+Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization.,Greg Mori,https://dblp.org/pid/m/GregMori.html,BMVC,2017

@@ -1,3 +1,3 @@
 ## Computer Vision Data Analysis Project 
 
-This project is created with the goal of ....
+This project is created with the goal of creating a data visualization to display the Conferences data throughout the years. Whether it is to see the number of papers that have been published, which authors have contributed the most, and many more! But the most major data I have gathered is  to display how many authors and paper published are there from Indonesia compared to other South East Asian countries and the rest of the world. With this project I created, I also helped contribute to this repository: [Awesome Indonesia Computer Vision Research - Conference Publication](https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project) . The conferenes I used for this project includes BMVC, WACV, CVPR, ICCV, and ECCV ranging from 2002 - current.

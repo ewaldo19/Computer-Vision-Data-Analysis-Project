@@ -1,0 +1,999 @@
+paper_title,author_name,author_link,conference_name,conference_year
+Decomposing a scene into geometric and semantically consistent regions.,Stephen Gould,https://dblp.org/pid/89/1569.html,ICCV,2009
+Decomposing a scene into geometric and semantically consistent regions.,Richard Fulton,https://dblp.org/pid/62/9054.html,ICCV,2009
+Decomposing a scene into geometric and semantically consistent regions.,Daphne Koller,https://dblp.org/pid/k/DaphneKoller.html,ICCV,2009
+Boundary ownership by lifting to 2.1D.,Ido Leichter,https://dblp.org/pid/57/3032.html,ICCV,2009
+Boundary ownership by lifting to 2.1D.,Michael Lindenbaum,https://dblp.org/pid/35/6182.html,ICCV,2009
+Curvature regularity for region-based image segmentation and inpainting: A linear programming relaxation.,Thomas Schoenemann,https://dblp.org/pid/51/4641.html,ICCV,2009
+Curvature regularity for region-based image segmentation and inpainting: A linear programming relaxation.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ICCV,2009
+Curvature regularity for region-based image segmentation and inpainting: A linear programming relaxation.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+Human detection using partial least squares analysis.,William Robson Schwartz,https://dblp.org/pid/78/6398.html,ICCV,2009
+Human detection using partial least squares analysis.,Aniruddha Kembhavi,https://dblp.org/pid/81/7583.html,ICCV,2009
+Human detection using partial least squares analysis.,David Harwood,https://dblp.org/pid/50/1979.html,ICCV,2009
+Human detection using partial least squares analysis.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ICCV,2009
+An HOG-LBP human detector with partial occlusion handling.,Xiaoyu Wang,https://dblp.org/pid/58/4775-2.html,ICCV,2009
+An HOG-LBP human detector with partial occlusion handling.,Tony X. Han,https://dblp.org/pid/11/5694.html,ICCV,2009
+An HOG-LBP human detector with partial occlusion handling.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,ICCV,2009
+Max-margin additive classifiers for detection.,Subhransu Maji,https://dblp.org/pid/92/6598.html,ICCV,2009
+Max-margin additive classifiers for detection.,Alexander C. Berg,https://dblp.org/pid/73/2348.html,ICCV,2009
+Kernel methods for weakly supervised mean shift clustering.,Oncel Tuzel,https://dblp.org/pid/73/2943.html,ICCV,2009
+Kernel methods for weakly supervised mean shift clustering.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,ICCV,2009
+Kernel methods for weakly supervised mean shift clustering.,Peter Meer,https://dblp.org/pid/60/6290.html,ICCV,2009
+Finding shareable informative patterns and optimal coding matrix for multiclass boosting.,Bang Zhang,https://dblp.org/pid/11/4046.html,ICCV,2009
+Finding shareable informative patterns and optimal coding matrix for multiclass boosting.,Getian Ye,https://dblp.org/pid/60/1708.html,ICCV,2009
+Finding shareable informative patterns and optimal coding matrix for multiclass boosting.,Yang Wang,https://dblp.org/pid/w/YangWang2.html,ICCV,2009
+Finding shareable informative patterns and optimal coding matrix for multiclass boosting.,Jie Xu,https://dblp.org/pid/37/5126-8.html,ICCV,2009
+Finding shareable informative patterns and optimal coding matrix for multiclass boosting.,Gunawan Herman,https://dblp.org/pid/47/2320.html,ICCV,2009
+Learning with dynamic group sparsity.,Junzhou Huang,https://dblp.org/pid/22/1170.html,ICCV,2009
+Learning with dynamic group sparsity.,Xiaolei Huang,https://dblp.org/pid/293/8974.html,ICCV,2009
+Learning with dynamic group sparsity.,Dimitris N. Metaxas,https://dblp.org/pid/m/DNMetaxas.html,ICCV,2009
+Building Rome in a day.,Sameer Agarwal,https://dblp.org/pid/77/4196-1.html,ICCV,2009
+Building Rome in a day.,Noah Snavely,https://dblp.org/pid/33/4636.html,ICCV,2009
+Building Rome in a day.,Ian Simon,https://dblp.org/pid/33/2787.html,ICCV,2009
+Building Rome in a day.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ICCV,2009
+Building Rome in a day.,Richard Szeliski,https://dblp.org/pid/46/2186.html,ICCV,2009
+Reconstructing building interiors from images.,Yasutaka Furukawa,https://dblp.org/pid/37/1720.html,ICCV,2009
+Reconstructing building interiors from images.,Brian Curless,https://dblp.org/pid/c/BrianCurless.html,ICCV,2009
+Reconstructing building interiors from images.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ICCV,2009
+Reconstructing building interiors from images.,Richard Szeliski,https://dblp.org/pid/46/2186.html,ICCV,2009
+Is dual linear self-calibration artificially ambiguous?,Pierre Gurdjos,https://dblp.org/pid/74/526.html,ICCV,2009
+Is dual linear self-calibration artificially ambiguous?,Adrien Bartoli,https://dblp.org/pid/58/2064.html,ICCV,2009
+Is dual linear self-calibration artificially ambiguous?,Peter F. Sturm,https://dblp.org/pid/s/PeterFSturm.html,ICCV,2009
+Globally optimal affine epipolar geometry from apparent contours.,Gang Li,https://dblp.org/pid/62/2655.html,ICCV,2009
+Globally optimal affine epipolar geometry from apparent contours.,Yanghai Tsin,https://dblp.org/pid/17/4227.html,ICCV,2009
+Activity recognition using the velocity histories of tracked keypoints.,Ross Messing,https://dblp.org/pid/01/5666.html,ICCV,2009
+Activity recognition using the velocity histories of tracked keypoints.,Christopher J. Pal,https://dblp.org/pid/45/1217.html,ICCV,2009
+Activity recognition using the velocity histories of tracked keypoints.,Henry A. Kautz,https://dblp.org/pid/k/HenryAKautz.html,ICCV,2009
+Quasi-periodic event analysis for social game retrieval.,Ping Wang,https://dblp.org/pid/37/1304-12.html,ICCV,2009
+Quasi-periodic event analysis for social game retrieval.,Gregory D. Abowd,https://dblp.org/pid/a/GDAbowd.html,ICCV,2009
+Quasi-periodic event analysis for social game retrieval.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,ICCV,2009
+Modelling activity global temporal dependencies using Time Delayed Probabilistic Graphical Model.,Chen Change Loy,https://dblp.org/pid/01/5855.html,ICCV,2009
+Modelling activity global temporal dependencies using Time Delayed Probabilistic Graphical Model.,Tao Xiang,https://dblp.org/pid/22/4460.html,ICCV,2009
+Modelling activity global temporal dependencies using Time Delayed Probabilistic Graphical Model.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Yuxiao Hu,https://dblp.org/pid/69/4020-1.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Liangliang Cao,https://dblp.org/pid/95/6915.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Fengjun Lv,https://dblp.org/pid/03/78.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Yihong Gong,https://dblp.org/pid/62/6520.html,ICCV,2009
+Action detection in complex scenes with spatial and temporal ambiguities.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,ICCV,2009
+Semi-automatic stereo extraction from video footage.,Moshe Guttmann,https://dblp.org/pid/88/5594.html,ICCV,2009
+Semi-automatic stereo extraction from video footage.,Lior Wolf,https://dblp.org/pid/83/4103.html,ICCV,2009
+Semi-automatic stereo extraction from video footage.,Daniel Cohen-Or,https://dblp.org/pid/c/DCohenOr.html,ICCV,2009
+Filter flow.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ICCV,2009
+Filter flow.,Simon Baker,https://dblp.org/pid/85/2539.html,ICCV,2009
+Shift-map image editing.,Yael Pritch,https://dblp.org/pid/15/1134.html,ICCV,2009
+Shift-map image editing.,Eitam Kav-Venaki,https://dblp.org/pid/29/9054.html,ICCV,2009
+Shift-map image editing.,Shmuel Peleg,https://dblp.org/pid/p/ShmuelPeleg.html,ICCV,2009
+Looking around the corner using transient imaging.,Ahmed Kirmani,https://dblp.org/pid/75/6275.html,ICCV,2009
+Looking around the corner using transient imaging.,Tyler Hutchison,https://dblp.org/pid/67/2750.html,ICCV,2009
+Looking around the corner using transient imaging.,James Davis,https://dblp.org/pid/98/1944.html,ICCV,2009
+Looking around the corner using transient imaging.,Ramesh Raskar,https://dblp.org/pid/r/RameshRaskar.html,ICCV,2009
+Modeling deformable objects from a single depth camera.,Miao Liao,https://dblp.org/pid/79/880.html,ICCV,2009
+Modeling deformable objects from a single depth camera.,Qing Zhang,https://dblp.org/pid/68/1429.html,ICCV,2009
+Modeling deformable objects from a single depth camera.,Huamin Wang,https://dblp.org/pid/50/4499.html,ICCV,2009
+Modeling deformable objects from a single depth camera.,Ruigang Yang,https://dblp.org/pid/08/5690.html,ICCV,2009
+Modeling deformable objects from a single depth camera.,Minglun Gong,https://dblp.org/pid/18/1338.html,ICCV,2009
+A prism-based system for multispectral video acquisition.,Hao Du,https://dblp.org/pid/13/6441-4.html,ICCV,2009
+A prism-based system for multispectral video acquisition.,Xin Tong,https://dblp.org/pid/86/2176-1.html,ICCV,2009
+A prism-based system for multispectral video acquisition.,Xun Cao,https://dblp.org/pid/78/7658.html,ICCV,2009
+A prism-based system for multispectral video acquisition.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,ICCV,2009
+Estimating natural illumination from a single outdoor image.,Jean-François Lalonde,https://dblp.org/pid/22/5526.html,ICCV,2009
+Estimating natural illumination from a single outdoor image.,Alexei A. Efros,https://dblp.org/pid/40/6158.html,ICCV,2009
+Estimating natural illumination from a single outdoor image.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ICCV,2009
+A linear formulation of shape from specular flow.,Guillermo D. Cañas,https://dblp.org/pid/14/5437.html,ICCV,2009
+A linear formulation of shape from specular flow.,Yuriy Vasilyev,https://dblp.org/pid/78/3490.html,ICCV,2009
+A linear formulation of shape from specular flow.,Yair Adato,https://dblp.org/pid/37/3593.html,ICCV,2009
+A linear formulation of shape from specular flow.,Todd E. Zickler,https://dblp.org/pid/33/2279.html,ICCV,2009
+A linear formulation of shape from specular flow.,Steven J. Gortler,https://dblp.org/pid/86/3747.html,ICCV,2009
+A linear formulation of shape from specular flow.,Ohad Ben-Shahar,https://dblp.org/pid/59/3818.html,ICCV,2009
+Landmark-based sparse color representations for color transfer.,Tzu-Wei Huang,https://dblp.org/pid/53/9054.html,ICCV,2009
+Landmark-based sparse color representations for color transfer.,Hwann-Tzong Chen,https://dblp.org/pid/74/2341.html,ICCV,2009
+Stereo from flickering caustics.,Yohay Swirski,https://dblp.org/pid/34/9054.html,ICCV,2009
+Stereo from flickering caustics.,Yoav Y. Schechner,https://dblp.org/pid/95/4712.html,ICCV,2009
+Stereo from flickering caustics.,Ben Herzberg,https://dblp.org/pid/40/9054.html,ICCV,2009
+Stereo from flickering caustics.,Shahriar Negahdaripour,https://dblp.org/pid/24/2483.html,ICCV,2009
+"Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories.",Hao Su,https://dblp.org/pid/09/4945-1.html,ICCV,2009
+"Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories.",Min Sun,https://dblp.org/pid/62/2750-1.html,ICCV,2009
+"Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories.",Li Fei-Fei,https://dblp.org/pid/79/2528.html,ICCV,2009
+"Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories.",Silvio Savarese,https://dblp.org/pid/50/3578.html,ICCV,2009
+On feature combination for multiclass object classification.,Peter V. Gehler,https://dblp.org/pid/78/1502.html,ICCV,2009
+On feature combination for multiclass object classification.,Sebastian Nowozin,https://dblp.org/pid/15/2312.html,ICCV,2009
+Discriminative models for multi-class object layout.,Chaitanya Desai,https://dblp.org/pid/31/737.html,ICCV,2009
+Discriminative models for multi-class object layout.,Deva Ramanan,https://dblp.org/pid/49/488.html,ICCV,2009
+Discriminative models for multi-class object layout.,Charless C. Fowlkes,https://dblp.org/pid/90/4157.html,ICCV,2009
+Combining efficient object localization and image classification.,Hedi Harzallah,https://dblp.org/pid/70/3624.html,ICCV,2009
+Combining efficient object localization and image classification.,Frédéric Jurie,https://dblp.org/pid/34/4827.html,ICCV,2009
+Combining efficient object localization and image classification.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ICCV,2009
+Storyboard sketches for Content Based Video Retrieval.,John P. Collomosse,https://dblp.org/pid/72/4504.html,ICCV,2009
+Storyboard sketches for Content Based Video Retrieval.,Graham McNeill,https://dblp.org/pid/91/1552.html,ICCV,2009
+Storyboard sketches for Content Based Video Retrieval.,Yu Qian,https://dblp.org/pid/32/726.html,ICCV,2009
+Image sequence geolocation with human travel priors.,Evangelos Kalogerakis,https://dblp.org/pid/36/3187.html,ICCV,2009
+Image sequence geolocation with human travel priors.,Olga Vesselova,https://dblp.org/pid/15/9054.html,ICCV,2009
+Image sequence geolocation with human travel priors.,James Hays,https://dblp.org/pid/57/5958.html,ICCV,2009
+Image sequence geolocation with human travel priors.,Alexei A. Efros,https://dblp.org/pid/40/6158.html,ICCV,2009
+Image sequence geolocation with human travel priors.,Aaron Hertzmann,https://dblp.org/pid/91/3132.html,ICCV,2009
+You'll never walk alone: Modeling social behavior for multi-target tracking.,Stefano Pellegrini,https://dblp.org/pid/45/8610.html,ICCV,2009
+You'll never walk alone: Modeling social behavior for multi-target tracking.,Andreas Ess,https://dblp.org/pid/44/2873.html,ICCV,2009
+You'll never walk alone: Modeling social behavior for multi-target tracking.,Konrad Schindler,https://dblp.org/pid/73/488.html,ICCV,2009
+You'll never walk alone: Modeling social behavior for multi-target tracking.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+An efficient algorithm for Co-segmentation.,Dorit S. Hochbaum,https://dblp.org/pid/h/DoritSHochbaum.html,ICCV,2009
+An efficient algorithm for Co-segmentation.,Vikas Singh,https://dblp.org/pid/26/1810.html,ICCV,2009
+Image segmentation with a bounding box prior.,Victor S. Lempitsky,https://dblp.org/pid/17/981.html,ICCV,2009
+Image segmentation with a bounding box prior.,Pushmeet Kohli,https://dblp.org/pid/94/248.html,ICCV,2009
+Image segmentation with a bounding box prior.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ICCV,2009
+Image segmentation with a bounding box prior.,Toby Sharp,https://dblp.org/pid/38/79.html,ICCV,2009
+Globally optimal segmentation of multi-region objects.,Andrew Delong,https://dblp.org/pid/61/5751.html,ICCV,2009
+Globally optimal segmentation of multi-region objects.,Yuri Boykov,https://dblp.org/pid/b/YuriBoykov.html,ICCV,2009
+Similarity metrics for categorization: From monolithic to category specific.,Boris Babenko,https://dblp.org/pid/65/2779.html,ICCV,2009
+Similarity metrics for categorization: From monolithic to category specific.,Steve Branson,https://dblp.org/pid/56/8610.html,ICCV,2009
+Similarity metrics for categorization: From monolithic to category specific.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,ICCV,2009
+"Local distance functions: A taxonomy, new algorithms, and an evaluation.",Deva Ramanan,https://dblp.org/pid/49/488.html,ICCV,2009
+"Local distance functions: A taxonomy, new algorithms, and an evaluation.",Simon Baker,https://dblp.org/pid/85/2539.html,ICCV,2009
+TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation.,Matthieu Guillaumin,https://dblp.org/pid/99/1687.html,ICCV,2009
+TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation.,Thomas Mensink,https://dblp.org/pid/95/2677.html,ICCV,2009
+TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation.,Jakob Verbeek,https://dblp.org/pid/v/JakobJVerbeek.html,ICCV,2009
+TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ICCV,2009
+Sparsity induced similarity measure for label propagation.,Hong Cheng,https://dblp.org/pid/85/5637-2.html,ICCV,2009
+Sparsity induced similarity measure for label propagation.,Zicheng Liu,https://dblp.org/pid/l/ZichengLiu.html,ICCV,2009
+Sparsity induced similarity measure for label propagation.,Jie Yang,https://dblp.org/pid/12/1198-1.html,ICCV,2009
+Coded aperture pairs for depth from defocus.,Changyin Zhou,https://dblp.org/pid/45/3015.html,ICCV,2009
+Coded aperture pairs for depth from defocus.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,ICCV,2009
+Coded aperture pairs for depth from defocus.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ICCV,2009
+Time-constrained photography.,Samuel W. Hasinoff,https://dblp.org/pid/36/6981.html,ICCV,2009
+Time-constrained photography.,Kiriakos N. Kutulakos,https://dblp.org/pid/64/4875.html,ICCV,2009
+Time-constrained photography.,Frédo Durand,https://dblp.org/pid/87/2617.html,ICCV,2009
+Time-constrained photography.,William T. Freeman,https://dblp.org/pid/86/6650.html,ICCV,2009
+Light field video stabilization.,Brandon M. Smith,https://dblp.org/pid/42/7659-1.html,ICCV,2009
+Light field video stabilization.,Li Zhang,https://dblp.org/pid/89/5992-3.html,ICCV,2009
+Light field video stabilization.,Hailin Jin,https://dblp.org/pid/78/102.html,ICCV,2009
+Light field video stabilization.,Aseem Agarwala,https://dblp.org/pid/91/28.html,ICCV,2009
+Super-resolution from a single image.,Daniel Glasner,https://dblp.org/pid/28/1971.html,ICCV,2009
+Super-resolution from a single image.,Shai Bagon,https://dblp.org/pid/67/3849.html,ICCV,2009
+Super-resolution from a single image.,Michal Irani,https://dblp.org/pid/04/3190.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,Michael Calonder,https://dblp.org/pid/91/5902.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,Kurt Konolige,https://dblp.org/pid/k/KurtKonolige.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,James Bowman,https://dblp.org/pid/90/7747.html,ICCV,2009
+Compact signatures for high-speed interest point description and matching.,Patrick Mihelich,https://dblp.org/pid/70/5679.html,ICCV,2009
+Attribute and simile classifiers for face verification.,Neeraj Kumar,https://dblp.org/pid/04/8395-6.html,ICCV,2009
+Attribute and simile classifiers for face verification.,Alexander C. Berg,https://dblp.org/pid/73/2348.html,ICCV,2009
+Attribute and simile classifiers for face verification.,Peter N. Belhumeur,https://dblp.org/pid/12/5558.html,ICCV,2009
+Attribute and simile classifiers for face verification.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,ICCV,2009
+A shape-based object class model for knowledge transfer.,Michael Stark,https://dblp.org/pid/86/4096-3.html,ICCV,2009
+A shape-based object class model for knowledge transfer.,Michael Goesele,https://dblp.org/pid/94/104.html,ICCV,2009
+A shape-based object class model for knowledge transfer.,Bernt Schiele,https://dblp.org/pid/s/BerntSchiele.html,ICCV,2009
+Learning pedestrian dynamics from the real world.,Paul Scovanner,https://dblp.org/pid/56/2065.html,ICCV,2009
+Learning pedestrian dynamics from the real world.,Marshall F. Tappen,https://dblp.org/pid/45/4266.html,ICCV,2009
+Resilient Subclass Discriminant Analysis.,Dijia Wu,https://dblp.org/pid/91/7658.html,ICCV,2009
+Resilient Subclass Discriminant Analysis.,Kim L. Boyer,https://dblp.org/pid/63/3117.html,ICCV,2009
+Fast Ray features for learning irregular shapes.,Kevin Smith,https://dblp.org/pid/07/4241.html,ICCV,2009
+Fast Ray features for learning irregular shapes.,Alan Carleton,https://dblp.org/pid/85/5553.html,ICCV,2009
+Fast Ray features for learning irregular shapes.,Vincent Lepetit,https://dblp.org/pid/80/5556.html,ICCV,2009
+Extending continuous cuts: Anisotropic metrics and expansion moves.,Carl Olsson,https://dblp.org/pid/67/5489.html,ICCV,2009
+Extending continuous cuts: Anisotropic metrics and expansion moves.,Martin Byröd,https://dblp.org/pid/23/3864.html,ICCV,2009
+Extending continuous cuts: Anisotropic metrics and expansion moves.,Niels Chr. Overgaard,https://dblp.org/pid/02/5208.html,ICCV,2009
+Extending continuous cuts: Anisotropic metrics and expansion moves.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ICCV,2009
+Robust fitting of multiple structures: The statistical learning approach.,Tat-Jun Chin,https://dblp.org/pid/95/2036.html,ICCV,2009
+Robust fitting of multiple structures: The statistical learning approach.,Hanzi Wang,https://dblp.org/pid/38/2876.html,ICCV,2009
+Robust fitting of multiple structures: The statistical learning approach.,David Suter,https://dblp.org/pid/37/5634.html,ICCV,2009
+Constrained clustering by spectral kernel learning.,Zhenguo Li,https://dblp.org/pid/23/6479.html,ICCV,2009
+Constrained clustering by spectral kernel learning.,Jianzhuang Liu,https://dblp.org/pid/l/JianzhuangLiu.html,ICCV,2009
+Learning image similarity from Flickr groups using Stochastic Intersection Kernel MAchines.,Gang Wang,https://dblp.org/pid/71/4292-12.html,ICCV,2009
+Learning image similarity from Flickr groups using Stochastic Intersection Kernel MAchines.,Derek Hoiem,https://dblp.org/pid/08/6948.html,ICCV,2009
+Learning image similarity from Flickr groups using Stochastic Intersection Kernel MAchines.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ICCV,2009
+Group-sensitive multiple kernel learning for object categorization.,Jingjing Yang,https://dblp.org/pid/94/3460.html,ICCV,2009
+Group-sensitive multiple kernel learning for object categorization.,Yuanning Li,https://dblp.org/pid/36/3686.html,ICCV,2009
+Group-sensitive multiple kernel learning for object categorization.,Yonghong Tian,https://dblp.org/pid/86/5857.html,ICCV,2009
+Group-sensitive multiple kernel learning for object categorization.,Lingyu Duan,https://dblp.org/pid/d/LingyuDuan.html,ICCV,2009
+Group-sensitive multiple kernel learning for object categorization.,Wen Gao,https://dblp.org/pid/g/WenGao.html,ICCV,2009
+Recognizing actions by shape-motion prototype trees.,Zhe Lin,https://dblp.org/pid/42/1680-1.html,ICCV,2009
+Recognizing actions by shape-motion prototype trees.,Zhuolin Jiang,https://dblp.org/pid/82/1160.html,ICCV,2009
+Recognizing actions by shape-motion prototype trees.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ICCV,2009
+Simultaneous and orthogonal decomposition of data using Multimodal Discriminant Analysis.,Terence Sim,https://dblp.org/pid/78/392.html,ICCV,2009
+Simultaneous and orthogonal decomposition of data using Multimodal Discriminant Analysis.,Sheng Zhang,https://dblp.org/pid/69/6137-7.html,ICCV,2009
+Simultaneous and orthogonal decomposition of data using Multimodal Discriminant Analysis.,Jianran Li,https://dblp.org/pid/59/9054.html,ICCV,2009
+Simultaneous and orthogonal decomposition of data using Multimodal Discriminant Analysis.,Yan Chen,https://dblp.org/pid/88/2827.html,ICCV,2009
+Fast and robust Earth Mover's Distances.,Ofir Pele,https://dblp.org/pid/50/1104.html,ICCV,2009
+Fast and robust Earth Mover's Distances.,Michael Werman,https://dblp.org/pid/24/6738.html,ICCV,2009
+Active segmentation with fixation.,Ajay K. Mishra,https://dblp.org/pid/89/5137.html,ICCV,2009
+Active segmentation with fixation.,Yiannis Aloimonos,https://dblp.org/pid/a/YiannisAloimonos.html,ICCV,2009
+Active segmentation with fixation.,Loong Fah Cheong,https://dblp.org/pid/c/LoongFahCheong.html,ICCV,2009
+Directional statistics BRDF model.,Ko Nishino,https://dblp.org/pid/07/2706.html,ICCV,2009
+Multi-scale object detection by clustering lines.,Björn Ommer,https://dblp.org/pid/11/4098.html,ICCV,2009
+Multi-scale object detection by clustering lines.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ICCV,2009
+Local Trinary Patterns for human action recognition.,Lahav Yeffet,https://dblp.org/pid/26/9054.html,ICCV,2009
+Local Trinary Patterns for human action recognition.,Lior Wolf,https://dblp.org/pid/83/4103.html,ICCV,2009
+Is that you? Metric learning approaches for face identification.,Matthieu Guillaumin,https://dblp.org/pid/99/1687.html,ICCV,2009
+Is that you? Metric learning approaches for face identification.,Jakob Verbeek,https://dblp.org/pid/v/JakobJVerbeek.html,ICCV,2009
+Is that you? Metric learning approaches for face identification.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ICCV,2009
+Semi-Supervised Random Forests.,Christian Leistner,https://dblp.org/pid/70/4594.html,ICCV,2009
+Semi-Supervised Random Forests.,Amir Saffari,https://dblp.org/pid/71/310.html,ICCV,2009
+Semi-Supervised Random Forests.,Jakob Santner,https://dblp.org/pid/57/8653.html,ICCV,2009
+Semi-Supervised Random Forests.,Horst Bischof,https://dblp.org/pid/69/3793.html,ICCV,2009
+Graph cuts using a Riemannian metric induced by tensor voting.,Hyung Il Koo,https://dblp.org/pid/35/834.html,ICCV,2009
+Graph cuts using a Riemannian metric induced by tensor voting.,Nam Ik Cho,https://dblp.org/pid/70/424.html,ICCV,2009
+Kernel active contour.,Tan Shan,https://dblp.org/pid/92/5711.html,ICCV,2009
+Kernel active contour.,Ioannis A. Kakadiaris,https://dblp.org/pid/29/1088.html,ICCV,2009
+Dimensionality reduction and principal surfaces via Kernel Map Manifolds.,Samuel Gerber,https://dblp.org/pid/89/3649.html,ICCV,2009
+Dimensionality reduction and principal surfaces via Kernel Map Manifolds.,Tolga Tasdizen,https://dblp.org/pid/17/4322.html,ICCV,2009
+Dimensionality reduction and principal surfaces via Kernel Map Manifolds.,Ross T. Whitaker,https://dblp.org/pid/w/RossTWhitaker.html,ICCV,2009
+"Joint learning of visual attributes, object classes and visual saliency.",Gang Wang,https://dblp.org/pid/71/4292-12.html,ICCV,2009
+"Joint learning of visual attributes, object classes and visual saliency.",David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ICCV,2009
+Bayesian Poisson regression for crowd counting.,Antoni B. Chan,https://dblp.org/pid/55/5814.html,ICCV,2009
+Bayesian Poisson regression for crowd counting.,Nuno Vasconcelos,https://dblp.org/pid/78/4806.html,ICCV,2009
+Efficient discriminative learning of parts-based models.,M. Pawan Kumar,https://dblp.org/pid/45/2527.html,ICCV,2009
+Efficient discriminative learning of parts-based models.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ICCV,2009
+Efficient discriminative learning of parts-based models.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,ICCV,2009
+Probabilistic occlusion boundary detection on spatio-temporal lattices.,Mehmet Emre Sargin,https://dblp.org/pid/26/4881.html,ICCV,2009
+Probabilistic occlusion boundary detection on spatio-temporal lattices.,Luca Bertelli,https://dblp.org/pid/48/5138.html,ICCV,2009
+Probabilistic occlusion boundary detection on spatio-temporal lattices.,Bangalore S. Manjunath,https://dblp.org/pid/m/BSManjunath.html,ICCV,2009
+Probabilistic occlusion boundary detection on spatio-temporal lattices.,Kenneth Rose,https://dblp.org/pid/85/5752.html,ICCV,2009
+Higher-order gradient descent by fusion-move graph cut.,Hiroshi Ishikawa,https://dblp.org/pid/i/HiroshiIshikawa2.html,ICCV,2009
+Active skeleton for non-rigid object detection.,Xiang Bai,https://dblp.org/pid/59/2741.html,ICCV,2009
+Active skeleton for non-rigid object detection.,Xinggang Wang,https://dblp.org/pid/95/3056.html,ICCV,2009
+Active skeleton for non-rigid object detection.,Longin Jan Latecki,https://dblp.org/pid/44/1633.html,ICCV,2009
+Active skeleton for non-rigid object detection.,Wenyu Liu,https://dblp.org/pid/42/4110-1.html,ICCV,2009
+Active skeleton for non-rigid object detection.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,ICCV,2009
+Sparse representation of cast shadows via l1-regularized least squares.,Xue Mei,https://dblp.org/pid/29/4521.html,ICCV,2009
+Sparse representation of cast shadows via l1-regularized least squares.,Haibin Ling,https://dblp.org/pid/93/3488.html,ICCV,2009
+Sparse representation of cast shadows via l1-regularized least squares.,David W. Jacobs,https://dblp.org/pid/j/DavidWJacobs.html,ICCV,2009
+Robust multilinear principal component analysis.,Kohei Inoue,https://dblp.org/pid/37/1673.html,ICCV,2009
+Robust multilinear principal component analysis.,Kenji Hara,https://dblp.org/pid/79/2441.html,ICCV,2009
+Robust multilinear principal component analysis.,Kiichi Urahama,https://dblp.org/pid/36/259.html,ICCV,2009
+Efficient discriminative local learning for object recognition.,Yen-Yu Lin,https://dblp.org/pid/44/4894.html,ICCV,2009
+Efficient discriminative local learning for object recognition.,Jyun-Fan Tsai,https://dblp.org/pid/57/9054.html,ICCV,2009
+Efficient discriminative local learning for object recognition.,Tyng-Luh Liu,https://dblp.org/pid/68/2368.html,ICCV,2009
+Multiple kernels for object detection.,Andrea Vedaldi,https://dblp.org/pid/99/2825.html,ICCV,2009
+Multiple kernels for object detection.,Varun Gulshan,https://dblp.org/pid/02/8654.html,ICCV,2009
+Multiple kernels for object detection.,Manik Varma,https://dblp.org/pid/07/918.html,ICCV,2009
+Multiple kernels for object detection.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ICCV,2009
+I know what you did last summer: object-level auto-annotation of holiday snaps.,Stephan Gammeter,https://dblp.org/pid/20/788.html,ICCV,2009
+I know what you did last summer: object-level auto-annotation of holiday snaps.,Lukas Bossard,https://dblp.org/pid/09/6717.html,ICCV,2009
+I know what you did last summer: object-level auto-annotation of holiday snaps.,Till Quack,https://dblp.org/pid/14/5671.html,ICCV,2009
+I know what you did last summer: object-level auto-annotation of holiday snaps.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+Learning long term face aging patterns from partially dense aging databases.,Jin-Li Suo,https://dblp.org/pid/15/898.html,ICCV,2009
+Learning long term face aging patterns from partially dense aging databases.,Xilin Chen,https://dblp.org/pid/c/XilinChen.html,ICCV,2009
+Learning long term face aging patterns from partially dense aging databases.,Shiguang Shan,https://dblp.org/pid/s/ShiguangShan.html,ICCV,2009
+Learning long term face aging patterns from partially dense aging databases.,Wen Gao,https://dblp.org/pid/g/WenGao.html,ICCV,2009
+Beyond the Euclidean distance: Creating effective visual codebooks using the Histogram Intersection Kernel.,Jianxin Wu,https://dblp.org/pid/w/JianxinWu.html,ICCV,2009
+Beyond the Euclidean distance: Creating effective visual codebooks using the Histogram Intersection Kernel.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,ICCV,2009
+Incremental Multiple Kernel Learning for object recognition.,Aniruddha Kembhavi,https://dblp.org/pid/81/7583.html,ICCV,2009
+Incremental Multiple Kernel Learning for object recognition.,Behjat Siddiquie,https://dblp.org/pid/96/8652.html,ICCV,2009
+Incremental Multiple Kernel Learning for object recognition.,Roland Miezianko,https://dblp.org/pid/90/5268.html,ICCV,2009
+Incremental Multiple Kernel Learning for object recognition.,Scott McCloskey,https://dblp.org/pid/30/44.html,ICCV,2009
+Incremental Multiple Kernel Learning for object recognition.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,ICCV,2009
+Convex optimization for multi-class image labeling with a novel family of total variation based regularizers.,Jan Lellmann,https://dblp.org/pid/10/4237.html,ICCV,2009
+Convex optimization for multi-class image labeling with a novel family of total variation based regularizers.,Florian Becker,https://dblp.org/pid/13/3704.html,ICCV,2009
+Convex optimization for multi-class image labeling with a novel family of total variation based regularizers.,Christoph Schnörr,https://dblp.org/pid/59/5226.html,ICCV,2009
+The infinite Hidden Markov random field model.,Sotirios P. Chatzis,https://dblp.org/pid/25/6133.html,ICCV,2009
+The infinite Hidden Markov random field model.,Gabriel Tsechpenakis,https://dblp.org/pid/t/GTsechpenakis.html,ICCV,2009
+Convex multi-region segmentation on manifolds.,Amaël Delaunoy,https://dblp.org/pid/19/7544.html,ICCV,2009
+Convex multi-region segmentation on manifolds.,Ketut Fundana,https://dblp.org/pid/18/40.html,ICCV,2009
+Convex multi-region segmentation on manifolds.,Emmanuel Prados,https://dblp.org/pid/26/6163.html,ICCV,2009
+Convex multi-region segmentation on manifolds.,Anders Heyden,https://dblp.org/pid/85/717.html,ICCV,2009
+Class segmentation and object localization with superpixel neighborhoods.,Brian Fulkerson,https://dblp.org/pid/51/5110.html,ICCV,2009
+Class segmentation and object localization with superpixel neighborhoods.,Andrea Vedaldi,https://dblp.org/pid/99/2825.html,ICCV,2009
+Class segmentation and object localization with superpixel neighborhoods.,Stefano Soatto,https://dblp.org/pid/08/1262.html,ICCV,2009
+Spectral clustering of linear subspaces for motion segmentation.,Fabien Lauer,https://dblp.org/pid/85/5069.html,ICCV,2009
+Spectral clustering of linear subspaces for motion segmentation.,Christoph Schnörr,https://dblp.org/pid/59/5226.html,ICCV,2009
+Multiple view semantic segmentation for street view images.,Jianxiong Xiao,https://dblp.org/pid/57/5248.html,ICCV,2009
+Multiple view semantic segmentation for street view images.,Long Quan,https://dblp.org/pid/04/575.html,ICCV,2009
+Gradient domain layer separation under independent motion.,Yunqiang Chen,https://dblp.org/pid/55/5096.html,ICCV,2009
+Gradient domain layer separation under independent motion.,Ti-Chiun Chang,https://dblp.org/pid/52/9054.html,ICCV,2009
+Gradient domain layer separation under independent motion.,Chunxiao Zhou,https://dblp.org/pid/02/5745.html,ICCV,2009
+Gradient domain layer separation under independent motion.,Tong Fang,https://dblp.org/pid/39/234.html,ICCV,2009
+Image segmentation with simultaneous illumination and reflectance estimation: An energy minimization approach.,Chunming Li,https://dblp.org/pid/78/3377.html,ICCV,2009
+Image segmentation with simultaneous illumination and reflectance estimation: An energy minimization approach.,Fang Li,https://dblp.org/pid/55/2162.html,ICCV,2009
+Image segmentation with simultaneous illumination and reflectance estimation: An energy minimization approach.,Chiu-Yen Kao,https://dblp.org/pid/13/2338.html,ICCV,2009
+Image segmentation with simultaneous illumination and reflectance estimation: An energy minimization approach.,Chenyang Xu,https://dblp.org/pid/82/5658-1.html,ICCV,2009
+Robust dynamical model for simultaneous registration and segmentation in a variational framework: A Bayesian approach.,Pratim Ghosh,https://dblp.org/pid/09/326.html,ICCV,2009
+Robust dynamical model for simultaneous registration and segmentation in a variational framework: A Bayesian approach.,Mehmet Emre Sargin,https://dblp.org/pid/26/4881.html,ICCV,2009
+Robust dynamical model for simultaneous registration and segmentation in a variational framework: A Bayesian approach.,Bangalore S. Manjunath,https://dblp.org/pid/m/BSManjunath.html,ICCV,2009
+Beyond connecting the dots: A polynomial-time algorithm for segmentation and boundary estimation with imprecise user input.,Thomas Windheuser,https://dblp.org/pid/32/9054.html,ICCV,2009
+Beyond connecting the dots: A polynomial-time algorithm for segmentation and boundary estimation with imprecise user input.,Thomas Schoenemann,https://dblp.org/pid/51/4641.html,ICCV,2009
+Beyond connecting the dots: A polynomial-time algorithm for segmentation and boundary estimation with imprecise user input.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+Implicit color segmentation features for pedestrian and object detection.,Patrick Ott,https://dblp.org/pid/20/9054.html,ICCV,2009
+Implicit color segmentation features for pedestrian and object detection.,Mark Everingham,https://dblp.org/pid/63/4673.html,ICCV,2009
+"Power watersheds: A new image segmentation framework extending graph cuts, random walker and optimal spanning forest.",Camille Couprie,https://dblp.org/pid/69/8658.html,ICCV,2009
+"Power watersheds: A new image segmentation framework extending graph cuts, random walker and optimal spanning forest.",Leo J. Grady,https://dblp.org/pid/90/6443.html,ICCV,2009
+"Power watersheds: A new image segmentation framework extending graph cuts, random walker and optimal spanning forest.",Laurent Najman,https://dblp.org/pid/68/4192.html,ICCV,2009
+"Power watersheds: A new image segmentation framework extending graph cuts, random walker and optimal spanning forest.",Hugues Talbot,https://dblp.org/pid/00/1609.html,ICCV,2009
+Associative hierarchical CRFs for object class image segmentation.,Lubor Ladicky,https://dblp.org/pid/44/4353.html,ICCV,2009
+Associative hierarchical CRFs for object class image segmentation.,Chris Russell,https://dblp.org/pid/57/9988-1.html,ICCV,2009
+Associative hierarchical CRFs for object class image segmentation.,Pushmeet Kohli,https://dblp.org/pid/94/248.html,ICCV,2009
+Associative hierarchical CRFs for object class image segmentation.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,ICCV,2009
+"Segmentation, ordering and multi-object tracking using graphical models.",Chaohui Wang,https://dblp.org/pid/51/711.html,ICCV,2009
+"Segmentation, ordering and multi-object tracking using graphical models.",Martin de La Gorce,https://dblp.org/pid/58/5646.html,ICCV,2009
+"Segmentation, ordering and multi-object tracking using graphical models.",Nikos Paragios,https://dblp.org/pid/p/NikosParagios.html,ICCV,2009
+Joint optimization of segmentation and appearance models.,Sara Vicente,https://dblp.org/pid/02/6657.html,ICCV,2009
+Joint optimization of segmentation and appearance models.,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,ICCV,2009
+Joint optimization of segmentation and appearance models.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ICCV,2009
+Level set segmentation with both shape and intensity priors.,Siqi Chen,https://dblp.org/pid/05/8743.html,ICCV,2009
+Level set segmentation with both shape and intensity priors.,Richard J. Radke,https://dblp.org/pid/21/356.html,ICCV,2009
+Scene shape priors for superpixel segmentation.,Alastair Philip Moore,https://dblp.org/pid/61/1116.html,ICCV,2009
+Scene shape priors for superpixel segmentation.,Simon J. D. Prince,https://dblp.org/pid/p/SimonPrince.html,ICCV,2009
+Scene shape priors for superpixel segmentation.,Jonathan Warrell,https://dblp.org/pid/24/6033.html,ICCV,2009
+Scene shape priors for superpixel segmentation.,Umar Mohammed,https://dblp.org/pid/72/5161.html,ICCV,2009
+Scene shape priors for superpixel segmentation.,Graham Jones,https://dblp.org/pid/78/5433.html,ICCV,2009
+LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues.,Brian L. Price,https://dblp.org/pid/38/5397.html,ICCV,2009
+LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues.,Bryan S. Morse,https://dblp.org/pid/m/BryanSMorse.html,ICCV,2009
+LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues.,Scott Cohen,https://dblp.org/pid/54/4155.html,ICCV,2009
+Non-Euclidean image-adaptive Radial Basis Functions for 3D interactive segmentation.,Benoit Mory,https://dblp.org/pid/17/5087.html,ICCV,2009
+Non-Euclidean image-adaptive Radial Basis Functions for 3D interactive segmentation.,Roberto Ardon,https://dblp.org/pid/79/673.html,ICCV,2009
+Non-Euclidean image-adaptive Radial Basis Functions for 3D interactive segmentation.,Anthony J. Yezzi,https://dblp.org/pid/y/AJYezzi.html,ICCV,2009
+Non-Euclidean image-adaptive Radial Basis Functions for 3D interactive segmentation.,Jean-Philippe Thiran,https://dblp.org/pid/t/JeanPhilippeThiran.html,ICCV,2009
+Automatic ovarian follicle quantification from 3D ultrasound data using global/local context with database guided segmentation.,Terrence Chen,https://dblp.org/pid/51/4242.html,ICCV,2009
+Automatic ovarian follicle quantification from 3D ultrasound data using global/local context with database guided segmentation.,Wei Zhang,https://dblp.org/pid/10/4661-18.html,ICCV,2009
+Automatic ovarian follicle quantification from 3D ultrasound data using global/local context with database guided segmentation.,Sara Good,https://dblp.org/pid/66/448.html,ICCV,2009
+Automatic ovarian follicle quantification from 3D ultrasound data using global/local context with database guided segmentation.,Shaohua Kevin Zhou,https://dblp.org/pid/57/98.html,ICCV,2009
+Automatic ovarian follicle quantification from 3D ultrasound data using global/local context with database guided segmentation.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,ICCV,2009
+Non-rigid object localization and segmentation using eigenspace representation.,Omar Arif,https://dblp.org/pid/93/8108.html,ICCV,2009
+Non-rigid object localization and segmentation using eigenspace representation.,Patricio A. Vela,https://dblp.org/pid/65/1102.html,ICCV,2009
+Robust graph-cut scene segmentation and reconstruction for free-viewpoint video of complex dynamic scenes.,Jean-Yves Guillemaut,https://dblp.org/pid/98/339.html,ICCV,2009
+Robust graph-cut scene segmentation and reconstruction for free-viewpoint video of complex dynamic scenes.,Joe Kilner,https://dblp.org/pid/67/7607.html,ICCV,2009
+Robust graph-cut scene segmentation and reconstruction for free-viewpoint video of complex dynamic scenes.,Adrian Hilton,https://dblp.org/pid/63/34.html,ICCV,2009
+Saliency driven total variation segmentation.,Michael Donoser,https://dblp.org/pid/29/4499.html,ICCV,2009
+Saliency driven total variation segmentation.,Martin Urschler,https://dblp.org/pid/68/309.html,ICCV,2009
+Saliency driven total variation segmentation.,Martin Hirzer,https://dblp.org/pid/43/9054.html,ICCV,2009
+Saliency driven total variation segmentation.,Horst Bischof,https://dblp.org/pid/69/3793.html,ICCV,2009
+FLoSS: Facility location for subspace segmentation.,Nevena Lazic,https://dblp.org/pid/17/5587.html,ICCV,2009
+FLoSS: Facility location for subspace segmentation.,Inmar E. Givoni,https://dblp.org/pid/00/5358.html,ICCV,2009
+FLoSS: Facility location for subspace segmentation.,Brendan J. Frey,https://dblp.org/pid/15/1159.html,ICCV,2009
+FLoSS: Facility location for subspace segmentation.,Parham Aarabi,https://dblp.org/pid/a/ParhamAarabi.html,ICCV,2009
+Video object segmentation by tracking regions.,William Brendel,https://dblp.org/pid/61/8610.html,ICCV,2009
+Video object segmentation by tracking regions.,Sinisa Todorovic,https://dblp.org/pid/01/6892.html,ICCV,2009
+Texel-based texture segmentation.,Sinisa Todorovic,https://dblp.org/pid/01/6892.html,ICCV,2009
+Texel-based texture segmentation.,Narendra Ahuja,https://dblp.org/pid/30/3572.html,ICCV,2009
+Label set perturbation for MRF based neuroimaging segmentation.,Dylan Hower,https://dblp.org/pid/35/9054.html,ICCV,2009
+Label set perturbation for MRF based neuroimaging segmentation.,Vikas Singh,https://dblp.org/pid/26/1810.html,ICCV,2009
+Label set perturbation for MRF based neuroimaging segmentation.,Sterling C. Johnson,https://dblp.org/pid/49/8273.html,ICCV,2009
+Robust image segmentation using learned priors.,Ayman El-Baz,https://dblp.org/pid/75/261.html,ICCV,2009
+Robust image segmentation using learned priors.,Georgy L. Gimel'farb,https://dblp.org/pid/26/2720.html,ICCV,2009
+Non-negative matrix factorization of partial track data for motion segmentation.,Anil M. Cheriyadat,https://dblp.org/pid/24/3626.html,ICCV,2009
+Non-negative matrix factorization of partial track data for motion segmentation.,Richard J. Radke,https://dblp.org/pid/21/356.html,ICCV,2009
+Efficient segmentation using feature-based graph partitioning active contours.,Filiz Bunyak,https://dblp.org/pid/06/3172.html,ICCV,2009
+Efficient segmentation using feature-based graph partitioning active contours.,Kannappan Palaniappan,https://dblp.org/pid/21/700.html,ICCV,2009
+Analysis of orientation and scale in smoothly varying textures.,Jason Chang,https://dblp.org/pid/07/3524-1.html,ICCV,2009
+Analysis of orientation and scale in smoothly varying textures.,John W. Fisher III,https://dblp.org/pid/23/954.html,ICCV,2009
+Learning based digital matting.,Yuanjie Zheng,https://dblp.org/pid/44/3875.html,ICCV,2009
+Learning based digital matting.,Chandra Kambhamettu,https://dblp.org/pid/47/4773.html,ICCV,2009
+The One-Shot similarity kernel.,Lior Wolf,https://dblp.org/pid/83/4103.html,ICCV,2009
+The One-Shot similarity kernel.,Tal Hassner,https://dblp.org/pid/62/6.html,ICCV,2009
+The One-Shot similarity kernel.,Yaniv Taigman,https://dblp.org/pid/25/8066.html,ICCV,2009
+A theory of active object localization.,Alexander Andreopoulos,https://dblp.org/pid/86/1574.html,ICCV,2009
+A theory of active object localization.,John K. Tsotsos,https://dblp.org/pid/t/JohnKTsotsos.html,ICCV,2009
+Active subspace learning.,Xiaofei He,https://dblp.org/pid/h/XiaofeiHe.html,ICCV,2009
+Active subspace learning.,Deng Cai,https://dblp.org/pid/c/DCai.html,ICCV,2009
+Automatic learning and extraction of multi-local features.,Oscar M. Danielsson,https://dblp.org/pid/06/5697.html,ICCV,2009
+Automatic learning and extraction of multi-local features.,Stefan Carlsson,https://dblp.org/pid/17/709.html,ICCV,2009
+Automatic learning and extraction of multi-local features.,Josephine Sullivan,https://dblp.org/pid/32/3671.html,ICCV,2009
+Fast realistic multi-action recognition using mined dense spatio-temporal features.,Andrew Gilbert,https://dblp.org/pid/63/3257.html,ICCV,2009
+Fast realistic multi-action recognition using mined dense spatio-temporal features.,John Illingworth,https://dblp.org/pid/90/6080.html,ICCV,2009
+Fast realistic multi-action recognition using mined dense spatio-temporal features.,Richard Bowden,https://dblp.org/pid/b/RichardBowden.html,ICCV,2009
+Quantifying contextual information for object detection.,Wei-Shi Zheng,https://dblp.org/pid/30/8399.html,ICCV,2009
+Quantifying contextual information for object detection.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ICCV,2009
+Quantifying contextual information for object detection.,Tao Xiang,https://dblp.org/pid/22/4460.html,ICCV,2009
+Feature-centric Efficient Subwindow Search.,Alain D. Lehmann,https://dblp.org/pid/44/11166.html,ICCV,2009
+Feature-centric Efficient Subwindow Search.,Bastian Leibe,https://dblp.org/pid/41/1228.html,ICCV,2009
+Feature-centric Efficient Subwindow Search.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+A latent model of discriminative aspect.,Ali Farhadi,https://dblp.org/pid/37/5826.html,ICCV,2009
+A latent model of discriminative aspect.,Mostafa Kamali Tabrizi,https://dblp.org/pid/63/6084.html,ICCV,2009
+A latent model of discriminative aspect.,Ian Endres,https://dblp.org/pid/98/7658.html,ICCV,2009
+A latent model of discriminative aspect.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ICCV,2009
+Unlabeled data improvesword prediction.,Nicolas Loeff,https://dblp.org/pid/60/350.html,ICCV,2009
+Unlabeled data improvesword prediction.,Ali Farhadi,https://dblp.org/pid/37/5826.html,ICCV,2009
+Unlabeled data improvesword prediction.,Ian Endres,https://dblp.org/pid/98/7658.html,ICCV,2009
+Unlabeled data improvesword prediction.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ICCV,2009
+A probabilistic framework for partial intrinsic symmetries in geometric data.,Ruxandra Lasowski,https://dblp.org/pid/80/2952.html,ICCV,2009
+A probabilistic framework for partial intrinsic symmetries in geometric data.,Art Tevs,https://dblp.org/pid/85/6574.html,ICCV,2009
+A probabilistic framework for partial intrinsic symmetries in geometric data.,Hans-Peter Seidel,https://dblp.org/pid/s/HansPeterSeidel.html,ICCV,2009
+A probabilistic framework for partial intrinsic symmetries in geometric data.,Michael Wand,https://dblp.org/pid/85/72.html,ICCV,2009
+Bayesian selection of scaling laws for motion modeling in images.,Patrick Héas,https://dblp.org/pid/93/3426.html,ICCV,2009
+Bayesian selection of scaling laws for motion modeling in images.,Étienne Mémin,https://dblp.org/pid/90/2632.html,ICCV,2009
+Bayesian selection of scaling laws for motion modeling in images.,Dominique Heitz,https://dblp.org/pid/63/9054.html,ICCV,2009
+Bayesian selection of scaling laws for motion modeling in images.,Pablo D. Mininni,https://dblp.org/pid/22/9054.html,ICCV,2009
+Top-down color attention for object recognition.,Fahad Shahbaz Khan,https://dblp.org/pid/05/8618.html,ICCV,2009
+Top-down color attention for object recognition.,Joost van de Weijer,https://dblp.org/pid/67/3379.html,ICCV,2009
+Top-down color attention for object recognition.,María Vanrell,https://dblp.org/pid/v/MariaVanrell.html,ICCV,2009
+Detecting objects in large image collections and videos by efficient subimage retrieval.,Christoph H. Lampert,https://dblp.org/pid/67/2136.html,ICCV,2009
+Learning actions from the Web.,Nazli Ikizler-Cinbis,https://dblp.org/pid/06/8611.html,ICCV,2009
+Learning actions from the Web.,Ramazan Gokberk Cinbis,https://dblp.org/pid/54/2808.html,ICCV,2009
+Learning actions from the Web.,Stan Sclaroff,https://dblp.org/pid/s/StanSclaroff.html,ICCV,2009
+Active Appearance Models with Rotation Invariant Kernels.,Onur C. Hamsici,https://dblp.org/pid/51/1233.html,ICCV,2009
+Active Appearance Models with Rotation Invariant Kernels.,Aleix M. Martínez,https://dblp.org/pid/m/AleixMMartinez.html,ICCV,2009
+Incremental action recognition using feature-tree.,Kishore K. Reddy,https://dblp.org/pid/19/9054.html,ICCV,2009
+Incremental action recognition using feature-tree.,Jingen Liu,https://dblp.org/pid/10/5849.html,ICCV,2009
+Incremental action recognition using feature-tree.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ICCV,2009
+RankBoost with l1 regularization for facial expression recognition and intensity estimation.,Peng Yang,https://dblp.org/pid/57/5443-1.html,ICCV,2009
+RankBoost with l1 regularization for facial expression recognition and intensity estimation.,Qingshan Liu,https://dblp.org/pid/95/1247.html,ICCV,2009
+RankBoost with l1 regularization for facial expression recognition and intensity estimation.,Dimitris N. Metaxas,https://dblp.org/pid/m/DNMetaxas.html,ICCV,2009
+Optimal multiple surfaces searching for video/image resizing - a graph-theoretic approach.,Dongfeng Han,https://dblp.org/pid/54/4641.html,ICCV,2009
+Optimal multiple surfaces searching for video/image resizing - a graph-theoretic approach.,Xiaodong Wu,https://dblp.org/pid/26/373-1.html,ICCV,2009
+Optimal multiple surfaces searching for video/image resizing - a graph-theoretic approach.,Milan Sonka,https://dblp.org/pid/19/1003.html,ICCV,2009
+Face alignment through subspace constrained mean-shifts.,Jason M. Saragih,https://dblp.org/pid/21/3590.html,ICCV,2009
+Face alignment through subspace constrained mean-shifts.,Simon Lucey,https://dblp.org/pid/01/3542.html,ICCV,2009
+Face alignment through subspace constrained mean-shifts.,Jeffrey F. Cohn,https://dblp.org/pid/54/1171.html,ICCV,2009
+Evaluating information contributions of bottom-up and top-down processes.,Xiong Yang,https://dblp.org/pid/03/4250.html,ICCV,2009
+Evaluating information contributions of bottom-up and top-down processes.,Tianfu Wu,https://dblp.org/pid/08/4148-1.html,ICCV,2009
+Evaluating information contributions of bottom-up and top-down processes.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ICCV,2009
+Face recognition with contiguous occlusion using markov random fields.,Zihan Zhou,https://dblp.org/pid/00/6525-1.html,ICCV,2009
+Face recognition with contiguous occlusion using markov random fields.,Andrew Wagner,https://dblp.org/pid/05/4874.html,ICCV,2009
+Face recognition with contiguous occlusion using markov random fields.,Hossein Mobahi,https://dblp.org/pid/94/1490.html,ICCV,2009
+Face recognition with contiguous occlusion using markov random fields.,John Wright,https://dblp.org/pid/10/3047-1.html,ICCV,2009
+Face recognition with contiguous occlusion using markov random fields.,Yi Ma,https://dblp.org/pid/69/1112-1.html,ICCV,2009
+Which faces to tag: Adding prior constraints into active learning.,Ashish Kapoor,https://dblp.org/pid/93/161.html,ICCV,2009
+Which faces to tag: Adding prior constraints into active learning.,Gang Hua,https://dblp.org/pid/75/5209.html,ICCV,2009
+Which faces to tag: Adding prior constraints into active learning.,Amir Akbarzadeh,https://dblp.org/pid/53/427.html,ICCV,2009
+Which faces to tag: Adding prior constraints into active learning.,Simon Baker,https://dblp.org/pid/85/2539.html,ICCV,2009
+Is a detector only good for detection?,Quan Yuan,https://dblp.org/pid/29/5782.html,ICCV,2009
+Is a detector only good for detection?,Stan Sclaroff,https://dblp.org/pid/s/StanSclaroff.html,ICCV,2009
+Consensus set maximization with guaranteed global optimality for robust geometry estimation.,Hongdong Li,https://dblp.org/pid/59/4859.html,ICCV,2009
+Efficient subset selection via the kernelized Rényi distance.,Balaji Vasan Srinivasan,https://dblp.org/pid/31/4182.html,ICCV,2009
+Efficient subset selection via the kernelized Rényi distance.,Ramani Duraiswami,https://dblp.org/pid/d/RamaniDuraiswami.html,ICCV,2009
+A near optimal acceptance-rejection algorithm for exact cross-correlation search.,Haim Schweitzer,https://dblp.org/pid/s/HaimSchweitzer.html,ICCV,2009
+A near optimal acceptance-rejection algorithm for exact cross-correlation search.,Robert Finis Anderson,https://dblp.org/pid/94/8203.html,ICCV,2009
+A near optimal acceptance-rejection algorithm for exact cross-correlation search.,Rui A. Deng,https://dblp.org/pid/33/9054.html,ICCV,2009
+Heterogeneous feature machines for visual recognition.,Liangliang Cao,https://dblp.org/pid/95/6915.html,ICCV,2009
+Heterogeneous feature machines for visual recognition.,Jiebo Luo,https://dblp.org/pid/25/5545.html,ICCV,2009
+Heterogeneous feature machines for visual recognition.,Feng Liang,https://dblp.org/pid/54/6821-2.html,ICCV,2009
+Heterogeneous feature machines for visual recognition.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,ICCV,2009
+Efficient indexing for large scale visual search.,Xiao Zhang,https://dblp.org/pid/49/4478.html,ICCV,2009
+Efficient indexing for large scale visual search.,Zhiwei Li,https://dblp.org/pid/47/3951-6.html,ICCV,2009
+Efficient indexing for large scale visual search.,Lei Zhang,https://dblp.org/pid/z/LeiZhang.html,ICCV,2009
+Efficient indexing for large scale visual search.,Wei-Ying Ma,https://dblp.org/pid/m/WYMa.html,ICCV,2009
+Efficient indexing for large scale visual search.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ICCV,2009
+Spectral error correcting output codes for efficient multiclass recognition.,Xiao Zhang,https://dblp.org/pid/49/4478.html,ICCV,2009
+Spectral error correcting output codes for efficient multiclass recognition.,Lin Liang,https://dblp.org/pid/91/5326.html,ICCV,2009
+Spectral error correcting output codes for efficient multiclass recognition.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ICCV,2009
+Kernel map compression using generalized radial basis functions.,Omar Arif,https://dblp.org/pid/93/8108.html,ICCV,2009
+Kernel map compression using generalized radial basis functions.,Patricio A. Vela,https://dblp.org/pid/65/1102.html,ICCV,2009
+Patch-based within-object classification.,Jania Aghajanian,https://dblp.org/pid/44/1576.html,ICCV,2009
+Patch-based within-object classification.,Jonathan Warrell,https://dblp.org/pid/24/6033.html,ICCV,2009
+Patch-based within-object classification.,Simon J. D. Prince,https://dblp.org/pid/p/SimonPrince.html,ICCV,2009
+Patch-based within-object classification.,Peng Li,https://dblp.org/pid/83/6353.html,ICCV,2009
+Patch-based within-object classification.,Jennifer L. Rohn,https://dblp.org/pid/27/9054.html,ICCV,2009
+Patch-based within-object classification.,Buzz Baum,https://dblp.org/pid/25/5080.html,ICCV,2009
+An algorithm for minimizing the Mumford-Shah functional.,Thomas Pock,https://dblp.org/pid/48/6407.html,ICCV,2009
+An algorithm for minimizing the Mumford-Shah functional.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+An algorithm for minimizing the Mumford-Shah functional.,Horst Bischof,https://dblp.org/pid/69/3793.html,ICCV,2009
+An algorithm for minimizing the Mumford-Shah functional.,Antonin Chambolle,https://dblp.org/pid/10/3748.html,ICCV,2009
+A biased sampling strategy for object categorization.,Lei Yang,https://dblp.org/pid/50/2484.html,ICCV,2009
+A biased sampling strategy for object categorization.,Nanning Zheng,https://dblp.org/pid/07/256-1.html,ICCV,2009
+A biased sampling strategy for object categorization.,Jie Yang,https://dblp.org/pid/12/1198-1.html,ICCV,2009
+A biased sampling strategy for object categorization.,Mei Chen,https://dblp.org/pid/70/729.html,ICCV,2009
+A biased sampling strategy for object categorization.,Hong Chen,https://dblp.org/pid/52/4150.html,ICCV,2009
+On optimizing subspaces for face recognition.,Jilin Tu,https://dblp.org/pid/78/1902.html,ICCV,2009
+On optimizing subspaces for face recognition.,Xiaoming Liu,https://dblp.org/pid/l/XiaomingLiu0002.html,ICCV,2009
+On optimizing subspaces for face recognition.,Peter Henry Tu,https://dblp.org/pid/97/2416.html,ICCV,2009
+Structural SVM for visual localization and continuous state estimation.,Catalin Ionescu,https://dblp.org/pid/38/8484.html,ICCV,2009
+Structural SVM for visual localization and continuous state estimation.,Liefeng Bo,https://dblp.org/pid/17/6808.html,ICCV,2009
+Structural SVM for visual localization and continuous state estimation.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,ICCV,2009
+A Markov Clustering Topic Model for mining behaviour in video.,Timothy M. Hospedales,https://dblp.org/pid/32/3545.html,ICCV,2009
+A Markov Clustering Topic Model for mining behaviour in video.,Shaogang Gong,https://dblp.org/pid/17/4389.html,ICCV,2009
+A Markov Clustering Topic Model for mining behaviour in video.,Tao Xiang,https://dblp.org/pid/22/4460.html,ICCV,2009
+A branch-and-bound algorithm for globally optimal calibration of a camera-and-rotation-sensor system.,Yongduek Seo,https://dblp.org/pid/16/6479.html,ICCV,2009
+A branch-and-bound algorithm for globally optimal calibration of a camera-and-rotation-sensor system.,Youngju Choi,https://dblp.org/pid/45/4685.html,ICCV,2009
+A branch-and-bound algorithm for globally optimal calibration of a camera-and-rotation-sensor system.,Sang Wook Lee,https://dblp.org/pid/15/151.html,ICCV,2009
+Simultaneous camera pose and correspondence estimation in cornerless images.,Wen-Yan Lin,https://dblp.org/pid/98/8226.html,ICCV,2009
+Simultaneous camera pose and correspondence estimation in cornerless images.,Guo Dong,https://dblp.org/pid/52/7025-5.html,ICCV,2009
+Simultaneous camera pose and correspondence estimation in cornerless images.,Ping Tan,https://dblp.org/pid/61/6118.html,ICCV,2009
+Simultaneous camera pose and correspondence estimation in cornerless images.,Loong Fah Cheong,https://dblp.org/pid/c/LoongFahCheong.html,ICCV,2009
+Simultaneous camera pose and correspondence estimation in cornerless images.,Chye Hwang Yan,https://dblp.org/pid/04/2266.html,ICCV,2009
+Jointly estimating demographics and height with a calibrated camera.,Andrew C. Gallagher,https://dblp.org/pid/73/259.html,ICCV,2009
+Jointly estimating demographics and height with a calibrated camera.,Andrew C. Blose,https://dblp.org/pid/86/8372.html,ICCV,2009
+Jointly estimating demographics and height with a calibrated camera.,Tsuhan Chen,https://dblp.org/pid/c/TsuhanChen.html,ICCV,2009
+Plane-based calibration of central catadioptric cameras.,Simone Gasparini,https://dblp.org/pid/62/2415.html,ICCV,2009
+Plane-based calibration of central catadioptric cameras.,Peter F. Sturm,https://dblp.org/pid/s/PeterFSturm.html,ICCV,2009
+Plane-based calibration of central catadioptric cameras.,João Pedro Barreto,https://dblp.org/pid/b/JoaoPBarreto1.html,ICCV,2009
+Static multi-camera factorization using rigid motion.,Roland Angst,https://dblp.org/pid/64/6280.html,ICCV,2009
+Static multi-camera factorization using rigid motion.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ICCV,2009
+Shadow cameras: Reciprocal views from illumination masks.,Sanjeev J. Koppal,https://dblp.org/pid/86/5412.html,ICCV,2009
+Shadow cameras: Reciprocal views from illumination masks.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ICCV,2009
+Background Subtraction for Freely Moving Cameras.,Yaser Sheikh,https://dblp.org/pid/71/3516.html,ICCV,2009
+Background Subtraction for Freely Moving Cameras.,Omar Javed,https://dblp.org/pid/17/3429.html,ICCV,2009
+Background Subtraction for Freely Moving Cameras.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,ICCV,2009
+Display-camera calibration from eye reflections.,Christian Nitschke,https://dblp.org/pid/49/3165.html,ICCV,2009
+Display-camera calibration from eye reflections.,Atsushi Nakazawa,https://dblp.org/pid/02/2151.html,ICCV,2009
+Display-camera calibration from eye reflections.,Haruo Takemura,https://dblp.org/pid/t/HaruoTakemura.html,ICCV,2009
+A hand-held photometric stereo camera for 3-D modeling.,Tomoaki Higo,https://dblp.org/pid/84/3577.html,ICCV,2009
+A hand-held photometric stereo camera for 3-D modeling.,Yasuyuki Matsushita,https://dblp.org/pid/11/3619.html,ICCV,2009
+A hand-held photometric stereo camera for 3-D modeling.,Neel Joshi,https://dblp.org/pid/08/3966.html,ICCV,2009
+A hand-held photometric stereo camera for 3-D modeling.,Katsushi Ikeuchi,https://dblp.org/pid/44/4771.html,ICCV,2009
+Body-relative navigation guidance using uncalibrated cameras.,Olivier Koch,https://dblp.org/pid/29/5135.html,ICCV,2009
+Body-relative navigation guidance using uncalibrated cameras.,Seth J. Teller,https://dblp.org/pid/t/SethJTeller.html,ICCV,2009
+Non-iterative approach for fast and accurate vanishing point detection.,Jean-Philippe Tardif,https://dblp.org/pid/44/6933.html,ICCV,2009
+Robust matching of building facades under large viewpoint changes.,Jimmy Addison Lee,https://dblp.org/pid/33/3919.html,ICCV,2009
+Robust matching of building facades under large viewpoint changes.,Kin Choong Yow,https://dblp.org/pid/95/5767.html,ICCV,2009
+Robust matching of building facades under large viewpoint changes.,Alex Y. S. Chia,https://dblp.org/pid/51/3141.html,ICCV,2009
+Unsupervised face alignment by robust nonrigid mapping.,Jianke Zhu,https://dblp.org/pid/10/4016.html,ICCV,2009
+Unsupervised face alignment by robust nonrigid mapping.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+Unsupervised face alignment by robust nonrigid mapping.,Steven C. H. Hoi,https://dblp.org/pid/h/StevenCHHoi.html,ICCV,2009
+Coarse registration of 3D surface triangulations based on moment invariants with applications to object alignment and identification.,Michael Trummer,https://dblp.org/pid/51/718.html,ICCV,2009
+Coarse registration of 3D surface triangulations based on moment invariants with applications to object alignment and identification.,Herbert Suesse,https://dblp.org/pid/s/HerbertSusse.html,ICCV,2009
+Coarse registration of 3D surface triangulations based on moment invariants with applications to object alignment and identification.,Joachim Denzler,https://dblp.org/pid/d/JoachimDenzler.html,ICCV,2009
+Feature correspondence and deformable object matching via agglomerative correspondence clustering.,Minsu Cho,https://dblp.org/pid/93/4742.html,ICCV,2009
+Feature correspondence and deformable object matching via agglomerative correspondence clustering.,Jungmin Lee,https://dblp.org/pid/30/1958.html,ICCV,2009
+Feature correspondence and deformable object matching via agglomerative correspondence clustering.,Kyoung Mu Lee,https://dblp.org/pid/17/4029.html,ICCV,2009
+Subspace matching: Unique solution to point matching with geometric constraints.,Manuel Marques,https://dblp.org/pid/02/6514.html,ICCV,2009
+Subspace matching: Unique solution to point matching with geometric constraints.,Marko Stosic,https://dblp.org/pid/04/6050.html,ICCV,2009
+Subspace matching: Unique solution to point matching with geometric constraints.,João Paulo Costeira,https://dblp.org/pid/10/887.html,ICCV,2009
+Optimal correspondences from pairwise constraints.,Olof Enqvist,https://dblp.org/pid/37/6343.html,ICCV,2009
+Optimal correspondences from pairwise constraints.,Klas Josephson,https://dblp.org/pid/76/131.html,ICCV,2009
+Optimal correspondences from pairwise constraints.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ICCV,2009
+Deformation invariant image matching by spectrally controlled diffeomorphic alignment.,Christopher M. Yang,https://dblp.org/pid/46/9054.html,ICCV,2009
+Deformation invariant image matching by spectrally controlled diffeomorphic alignment.,Sai Ravela,https://dblp.org/pid/25/6876.html,ICCV,2009
+Wide-baseline image matching using Line Signatures.,Lu Wang,https://dblp.org/pid/49/3800-13.html,ICCV,2009
+Wide-baseline image matching using Line Signatures.,Ulrich Neumann,https://dblp.org/pid/52/4897.html,ICCV,2009
+Wide-baseline image matching using Line Signatures.,Suya You,https://dblp.org/pid/98/3451.html,ICCV,2009
+Matching as a non-cooperative game.,Andrea Albarelli,https://dblp.org/pid/44/4261.html,ICCV,2009
+Matching as a non-cooperative game.,Samuel Rota Bulò,https://dblp.org/pid/05/4139.html,ICCV,2009
+Matching as a non-cooperative game.,Andrea Torsello,https://dblp.org/pid/11/2491.html,ICCV,2009
+Matching as a non-cooperative game.,Marcello Pelillo,https://dblp.org/pid/42/1745.html,ICCV,2009
+Simultaneous alignment and clustering for an image ensemble.,Xiaoming Liu,https://dblp.org/pid/l/XiaomingLiu0002.html,ICCV,2009
+Simultaneous alignment and clustering for an image ensemble.,Yan Tong,https://dblp.org/pid/20/2146.html,ICCV,2009
+Simultaneous alignment and clustering for an image ensemble.,Frederick W. Wheeler,https://dblp.org/pid/56/921.html,ICCV,2009
+An algebraic approach to affine registration of point sets.,Jeffrey Ho,https://dblp.org/pid/23/1866.html,ICCV,2009
+An algebraic approach to affine registration of point sets.,Adrian M. Peter,https://dblp.org/pid/91/3017.html,ICCV,2009
+An algebraic approach to affine registration of point sets.,Anand Rangarajan,https://dblp.org/pid/90/6511-1.html,ICCV,2009
+An algebraic approach to affine registration of point sets.,Ming-Hsuan Yang,https://dblp.org/pid/79/3711.html,ICCV,2009
+Constructing implicit 3D shape models for pose estimation.,Mica Arie-Nachimson,https://dblp.org/pid/37/9054.html,ICCV,2009
+Constructing implicit 3D shape models for pose estimation.,Ronen Basri,https://dblp.org/pid/b/RonenBasri.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Xiaoqin Zhang,https://dblp.org/pid/z/XiaoqinZhang-2.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Changcheng Li,https://dblp.org/pid/71/56.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Xiaofeng Tong,https://dblp.org/pid/34/6268.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Weiming Hu,https://dblp.org/pid/41/6824.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Stephen J. Maybank,https://dblp.org/pid/m/StephenJMaybank.html,ICCV,2009
+Efficient human pose estimation via parsing a tree structure based human model.,Yimin Zhang,https://dblp.org/pid/17/6892-2.html,ICCV,2009
+Human pose estimation using consistent max-covering.,Hao Jiang,https://dblp.org/pid/38/6049.html,ICCV,2009
+Poselets: Body part detectors trained using 3D human pose annotations.,Lubomir D. Bourdev,https://dblp.org/pid/52/546.html,ICCV,2009
+Poselets: Body part detectors trained using 3D human pose annotations.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ICCV,2009
+Joint pose estimator and feature learning for object detection.,Karim Ali,https://dblp.org/pid/22/7271-2.html,ICCV,2009
+Joint pose estimator and feature learning for object detection.,François Fleuret,https://dblp.org/pid/90/5265.html,ICCV,2009
+Joint pose estimator and feature learning for object detection.,David Hasler,https://dblp.org/pid/94/1300.html,ICCV,2009
+Joint pose estimator and feature learning for object detection.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ICCV,2009
+Estimating human shape and pose from a single image.,Peng Guan,https://dblp.org/pid/93/3905.html,ICCV,2009
+Estimating human shape and pose from a single image.,Alexander Weiss,https://dblp.org/pid/79/1651.html,ICCV,2009
+Estimating human shape and pose from a single image.,Alexandru O. Balan,https://dblp.org/pid/55/2425.html,ICCV,2009
+Estimating human shape and pose from a single image.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,ICCV,2009
+Tracking in unstructured crowded scenes.,Mikel Rodriguez,https://dblp.org/pid/44/9054.html,ICCV,2009
+Tracking in unstructured crowded scenes.,Saad Ali,https://dblp.org/pid/17/747.html,ICCV,2009
+Tracking in unstructured crowded scenes.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,ICCV,2009
+Video stabilization using robust feature trajectories.,Ken-Yi Lee,https://dblp.org/pid/30/50.html,ICCV,2009
+Video stabilization using robust feature trajectories.,Yung-Yu Chuang,https://dblp.org/pid/39/2152.html,ICCV,2009
+Video stabilization using robust feature trajectories.,Bing-Yu Chen,https://dblp.org/pid/72/6720.html,ICCV,2009
+Video stabilization using robust feature trajectories.,Ming Ouhyoung,https://dblp.org/pid/26/4981.html,ICCV,2009
+Complex volume and pose tracking with probabilistic dynamical models and visual hull constraints.,Norimichi Ukita,https://dblp.org/pid/46/5881.html,ICCV,2009
+Complex volume and pose tracking with probabilistic dynamical models and visual hull constraints.,Michiro Hirai,https://dblp.org/pid/28/8615.html,ICCV,2009
+Complex volume and pose tracking with probabilistic dynamical models and visual hull constraints.,Masatsugu Kidode,https://dblp.org/pid/22/2579.html,ICCV,2009
+Absolute scale in structure from motion from a single vehicle mounted camera by exploiting nonholonomic constraints.,Davide Scaramuzza,https://dblp.org/pid/62/3318.html,ICCV,2009
+Absolute scale in structure from motion from a single vehicle mounted camera by exploiting nonholonomic constraints.,Friedrich Fraundorfer,https://dblp.org/pid/60/2234.html,ICCV,2009
+Absolute scale in structure from motion from a single vehicle mounted camera by exploiting nonholonomic constraints.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ICCV,2009
+Absolute scale in structure from motion from a single vehicle mounted camera by exploiting nonholonomic constraints.,Roland Siegwart,https://dblp.org/pid/55/4063.html,ICCV,2009
+Domain adaptive semantic diffusion for large scale context-based video annotation.,Yu-Gang Jiang,https://dblp.org/pid/24/5818.html,ICCV,2009
+Domain adaptive semantic diffusion for large scale context-based video annotation.,Jun Wang,https://dblp.org/pid/w/JunWang6.html,ICCV,2009
+Domain adaptive semantic diffusion for large scale context-based video annotation.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,ICCV,2009
+Domain adaptive semantic diffusion for large scale context-based video annotation.,Chong-Wah Ngo,https://dblp.org/pid/30/4265.html,ICCV,2009
+Stabilizing motion tracking using retrieved motion priors.,Andreas Baak,https://dblp.org/pid/15/6039.html,ICCV,2009
+Stabilizing motion tracking using retrieved motion priors.,Bodo Rosenhahn,https://dblp.org/pid/09/2973.html,ICCV,2009
+Stabilizing motion tracking using retrieved motion priors.,Meinard Müller,https://dblp.org/pid/01/1071.html,ICCV,2009
+Stabilizing motion tracking using retrieved motion priors.,Hans-Peter Seidel,https://dblp.org/pid/s/HansPeterSeidel.html,ICCV,2009
+Robust visual tracking using ℓ1 minimization.,Xue Mei,https://dblp.org/pid/29/4521.html,ICCV,2009
+Robust visual tracking using ℓ1 minimization.,Haibin Ling,https://dblp.org/pid/93/3488.html,ICCV,2009
+The Normalized Subspace Inclusion: Robust clustering of motion subspaces.,Nuno Pinho da Silva,https://dblp.org/pid/29/633.html,ICCV,2009
+The Normalized Subspace Inclusion: Robust clustering of motion subspaces.,João Paulo Costeira,https://dblp.org/pid/10/887.html,ICCV,2009
+LabelMe video: Building a video database with human annotations.,Jenny Yuen,https://dblp.org/pid/56/6567.html,ICCV,2009
+LabelMe video: Building a video database with human annotations.,Bryan C. Russell,https://dblp.org/pid/29/2277.html,ICCV,2009
+LabelMe video: Building a video database with human annotations.,Ce Liu,https://dblp.org/pid/61/3937-1.html,ICCV,2009
+LabelMe video: Building a video database with human annotations.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,ICCV,2009
+A robust boosting tracker with minimum error bound in a co-training framework.,Rong Liu,https://dblp.org/pid/68/437.html,ICCV,2009
+A robust boosting tracker with minimum error bound in a co-training framework.,Jian Cheng,https://dblp.org/pid/14/6145-1.html,ICCV,2009
+A robust boosting tracker with minimum error bound in a co-training framework.,Hanqing Lu,https://dblp.org/pid/39/6752.html,ICCV,2009
+Using individuality to track individuals: Clustering individual trajectories in crowds using local appearance and frequency trait.,Daisuke Sugimura,https://dblp.org/pid/56/9054.html,ICCV,2009
+Using individuality to track individuals: Clustering individual trajectories in crowds using local appearance and frequency trait.,Kris Makoto Kitani,https://dblp.org/pid/42/163.html,ICCV,2009
+Using individuality to track individuals: Clustering individual trajectories in crowds using local appearance and frequency trait.,Takahiro Okabe,https://dblp.org/pid/83/431.html,ICCV,2009
+Using individuality to track individuals: Clustering individual trajectories in crowds using local appearance and frequency trait.,Yoichi Sato,https://dblp.org/pid/64/5287.html,ICCV,2009
+Using individuality to track individuals: Clustering individual trajectories in crowds using local appearance and frequency trait.,Akihiro Sugimoto,https://dblp.org/pid/36/4318.html,ICCV,2009
+Tracking a hand manipulating an object.,Henning Hamer,https://dblp.org/pid/50/8652.html,ICCV,2009
+Tracking a hand manipulating an object.,Konrad Schindler,https://dblp.org/pid/73/488.html,ICCV,2009
+Tracking a hand manipulating an object.,Esther Koller-Meier,https://dblp.org/pid/31/6225.html,ICCV,2009
+Tracking a hand manipulating an object.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+Robust facial feature tracking using selected multi-resolution linear predictors.,Eng-Jon Ong,https://dblp.org/pid/16/1335.html,ICCV,2009
+Robust facial feature tracking using selected multi-resolution linear predictors.,Yuxuan Lan,https://dblp.org/pid/31/2568.html,ICCV,2009
+Robust facial feature tracking using selected multi-resolution linear predictors.,Barry-John Theobald,https://dblp.org/pid/86/6624.html,ICCV,2009
+Robust facial feature tracking using selected multi-resolution linear predictors.,Richard W. Harvey,https://dblp.org/pid/89/4185.html,ICCV,2009
+Robust facial feature tracking using selected multi-resolution linear predictors.,Richard Bowden,https://dblp.org/pid/b/RichardBowden.html,ICCV,2009
+Automatic annotation of human actions in video.,Olivier Duchenne,https://dblp.org/pid/49/4902.html,ICCV,2009
+Automatic annotation of human actions in video.,Ivan Laptev,https://dblp.org/pid/41/1854.html,ICCV,2009
+Automatic annotation of human actions in video.,Josef Sivic,https://dblp.org/pid/71/5006.html,ICCV,2009
+Automatic annotation of human actions in video.,Francis R. Bach,https://dblp.org/pid/b/FrancisRBach.html,ICCV,2009
+Automatic annotation of human actions in video.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,ICCV,2009
+Detection and removal of chromatic moving shadows in surveillance scenarios.,Ivan Huerta Casado,https://dblp.org/pid/05/1660.html,ICCV,2009
+Detection and removal of chromatic moving shadows in surveillance scenarios.,Michael B. Holte,https://dblp.org/pid/68/4881.html,ICCV,2009
+Detection and removal of chromatic moving shadows in surveillance scenarios.,Thomas B. Moeslund,https://dblp.org/pid/12/6781.html,ICCV,2009
+Detection and removal of chromatic moving shadows in surveillance scenarios.,Jordi Gonzàlez,https://dblp.org/pid/24/3310-1.html,ICCV,2009
+Learning deformable action templates from cluttered videos.,Benjamin Z. Yao,https://dblp.org/pid/134/7162.html,ICCV,2009
+Learning deformable action templates from cluttered videos.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,ICCV,2009
+Robust tracking-by-detection using a detector confidence particle filter.,Michael D. Breitenstein,https://dblp.org/pid/41/2895.html,ICCV,2009
+Robust tracking-by-detection using a detector confidence particle filter.,Fabian Reichlin,https://dblp.org/pid/70/9054.html,ICCV,2009
+Robust tracking-by-detection using a detector confidence particle filter.,Bastian Leibe,https://dblp.org/pid/41/1228.html,ICCV,2009
+Robust tracking-by-detection using a detector confidence particle filter.,Esther Koller-Meier,https://dblp.org/pid/31/6225.html,ICCV,2009
+Robust tracking-by-detection using a detector confidence particle filter.,Luc Van Gool,https://dblp.org/pid/61/5017.html,ICCV,2009
+An information theoretic approach for tracker performance evaluation.,Edward K. Kao,https://dblp.org/pid/67/9054.html,ICCV,2009
+An information theoretic approach for tracker performance evaluation.,Matthew P. Daggett,https://dblp.org/pid/41/9054.html,ICCV,2009
+An information theoretic approach for tracker performance evaluation.,Michael B. Hurley,https://dblp.org/pid/39/4133.html,ICCV,2009
+Adaptive fragments-based tracking of non-rigid objects using level sets.,Prakash Chockalingam,https://dblp.org/pid/48/7767.html,ICCV,2009
+Adaptive fragments-based tracking of non-rigid objects using level sets.,S. Nalin Pradeep,https://dblp.org/pid/99/2617.html,ICCV,2009
+Adaptive fragments-based tracking of non-rigid objects using level sets.,Stan Birchfield,https://dblp.org/pid/b/StanBirchfield.html,ICCV,2009
+Keyframe-based real-time camera tracking.,Zilong Dong,https://dblp.org/pid/81/1423.html,ICCV,2009
+Keyframe-based real-time camera tracking.,Guofeng Zhang,https://dblp.org/pid/78/5389-1.html,ICCV,2009
+Keyframe-based real-time camera tracking.,Jiaya Jia,https://dblp.org/pid/31/5649.html,ICCV,2009
+Keyframe-based real-time camera tracking.,Hujun Bao,https://dblp.org/pid/b/HujunBao.html,ICCV,2009
+Tracking a large number of objects from multiple views.,Zheng Wu,https://dblp.org/pid/20/144.html,ICCV,2009
+Tracking a large number of objects from multiple views.,Nickolay I. Hristov,https://dblp.org/pid/71/1363.html,ICCV,2009
+Tracking a large number of objects from multiple views.,Tyson L. Hedrick,https://dblp.org/pid/61/9054.html,ICCV,2009
+Tracking a large number of objects from multiple views.,Thomas H. Kunz,https://dblp.org/pid/97/6512.html,ICCV,2009
+Tracking a large number of objects from multiple views.,Margrit Betke,https://dblp.org/pid/b/MargritBetke.html,ICCV,2009
+Detection driven adaptive multi-cue integration for multiple human tracking.,Ming Yang,https://dblp.org/pid/98/2604-7.html,ICCV,2009
+Detection driven adaptive multi-cue integration for multiple human tracking.,Fengjun Lv,https://dblp.org/pid/03/78.html,ICCV,2009
+Detection driven adaptive multi-cue integration for multiple human tracking.,Wei Xu,https://dblp.org/pid/32/1213-7.html,ICCV,2009
+Detection driven adaptive multi-cue integration for multiple human tracking.,Yihong Gong,https://dblp.org/pid/62/6520.html,ICCV,2009
+Optical flow estimation on coarse-to-fine region-trees using discrete optimization.,Cheng Lei,https://dblp.org/pid/34/4955.html,ICCV,2009
+Optical flow estimation on coarse-to-fine region-trees using discrete optimization.,Yee-Hong Yang,https://dblp.org/pid/01/184.html,ICCV,2009
+A new multiview spacetime-consistent depth recovery framework for free viewpoint video rendering.,Cheng Lei,https://dblp.org/pid/34/4955.html,ICCV,2009
+A new multiview spacetime-consistent depth recovery framework for free viewpoint video rendering.,Xida Chen,https://dblp.org/pid/31/10201.html,ICCV,2009
+A new multiview spacetime-consistent depth recovery framework for free viewpoint video rendering.,Yee-Hong Yang,https://dblp.org/pid/01/184.html,ICCV,2009
+Reconstructing 3D motion trajectories of particle swarms by global correspondence selection.,Danping Zou,https://dblp.org/pid/74/3124.html,ICCV,2009
+Reconstructing 3D motion trajectories of particle swarms by global correspondence selection.,Qi Zhao,https://dblp.org/pid/05/490.html,ICCV,2009
+Reconstructing 3D motion trajectories of particle swarms by global correspondence selection.,Hai Shan Wu,https://dblp.org/pid/17/9054.html,ICCV,2009
+Reconstructing 3D motion trajectories of particle swarms by global correspondence selection.,Yan Qiu Chen,https://dblp.org/pid/53/1754.html,ICCV,2009
+SURF Tracking.,Wei He,https://dblp.org/pid/20/6417.html,ICCV,2009
+SURF Tracking.,Takayoshi Yamashita,https://dblp.org/pid/64/5510.html,ICCV,2009
+SURF Tracking.,Hongtao Lu,https://dblp.org/pid/56/2480.html,ICCV,2009
+SURF Tracking.,Shihong Lao,https://dblp.org/pid/88/5273.html,ICCV,2009
+Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities.,Michael S. Ryoo,https://dblp.org/pid/r/MichaelSRyoo.html,ICCV,2009
+Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities.,Jake K. Aggarwal,https://dblp.org/pid/a/JakeKAggarwal.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Razvan Ioan Ionasec,https://dblp.org/pid/72/885.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Yang Wang,https://dblp.org/pid/w/YangWang1.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Bogdan Georgescu,https://dblp.org/pid/91/1880.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Ingmar Voigt,https://dblp.org/pid/80/7425.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Nassir Navab,https://dblp.org/pid/n/NassirNavab.html,ICCV,2009
+Robust motion estimation using trajectory spectrum learning: Application to aortic and mitral valve modeling from 4D TEE.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,ICCV,2009
+Large displacement optical flow computation withoutwarping.,Frank Steinbrücker,https://dblp.org/pid/73/7988.html,ICCV,2009
+Large displacement optical flow computation withoutwarping.,Thomas Pock,https://dblp.org/pid/48/6407.html,ICCV,2009
+Large displacement optical flow computation withoutwarping.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+A direct approach for efficiently tracking with 3D morphable models.,Enrique Muñoz,https://dblp.org/pid/16/5836.html,ICCV,2009
+A direct approach for efficiently tracking with 3D morphable models.,José Miguel Buenaposada,https://dblp.org/pid/38/5015.html,ICCV,2009
+A direct approach for efficiently tracking with 3D morphable models.,Luis Baumela,https://dblp.org/pid/48/3819.html,ICCV,2009
+Illumination aware MCMC Particle Filter for long-term outdoor multi-object simultaneous tracking and classification.,François Bardet,https://dblp.org/pid/73/1553.html,ICCV,2009
+Illumination aware MCMC Particle Filter for long-term outdoor multi-object simultaneous tracking and classification.,Thierry Chateau,https://dblp.org/pid/49/2173.html,ICCV,2009
+Illumination aware MCMC Particle Filter for long-term outdoor multi-object simultaneous tracking and classification.,Datta Ramadasan,https://dblp.org/pid/78/5909.html,ICCV,2009
+Real-time visual tracking via Incremental Covariance Tensor Learning.,Yi Wu,https://dblp.org/pid/44/3684-1.html,ICCV,2009
+Real-time visual tracking via Incremental Covariance Tensor Learning.,Jian Cheng,https://dblp.org/pid/14/6145-1.html,ICCV,2009
+Real-time visual tracking via Incremental Covariance Tensor Learning.,Jinqiao Wang,https://dblp.org/pid/67/4236.html,ICCV,2009
+Real-time visual tracking via Incremental Covariance Tensor Learning.,Hanqing Lu,https://dblp.org/pid/39/6752.html,ICCV,2009
+Efficient privacy preserving video surveillance.,Maneesh Upmanyu,https://dblp.org/pid/82/420.html,ICCV,2009
+Efficient privacy preserving video surveillance.,Anoop M. Namboodiri,https://dblp.org/pid/16/143.html,ICCV,2009
+Efficient privacy preserving video surveillance.,Kannan Srinathan,https://dblp.org/pid/s/KSrinathan.html,ICCV,2009
+Efficient privacy preserving video surveillance.,C. V. Jawahar,https://dblp.org/pid/j/CVJawahar.html,ICCV,2009
+Correlated probabilistic trajectories for pedestrian motion detection.,Frank Perbet,https://dblp.org/pid/22/7.html,ICCV,2009
+Correlated probabilistic trajectories for pedestrian motion detection.,Atsuto Maki,https://dblp.org/pid/36/5430.html,ICCV,2009
+Correlated probabilistic trajectories for pedestrian motion detection.,Björn Stenger,https://dblp.org/pid/s/BStenger.html,ICCV,2009
+Video scene categorization by 3D hierarchical histogram matching.,Paritosh Gupta,https://dblp.org/pid/24/9054.html,ICCV,2009
+Video scene categorization by 3D hierarchical histogram matching.,Sai Sankalp Arrabolu,https://dblp.org/pid/54/9054.html,ICCV,2009
+Video scene categorization by 3D hierarchical histogram matching.,Mathew Brown,https://dblp.org/pid/36/9054.html,ICCV,2009
+Video scene categorization by 3D hierarchical histogram matching.,Silvio Savarese,https://dblp.org/pid/50/3578.html,ICCV,2009
+Structure- and motion-adaptive regularization for high accuracy optic flow.,Andreas Wedel,https://dblp.org/pid/92/1212.html,ICCV,2009
+Structure- and motion-adaptive regularization for high accuracy optic flow.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+Structure- and motion-adaptive regularization for high accuracy optic flow.,Thomas Pock,https://dblp.org/pid/48/6407.html,ICCV,2009
+Structure- and motion-adaptive regularization for high accuracy optic flow.,Horst Bischof,https://dblp.org/pid/69/3793.html,ICCV,2009
+Video Scene Understanding Using Multi-scale Analysis.,Yang Yang,https://dblp.org/pid/48/450.html,ICCV,2009
+Video Scene Understanding Using Multi-scale Analysis.,Jingen Liu,https://dblp.org/pid/10/5849.html,ICCV,2009
+Video Scene Understanding Using Multi-scale Analysis.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ICCV,2009
+Superresolution texture maps for multiview reconstruction.,Bastian Goldlücke,https://dblp.org/pid/12/4880.html,ICCV,2009
+Superresolution texture maps for multiview reconstruction.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,ICCV,2009
+BLOGS: Balanced local and global search for non-degenerate two view epipolar geometry.,Aveek Shankar Brahmachari,https://dblp.org/pid/39/9054.html,ICCV,2009
+BLOGS: Balanced local and global search for non-degenerate two view epipolar geometry.,Sudeep Sarkar,https://dblp.org/pid/72/3470.html,ICCV,2009
+Attached shadow coding: Estimating surface normals from shadows under unknown reflectance and lighting conditions.,Takahiro Okabe,https://dblp.org/pid/83/431.html,ICCV,2009
+Attached shadow coding: Estimating surface normals from shadows under unknown reflectance and lighting conditions.,Imari Sato,https://dblp.org/pid/92/1010.html,ICCV,2009
+Attached shadow coding: Estimating surface normals from shadows under unknown reflectance and lighting conditions.,Yoichi Sato,https://dblp.org/pid/64/5287.html,ICCV,2009
+Factorizing Scene Albedo and Depth from a Single Foggy Image.,Louis Kratz,https://dblp.org/pid/61/7659.html,ICCV,2009
+Factorizing Scene Albedo and Depth from a Single Foggy Image.,Ko Nishino,https://dblp.org/pid/07/2706.html,ICCV,2009
+Complete multi-view reconstruction of dynamic scenes from probabilistic fusion of narrow and wide baseline stereo.,Tony Tung,https://dblp.org/pid/54/1097.html,ICCV,2009
+Complete multi-view reconstruction of dynamic scenes from probabilistic fusion of narrow and wide baseline stereo.,Shohei Nobuhara,https://dblp.org/pid/22/4064.html,ICCV,2009
+Complete multi-view reconstruction of dynamic scenes from probabilistic fusion of narrow and wide baseline stereo.,Takashi Matsuyama,https://dblp.org/pid/70/3309.html,ICCV,2009
+Hierarchical 3D diffusion wavelet shape priors.,Salma Essafi,https://dblp.org/pid/44/1355.html,ICCV,2009
+Hierarchical 3D diffusion wavelet shape priors.,Georg Langs,https://dblp.org/pid/15/366.html,ICCV,2009
+Hierarchical 3D diffusion wavelet shape priors.,Nikos Paragios,https://dblp.org/pid/p/NikosParagios.html,ICCV,2009
+A new minimal solution to the relative pose of a calibrated stereo camera with small field of view overlap.,Brian Clipp,https://dblp.org/pid/07/3138.html,ICCV,2009
+A new minimal solution to the relative pose of a calibrated stereo camera with small field of view overlap.,Christopher Zach,https://dblp.org/pid/93/4824.html,ICCV,2009
+A new minimal solution to the relative pose of a calibrated stereo camera with small field of view overlap.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,ICCV,2009
+A new minimal solution to the relative pose of a calibrated stereo camera with small field of view overlap.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ICCV,2009
+Improving accuracy of geometric parameter estimation using projected score method.,Takayuki Okatani,https://dblp.org/pid/18/4811.html,ICCV,2009
+Improving accuracy of geometric parameter estimation using projected score method.,Koichiro Deguchi,https://dblp.org/pid/31/1077.html,ICCV,2009
+Moving in stereo: Efficient structure and motion using lines.,Manmohan Krishna Chandraker,https://dblp.org/pid/79/589.html,ICCV,2009
+Moving in stereo: Efficient structure and motion using lines.,Jongwoo Lim,https://dblp.org/pid/54/594.html,ICCV,2009
+Moving in stereo: Efficient structure and motion using lines.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,ICCV,2009
+Color constancy using 3D scene geometry.,Rui Lu,https://dblp.org/pid/33/2451.html,ICCV,2009
+Color constancy using 3D scene geometry.,Arjan Gijsenij,https://dblp.org/pid/23/6260.html,ICCV,2009
+Color constancy using 3D scene geometry.,Theo Gevers,https://dblp.org/pid/12/6600.html,ICCV,2009
+Color constancy using 3D scene geometry.,Vladimir Nedovic,https://dblp.org/pid/37/5520.html,ICCV,2009
+Color constancy using 3D scene geometry.,De Xu,https://dblp.org/pid/44/5561.html,ICCV,2009
+Color constancy using 3D scene geometry.,Jan-Mark Geusebroek,https://dblp.org/pid/68/2181.html,ICCV,2009
+Simultaneous photometric invariance and shape recovery.,Cong Phuoc Huynh,https://dblp.org/pid/05/4123.html,ICCV,2009
+Simultaneous photometric invariance and shape recovery.,Antonio Robles-Kelly,https://dblp.org/pid/07/3794.html,ICCV,2009
+Component analysis approach to estimation of tissue intensity distributions of 3D images.,Arridhana Ciptadi,https://dblp.org/pid/47/849.html,ICCV,2009
+Component analysis approach to estimation of tissue intensity distributions of 3D images.,Cheng Chen,https://dblp.org/pid/10/217.html,ICCV,2009
+Component analysis approach to estimation of tissue intensity distributions of 3D images.,Vitali Zagorodnov,https://dblp.org/pid/64/405.html,ICCV,2009
+Simultaneous color consistency and depth map estimation for radiometrically varying stereo images.,Yong Seok Heo,https://dblp.org/pid/18/35.html,ICCV,2009
+Simultaneous color consistency and depth map estimation for radiometrically varying stereo images.,Kyoung Mu Lee,https://dblp.org/pid/17/4029.html,ICCV,2009
+Simultaneous color consistency and depth map estimation for radiometrically varying stereo images.,Sang Uk Lee,https://dblp.org/pid/l/SangUkLee.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Ryusuke Sagawa,https://dblp.org/pid/55/982.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Yuichi Ota,https://dblp.org/pid/58/9054.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Yasushi Yagi,https://dblp.org/pid/67/6296.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Ryo Furukawa,https://dblp.org/pid/12/1783-1.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Naoki Asada,https://dblp.org/pid/03/577.html,ICCV,2009
+Dense 3D reconstruction method using a single pattern for fast moving object.,Hiroshi Kawasaki,https://dblp.org/pid/84/4575.html,ICCV,2009
+High-resolution shape reconstruction from multiple range images based on simultaneous estimation of surface and motion.,Yoshihiro Watanabe,https://dblp.org/pid/85/6634.html,ICCV,2009
+High-resolution shape reconstruction from multiple range images based on simultaneous estimation of surface and motion.,Takashi Komuro,https://dblp.org/pid/88/3350.html,ICCV,2009
+High-resolution shape reconstruction from multiple range images based on simultaneous estimation of surface and motion.,Masatoshi Ishikawa,https://dblp.org/pid/43/3505.html,ICCV,2009
+Single view reconstruction using shape grammars for urban environments.,Panagiotis Koutsourakis,https://dblp.org/pid/48/8653.html,ICCV,2009
+Single view reconstruction using shape grammars for urban environments.,Loïc Simon,https://dblp.org/pid/82/8652.html,ICCV,2009
+Single view reconstruction using shape grammars for urban environments.,Olivier Teboul,https://dblp.org/pid/77/1749.html,ICCV,2009
+Single view reconstruction using shape grammars for urban environments.,Georgios Tziritas,https://dblp.org/pid/t/GTziritas.html,ICCV,2009
+Single view reconstruction using shape grammars for urban environments.,Nikos Paragios,https://dblp.org/pid/p/NikosParagios.html,ICCV,2009
+3D reconstruction from image collections with a single known focal length.,Martin Bujnak,https://dblp.org/pid/67/3947.html,ICCV,2009
+3D reconstruction from image collections with a single known focal length.,Zuzana Kukelova,https://dblp.org/pid/17/4583.html,ICCV,2009
+3D reconstruction from image collections with a single known focal length.,Tomás Pajdla,https://dblp.org/pid/p/TomasPajdla.html,ICCV,2009
+Template-free monocular reconstruction of deformable surfaces.,Aydin Varol,https://dblp.org/pid/64/1721.html,ICCV,2009
+Template-free monocular reconstruction of deformable surfaces.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,ICCV,2009
+Template-free monocular reconstruction of deformable surfaces.,Engin Tola,https://dblp.org/pid/06/2670.html,ICCV,2009
+Template-free monocular reconstruction of deformable surfaces.,Pascal Fua,https://dblp.org/pid/f/PFua.html,ICCV,2009
+Seeing 3D objects in a single 2D image.,Diego Rother,https://dblp.org/pid/57/6258.html,ICCV,2009
+Seeing 3D objects in a single 2D image.,Guillermo Sapiro,https://dblp.org/pid/82/5175.html,ICCV,2009
+Multiperspective stereo matching and volumetric reconstruction.,Yuanyuan Ding,https://dblp.org/pid/93/3020.html,ICCV,2009
+Multiperspective stereo matching and volumetric reconstruction.,Jingyi Yu,https://dblp.org/pid/58/4808.html,ICCV,2009
+Multiperspective stereo matching and volumetric reconstruction.,Peter F. Sturm,https://dblp.org/pid/s/PeterFSturm.html,ICCV,2009
+Structure and kinematics triangulation with a rolling shutter stereo rig.,Omar Ait-Aider,https://dblp.org/pid/47/2322.html,ICCV,2009
+Structure and kinematics triangulation with a rolling shutter stereo rig.,François Berry,https://dblp.org/pid/76/1353.html,ICCV,2009
+The Self-Aware Matching Measure for stereo.,Philippos Mordohai,https://dblp.org/pid/10/618.html,ICCV,2009
+Recovering the spatial layout of cluttered rooms.,Varsha Hedau,https://dblp.org/pid/65/3756.html,ICCV,2009
+Recovering the spatial layout of cluttered rooms.,Derek Hoiem,https://dblp.org/pid/08/6948.html,ICCV,2009
+Recovering the spatial layout of cluttered rooms.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Pahal Dalal,https://dblp.org/pid/39/1205.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Lili Ju,https://dblp.org/pid/38/422.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Michael McLaughlin,https://dblp.org/pid/42/9054.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Xiangrong Zhou,https://dblp.org/pid/40/5621.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Hiroshi Fujita,https://dblp.org/pid/69/1280-1.html,ICCV,2009
+3D open-surface shape correspondence for statistical shape modeling: Identifying topologically consistent landmarks.,Song Wang,https://dblp.org/pid/62/3151-2.html,ICCV,2009
+Diagram techniques for multiple view geometry.,Alberto Ruiz,https://dblp.org/pid/r/AlbertoRuiz.html,ICCV,2009
+Diagram techniques for multiple view geometry.,Pedro E. López-de-Teruel,https://dblp.org/pid/30/1461.html,ICCV,2009
+Modeling 3D human poses from uncalibrated monocular images.,Xiaolin K. Wei,https://dblp.org/pid/59/4200.html,ICCV,2009
+Modeling 3D human poses from uncalibrated monocular images.,Jinxiang Chai,https://dblp.org/pid/62/1586.html,ICCV,2009
+Piecewise planar stereo for image-based rendering.,Sudipta N. Sinha,https://dblp.org/pid/05/257.html,ICCV,2009
+Piecewise planar stereo for image-based rendering.,Drew Steedly,https://dblp.org/pid/28/5593.html,ICCV,2009
+Piecewise planar stereo for image-based rendering.,Richard Szeliski,https://dblp.org/pid/46/2186.html,ICCV,2009
+Radiometric compensation using stratified inverses.,Tian-Tsong Ng,https://dblp.org/pid/28/3620.html,ICCV,2009
+Radiometric compensation using stratified inverses.,Ramanpreet Singh Pahwa,https://dblp.org/pid/79/9877.html,ICCV,2009
+Radiometric compensation using stratified inverses.,Jiamin Bai,https://dblp.org/pid/13/8611.html,ICCV,2009
+Radiometric compensation using stratified inverses.,Tony Q. S. Quek,https://dblp.org/pid/65/1128.html,ICCV,2009
+Radiometric compensation using stratified inverses.,Kar-Han Tan,https://dblp.org/pid/54/1825.html,ICCV,2009
+Computation complexity of branch-and-bound model selection.,Ninad Thakoor,https://dblp.org/pid/45/1837.html,ICCV,2009
+Computation complexity of branch-and-bound model selection.,Venkat Devarajan,https://dblp.org/pid/92/4873.html,ICCV,2009
+Computation complexity of branch-and-bound model selection.,Jean Gao,https://dblp.org/pid/18/4336.html,ICCV,2009
+A novel approach to expression recognition from non-frontal face images.,Wenming Zheng,https://dblp.org/pid/64/2253.html,ICCV,2009
+A novel approach to expression recognition from non-frontal face images.,Hao Tang,https://dblp.org/pid/07/5751-1.html,ICCV,2009
+A novel approach to expression recognition from non-frontal face images.,Zhouchen Lin,https://dblp.org/pid/l/ZhouchenLin.html,ICCV,2009
+A novel approach to expression recognition from non-frontal face images.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,ICCV,2009
+Mode-detection via median-shift.,Lior Shapira,https://dblp.org/pid/06/3284.html,ICCV,2009
+Mode-detection via median-shift.,Shai Avidan,https://dblp.org/pid/02/617.html,ICCV,2009
+Mode-detection via median-shift.,Ariel Shamir,https://dblp.org/pid/66/2852.html,ICCV,2009
+The dimensionality of scene appearance.,Rahul Garg,https://dblp.org/pid/55/1248-0002.html,ICCV,2009
+The dimensionality of scene appearance.,Hao Du,https://dblp.org/pid/13/6441-4.html,ICCV,2009
+The dimensionality of scene appearance.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,ICCV,2009
+The dimensionality of scene appearance.,Noah Snavely,https://dblp.org/pid/33/4636.html,ICCV,2009
+Weakly supervised discriminative localization and classification: a joint learning process.,Minh Hoai Nguyen,https://dblp.org/pid/135/4935.html,ICCV,2009
+Weakly supervised discriminative localization and classification: a joint learning process.,Lorenzo Torresani,https://dblp.org/pid/75/2854.html,ICCV,2009
+Weakly supervised discriminative localization and classification: a joint learning process.,Lorenzo de la Torre,https://dblp.org/pid/31/9054.html,ICCV,2009
+Weakly supervised discriminative localization and classification: a joint learning process.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ICCV,2009
+Selection and context for action recognition.,Dong Han,https://dblp.org/pid/03/278.html,ICCV,2009
+Selection and context for action recognition.,Liefeng Bo,https://dblp.org/pid/17/6808.html,ICCV,2009
+Selection and context for action recognition.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,ICCV,2009
+Time series prediction by chaotic modeling of nonlinear dynamical systems.,Arslan Basharat,https://dblp.org/pid/39/1072.html,ICCV,2009
+Time series prediction by chaotic modeling of nonlinear dynamical systems.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,ICCV,2009
+Least-squares congealing for large numbers of images.,Mark Cox,https://dblp.org/pid/99/6703.html,ICCV,2009
+Least-squares congealing for large numbers of images.,Sridha Sridharan,https://dblp.org/pid/80/166.html,ICCV,2009
+Least-squares congealing for large numbers of images.,Simon Lucey,https://dblp.org/pid/01/3542.html,ICCV,2009
+Least-squares congealing for large numbers of images.,Jeffrey F. Cohn,https://dblp.org/pid/54/1171.html,ICCV,2009
+Landmark classification in large-scale image collections.,Yunpeng Li,https://dblp.org/pid/82/3013.html,ICCV,2009
+Landmark classification in large-scale image collections.,David J. Crandall,https://dblp.org/pid/c/DavidCrandall.html,ICCV,2009
+Landmark classification in large-scale image collections.,Daniel P. Huttenlocher,https://dblp.org/pid/h/DPHuttenlocher.html,ICCV,2009
+Detection of human actions from a single example.,Hae Jong Seo,https://dblp.org/pid/95/3071.html,ICCV,2009
+Detection of human actions from a single example.,Peyman Milanfar,https://dblp.org/pid/48/6882.html,ICCV,2009
+Hierarchical Gaussianization for image classification.,Xi Zhou,https://dblp.org/pid/42/5705.html,ICCV,2009
+Hierarchical Gaussianization for image classification.,Na Cui,https://dblp.org/pid/30/9054.html,ICCV,2009
+Hierarchical Gaussianization for image classification.,Zhen Li,https://dblp.org/pid/74/2397-28.html,ICCV,2009
+Hierarchical Gaussianization for image classification.,Feng Liang,https://dblp.org/pid/54/6821-2.html,ICCV,2009
+Hierarchical Gaussianization for image classification.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,ICCV,2009
+Context by region ancestry.,Joseph J. Lim,https://dblp.org/pid/08/3086.html,ICCV,2009
+Context by region ancestry.,Pablo Arbelaez,https://dblp.org/pid/41/639.html,ICCV,2009
+Context by region ancestry.,Chunhui Gu,https://dblp.org/pid/52/7659.html,ICCV,2009
+Context by region ancestry.,Jitendra Malik,https://dblp.org/pid/58/2944.html,ICCV,2009
+A study on automatic age estimation using a large database.,Guodong Guo,https://dblp.org/pid/92/4520.html,ICCV,2009
+A study on automatic age estimation using a large database.,Guowang Mu,https://dblp.org/pid/92/7658.html,ICCV,2009
+A study on automatic age estimation using a large database.,Yun Fu,https://dblp.org/pid/00/5815-1.html,ICCV,2009
+A study on automatic age estimation using a large database.,Charles R. Dyer,https://dblp.org/pid/d/CharlesRDyer.html,ICCV,2009
+A study on automatic age estimation using a large database.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,ICCV,2009
+"A multi-sample, multi-tree approach to bag-of-words image representation for image retrieval.",Zhong Wu,https://dblp.org/pid/18/6089.html,ICCV,2009
+"A multi-sample, multi-tree approach to bag-of-words image representation for image retrieval.",Qifa Ke,https://dblp.org/pid/88/2889.html,ICCV,2009
+"A multi-sample, multi-tree approach to bag-of-words image representation for image retrieval.",Jian Sun,https://dblp.org/pid/68/4942-1.html,ICCV,2009
+"A multi-sample, multi-tree approach to bag-of-words image representation for image retrieval.",Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,ICCV,2009
+Discriminative generalized hough transform for object dectection.,Ryuzo Okada,https://dblp.org/pid/90/2634.html,ICCV,2009
+Untangling fibers by quotient appearance manifold mapping for grayscale shape classification.,Yoshihisa Shinagawa,https://dblp.org/pid/s/YoshihisaShinagawa.html,ICCV,2009
+Untangling fibers by quotient appearance manifold mapping for grayscale shape classification.,Yuping Lin,https://dblp.org/pid/82/4964.html,ICCV,2009
+Building recognition using sketch-based representations and spectral graph matching.,Yu-Chia Chung,https://dblp.org/pid/58/1973.html,ICCV,2009
+Building recognition using sketch-based representations and spectral graph matching.,Tony X. Han,https://dblp.org/pid/11/5694.html,ICCV,2009
+Building recognition using sketch-based representations and spectral graph matching.,Zhihai He,https://dblp.org/pid/23/4027.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Le Lu,https://dblp.org/pid/78/6574-1.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Jinbo Bi,https://dblp.org/pid/26/3430.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Shipeng Yu,https://dblp.org/pid/y/ShipengYu.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Zhigang Peng,https://dblp.org/pid/95/2439.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Arun Krishnan,https://dblp.org/pid/25/5896.html,ICCV,2009
+Hierarchical learning for tubular structure parsing in medical imaging: A study on coronary arteries using 3D CT Angiography.,Xiang Sean Zhou,https://dblp.org/pid/z/XiangSeanZhou.html,ICCV,2009
+Image annotation using multi-label correlated Green's function.,Hua Wang,https://dblp.org/pid/33/3535-7.html,ICCV,2009
+Image annotation using multi-label correlated Green's function.,Heng Huang,https://dblp.org/pid/03/281.html,ICCV,2009
+Image annotation using multi-label correlated Green's function.,Chris H. Q. Ding,https://dblp.org/pid/d/CHQDing.html,ICCV,2009
+Incremental discriminative-analysis of canonical correlations for action recognition.,Xinxiao Wu,https://dblp.org/pid/67/3509.html,ICCV,2009
+Incremental discriminative-analysis of canonical correlations for action recognition.,Wei Liang,https://dblp.org/pid/22/849-8.html,ICCV,2009
+Incremental discriminative-analysis of canonical correlations for action recognition.,Yunde Jia,https://dblp.org/pid/71/2334.html,ICCV,2009
+Minimizing energy functions on 4-connected lattices using elimination.,Peter Carr,https://dblp.org/pid/81/2369-1.html,ICCV,2009
+Minimizing energy functions on 4-connected lattices using elimination.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,ICCV,2009
+A Riemannian analysis of 3D nose shapes for partial human biometrics.,Hassen Drira,https://dblp.org/pid/26/5921.html,ICCV,2009
+A Riemannian analysis of 3D nose shapes for partial human biometrics.,Boulbaba Ben Amor,https://dblp.org/pid/16/585.html,ICCV,2009
+A Riemannian analysis of 3D nose shapes for partial human biometrics.,Anuj Srivastava,https://dblp.org/pid/32/6819.html,ICCV,2009
+A Riemannian analysis of 3D nose shapes for partial human biometrics.,Mohamed Daoudi,https://dblp.org/pid/73/2417.html,ICCV,2009
+A hybrid generative/discriminative classification framework based on free-energy terms.,Alessandro Perina,https://dblp.org/pid/54/1195.html,ICCV,2009
+A hybrid generative/discriminative classification framework based on free-energy terms.,Marco Cristani,https://dblp.org/pid/58/2811.html,ICCV,2009
+A hybrid generative/discriminative classification framework based on free-energy terms.,Umberto Castellani,https://dblp.org/pid/29/6640.html,ICCV,2009
+A hybrid generative/discriminative classification framework based on free-energy terms.,Vittorio Murino,https://dblp.org/pid/62/6790.html,ICCV,2009
+A hybrid generative/discriminative classification framework based on free-energy terms.,Nebojsa Jojic,https://dblp.org/pid/20/1944.html,ICCV,2009
+Realtime background subtraction from dynamic scenes.,Li Cheng,https://dblp.org/pid/13/4938-1.html,ICCV,2009
+Realtime background subtraction from dynamic scenes.,Minglun Gong,https://dblp.org/pid/18/1338.html,ICCV,2009
+Exploiting uncertainty in random sample consensus.,Rahul Raguram,https://dblp.org/pid/63/5737.html,ICCV,2009
+Exploiting uncertainty in random sample consensus.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,ICCV,2009
+Exploiting uncertainty in random sample consensus.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,ICCV,2009
+A robust elastic and partial matching metric for face recognition.,Gang Hua,https://dblp.org/pid/75/5209.html,ICCV,2009
+A robust elastic and partial matching metric for face recognition.,Amir Akbarzadeh,https://dblp.org/pid/53/427.html,ICCV,2009
+SCRAMSAC: Improving RANSAC's efficiency with a spatial consistency filter.,Torsten Sattler,https://dblp.org/pid/51/9054.html,ICCV,2009
+SCRAMSAC: Improving RANSAC's efficiency with a spatial consistency filter.,Bastian Leibe,https://dblp.org/pid/41/1228.html,ICCV,2009
+SCRAMSAC: Improving RANSAC's efficiency with a spatial consistency filter.,Leif Kobbelt,https://dblp.org/pid/k/LeifKobbelt.html,ICCV,2009
+Efficient multi-label ranking for multi-class learning: Application to object recognition.,Serhat Selcuk Bucak,https://dblp.org/pid/96/3326.html,ICCV,2009
+Efficient multi-label ranking for multi-class learning: Application to object recognition.,Pavan Kumar Mallapragada,https://dblp.org/pid/46/6414.html,ICCV,2009
+Efficient multi-label ranking for multi-class learning: Application to object recognition.,Rong Jin,https://dblp.org/pid/j/RongJin.html,ICCV,2009
+Efficient multi-label ranking for multi-class learning: Application to object recognition.,Anil K. Jain,https://dblp.org/pid/j/AnilKJain.html,ICCV,2009
+Learning to predict where humans look.,Tilke Judd,https://dblp.org/pid/76/4770.html,ICCV,2009
+Learning to predict where humans look.,Krista A. Ehinger,https://dblp.org/pid/13/8654.html,ICCV,2009
+Learning to predict where humans look.,Frédo Durand,https://dblp.org/pid/87/2617.html,ICCV,2009
+Learning to predict where humans look.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,ICCV,2009
+Tensor completion for estimating missing values in visual data.,Ji Liu,https://dblp.org/pid/51/4433-2.html,ICCV,2009
+Tensor completion for estimating missing values in visual data.,Przemyslaw Musialski,https://dblp.org/pid/90/4148.html,ICCV,2009
+Tensor completion for estimating missing values in visual data.,Peter Wonka,https://dblp.org/pid/98/5522.html,ICCV,2009
+Tensor completion for estimating missing values in visual data.,Jieping Ye,https://dblp.org/pid/03/5454.html,ICCV,2009
+Unsupervised learning of high-order structural semantics from images.,Jizhou Gao,https://dblp.org/pid/33/4484.html,ICCV,2009
+Unsupervised learning of high-order structural semantics from images.,Yin Hu,https://dblp.org/pid/36/5619.html,ICCV,2009
+Unsupervised learning of high-order structural semantics from images.,Jinze Liu,https://dblp.org/pid/73/1534.html,ICCV,2009
+Unsupervised learning of high-order structural semantics from images.,Ruigang Yang,https://dblp.org/pid/08/5690.html,ICCV,2009
+Kernelized locality-sensitive hashing for scalable image search.,Brian Kulis,https://dblp.org/pid/43/3732.html,ICCV,2009
+Kernelized locality-sensitive hashing for scalable image search.,Kristen Grauman,https://dblp.org/pid/57/4553.html,ICCV,2009
+Actionable information in vision.,Stefano Soatto,https://dblp.org/pid/08/1262.html,ICCV,2009
+What is the best multi-stage architecture for object recognition?,Kevin Jarrett,https://dblp.org/pid/60/9054.html,ICCV,2009
+What is the best multi-stage architecture for object recognition?,Koray Kavukcuoglu,https://dblp.org/pid/92/5497.html,ICCV,2009
+What is the best multi-stage architecture for object recognition?,Marc'Aurelio Ranzato,https://dblp.org/pid/28/1732.html,ICCV,2009
+What is the best multi-stage architecture for object recognition?,Yann LeCun,https://dblp.org/pid/l/YannLeCun.html,ICCV,2009
+Shape-based recognition of 3D point clouds in urban environments.,Aleksey Golovinskiy,https://dblp.org/pid/90/1254.html,ICCV,2009
+Shape-based recognition of 3D point clouds in urban environments.,Vladimir G. Kim,https://dblp.org/pid/27/8698.html,ICCV,2009
+Shape-based recognition of 3D point clouds in urban environments.,Thomas A. Funkhouser,https://dblp.org/pid/f/TAFunkhouser.html,ICCV,2009
+Multiscale symmetric part detection and grouping.,Alex Levinshtein,https://dblp.org/pid/40/6950.html,ICCV,2009
+Multiscale symmetric part detection and grouping.,Sven J. Dickinson,https://dblp.org/pid/d/SvenJDickinson.html,ICCV,2009
+Multiscale symmetric part detection and grouping.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,ICCV,2009
+Recovering planar homographies between 2D shapes.,József Németh,https://dblp.org/pid/20/8105.html,ICCV,2009
+Recovering planar homographies between 2D shapes.,Csaba Domokos,https://dblp.org/pid/08/1147.html,ICCV,2009
+Recovering planar homographies between 2D shapes.,Zoltan Kato,https://dblp.org/pid/k/ZKato.html,ICCV,2009
+Multimodal partial estimates fusion.,Jiang Xu,https://dblp.org/pid/20/4396-2.html,ICCV,2009
+Multimodal partial estimates fusion.,Junsong Yuan,https://dblp.org/pid/42/3332.html,ICCV,2009
+Multimodal partial estimates fusion.,Ying Wu,https://dblp.org/pid/64/5840-1.html,ICCV,2009
+Image saliency by isocentric curvedness and color.,Roberto Valenti,https://dblp.org/pid/11/4346.html,ICCV,2009
+Image saliency by isocentric curvedness and color.,Nicu Sebe,https://dblp.org/pid/20/3519.html,ICCV,2009
+Image saliency by isocentric curvedness and color.,Theo Gevers,https://dblp.org/pid/12/6600.html,ICCV,2009
+GroupSAC: Efficient consensus in the presence of groupings.,Kai Ni,https://dblp.org/pid/46/3815-1.html,ICCV,2009
+GroupSAC: Efficient consensus in the presence of groupings.,Hailin Jin,https://dblp.org/pid/78/102.html,ICCV,2009
+GroupSAC: Efficient consensus in the presence of groupings.,Frank Dellaert,https://dblp.org/pid/d/FrankDellaert.html,ICCV,2009
+Fast visibility restoration from a single color or gray level image.,Jean-Philippe Tarel,https://dblp.org/pid/27/4360.html,ICCV,2009
+Fast visibility restoration from a single color or gray level image.,Nicolas Hautière,https://dblp.org/pid/h/Hautiere.html,ICCV,2009
+Scale invariance and noise in natural images.,Daniel Zoran,https://dblp.org/pid/18/9054.html,ICCV,2009
+Scale invariance and noise in natural images.,Yair Weiss,https://dblp.org/pid/44/1092.html,ICCV,2009
+Image restoration using online photo collections.,Kevin Dale,https://dblp.org/pid/90/5649.html,ICCV,2009
+Image restoration using online photo collections.,Micah K. Johnson,https://dblp.org/pid/46/3417.html,ICCV,2009
+Image restoration using online photo collections.,Kalyan Sunkavalli,https://dblp.org/pid/42/5978.html,ICCV,2009
+Image restoration using online photo collections.,Wojciech Matusik,https://dblp.org/pid/21/6486.html,ICCV,2009
+Image restoration using online photo collections.,Hanspeter Pfister,https://dblp.org/pid/p/HanspeterPfister.html,ICCV,2009
+Finding good composition in panoramic scenes.,Yuan-Yang Chang,https://dblp.org/pid/47/9054.html,ICCV,2009
+Finding good composition in panoramic scenes.,Hwann-Tzong Chen,https://dblp.org/pid/74/2341.html,ICCV,2009
+A framework for visual saliency detection with applications to image thumbnailing.,Luca Marchesotti,https://dblp.org/pid/31/5024.html,ICCV,2009
+A framework for visual saliency detection with applications to image thumbnailing.,Claudio Cifarelli,https://dblp.org/pid/04/4569.html,ICCV,2009
+A framework for visual saliency detection with applications to image thumbnailing.,Gabriela Csurka,https://dblp.org/pid/c/GabrielaCsurka.html,ICCV,2009
+Optimizing parametric total variation models.,Petter Strandmark,https://dblp.org/pid/74/7167.html,ICCV,2009
+Optimizing parametric total variation models.,Fredrik Kahl,https://dblp.org/pid/01/7013.html,ICCV,2009
+Optimizing parametric total variation models.,Niels Chr. Overgaard,https://dblp.org/pid/02/5208.html,ICCV,2009
+Deformable model fitting with a mixture of local experts.,Jason M. Saragih,https://dblp.org/pid/21/3590.html,ICCV,2009
+Deformable model fitting with a mixture of local experts.,Simon Lucey,https://dblp.org/pid/01/3542.html,ICCV,2009
+Deformable model fitting with a mixture of local experts.,Jeffrey F. Cohn,https://dblp.org/pid/54/1171.html,ICCV,2009
+Detecting interpretable and accurate scale-invariant keypoints.,Wolfgang Förstner,https://dblp.org/pid/09/1238.html,ICCV,2009
+Detecting interpretable and accurate scale-invariant keypoints.,Timo Dickscheid,https://dblp.org/pid/56/7446.html,ICCV,2009
+Detecting interpretable and accurate scale-invariant keypoints.,Falko Schindler,https://dblp.org/pid/55/9054.html,ICCV,2009
+The Swap and Expansion moves revisited and fused.,Ido Leichter,https://dblp.org/pid/57/3032.html,ICCV,2009
+Non-local sparse models for image restoration.,Julien Mairal,https://dblp.org/pid/49/6555.html,ICCV,2009
+Non-local sparse models for image restoration.,Francis R. Bach,https://dblp.org/pid/b/FrancisRBach.html,ICCV,2009
+Non-local sparse models for image restoration.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,ICCV,2009
+Non-local sparse models for image restoration.,Guillermo Sapiro,https://dblp.org/pid/82/5175.html,ICCV,2009
+Non-local sparse models for image restoration.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,ICCV,2009
+Weighted graph characteristics from oriented line graph polynomials.,Peng Ren,https://dblp.org/pid/44/4287-1.html,ICCV,2009
+Weighted graph characteristics from oriented line graph polynomials.,Richard C. Wilson,https://dblp.org/pid/73/6353.html,ICCV,2009
+Weighted graph characteristics from oriented line graph polynomials.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,ICCV,2009
+Shape guided contour grouping with particle filters.,ChengEn Lu,https://dblp.org/pid/73/1765.html,ICCV,2009
+Shape guided contour grouping with particle filters.,Longin Jan Latecki,https://dblp.org/pid/44/1633.html,ICCV,2009
+Shape guided contour grouping with particle filters.,Nagesh Adluru,https://dblp.org/pid/59/6805.html,ICCV,2009
+Shape guided contour grouping with particle filters.,Xingwei Yang,https://dblp.org/pid/24/4707.html,ICCV,2009
+Shape guided contour grouping with particle filters.,Haibin Ling,https://dblp.org/pid/93/3488.html,ICCV,2009
+An algebraic model for fast corner detection.,Andrew R. Willis,https://dblp.org/pid/72/4242.html,ICCV,2009
+An algebraic model for fast corner detection.,Yunfeng Sui,https://dblp.org/pid/28/9054.html,ICCV,2009
+Seeing through water: Image restoration using model-based tracking.,Yuandong Tian,https://dblp.org/pid/t/YuandongTian.html,ICCV,2009
+Seeing through water: Image restoration using model-based tracking.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,ICCV,2009
+Piecewise-consistent color mappings of images acquired under various conditions.,Sefy Kagarlitsky,https://dblp.org/pid/69/9054.html,ICCV,2009
+Piecewise-consistent color mappings of images acquired under various conditions.,Yael Moses,https://dblp.org/pid/77/4734.html,ICCV,2009
+Piecewise-consistent color mappings of images acquired under various conditions.,Yacov Hel-Or,https://dblp.org/pid/h/YacovHelOr.html,ICCV,2009
+A global perspective on MAP inference for low-level vision.,Oliver J. Woodford,https://dblp.org/pid/11/620.html,ICCV,2009
+A global perspective on MAP inference for low-level vision.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,ICCV,2009
+A global perspective on MAP inference for low-level vision.,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,ICCV,2009
+Riemannian Bayesian estimation of diffusion tensor images.,Kai Krajsek,https://dblp.org/pid/09/1623.html,ICCV,2009
+Riemannian Bayesian estimation of diffusion tensor images.,Marion I. Menzel,https://dblp.org/pid/89/5563.html,ICCV,2009
+Riemannian Bayesian estimation of diffusion tensor images.,Hanno Scharr,https://dblp.org/pid/64/2329.html,ICCV,2009
+Ground truth dataset and baseline evaluations for intrinsic image algorithms.,Roger B. Grosse,https://dblp.org/pid/26/7058.html,ICCV,2009
+Ground truth dataset and baseline evaluations for intrinsic image algorithms.,Micah K. Johnson,https://dblp.org/pid/46/3417.html,ICCV,2009
+Ground truth dataset and baseline evaluations for intrinsic image algorithms.,Edward H. Adelson,https://dblp.org/pid/73/143.html,ICCV,2009
+Ground truth dataset and baseline evaluations for intrinsic image algorithms.,William T. Freeman,https://dblp.org/pid/86/6650.html,ICCV,2009
+Image compression with anisotropic triangulations.,Sébastien Bougleux,https://dblp.org/pid/87/6300.html,ICCV,2009
+Image compression with anisotropic triangulations.,Gabriel Peyré,https://dblp.org/pid/65/1759.html,ICCV,2009
+Image compression with anisotropic triangulations.,Laurent D. Cohen,https://dblp.org/pid/c/LaurentDCohen.html,ICCV,2009
+Shape analysis with multivariate tensor-based morphometry and holomorphic differentials.,Yalin Wang,https://dblp.org/pid/88/128-1.html,ICCV,2009
+Shape analysis with multivariate tensor-based morphometry and holomorphic differentials.,Tony F. Chan,https://dblp.org/pid/61/2585.html,ICCV,2009
+Shape analysis with multivariate tensor-based morphometry and holomorphic differentials.,Arthur W. Toga,https://dblp.org/pid/88/6076.html,ICCV,2009
+Shape analysis with multivariate tensor-based morphometry and holomorphic differentials.,Paul M. Thompson,https://dblp.org/pid/t/PaulMThompson.html,ICCV,2009
+Packing bag-of-features.,Hervé Jégou,https://dblp.org/pid/19/2115.html,ICCV,2009
+Packing bag-of-features.,Matthijs Douze,https://dblp.org/pid/64/5801.html,ICCV,2009
+Packing bag-of-features.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Yalin Wang,https://dblp.org/pid/88/128-1.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Wei Dai,https://dblp.org/pid/76/2897.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Yi-Yu Chou,https://dblp.org/pid/40/2111.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Xianfeng Gu,https://dblp.org/pid/g/XianfengGu.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Tony F. Chan,https://dblp.org/pid/61/2585.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Arthur W. Toga,https://dblp.org/pid/88/6076.html,ICCV,2009
+Studying brain morphometry using conformal equivalence class.,Paul M. Thompson,https://dblp.org/pid/t/PaulMThompson.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Andrea Frome,https://dblp.org/pid/84/2426.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,German Cheung,https://dblp.org/pid/68/9054.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Ahmad Abdulkader,https://dblp.org/pid/04/1744.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Marco Zennaro,https://dblp.org/pid/97/363.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Bo Wu,https://dblp.org/pid/47/6534-1.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Alessandro Bissacco,https://dblp.org/pid/93/2043.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Hartwig Adam,https://dblp.org/pid/75/948.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Hartmut Neven,https://dblp.org/pid/60/7025.html,ICCV,2009
+Large-scale privacy protection in Google Street View.,Luc Vincent,https://dblp.org/pid/87/6503.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Bryan Catanzaro,https://dblp.org/pid/14/4826.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Bor-Yiing Su,https://dblp.org/pid/28/2057.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Narayanan Sundaram,https://dblp.org/pid/30/3638.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Yunsup Lee,https://dblp.org/pid/39/7588.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Mark Murphy,https://dblp.org/pid/66/6093.html,ICCV,2009
+"Efficient, high-quality image contour detection.",Kurt Keutzer,https://dblp.org/pid/k/KurtKeutzer.html,ICCV,2009
+Estimating contact dynamics.,Marcus A. Brubaker,https://dblp.org/pid/18/3060.html,ICCV,2009
+Estimating contact dynamics.,Leonid Sigal,https://dblp.org/pid/09/4991.html,ICCV,2009
+Estimating contact dynamics.,David J. Fleet,https://dblp.org/pid/07/2099.html,ICCV,2009

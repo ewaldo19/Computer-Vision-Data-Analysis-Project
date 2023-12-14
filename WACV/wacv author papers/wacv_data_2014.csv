@@ -1,0 +1,551 @@
+Paper Title,Author Names,Author URLs,Conference Name,Conference Year
+Car make and model recognition using 3D curve alignment.,Edward Hsiao,https://dblp.org/pid/51/8653.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Sudipta N. Sinha,https://dblp.org/pid/05/257.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Krishnan Ramnath,https://dblp.org/pid/10/6473.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Simon Baker,https://dblp.org/pid/85/2539.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Richard Szeliski,https://dblp.org/pid/46/2186.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Abhinav Dhall,https://dblp.org/pid/05/7591.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Karan Sikka,https://dblp.org/pid/119/1499.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Gwen Littlewort,https://dblp.org/pid/01/6909.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Roland Goecke,https://dblp.org/pid/g/RolandGocke.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Marian Stewart Bartlett,https://dblp.org/pid/54/4284.html,WACV,2014
+Detecting 3D geometric boundaries of indoor scenes under varying lighting.,Jie Ni,https://dblp.org/pid/79/2217.html,WACV,2014
+Detecting 3D geometric boundaries of indoor scenes under varying lighting.,Tim K. Marks,https://dblp.org/pid/62/4853.html,WACV,2014
+Detecting 3D geometric boundaries of indoor scenes under varying lighting.,Oncel Tuzel,https://dblp.org/pid/73/2943.html,WACV,2014
+Detecting 3D geometric boundaries of indoor scenes under varying lighting.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,WACV,2014
+Depth-based patch scaling for content-aware stereo image completion.,Joel Howard,https://dblp.org/pid/122/8737.html,WACV,2014
+Depth-based patch scaling for content-aware stereo image completion.,Bryan S. Morse,https://dblp.org/pid/m/BryanSMorse.html,WACV,2014
+Depth-based patch scaling for content-aware stereo image completion.,Scott Cohen,https://dblp.org/pid/54/4155.html,WACV,2014
+Depth-based patch scaling for content-aware stereo image completion.,Brian L. Price,https://dblp.org/pid/38/5397.html,WACV,2014
+Point pattern matching based on line graph spectral context and descriptor embedding.,Jun Tang,https://dblp.org/pid/52/6788.html,WACV,2014
+Point pattern matching based on line graph spectral context and descriptor embedding.,Ling Shao,https://dblp.org/pid/75/1281.html,WACV,2014
+Point pattern matching based on line graph spectral context and descriptor embedding.,Simon Jones,https://dblp.org/pid/94/2599.html,WACV,2014
+Fine-grained object recognition with Gnostic Fields.,Christopher Kanan,https://dblp.org/pid/14/8653.html,WACV,2014
+3D Metric Rectification using Angle Regularity.,Aamer Zaheer,https://dblp.org/pid/74/10771.html,WACV,2014
+3D Metric Rectification using Angle Regularity.,Sohaib Khan,https://dblp.org/pid/89/2920.html,WACV,2014
+Online algorithms for factorization-based structure from motion.,Ryan Kennedy,https://dblp.org/pid/94/5605.html,WACV,2014
+Online algorithms for factorization-based structure from motion.,Laura Balzano,https://dblp.org/pid/25/6625.html,WACV,2014
+Online algorithms for factorization-based structure from motion.,Stephen J. Wright,https://dblp.org/pid/w/StephenJWright.html,WACV,2014
+Online algorithms for factorization-based structure from motion.,Camillo J. Taylor,https://dblp.org/pid/t/CamilloJTaylor.html,WACV,2014
+Volumetric reconstruction applied to perceptual studies of size and weight.,Jonathan Balzer,https://dblp.org/pid/54/2208.html,WACV,2014
+Volumetric reconstruction applied to perceptual studies of size and weight.,Megan A. K. Peters,https://dblp.org/pid/250/0966.html,WACV,2014
+Volumetric reconstruction applied to perceptual studies of size and weight.,Stefano Soatto,https://dblp.org/pid/08/1262.html,WACV,2014
+Fast dense 3D reconstruction using an adaptive multiscale discrete-continuous variational method.,Zhuoliang Kang,https://dblp.org/pid/16/8502.html,WACV,2014
+Fast dense 3D reconstruction using an adaptive multiscale discrete-continuous variational method.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,WACV,2014
+GPU-accelerated and efficient multi-view triangulation for scene reconstruction.,Jason Mak,https://dblp.org/pid/147/2724.html,WACV,2014
+GPU-accelerated and efficient multi-view triangulation for scene reconstruction.,Mauricio Hess-Flores,https://dblp.org/pid/70/7590.html,WACV,2014
+GPU-accelerated and efficient multi-view triangulation for scene reconstruction.,Shawn Recker,https://dblp.org/pid/92/8602.html,WACV,2014
+GPU-accelerated and efficient multi-view triangulation for scene reconstruction.,John D. Owens,https://dblp.org/pid/97/1367.html,WACV,2014
+GPU-accelerated and efficient multi-view triangulation for scene reconstruction.,Kenneth I. Joy,https://dblp.org/pid/21/4648.html,WACV,2014
+NRSfM using local rigidity.,Ali Rehan,https://dblp.org/pid/147/2733.html,WACV,2014
+NRSfM using local rigidity.,Aamer Zaheer,https://dblp.org/pid/74/10771.html,WACV,2014
+NRSfM using local rigidity.,Ijaz Akhter,https://dblp.org/pid/78/4347.html,WACV,2014
+NRSfM using local rigidity.,Arfah Saeed,https://dblp.org/pid/147/2746.html,WACV,2014
+NRSfM using local rigidity.,Muhammad Haris Usmani,https://dblp.org/pid/147/2706.html,WACV,2014
+NRSfM using local rigidity.,Bilal Mahmood,https://dblp.org/pid/147/2736.html,WACV,2014
+NRSfM using local rigidity.,Sohaib Khan,https://dblp.org/pid/89/2920.html,WACV,2014
+Beyond PASCAL: A benchmark for 3D object detection in the wild.,Yu Xiang,https://dblp.org/pid/00/6716.html,WACV,2014
+Beyond PASCAL: A benchmark for 3D object detection in the wild.,Roozbeh Mottaghi,https://dblp.org/pid/36/633.html,WACV,2014
+Beyond PASCAL: A benchmark for 3D object detection in the wild.,Silvio Savarese,https://dblp.org/pid/50/3578.html,WACV,2014
+Model-based anthropometry: Predicting measurements from 3D human scans in multiple poses.,Aggeliki Tsoli,https://dblp.org/pid/23/5799.html,WACV,2014
+Model-based anthropometry: Predicting measurements from 3D human scans in multiple poses.,Matthew Loper,https://dblp.org/pid/56/6429.html,WACV,2014
+Model-based anthropometry: Predicting measurements from 3D human scans in multiple poses.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,WACV,2014
+3D pose estimation of bats in the wild.,Mikhail Breslav,https://dblp.org/pid/147/2738.html,WACV,2014
+3D pose estimation of bats in the wild.,Nathan W. Fuller,https://dblp.org/pid/127/7354.html,WACV,2014
+3D pose estimation of bats in the wild.,Stan Sclaroff,https://dblp.org/pid/s/StanSclaroff.html,WACV,2014
+3D pose estimation of bats in the wild.,Margrit Betke,https://dblp.org/pid/b/MargritBetke.html,WACV,2014
+Recognition of 3D package shapes for single camera metrology.,Ryan Lloyd,https://dblp.org/pid/51/3230.html,WACV,2014
+Recognition of 3D package shapes for single camera metrology.,Scott McCloskey,https://dblp.org/pid/30/44.html,WACV,2014
+Automatic identification of window regions on indoor point clouds using LiDAR and cameras.,Richard Zhang,https://dblp.org/pid/147/2699-1.html,WACV,2014
+Automatic identification of window regions on indoor point clouds using LiDAR and cameras.,Avideh Zakhor,https://dblp.org/pid/28/1974.html,WACV,2014
+Vision for road inspection.,Srivatsan Varadharajan,https://dblp.org/pid/147/2723.html,WACV,2014
+Vision for road inspection.,Sobhagya Jose,https://dblp.org/pid/147/2716.html,WACV,2014
+Vision for road inspection.,Karan Sharma,https://dblp.org/pid/28/6043.html,WACV,2014
+Vision for road inspection.,Lars Wander,https://dblp.org/pid/147/2731.html,WACV,2014
+Vision for road inspection.,Christoph Mertz,https://dblp.org/pid/53/204.html,WACV,2014
+Optical filter selection for automatic visual inspection.,Matthias Richter,https://dblp.org/pid/51/1787-3.html,WACV,2014
+Optical filter selection for automatic visual inspection.,Jürgen Beyerer,https://dblp.org/pid/00/5069.html,WACV,2014
+System for semi-automated surveying of street-lighting poles from street-level panoramic images.,Lykele B. Hazelhoff,https://dblp.org/pid/40/649.html,WACV,2014
+System for semi-automated surveying of street-lighting poles from street-level panoramic images.,Ivo M. Creusen,https://dblp.org/pid/91/7461.html,WACV,2014
+System for semi-automated surveying of street-lighting poles from street-level panoramic images.,Peter H. N. de With,https://dblp.org/pid/w/PeterHNdeWith.html,WACV,2014
+Real-time 3D page tracking and book status recognition for high-speed book digitization based on adaptive capturing.,Shohei Noguchi,https://dblp.org/pid/119/2024.html,WACV,2014
+Real-time 3D page tracking and book status recognition for high-speed book digitization based on adaptive capturing.,Masahiro Yamada,https://dblp.org/pid/26/10461.html,WACV,2014
+Real-time 3D page tracking and book status recognition for high-speed book digitization based on adaptive capturing.,Yoshihiro Watanabe,https://dblp.org/pid/85/6634.html,WACV,2014
+Real-time 3D page tracking and book status recognition for high-speed book digitization based on adaptive capturing.,Masatoshi Ishikawa,https://dblp.org/pid/43/3505.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Mohammad Haris Baig,https://dblp.org/pid/48/10771.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Vignesh Jagadeesh,https://dblp.org/pid/53/8844.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Robinson Piramuthu,https://dblp.org/pid/29/1333.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Anurag Bhardwaj,https://dblp.org/pid/24/4039.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Wei Di,https://dblp.org/pid/61/3773.html,WACV,2014
+Im2depth: Scalable exemplar based depth transfer.,Neel Sundaresan,https://dblp.org/pid/s/NeelSundaresan.html,WACV,2014
+Color and flow based superpixels for 3D geometry respecting meshing.,Mohamad Motasem Nawaf,https://dblp.org/pid/119/1629.html,WACV,2014
+Color and flow based superpixels for 3D geometry respecting meshing.,Abul Hasnat,https://dblp.org/pid/61/7443.html,WACV,2014
+Color and flow based superpixels for 3D geometry respecting meshing.,Desire Sidibé,https://dblp.org/pid/02/2939.html,WACV,2014
+Color and flow based superpixels for 3D geometry respecting meshing.,Alain Trémeau,https://dblp.org/pid/39/1067.html,WACV,2014
+Real-time video decolorization using bilateral filtering.,Yibing Song,https://dblp.org/pid/77/2117.html,WACV,2014
+Real-time video decolorization using bilateral filtering.,Linchao Bao,https://dblp.org/pid/126/1018.html,WACV,2014
+Real-time video decolorization using bilateral filtering.,Qingxiong Yang,https://dblp.org/pid/y/QingxiongYang.html,WACV,2014
+Recognizing locations with Google Glass: A case study.,Hani Altwaijry,https://dblp.org/pid/127/0457.html,WACV,2014
+Recognizing locations with Google Glass: A case study.,Mohammad Moghimi,https://dblp.org/pid/125/3547.html,WACV,2014
+Recognizing locations with Google Glass: A case study.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,WACV,2014
+Interactively test driving an object detector: Estimating performance on unlabeled data.,Rushil Anirudh,https://dblp.org/pid/136/5391.html,WACV,2014
+Interactively test driving an object detector: Estimating performance on unlabeled data.,Pavan K. Turaga,https://dblp.org/pid/80/1682.html,WACV,2014
+Physical querying with multi-modal sensing.,Iljoo Baek,https://dblp.org/pid/58/6172.html,WACV,2014
+Physical querying with multi-modal sensing.,Taylor Stine,https://dblp.org/pid/147/2753.html,WACV,2014
+Physical querying with multi-modal sensing.,Denver Dash,https://dblp.org/pid/19/1167.html,WACV,2014
+Physical querying with multi-modal sensing.,Fanyi Xiao,https://dblp.org/pid/73/10763.html,WACV,2014
+Physical querying with multi-modal sensing.,Yaser Sheikh,https://dblp.org/pid/71/3516.html,WACV,2014
+Physical querying with multi-modal sensing.,Yair Movshovitz-Attias,https://dblp.org/pid/96/8843.html,WACV,2014
+Physical querying with multi-modal sensing.,Mei Chen,https://dblp.org/pid/70/729.html,WACV,2014
+Physical querying with multi-modal sensing.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,WACV,2014
+Physical querying with multi-modal sensing.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,WACV,2014
+Gradient based efficient feature selection.,Syed Zulqarnain Gilani,https://dblp.org/pid/43/7407.html,WACV,2014
+Gradient based efficient feature selection.,Faisal Shafait,https://dblp.org/pid/86/378.html,WACV,2014
+Gradient based efficient feature selection.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,WACV,2014
+Generalized feature learning and indexing for object localization and recognition.,Ning Zhou,https://dblp.org/pid/70/438.html,WACV,2014
+Generalized feature learning and indexing for object localization and recognition.,Anelia Angelova,https://dblp.org/pid/46/3065.html,WACV,2014
+Generalized feature learning and indexing for object localization and recognition.,Jianping Fan,https://dblp.org/pid/69/2360.html,WACV,2014
+Exemplar codes for facial attributes and tattoo recognition.,Michael J. Wilber,https://dblp.org/pid/46/11103.html,WACV,2014
+Exemplar codes for facial attributes and tattoo recognition.,Ethan M. Rudd,https://dblp.org/pid/147/2743.html,WACV,2014
+Exemplar codes for facial attributes and tattoo recognition.,Brian Heflin,https://dblp.org/pid/44/11103.html,WACV,2014
+Exemplar codes for facial attributes and tattoo recognition.,Yui-Man Lui,https://dblp.org/pid/147/2737.html,WACV,2014
+Exemplar codes for facial attributes and tattoo recognition.,Terrance E. Boult,https://dblp.org/pid/08/6458.html,WACV,2014
+A spatial-color layout feature for representing galaxy images.,Yin Cui,https://dblp.org/pid/47/8023.html,WACV,2014
+A spatial-color layout feature for representing galaxy images.,Yongzhou Xiang,https://dblp.org/pid/147/2730.html,WACV,2014
+A spatial-color layout feature for representing galaxy images.,Kun Rong,https://dblp.org/pid/147/2749.html,WACV,2014
+A spatial-color layout feature for representing galaxy images.,Rogério Schmidt Feris,https://dblp.org/pid/f/RogerioSchmidtFeris.html,WACV,2014
+A spatial-color layout feature for representing galaxy images.,Liangliang Cao,https://dblp.org/pid/95/6915.html,WACV,2014
+Transfer learning via attributes for improved on-the-fly classification.,Praveen Kulkarni,https://dblp.org/pid/147/2705-3.html,WACV,2014
+Transfer learning via attributes for improved on-the-fly classification.,Gaurav Sharma,https://dblp.org/pid/s/GauravSharma4.html,WACV,2014
+Transfer learning via attributes for improved on-the-fly classification.,Joaquin Zepeda,https://dblp.org/pid/24/3498.html,WACV,2014
+Transfer learning via attributes for improved on-the-fly classification.,Louis Chevallier,https://dblp.org/pid/67/7011.html,WACV,2014
+COLOR CHILD: A robust and computationally efficient Color Image Local Descriptor.,Sai Hareesh Anamandra,https://dblp.org/pid/27/8818.html,WACV,2014
+COLOR CHILD: A robust and computationally efficient Color Image Local Descriptor.,Venkatachalam Chandrasekaran,https://dblp.org/pid/27/2209.html,WACV,2014
+Learning mid-level features from object hierarchy for image classification.,Somayah Albaradei,https://dblp.org/pid/147/2744.html,WACV,2014
+Learning mid-level features from object hierarchy for image classification.,Yang Wang,https://dblp.org/pid/w/YangWang3.html,WACV,2014
+Learning mid-level features from object hierarchy for image classification.,Liangliang Cao,https://dblp.org/pid/95/6915.html,WACV,2014
+Learning mid-level features from object hierarchy for image classification.,Li-Jia Li,https://dblp.org/pid/31/2187.html,WACV,2014
+Feature combination with Multi-Kernel Learning for fine-grained visual classification.,Anelia Angelova,https://dblp.org/pid/46/3065.html,WACV,2014
+Feature combination with Multi-Kernel Learning for fine-grained visual classification.,Alexandru Niculescu-Mizil,https://dblp.org/pid/71/1974.html,WACV,2014
+Selectively guiding visual concept discovery.,Maggie B. Wigness,https://dblp.org/pid/147/2719.html,WACV,2014
+Selectively guiding visual concept discovery.,Bruce A. Draper,https://dblp.org/pid/78/5478.html,WACV,2014
+Selectively guiding visual concept discovery.,J. Ross Beveridge,https://dblp.org/pid/97/1091.html,WACV,2014
+Accelerating arrays of linear classifiers using approximate range queries.,Victor Lu,https://dblp.org/pid/77/8356.html,WACV,2014
+Accelerating arrays of linear classifiers using approximate range queries.,Ian Endres,https://dblp.org/pid/98/7658.html,WACV,2014
+Accelerating arrays of linear classifiers using approximate range queries.,Matei Stroila,https://dblp.org/pid/74/2.html,WACV,2014
+Accelerating arrays of linear classifiers using approximate range queries.,John C. Hart,https://dblp.org/pid/80/2143.html,WACV,2014
+Joint hierarchical learning for efficient multi-class object detection.,Hamidreza Odabai Fard,https://dblp.org/pid/147/2750.html,WACV,2014
+Joint hierarchical learning for efficient multi-class object detection.,Mohamed Chaouch,https://dblp.org/pid/81/5258.html,WACV,2014
+Joint hierarchical learning for efficient multi-class object detection.,Quoc Cuong Pham,https://dblp.org/pid/72/5867.html,WACV,2014
+Joint hierarchical learning for efficient multi-class object detection.,Antoine Vacavant,https://dblp.org/pid/60/4730.html,WACV,2014
+Joint hierarchical learning for efficient multi-class object detection.,Thierry Chateau,https://dblp.org/pid/49/2173.html,WACV,2014
+Towards cautious collective inference for object verification.,José Oramas M.,https://dblp.org/pid/47/9735.html,WACV,2014
+Towards cautious collective inference for object verification.,Luc De Raedt,https://dblp.org/pid/r/LucDeRaedt.html,WACV,2014
+Towards cautious collective inference for object verification.,Tinne Tuytelaars,https://dblp.org/pid/79/2382.html,WACV,2014
+Unsupervised domain adaptation using parallel transport on Grassmann manifold.,Ashish Shrivastava,https://dblp.org/pid/09/7436.html,WACV,2014
+Unsupervised domain adaptation using parallel transport on Grassmann manifold.,Sumit Shekhar,https://dblp.org/pid/354/3187.html,WACV,2014
+Unsupervised domain adaptation using parallel transport on Grassmann manifold.,Vishal M. Patel,https://dblp.org/pid/86/4726-1.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Krishnan Ramnath,https://dblp.org/pid/10/6473.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Sudipta N. Sinha,https://dblp.org/pid/05/257.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Richard Szeliski,https://dblp.org/pid/46/2186.html,WACV,2014
+Car make and model recognition using 3D curve alignment.,Edward Hsiao,https://dblp.org/pid/51/8653.html,WACV,2014
+Elastic reflection symmetry based shape descriptors.,Sebastian Kurtek,https://dblp.org/pid/19/5997.html,WACV,2014
+Elastic reflection symmetry based shape descriptors.,Mo Shen,https://dblp.org/pid/147/2700.html,WACV,2014
+Elastic reflection symmetry based shape descriptors.,Hamid Laga,https://dblp.org/pid/23/491.html,WACV,2014
+Random projections on manifolds of Symmetric Positive Definite matrices for image classification.,Azadeh Alavi,https://dblp.org/pid/12/8582.html,WACV,2014
+Random projections on manifolds of Symmetric Positive Definite matrices for image classification.,Arnold Wiliem,https://dblp.org/pid/94/6882.html,WACV,2014
+Random projections on manifolds of Symmetric Positive Definite matrices for image classification.,Kun Zhao,https://dblp.org/pid/40/2555-1.html,WACV,2014
+Random projections on manifolds of Symmetric Positive Definite matrices for image classification.,Brian C. Lovell,https://dblp.org/pid/09/2347.html,WACV,2014
+Random projections on manifolds of Symmetric Positive Definite matrices for image classification.,Conrad Sanderson,https://dblp.org/pid/64/803.html,WACV,2014
+Local inter-session variability modelling for object classification.,Kaneswaran Anantharajah,https://dblp.org/pid/139/3877.html,WACV,2014
+Local inter-session variability modelling for object classification.,ZongYuan Ge,https://dblp.org/pid/147/2757.html,WACV,2014
+Local inter-session variability modelling for object classification.,Chris McCool,https://dblp.org/pid/92/3022.html,WACV,2014
+Local inter-session variability modelling for object classification.,Simon Denman,https://dblp.org/pid/66/2758.html,WACV,2014
+Local inter-session variability modelling for object classification.,Clinton Fookes,https://dblp.org/pid/03/5529.html,WACV,2014
+Local inter-session variability modelling for object classification.,Peter Corke,https://dblp.org/pid/75/3524.html,WACV,2014
+Local inter-session variability modelling for object classification.,Dian Tjondronegoro,https://dblp.org/pid/60/2965.html,WACV,2014
+Local inter-session variability modelling for object classification.,Sridha Sridharan,https://dblp.org/pid/80/166.html,WACV,2014
+Furniture-geek: Understanding fine-grained furniture attributes from freely associated text and tags.,Vicente Ordonez,https://dblp.org/pid/74/7584.html,WACV,2014
+Furniture-geek: Understanding fine-grained furniture attributes from freely associated text and tags.,Vignesh Jagadeesh,https://dblp.org/pid/53/8844.html,WACV,2014
+Furniture-geek: Understanding fine-grained furniture attributes from freely associated text and tags.,Wei Di,https://dblp.org/pid/61/3773.html,WACV,2014
+Furniture-geek: Understanding fine-grained furniture attributes from freely associated text and tags.,Anurag Bhardwaj,https://dblp.org/pid/24/4039.html,WACV,2014
+Furniture-geek: Understanding fine-grained furniture attributes from freely associated text and tags.,Robinson Piramuthu,https://dblp.org/pid/29/1333.html,WACV,2014
+Segmentation and matching: Towards a robust object detection system.,Jing Huang,https://dblp.org/pid/14/4834-20.html,WACV,2014
+Segmentation and matching: Towards a robust object detection system.,Suya You,https://dblp.org/pid/98/3451.html,WACV,2014
+Attribute-based vehicle recognition using viewpoint-aware multiple instance SVMs.,Kun Duan,https://dblp.org/pid/27/7212.html,WACV,2014
+Attribute-based vehicle recognition using viewpoint-aware multiple instance SVMs.,Luca Marchesotti,https://dblp.org/pid/31/5024.html,WACV,2014
+Attribute-based vehicle recognition using viewpoint-aware multiple instance SVMs.,David J. Crandall,https://dblp.org/pid/c/DavidCrandall.html,WACV,2014
+Data-driven exemplar model selection.,Ishan Misra,https://dblp.org/pid/12/10954.html,WACV,2014
+Data-driven exemplar model selection.,Abhinav Shrivastava,https://dblp.org/pid/65/10572.html,WACV,2014
+Data-driven exemplar model selection.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,WACV,2014
+Learning local image descriptors using binary decision trees.,Juha Ylioinas,https://dblp.org/pid/46/9596.html,WACV,2014
+Learning local image descriptors using binary decision trees.,Juho Kannala,https://dblp.org/pid/47/4656.html,WACV,2014
+Learning local image descriptors using binary decision trees.,Abdenour Hadid,https://dblp.org/pid/29/2765.html,WACV,2014
+Learning local image descriptors using binary decision trees.,Matti Pietikäinen,https://dblp.org/pid/95/4955.html,WACV,2014
+Selection of universal features for image classification.,Pedro A. Rodriguez,https://dblp.org/pid/82/8758.html,WACV,2014
+Selection of universal features for image classification.,Nathan Drenkow,https://dblp.org/pid/142/4116.html,WACV,2014
+Selection of universal features for image classification.,Daniel DeMenthon,https://dblp.org/pid/53/2909.html,WACV,2014
+Selection of universal features for image classification.,Zachary H. Koterba,https://dblp.org/pid/139/0671.html,WACV,2014
+Selection of universal features for image classification.,Kathleen Kauffman,https://dblp.org/pid/147/2756.html,WACV,2014
+Selection of universal features for image classification.,Duane Cornish,https://dblp.org/pid/147/2727.html,WACV,2014
+Selection of universal features for image classification.,Bart L. Paulhamus,https://dblp.org/pid/79/8877.html,WACV,2014
+Selection of universal features for image classification.,R. Jacob Vogelstein,https://dblp.org/pid/29/5640.html,WACV,2014
+Brownian descriptor: A rich meta-feature for appearance matching.,Slawomir Bak,https://dblp.org/pid/86/6070.html,WACV,2014
+Brownian descriptor: A rich meta-feature for appearance matching.,Ratnesh Kumar,https://dblp.org/pid/12/2833-3.html,WACV,2014
+Brownian descriptor: A rich meta-feature for appearance matching.,François Brémond,https://dblp.org/pid/90/6418.html,WACV,2014
+GMM improves the reject option in hierarchical classification for fish recognition.,Phoenix X. Huang,https://dblp.org/pid/126/0682.html,WACV,2014
+GMM improves the reject option in hierarchical classification for fish recognition.,Bastiaan Johannes Boom,https://dblp.org/pid/b/BasBoom.html,WACV,2014
+GMM improves the reject option in hierarchical classification for fish recognition.,Robert B. Fisher,https://dblp.org/pid/f/RobertBFisher.html,WACV,2014
+Offline learning of prototypical negatives for efficient online Exemplar SVM.,Masato Takami,https://dblp.org/pid/147/2732.html,WACV,2014
+Offline learning of prototypical negatives for efficient online Exemplar SVM.,Peter Bell,https://dblp.org/pid/54/3102-2.html,WACV,2014
+Offline learning of prototypical negatives for efficient online Exemplar SVM.,Björn Ommer,https://dblp.org/pid/11/4098.html,WACV,2014
+Video segmentation and feature co-occurrences for activity classification.,Rémi Trichet,https://dblp.org/pid/35/5321.html,WACV,2014
+Video segmentation and feature co-occurrences for activity classification.,Ramakant Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,WACV,2014
+Linear Local Distance coding for classification of HEp-2 staining patterns.,Xiang Xu,https://dblp.org/pid/126/2962-6.html,WACV,2014
+Linear Local Distance coding for classification of HEp-2 staining patterns.,Feng Lin,https://dblp.org/pid/75/2611.html,WACV,2014
+Linear Local Distance coding for classification of HEp-2 staining patterns.,Carol Ng,https://dblp.org/pid/147/2717.html,WACV,2014
+Linear Local Distance coding for classification of HEp-2 staining patterns.,Khai Pang Leong,https://dblp.org/pid/120/7086.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Lu Wang,https://dblp.org/pid/49/3800.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Vinutha Kallem,https://dblp.org/pid/76/3950.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Mayank Bansal,https://dblp.org/pid/08/6490.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Jayan Eledath,https://dblp.org/pid/87/6364.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Harpreet S. Sawhney,https://dblp.org/pid/86/689.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Denise J. Pearson,https://dblp.org/pid/86/10447.html,WACV,2014
+Automatic 3D change detection for glaucoma diagnosis.,Richard A. Stone,https://dblp.org/pid/54/5954.html,WACV,2014
+A CRF approach to fitting a generalized hand skeleton model.,Radu Paul Mihail,https://dblp.org/pid/138/1582.html,WACV,2014
+A CRF approach to fitting a generalized hand skeleton model.,Gustav Blomquist,https://dblp.org/pid/147/2739.html,WACV,2014
+A CRF approach to fitting a generalized hand skeleton model.,Nathan Jacobs,https://dblp.org/pid/82/3140.html,WACV,2014
+Discovering discriminative cell attributes for HEp-2 specimen image classification.,Arnold Wiliem,https://dblp.org/pid/94/6882.html,WACV,2014
+Discovering discriminative cell attributes for HEp-2 specimen image classification.,Peter Hobson,https://dblp.org/pid/95/6437.html,WACV,2014
+Discovering discriminative cell attributes for HEp-2 specimen image classification.,Brian C. Lovell,https://dblp.org/pid/09/2347.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,Glauco Vitor Pedrosa,https://dblp.org/pid/09/2386.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,Md. Mahmudur Rahman,https://dblp.org/pid/95/2075.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,Sameer K. Antani,https://dblp.org/pid/01/1603.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,Dina Demner-Fushman,https://dblp.org/pid/59/2029.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,L. Rodney Long,https://dblp.org/pid/69/3663.html,WACV,2014
+Integrating visual words as bunch of n-grams for effective biomedical image classification.,Agma J. M. Traina,https://dblp.org/pid/t/AgmaJMTraina.html,WACV,2014
+Multi-leaf alignment from fluorescence plant images.,Xi Yin,https://dblp.org/pid/147/2735.html,WACV,2014
+Multi-leaf alignment from fluorescence plant images.,Xiaoming Liu,https://dblp.org/pid/l/XiaomingLiu0002.html,WACV,2014
+Multi-leaf alignment from fluorescence plant images.,Jin Chen,https://dblp.org/pid/03/5287-4.html,WACV,2014
+Multi-leaf alignment from fluorescence plant images.,David M. Kramer,https://dblp.org/pid/140/4138.html,WACV,2014
+Age group classification via structured fusion of uncertainty-driven shape features and selected surface features.,Kuan-Hsien Liu,https://dblp.org/pid/64/8548.html,WACV,2014
+Age group classification via structured fusion of uncertainty-driven shape features and selected surface features.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,WACV,2014
+Age group classification via structured fusion of uncertainty-driven shape features and selected surface features.,C.-C. Jay Kuo,https://dblp.org/pid/k/CCJayKuo.html,WACV,2014
+Viewpoint-independent book spine segmentation.,Lior Talker,https://dblp.org/pid/147/2702.html,WACV,2014
+Viewpoint-independent book spine segmentation.,Yael Moses,https://dblp.org/pid/77/4734.html,WACV,2014
+Efficient dense subspace clustering.,Pan Ji,https://dblp.org/pid/133/6525.html,WACV,2014
+Efficient dense subspace clustering.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,WACV,2014
+Efficient dense subspace clustering.,Hongdong Li,https://dblp.org/pid/59/4859.html,WACV,2014
+Hierarchical representation of videos with spatio-temporal fibers.,Ratnesh Kumar,https://dblp.org/pid/12/2833-3.html,WACV,2014
+Hierarchical representation of videos with spatio-temporal fibers.,Guillaume Charpiat,https://dblp.org/pid/02/6952.html,WACV,2014
+Hierarchical representation of videos with spatio-temporal fibers.,Monique Thonnat,https://dblp.org/pid/90/263.html,WACV,2014
+Improving streaming video segmentation with early and mid-level visual processing.,Subarna Tripathi,https://dblp.org/pid/83/3283.html,WACV,2014
+Improving streaming video segmentation with early and mid-level visual processing.,Youngbae Hwang,https://dblp.org/pid/05/456.html,WACV,2014
+Improving streaming video segmentation with early and mid-level visual processing.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,WACV,2014
+Improving streaming video segmentation with early and mid-level visual processing.,Truong Q. Nguyen,https://dblp.org/pid/23/5856.html,WACV,2014
+Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,Hongyuan Zhu,https://dblp.org/pid/133/4527.html,WACV,2014
+Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,Jiangbo Lu,https://dblp.org/pid/77/6697.html,WACV,2014
+Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,Jianfei Cai,https://dblp.org/pid/83/6096.html,WACV,2014
+Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,Jianmin Zheng,https://dblp.org/pid/09/5452.html,WACV,2014
+Multiple foreground recognition and cosegmentation: An object-oriented CRF model with robust higher-order potentials.,Nadia Magnenat-Thalmann,https://dblp.org/pid/t/NadiaMagnenatThalmann.html,WACV,2014
+Scale-invariant line descriptors for wide baseline matching.,Bart Verhagen,https://dblp.org/pid/147/2748.html,WACV,2014
+Scale-invariant line descriptors for wide baseline matching.,Radu Timofte,https://dblp.org/pid/24/8616.html,WACV,2014
+Scale-invariant line descriptors for wide baseline matching.,Luc Van Gool,https://dblp.org/pid/61/5017.html,WACV,2014
+Large-scale semantic co-labeling of image sets.,Jose M. Alvarez,https://dblp.org/pid/40/2514.html,WACV,2014
+Large-scale semantic co-labeling of image sets.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,WACV,2014
+Large-scale semantic co-labeling of image sets.,Nick Barnes,https://dblp.org/pid/41/2904.html,WACV,2014
+Improving background subtraction using Local Binary Similarity Patterns.,Pierre-Luc St-Charles,https://dblp.org/pid/147/2752.html,WACV,2014
+Improving background subtraction using Local Binary Similarity Patterns.,Guillaume-Alexandre Bilodeau,https://dblp.org/pid/90/2054.html,WACV,2014
+Image segmentation of mesenchymal stem cells in diverse culturing conditions.,Muhammad Jamal Afridi,https://dblp.org/pid/03/8284.html,WACV,2014
+Image segmentation of mesenchymal stem cells in diverse culturing conditions.,Chun Liu,https://dblp.org/pid/205/5290.html,WACV,2014
+Image segmentation of mesenchymal stem cells in diverse culturing conditions.,Christina Chan,https://dblp.org/pid/56/4488.html,WACV,2014
+Image segmentation of mesenchymal stem cells in diverse culturing conditions.,Seungik Baek,https://dblp.org/pid/62/10980.html,WACV,2014
+Image segmentation of mesenchymal stem cells in diverse culturing conditions.,Xiaoming Liu,https://dblp.org/pid/l/XiaomingLiu0002.html,WACV,2014
+Small Hand-held Object Recognition Test (SHORT).,Jose Rivera-Rubio,https://dblp.org/pid/133/9976.html,WACV,2014
+Small Hand-held Object Recognition Test (SHORT).,Saad Idrees,https://dblp.org/pid/133/9877.html,WACV,2014
+Small Hand-held Object Recognition Test (SHORT).,Ioannis Alexiou,https://dblp.org/pid/128/7915.html,WACV,2014
+Small Hand-held Object Recognition Test (SHORT).,Lucas Hadjilucas,https://dblp.org/pid/22/10078.html,WACV,2014
+Small Hand-held Object Recognition Test (SHORT).,Anil A. Bharath,https://dblp.org/pid/71/4319.html,WACV,2014
+Benchmarking large-scale Fine-Grained Categorization.,Anelia Angelova,https://dblp.org/pid/46/3065.html,WACV,2014
+Benchmarking large-scale Fine-Grained Categorization.,Philip M. Long,https://dblp.org/pid/66/5275.html,WACV,2014
+Is my new tracker really better than yours?,Luka Cehovin,https://dblp.org/pid/19/8654.html,WACV,2014
+Is my new tracker really better than yours?,Matej Kristan,https://dblp.org/pid/79/1648.html,WACV,2014
+Is my new tracker really better than yours?,Ales Leonardis,https://dblp.org/pid/l/AlesLeonardis.html,WACV,2014
+Unsupervised dictionary learning with double-layer sparse representation.,Mai Xu,https://dblp.org/pid/20/5353.html,WACV,2014
+Unsupervised dictionary learning with double-layer sparse representation.,Zulin Wang,https://dblp.org/pid/37/10829.html,WACV,2014
+Multimodal fusion using dynamic hybrid models.,Mohamed R. Amer,https://dblp.org/pid/87/10771.html,WACV,2014
+Multimodal fusion using dynamic hybrid models.,Behjat Siddiquie,https://dblp.org/pid/96/8652.html,WACV,2014
+Multimodal fusion using dynamic hybrid models.,Saad M. Khan,https://dblp.org/pid/06/1068.html,WACV,2014
+Multimodal fusion using dynamic hybrid models.,Ajay Divakaran,https://dblp.org/pid/73/467.html,WACV,2014
+Multimodal fusion using dynamic hybrid models.,Harpreet S. Sawhney,https://dblp.org/pid/86/689.html,WACV,2014
+Composite Discriminant Factor analysis.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,WACV,2014
+Composite Discriminant Factor analysis.,Ejaz Ahmed,https://dblp.org/pid/72/3375-2.html,WACV,2014
+Composite Discriminant Factor analysis.,Venkataraman Santhanam,https://dblp.org/pid/147/2710.html,WACV,2014
+Composite Discriminant Factor analysis.,David Harwood,https://dblp.org/pid/50/1979.html,WACV,2014
+Composite Discriminant Factor analysis.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,WACV,2014
+Unsupervised iterative manifold alignment via local feature histograms.,Ke Fan,https://dblp.org/pid/87/7826.html,WACV,2014
+Unsupervised iterative manifold alignment via local feature histograms.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,WACV,2014
+Unsupervised iterative manifold alignment via local feature histograms.,Wanquan Liu,https://dblp.org/pid/53/4712.html,WACV,2014
+Unsupervised iterative manifold alignment via local feature histograms.,Lin Li,https://dblp.org/pid/73/2252.html,WACV,2014
+Max residual classifier.,Hien Van Nguyen,https://dblp.org/pid/59/9550.html,WACV,2014
+Max residual classifier.,Vishal M. Patel,https://dblp.org/pid/86/4726-1.html,WACV,2014
+Bayesian Optimization with an Empirical Hardness Model for approximate Nearest Neighbour Search.,Julieta Martinez,https://dblp.org/pid/147/2759.html,WACV,2014
+Bayesian Optimization with an Empirical Hardness Model for approximate Nearest Neighbour Search.,James J. Little,https://dblp.org/pid/18/2287.html,WACV,2014
+Bayesian Optimization with an Empirical Hardness Model for approximate Nearest Neighbour Search.,Nando de Freitas,https://dblp.org/pid/42/631.html,WACV,2014
+A joint perspective towards image super-resolution: Unifying external- and self-examples.,Zhangyang Wang,https://dblp.org/pid/119/4026.html,WACV,2014
+A joint perspective towards image super-resolution: Unifying external- and self-examples.,Zhaowen Wang,https://dblp.org/pid/44/6076.html,WACV,2014
+A joint perspective towards image super-resolution: Unifying external- and self-examples.,Shiyu Chang,https://dblp.org/pid/28/9988.html,WACV,2014
+A joint perspective towards image super-resolution: Unifying external- and self-examples.,Jianchao Yang,https://dblp.org/pid/96/3835.html,WACV,2014
+A joint perspective towards image super-resolution: Unifying external- and self-examples.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,WACV,2014
+Multi-view action recognition one camera at a time.,Scott Spurlock,https://dblp.org/pid/46/8738.html,WACV,2014
+Multi-view action recognition one camera at a time.,Richard Souvenir,https://dblp.org/pid/95/5553.html,WACV,2014
+Action in chains: A chains model for action localization and classification.,Gilad Sharir,https://dblp.org/pid/117/8302.html,WACV,2014
+Action in chains: A chains model for action localization and classification.,Tinne Tuytelaars,https://dblp.org/pid/79/2382.html,WACV,2014
+Coupling video segmentation and action recognition.,Amir Ghodrati,https://dblp.org/pid/118/3233.html,WACV,2014
+Coupling video segmentation and action recognition.,Marco Pedersoli,https://dblp.org/pid/81/4503.html,WACV,2014
+Coupling video segmentation and action recognition.,Tinne Tuytelaars,https://dblp.org/pid/79/2382.html,WACV,2014
+Real time action recognition using histograms of depth gradients and random decision forests.,Hossein Rahmani,https://dblp.org/pid/40/7475.html,WACV,2014
+Real time action recognition using histograms of depth gradients and random decision forests.,Arif Mahmood,https://dblp.org/pid/18/4138.html,WACV,2014
+Real time action recognition using histograms of depth gradients and random decision forests.,Du Q. Huynh,https://dblp.org/pid/35/2599.html,WACV,2014
+Real time action recognition using histograms of depth gradients and random decision forests.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,WACV,2014
+Mining discriminative 3D Poselet for cross-view action recognition.,Jiang Wang,https://dblp.org/pid/01/2998-1.html,WACV,2014
+Mining discriminative 3D Poselet for cross-view action recognition.,Xiaohan Nie,https://dblp.org/pid/142/4051.html,WACV,2014
+Mining discriminative 3D Poselet for cross-view action recognition.,Yin Xia,https://dblp.org/pid/18/3849.html,WACV,2014
+Mining discriminative 3D Poselet for cross-view action recognition.,Ying Wu,https://dblp.org/pid/64/5840-1.html,WACV,2014
+A combination of generative and discriminative models for fast unsupervised activity recognition from traffic scene videos.,Mahesh Venkata Krishna,https://dblp.org/pid/143/6230.html,WACV,2014
+A combination of generative and discriminative models for fast unsupervised activity recognition from traffic scene videos.,Joachim Denzler,https://dblp.org/pid/d/JoachimDenzler.html,WACV,2014
+"""Important stuff, everywhere!"" Activity recognition with salient proto-objects as context.",Lukas Rybok,https://dblp.org/pid/87/8614.html,WACV,2014
+"""Important stuff, everywhere!"" Activity recognition with salient proto-objects as context.",Boris Schauerte,https://dblp.org/pid/61/7446.html,WACV,2014
+"""Important stuff, everywhere!"" Activity recognition with salient proto-objects as context.",Ziad Al-Halah,https://dblp.org/pid/147/2698.html,WACV,2014
+"""Important stuff, everywhere!"" Activity recognition with salient proto-objects as context.",Rainer Stiefelhagen,https://dblp.org/pid/31/4699.html,WACV,2014
+Play type recognition in real-world football video.,Sheng Chen,https://dblp.org/pid/97/10424.html,WACV,2014
+Play type recognition in real-world football video.,Zhongyuan Feng,https://dblp.org/pid/147/2758.html,WACV,2014
+Play type recognition in real-world football video.,Qingkai Lu,https://dblp.org/pid/147/2721.html,WACV,2014
+Play type recognition in real-world football video.,Behrooz Mahasseni,https://dblp.org/pid/133/1870.html,WACV,2014
+Play type recognition in real-world football video.,Trevor Fiez,https://dblp.org/pid/147/2751.html,WACV,2014
+Play type recognition in real-world football video.,Alan Fern,https://dblp.org/pid/49/6764.html,WACV,2014
+Play type recognition in real-world football video.,Sinisa Todorovic,https://dblp.org/pid/01/6892.html,WACV,2014
+Real-time 3-D face tracking and modeling framework for mid-res cam.,Jongmoo Choi,https://dblp.org/pid/61/4476.html,WACV,2014
+Real-time 3-D face tracking and modeling framework for mid-res cam.,Anh Tuan Tran,https://dblp.org/pid/150/5269-1.html,WACV,2014
+Real-time 3-D face tracking and modeling framework for mid-res cam.,Yann Dumortier,https://dblp.org/pid/20/11103.html,WACV,2014
+Real-time 3-D face tracking and modeling framework for mid-res cam.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,WACV,2014
+Pedestrian detection in low resolution videos.,Hisham Sager,https://dblp.org/pid/147/2714.html,WACV,2014
+Pedestrian detection in low resolution videos.,William A. Hoff,https://dblp.org/pid/26/4969.html,WACV,2014
+Understanding and analyzing a large collection of archived swimming videos.,Long Sha,https://dblp.org/pid/139/3857.html,WACV,2014
+Understanding and analyzing a large collection of archived swimming videos.,Patrick Lucey,https://dblp.org/pid/88/4594.html,WACV,2014
+Understanding and analyzing a large collection of archived swimming videos.,Sridha Sridharan,https://dblp.org/pid/80/166.html,WACV,2014
+Understanding and analyzing a large collection of archived swimming videos.,Stuart Morgan,https://dblp.org/pid/124/6781.html,WACV,2014
+Understanding and analyzing a large collection of archived swimming videos.,Dave Pease,https://dblp.org/pid/139/3868.html,WACV,2014
+Task-based control of articulated human pose detection for OpenVL.,Georgii Oleinikov,https://dblp.org/pid/147/2718.html,WACV,2014
+Task-based control of articulated human pose detection for OpenVL.,Gregor Miller,https://dblp.org/pid/30/6326.html,WACV,2014
+Task-based control of articulated human pose detection for OpenVL.,James J. Little,https://dblp.org/pid/18/2287.html,WACV,2014
+Task-based control of articulated human pose detection for OpenVL.,Sidney S. Fels,https://dblp.org/pid/f/SidneyFels.html,WACV,2014
+Understanding the 3D layout of a cluttered room from multiple images.,Sid Ying-Ze Bao,https://dblp.org/pid/74/8652.html,WACV,2014
+Understanding the 3D layout of a cluttered room from multiple images.,Axel Furlan,https://dblp.org/pid/147/2747.html,WACV,2014
+Understanding the 3D layout of a cluttered room from multiple images.,Li Fei-Fei,https://dblp.org/pid/79/2528.html,WACV,2014
+Understanding the 3D layout of a cluttered room from multiple images.,Silvio Savarese,https://dblp.org/pid/50/3578.html,WACV,2014
+Unsupervised Non-parametric Geospatial Modeling from Ground Imagery.,Nathan Frey,https://dblp.org/pid/141/1277.html,WACV,2014
+Unsupervised Non-parametric Geospatial Modeling from Ground Imagery.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,WACV,2014
+Unsupervised Non-parametric Geospatial Modeling from Ground Imagery.,Christopher Stauffer,https://dblp.org/pid/147/2754.html,WACV,2014
+Scene recognition by jointly modeling latent topics.,Shaohua Wan,https://dblp.org/pid/34/7561-2.html,WACV,2014
+Scene recognition by jointly modeling latent topics.,J. K. Aggarwal,https://dblp.org/pid/a/JakeKAggarwal.html,WACV,2014
+Introspective semantic segmentation.,Gautam Singh,https://dblp.org/pid/35/2642.html,WACV,2014
+Introspective semantic segmentation.,Jana Kosecka,https://dblp.org/pid/j/JanaKosecka.html,WACV,2014
+Object co-labeling in multiple images.,Xi Chen,https://dblp.org/pid/16/3283-16.html,WACV,2014
+Object co-labeling in multiple images.,Arpit Jain,https://dblp.org/pid/75/4520.html,WACV,2014
+Object co-labeling in multiple images.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,WACV,2014
+Image parsing with graph grammars and Markov Random Fields applied to facade analysis.,Mateusz Kozinski,https://dblp.org/pid/122/8721.html,WACV,2014
+Image parsing with graph grammars and Markov Random Fields applied to facade analysis.,Renaud Marlet,https://dblp.org/pid/61/5462.html,WACV,2014
+Joint semantic and geometric segmentation of videos with a stage model.,Buyu Liu,https://dblp.org/pid/147/2755.html,WACV,2014
+Joint semantic and geometric segmentation of videos with a stage model.,Xuming He,https://dblp.org/pid/03/4230.html,WACV,2014
+Joint semantic and geometric segmentation of videos with a stage model.,Stephen Gould,https://dblp.org/pid/89/1569.html,WACV,2014
+Multi class boosted random ferns for adapting a generic object detector to a specific video.,Pramod Sharma,https://dblp.org/pid/44/347.html,WACV,2014
+Multi class boosted random ferns for adapting a generic object detector to a specific video.,Ramakant Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,WACV,2014
+Smart surveillance framework: A versatile tool for video analysis.,Antonio C. Nazare,https://dblp.org/pid/147/2729.html,WACV,2014
+Smart surveillance framework: A versatile tool for video analysis.,Cassio E. dos Santos,https://dblp.org/pid/147/2709.html,WACV,2014
+Smart surveillance framework: A versatile tool for video analysis.,Renato Ferreira,https://dblp.org/pid/f/RACFerreira.html,WACV,2014
+Smart surveillance framework: A versatile tool for video analysis.,William Robson Schwartz,https://dblp.org/pid/78/6398.html,WACV,2014
+Exploring context information for inter-camera multiple target tracking.,Yinghao Cai,https://dblp.org/pid/28/2227.html,WACV,2014
+Exploring context information for inter-camera multiple target tracking.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,WACV,2014
+Summarisation of short-term and long-term videos using texture and colour.,Johanna Carvajal,https://dblp.org/pid/143/7404.html,WACV,2014
+Summarisation of short-term and long-term videos using texture and colour.,Chris McCool,https://dblp.org/pid/92/3022.html,WACV,2014
+Summarisation of short-term and long-term videos using texture and colour.,Conrad Sanderson,https://dblp.org/pid/64/803.html,WACV,2014
+Video text detection and recognition: Dataset and benchmark.,Phuc Xuan Nguyen,https://dblp.org/pid/147/2726.html,WACV,2014
+Video text detection and recognition: Dataset and benchmark.,Kai Wang,https://dblp.org/pid/83/3303.html,WACV,2014
+Video text detection and recognition: Dataset and benchmark.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,WACV,2014
+Interactive video segmentation using occlusion boundaries and temporally coherent superpixels.,Radu Dondera,https://dblp.org/pid/35/6611.html,WACV,2014
+Interactive video segmentation using occlusion boundaries and temporally coherent superpixels.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,WACV,2014
+Interactive video segmentation using occlusion boundaries and temporally coherent superpixels.,Yulu Wang,https://dblp.org/pid/143/3574.html,WACV,2014
+Interactive video segmentation using occlusion boundaries and temporally coherent superpixels.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,WACV,2014
+Robust optical flow estimation for continuous blurred scenes using RGB-motion imaging and directional filtering.,Wenbin Li,https://dblp.org/pid/27/1736-2.html,WACV,2014
+Robust optical flow estimation for continuous blurred scenes using RGB-motion imaging and directional filtering.,Yang Chen,https://dblp.org/pid/48/4792.html,WACV,2014
+Robust optical flow estimation for continuous blurred scenes using RGB-motion imaging and directional filtering.,JeeHang Lee,https://dblp.org/pid/284/7743.html,WACV,2014
+Robust optical flow estimation for continuous blurred scenes using RGB-motion imaging and directional filtering.,Gang Ren,https://dblp.org/pid/75/3931-1.html,WACV,2014
+Robust optical flow estimation for continuous blurred scenes using RGB-motion imaging and directional filtering.,Darren Cosker,https://dblp.org/pid/79/608.html,WACV,2014
+Combining semantic scene priors and haze removal for single image depth estimation.,Ke Wang,https://dblp.org/pid/181/2613-21.html,WACV,2014
+Combining semantic scene priors and haze removal for single image depth estimation.,Enrique Dunn,https://dblp.org/pid/27/5341.html,WACV,2014
+Combining semantic scene priors and haze removal for single image depth estimation.,Joseph Tighe,https://dblp.org/pid/58/8741.html,WACV,2014
+Combining semantic scene priors and haze removal for single image depth estimation.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,WACV,2014
+Video alignment to a common reference.,Rahul Dutta,https://dblp.org/pid/129/9390.html,WACV,2014
+Video alignment to a common reference.,Bruce A. Draper,https://dblp.org/pid/78/5478.html,WACV,2014
+Video alignment to a common reference.,J. Ross Beveridge,https://dblp.org/pid/97/1091.html,WACV,2014
+Linear regression motion analysis for unsupervised temporal segmentation of human actions.,Simon Jones,https://dblp.org/pid/94/2599.html,WACV,2014
+Linear regression motion analysis for unsupervised temporal segmentation of human actions.,Ling Shao,https://dblp.org/pid/75/1281.html,WACV,2014
+A fully implicit alternating direction method of multipliers for the minimization of convex problems with an application to motion segmentation.,Karin Tichmann,https://dblp.org/pid/147/2725.html,WACV,2014
+A fully implicit alternating direction method of multipliers for the minimization of convex problems with an application to motion segmentation.,Oliver Junge,https://dblp.org/pid/50/1310.html,WACV,2014
+Video segmentation with joint object and trajectory labeling.,Michael Ying Yang,https://dblp.org/pid/24/7671.html,WACV,2014
+Video segmentation with joint object and trajectory labeling.,Bodo Rosenhahn,https://dblp.org/pid/09/2973.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Arslan Basharat,https://dblp.org/pid/39/1072.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Matthew W. Turek,https://dblp.org/pid/79/1481.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Yiliang Xu,https://dblp.org/pid/84/5224.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Chuck Atkins,https://dblp.org/pid/147/2734.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,David Stoup,https://dblp.org/pid/147/2711.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Keith Fieldhouse,https://dblp.org/pid/147/2703.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Paul Tunison,https://dblp.org/pid/147/2712.html,WACV,2014
+Real-time multi-target tracking at 210 megapixels/second in Wide Area Motion Imagery.,Anthony Hoogs,https://dblp.org/pid/15/5671.html,WACV,2014
+Robust tracking of articulated human movements through Component-Based Multiple Instance Learning with particle filtering.,Kyuseo Han,https://dblp.org/pid/92/2862.html,WACV,2014
+Robust tracking of articulated human movements through Component-Based Multiple Instance Learning with particle filtering.,Johnny Park,https://dblp.org/pid/95/6474.html,WACV,2014
+Robust tracking of articulated human movements through Component-Based Multiple Instance Learning with particle filtering.,Avinash C. Kak,https://dblp.org/pid/k/AKak.html,WACV,2014
+Online discriminative dictionary learning for visual tracking.,Fan Yang,https://dblp.org/pid/29/3081-16.html,WACV,2014
+Online discriminative dictionary learning for visual tracking.,Zhuolin Jiang,https://dblp.org/pid/82/1160.html,WACV,2014
+Online discriminative dictionary learning for visual tracking.,Larry S. Davis,https://dblp.org/pid/d/LarrySDavis.html,WACV,2014
+Consensus-based matching and tracking of keypoints for object tracking.,Georg Nebehay,https://dblp.org/pid/129/4056.html,WACV,2014
+Consensus-based matching and tracking of keypoints for object tracking.,Roman P. Pflugfelder,https://dblp.org/pid/35/2836.html,WACV,2014
+Automatic tracker selection w.r.t object detection performance.,Duc Phu Chau,https://dblp.org/pid/04/1215.html,WACV,2014
+Automatic tracker selection w.r.t object detection performance.,François Brémond,https://dblp.org/pid/90/6418.html,WACV,2014
+Automatic tracker selection w.r.t object detection performance.,Monique Thonnat,https://dblp.org/pid/90/263.html,WACV,2014
+Structure-aware keypoint tracking for partial occlusion handling.,Wassim Bouachir,https://dblp.org/pid/120/4430.html,WACV,2014
+Structure-aware keypoint tracking for partial occlusion handling.,Guillaume-Alexandre Bilodeau,https://dblp.org/pid/90/2054.html,WACV,2014
+Urban Tracker: Multiple object tracking in urban mixed traffic.,Jean-Philippe Jodoin,https://dblp.org/pid/52/11266.html,WACV,2014
+Urban Tracker: Multiple object tracking in urban mixed traffic.,Guillaume-Alexandre Bilodeau,https://dblp.org/pid/90/2054.html,WACV,2014
+Urban Tracker: Multiple object tracking in urban mixed traffic.,Nicolas Saunier,https://dblp.org/pid/89/2441.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Pietro Salvagnini,https://dblp.org/pid/50/10170.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Federico Pernici,https://dblp.org/pid/79/2114.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Marco Cristani,https://dblp.org/pid/58/2811.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Giuseppe Lisanti,https://dblp.org/pid/14/8618.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Iacopo Masi,https://dblp.org/pid/99/8617.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Alberto Del Bimbo,https://dblp.org/pid/b/AlbertoDelBimbo.html,WACV,2014
+Information theoretic sensor management for multi-target tracking with a single pan-tilt-zoom camera.,Vittorio Murino,https://dblp.org/pid/62/6790.html,WACV,2014
+Object tracking via non-Euclidean geometry: A Grassmann approach.,Sareh Abolahrari Shirazi,https://dblp.org/pid/01/9989.html,WACV,2014
+Object tracking via non-Euclidean geometry: A Grassmann approach.,Mehrtash Tafazzoli Harandi,https://dblp.org/pid/92/5921.html,WACV,2014
+Object tracking via non-Euclidean geometry: A Grassmann approach.,Brian C. Lovell,https://dblp.org/pid/09/2347.html,WACV,2014
+Object tracking via non-Euclidean geometry: A Grassmann approach.,Conrad Sanderson,https://dblp.org/pid/64/803.html,WACV,2014
+Determining underwater vehicle movement from sonar data in relatively featureless seafloor tracking missions.,Anthony Spears,https://dblp.org/pid/147/2728.html,WACV,2014
+Determining underwater vehicle movement from sonar data in relatively featureless seafloor tracking missions.,Ayanna M. Howard,https://dblp.org/pid/11/399.html,WACV,2014
+Determining underwater vehicle movement from sonar data in relatively featureless seafloor tracking missions.,Michael E. West,https://dblp.org/pid/38/17.html,WACV,2014
+Determining underwater vehicle movement from sonar data in relatively featureless seafloor tracking missions.,Thomas Collins,https://dblp.org/pid/24/6875.html,WACV,2014
+Rotation estimation from cloud tracking.,Sangwoo Cho,https://dblp.org/pid/75/1848.html,WACV,2014
+Rotation estimation from cloud tracking.,Enrique Dunn,https://dblp.org/pid/27/5341.html,WACV,2014
+Rotation estimation from cloud tracking.,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,WACV,2014
+Spatial inference for coherent geophysical fluids by appearance and geometry.,Sai Ravela,https://dblp.org/pid/25/6876.html,WACV,2014
+Materials discovery: Fine-grained classification of X-ray scattering images.,M. Hadi Kiapour,https://dblp.org/pid/117/4781.html,WACV,2014
+Materials discovery: Fine-grained classification of X-ray scattering images.,Kevin G. Yager,https://dblp.org/pid/148/4382.html,WACV,2014
+Materials discovery: Fine-grained classification of X-ray scattering images.,Alexander C. Berg,https://dblp.org/pid/73/2348.html,WACV,2014
+Materials discovery: Fine-grained classification of X-ray scattering images.,Tamara L. Berg,https://dblp.org/pid/63/6787.html,WACV,2014
+Data association based ant tracking with interactive error correction.,Hoan Nguyen,https://dblp.org/pid/11/7137.html,WACV,2014
+Data association based ant tracking with interactive error correction.,Thomas Fasciano,https://dblp.org/pid/127/0480.html,WACV,2014
+Data association based ant tracking with interactive error correction.,Daniel Charbonneau,https://dblp.org/pid/147/2707.html,WACV,2014
+Data association based ant tracking with interactive error correction.,Anna R. Dornhaus,https://dblp.org/pid/24/5207.html,WACV,2014
+Data association based ant tracking with interactive error correction.,Min C. Shin,https://dblp.org/pid/67/341.html,WACV,2014
+Ant tracking with occlusion tunnels.,Thomas Fasciano,https://dblp.org/pid/127/0480.html,WACV,2014
+Ant tracking with occlusion tunnels.,Anna R. Dornhaus,https://dblp.org/pid/24/5207.html,WACV,2014
+Ant tracking with occlusion tunnels.,Min C. Shin,https://dblp.org/pid/67/341.html,WACV,2014
+Repeated constrained sparse coding with partial dictionaries for hyperspectral unmixing.,Naveed Akhtar,https://dblp.org/pid/147/2745.html,WACV,2014
+Repeated constrained sparse coding with partial dictionaries for hyperspectral unmixing.,Faisal Shafait,https://dblp.org/pid/86/378.html,WACV,2014
+Repeated constrained sparse coding with partial dictionaries for hyperspectral unmixing.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,WACV,2014
+Estimating cloudmaps from outdoor image sequences.,Nathan Jacobs,https://dblp.org/pid/82/3140.html,WACV,2014
+Estimating cloudmaps from outdoor image sequences.,Joshua King,https://dblp.org/pid/121/6551.html,WACV,2014
+Estimating cloudmaps from outdoor image sequences.,Daniel Bowers,https://dblp.org/pid/147/2722.html,WACV,2014
+Estimating cloudmaps from outdoor image sequences.,Richard Souvenir,https://dblp.org/pid/95/5553.html,WACV,2014
+Active Clustering with Ensembles for Social structure extraction.,Jeremiah R. Barr,https://dblp.org/pid/20/10073.html,WACV,2014
+Active Clustering with Ensembles for Social structure extraction.,Leonardo A. Cament,https://dblp.org/pid/22/9058.html,WACV,2014
+Active Clustering with Ensembles for Social structure extraction.,Kevin W. Bowyer,https://dblp.org/pid/b/KevinWBowyer.html,WACV,2014
+Active Clustering with Ensembles for Social structure extraction.,Patrick J. Flynn,https://dblp.org/pid/45/2338.html,WACV,2014
+Iris crypts: Multi-scale detection and shape-based matching.,Feng Shen,https://dblp.org/pid/15/7528.html,WACV,2014
+Iris crypts: Multi-scale detection and shape-based matching.,Patrick J. Flynn,https://dblp.org/pid/45/2338.html,WACV,2014
+Adaptive representations for video-based face recognition across pose.,Yi-Chen Chen,https://dblp.org/pid/68/101.html,WACV,2014
+Adaptive representations for video-based face recognition across pose.,Vishal M. Patel,https://dblp.org/pid/86/4726-1.html,WACV,2014
+Adaptive representations for video-based face recognition across pose.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,WACV,2014
+Adaptive representations for video-based face recognition across pose.,P. Jonathon Phillips,https://dblp.org/pid/86/1560.html,WACV,2014
+Finger-knuckle-print verification based on vector consistency of corresponding interest points.,Min-Ki Kim,https://dblp.org/pid/54/333.html,WACV,2014
+Finger-knuckle-print verification based on vector consistency of corresponding interest points.,Patrick J. Flynn,https://dblp.org/pid/45/2338.html,WACV,2014
+Writer identification and verification using GMM supervectors.,Vincent Christlein,https://dblp.org/pid/38/8965.html,WACV,2014
+Writer identification and verification using GMM supervectors.,David Bernecker,https://dblp.org/pid/134/3208.html,WACV,2014
+Writer identification and verification using GMM supervectors.,Florian Hönig,https://dblp.org/pid/68/7247.html,WACV,2014
+Writer identification and verification using GMM supervectors.,Elli Angelopoulou,https://dblp.org/pid/48/5666.html,WACV,2014
+Comparison of face detection and image classification for detecting front seat passengers in vehicles.,Yusuf Artan,https://dblp.org/pid/12/3383.html,WACV,2014
+Comparison of face detection and image classification for detecting front seat passengers in vehicles.,Peter Paul,https://dblp.org/pid/00/6999.html,WACV,2014
+Comparison of face detection and image classification for detecting front seat passengers in vehicles.,Florent Perronnin,https://dblp.org/pid/51/1537.html,WACV,2014
+Comparison of face detection and image classification for detecting front seat passengers in vehicles.,Aaron Burry,https://dblp.org/pid/147/2720.html,WACV,2014
+Extending explicit shape regression with mixed feature channels and pose priors.,Matthias Richter,https://dblp.org/pid/51/1787-3.html,WACV,2014
+Extending explicit shape regression with mixed feature channels and pose priors.,Hua Gao,https://dblp.org/pid/64/1565.html,WACV,2014
+Extending explicit shape regression with mixed feature channels and pose priors.,Hazim Kemal Ekenel,https://dblp.org/pid/26/1396.html,WACV,2014
+The effectiveness of face detection algorithms in unconstrained crowd scenes.,Jeremiah R. Barr,https://dblp.org/pid/20/10073.html,WACV,2014
+The effectiveness of face detection algorithms in unconstrained crowd scenes.,Kevin W. Bowyer,https://dblp.org/pid/b/KevinWBowyer.html,WACV,2014
+The effectiveness of face detection algorithms in unconstrained crowd scenes.,Patrick J. Flynn,https://dblp.org/pid/45/2338.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Abhinav Dhall,https://dblp.org/pid/05/7591.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Karan Sikka,https://dblp.org/pid/119/1499.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Gwen Littlewort,https://dblp.org/pid/01/6909.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Roland Goecke,https://dblp.org/pid/g/RolandGocke.html,WACV,2014
+A discriminative parts based model approach for fiducial points free and shape constrained head pose normalisation in the wild.,Marian Stewart Bartlett,https://dblp.org/pid/54/4284.html,WACV,2014
+Improving multiview face detection with multi-task deep convolutional neural networks.,Cha Zhang,https://dblp.org/pid/74/6770.html,WACV,2014
+Improving multiview face detection with multi-task deep convolutional neural networks.,Zhengyou Zhang,https://dblp.org/pid/73/5043.html,WACV,2014
+Exploring the geo-dependence of human face appearance.,Mohammad T. Islam,https://dblp.org/pid/135/4902.html,WACV,2014
+Exploring the geo-dependence of human face appearance.,Scott Workman,https://dblp.org/pid/135/4920.html,WACV,2014
+Exploring the geo-dependence of human face appearance.,Hui Wu,https://dblp.org/pid/17/995-6.html,WACV,2014
+Exploring the geo-dependence of human face appearance.,Nathan Jacobs,https://dblp.org/pid/82/3140.html,WACV,2014
+Exploring the geo-dependence of human face appearance.,Richard Souvenir,https://dblp.org/pid/95/5553.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Krishnan Ramnath,https://dblp.org/pid/10/6473.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Simon Baker,https://dblp.org/pid/85/2539.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Lucy Vanderwende,https://dblp.org/pid/49/6197.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Motaz Ahmad El-Saban,https://dblp.org/pid/33/7457.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Sudipta N. Sinha,https://dblp.org/pid/05/257.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Anitha Kannan,https://dblp.org/pid/58/2858.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Noran Hassan,https://dblp.org/pid/20/11298.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Michel Galley,https://dblp.org/pid/05/3289.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Yi Yang,https://dblp.org/pid/33/4854-7.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Deva Ramanan,https://dblp.org/pid/49/488.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Alessandro Bergamo,https://dblp.org/pid/73/10452.html,WACV,2014
+AutoCaption: Automatic caption generation for personal photos.,Lorenzo Torresani,https://dblp.org/pid/75/2854.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Rajitha Navarathna,https://dblp.org/pid/68/10528.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Patrick Lucey,https://dblp.org/pid/88/4594.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Peter Carr,https://dblp.org/pid/81/2369-1.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Elizabeth J. Carter,https://dblp.org/pid/37/8321.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Sridha Sridharan,https://dblp.org/pid/80/166.html,WACV,2014
+Predicting movie ratings from audience behaviors.,Iain A. Matthews,https://dblp.org/pid/58/813.html,WACV,2014
+Simultaneous recognition of facial expression and identity via sparse representation.,Mohammad Reza Mohammadi,https://dblp.org/pid/45/9588.html,WACV,2014
+Simultaneous recognition of facial expression and identity via sparse representation.,Emad Fatemizadeh,https://dblp.org/pid/77/4704.html,WACV,2014
+Simultaneous recognition of facial expression and identity via sparse representation.,Mohammad H. Mahoor,https://dblp.org/pid/36/3051.html,WACV,2014
+Matching image sets via adaptive multi convex hull.,Shaokang Chen,https://dblp.org/pid/43/5931.html,WACV,2014
+Matching image sets via adaptive multi convex hull.,Arnold Wiliem,https://dblp.org/pid/94/6882.html,WACV,2014
+Matching image sets via adaptive multi convex hull.,Conrad Sanderson,https://dblp.org/pid/64/803.html,WACV,2014
+Matching image sets via adaptive multi convex hull.,Brian C. Lovell,https://dblp.org/pid/09/2347.html,WACV,2014
+A novel method for post-surgery face recognition using sum of facial parts recognition.,Ranran Feng,https://dblp.org/pid/125/2889.html,WACV,2014
+A novel method for post-surgery face recognition using sum of facial parts recognition.,Balakrishnan Prabhakaran,https://dblp.org/pid/p/BPrabhakaran.html,WACV,2014
+Relative facial action unit detection.,Mahmoud Khademi,https://dblp.org/pid/42/7974.html,WACV,2014
+Relative facial action unit detection.,Louis-Philippe Morency,https://dblp.org/pid/31/739.html,WACV,2014
+Fully automatic 3D facial expression recognition using local depth features.,Mingliang Xue,https://dblp.org/pid/130/4394.html,WACV,2014
+Fully automatic 3D facial expression recognition using local depth features.,Ajmal S. Mian,https://dblp.org/pid/63/807.html,WACV,2014
+Fully automatic 3D facial expression recognition using local depth features.,Wanquan Liu,https://dblp.org/pid/53/4712.html,WACV,2014
+Fully automatic 3D facial expression recognition using local depth features.,Ling Li,https://dblp.org/pid/92/5001-6.html,WACV,2014
+A lp-norm MTMKL framework for simultaneous detection of multiple facial action units.,Xiao Zhang,https://dblp.org/pid/49/4478-3.html,WACV,2014
+A lp-norm MTMKL framework for simultaneous detection of multiple facial action units.,Mohammad H. Mahoor,https://dblp.org/pid/36/3051.html,WACV,2014
+A lp-norm MTMKL framework for simultaneous detection of multiple facial action units.,Seyed Mohammad Mavadati,https://dblp.org/pid/15/8843.html,WACV,2014
+A lp-norm MTMKL framework for simultaneous detection of multiple facial action units.,Jeffrey F. Cohn,https://dblp.org/pid/54/1171.html,WACV,2014
+Scale-Space SIFT flow.,Weichao Qiu,https://dblp.org/pid/126/0918.html,WACV,2014
+Scale-Space SIFT flow.,Xinggang Wang,https://dblp.org/pid/95/3056.html,WACV,2014
+Scale-Space SIFT flow.,Xiang Bai,https://dblp.org/pid/59/2741.html,WACV,2014
+Scale-Space SIFT flow.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,WACV,2014
+Scale-Space SIFT flow.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,WACV,2014
+Robust tracking and mapping with a handheld RGB-D camera.,Kyoung-Rok Lee,https://dblp.org/pid/17/9280.html,WACV,2014
+Robust tracking and mapping with a handheld RGB-D camera.,Truong Q. Nguyen,https://dblp.org/pid/23/5856.html,WACV,2014
+Segmentation and tracking of partial planar templates.,Abdelsalam Masoud,https://dblp.org/pid/147/2741.html,WACV,2014
+Segmentation and tracking of partial planar templates.,William A. Hoff,https://dblp.org/pid/26/4969.html,WACV,2014
+Data-driven road detection.,Jose M. Alvarez,https://dblp.org/pid/40/2514.html,WACV,2014
+Data-driven road detection.,Mathieu Salzmann,https://dblp.org/pid/18/4533.html,WACV,2014
+Data-driven road detection.,Nick Barnes,https://dblp.org/pid/41/2904.html,WACV,2014
+Plant classification system for crop /weed discrimination without segmentation.,Sebastian Haug,https://dblp.org/pid/68/9851.html,WACV,2014
+Plant classification system for crop /weed discrimination without segmentation.,Andreas Michaels,https://dblp.org/pid/120/5254.html,WACV,2014
+Plant classification system for crop /weed discrimination without segmentation.,Peter Biber,https://dblp.org/pid/97/6509.html,WACV,2014
+Plant classification system for crop /weed discrimination without segmentation.,Jörn Ostermann,https://dblp.org/pid/o/JornOstermann.html,WACV,2014

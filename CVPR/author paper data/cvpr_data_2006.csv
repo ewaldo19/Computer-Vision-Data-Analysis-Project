@@ -1,0 +1,929 @@
+Paper Title,Author Names,Author URLs,Conference Name,Conference Year
+Incremental learning of object detectors using a visual shape alphabet.,Andreas Opelt,https://dblp.org/pid/32/6986.html,CVPR,2006
+Incremental learning of object detectors using a visual shape alphabet.,Axel Pinz,https://dblp.org/pid/00/5595.html,CVPR,2006
+Incremental learning of object detectors using a visual shape alphabet.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,CVPR,2006
+"Multiclass Object Recognition with Sparse, Localized Features.",Jim Mutch,https://dblp.org/pid/06/670.html,CVPR,2006
+"Multiclass Object Recognition with Sparse, Localized Features.",David G. Lowe,https://dblp.org/pid/44/842.html,CVPR,2006
+Unsupervised Learning of Categories from Sets of Partially Matching Image Features.,Kristen Grauman,https://dblp.org/pid/57/4553.html,CVPR,2006
+Unsupervised Learning of Categories from Sets of Partially Matching Image Features.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,CVPR,2006
+Multiple Object Class Detection with a Generative Model.,Krystian Mikolajczyk,https://dblp.org/pid/96/433.html,CVPR,2006
+Multiple Object Class Detection with a Generative Model.,Bastian Leibe,https://dblp.org/pid/41/1228.html,CVPR,2006
+Multiple Object Class Detection with a Generative Model.,Bernt Schiele,https://dblp.org/pid/s/BerntSchiele.html,CVPR,2006
+The Layout Consistent Random Field for Recognizing and Segmenting Partially Occluded Objects.,John M. Winn,https://dblp.org/pid/w/JohnMWinn.html,CVPR,2006
+The Layout Consistent Random Field for Recognizing and Segmenting Partially Occluded Objects.,Jamie Shotton,https://dblp.org/pid/47/572.html,CVPR,2006
+Ultrasound-Specific Segmentation via Decorrelation and Statistical Region-Based Active Contours.,Gregory G. Slabaugh,https://dblp.org/pid/s/GregoryGSlabaugh.html,CVPR,2006
+Ultrasound-Specific Segmentation via Decorrelation and Statistical Region-Based Active Contours.,Gozde B. Unal,https://dblp.org/pid/78/3600.html,CVPR,2006
+Ultrasound-Specific Segmentation via Decorrelation and Statistical Region-Based Active Contours.,Tong Fang,https://dblp.org/pid/39/234.html,CVPR,2006
+Ultrasound-Specific Segmentation via Decorrelation and Statistical Region-Based Active Contours.,Michael Wels,https://dblp.org/pid/25/6931.html,CVPR,2006
+Bilayer Segmentation of Live Video.,Antonio Criminisi,https://dblp.org/pid/c/AntonioCriminisi.html,CVPR,2006
+Bilayer Segmentation of Live Video.,Geoffrey Cross,https://dblp.org/pid/32/5794.html,CVPR,2006
+Bilayer Segmentation of Live Video.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,CVPR,2006
+Bilayer Segmentation of Live Video.,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,CVPR,2006
+A Closed Form Solution to Natural Image Matting.,Anat Levin,https://dblp.org/pid/35/4557.html,CVPR,2006
+A Closed Form Solution to Natural Image Matting.,Dani Lischinski,https://dblp.org/pid/29/19.html,CVPR,2006
+A Closed Form Solution to Natural Image Matting.,Yair Weiss,https://dblp.org/pid/44/1092.html,CVPR,2006
+Computing Exact Discrete Minimal Surfaces: Extending and Solving the Shortest Path Problem in 3D with Application to Segmentation.,Leo J. Grady,https://dblp.org/pid/90/6443.html,CVPR,2006
+Recursive estimation of generative models of video.,Nemanja Petrovic,https://dblp.org/pid/p/NemanjaPetrovic.html,CVPR,2006
+Recursive estimation of generative models of video.,Aleksandar Ivanovic,https://dblp.org/pid/97/3743.html,CVPR,2006
+Recursive estimation of generative models of video.,Nebojsa Jojic,https://dblp.org/pid/20/1944.html,CVPR,2006
+Principled Hybrids of Generative and Discriminative Models.,Julia A. Lasserre,https://dblp.org/pid/50/6290.html,CVPR,2006
+Principled Hybrids of Generative and Discriminative Models.,Christopher M. Bishop,https://dblp.org/pid/b/ChristopherMBishop.html,CVPR,2006
+Principled Hybrids of Generative and Discriminative Models.,Thomas P. Minka,https://dblp.org/pid/m/ThomasPMinka.html,CVPR,2006
+Applying Ensembles of Multilinear Classifiers in the Frequency Domain.,Christian Bauckhage,https://dblp.org/pid/44/2560.html,CVPR,2006
+Applying Ensembles of Multilinear Classifiers in the Frequency Domain.,Thomas Käster,https://dblp.org/pid/56/3108.html,CVPR,2006
+Applying Ensembles of Multilinear Classifiers in the Frequency Domain.,John K. Tsotsos,https://dblp.org/pid/t/JohnKTsotsos.html,CVPR,2006
+A Conic Section Classifier and its Application to Image Datasets.,Arunava Banerjee,https://dblp.org/pid/40/6110.html,CVPR,2006
+A Conic Section Classifier and its Application to Image Datasets.,Santhosh Kodipaka,https://dblp.org/pid/27/5785.html,CVPR,2006
+A Conic Section Classifier and its Application to Image Datasets.,Baba C. Vemuri,https://dblp.org/pid/93/1847.html,CVPR,2006
+Accelerated Kernel Feature Analysis.,Xianhua Jiang,https://dblp.org/pid/57/356.html,CVPR,2006
+Accelerated Kernel Feature Analysis.,Yuichi Motai,https://dblp.org/pid/31/13.html,CVPR,2006
+Accelerated Kernel Feature Analysis.,Robert R. Snapp,https://dblp.org/pid/44/3927.html,CVPR,2006
+Accelerated Kernel Feature Analysis.,Xingquan Zhu,https://dblp.org/pid/26/4253.html,CVPR,2006
+"Escaping local minima through hierarchical model selection: Automatic object discovery, segmentation, and tracking in video.",Nebojsa Jojic,https://dblp.org/pid/20/1944.html,CVPR,2006
+"Escaping local minima through hierarchical model selection: Automatic object discovery, segmentation, and tracking in video.",John M. Winn,https://dblp.org/pid/w/JohnMWinn.html,CVPR,2006
+"Escaping local minima through hierarchical model selection: Automatic object discovery, segmentation, and tracking in video.",C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,CVPR,2006
+Kernel Uncorrelated and Orthogonal Discriminant Analysis: A Unified Approach.,Tao Xiong,https://dblp.org/pid/97/4397.html,CVPR,2006
+Kernel Uncorrelated and Orthogonal Discriminant Analysis: A Unified Approach.,Jieping Ye,https://dblp.org/pid/03/5454.html,CVPR,2006
+Kernel Uncorrelated and Orthogonal Discriminant Analysis: A Unified Approach.,Vladimir Cherkassky,https://dblp.org/pid/60/449.html,CVPR,2006
+Selecting Principal Components in a Two-Stage LDA Algorithm.,Manli Zhu,https://dblp.org/pid/29/995.html,CVPR,2006
+Selecting Principal Components in a Two-Stage LDA Algorithm.,Aleix M. Martínez,https://dblp.org/pid/m/AleixMMartinez.html,CVPR,2006
+Learning Non-Metric Partial Similarity Based on Maximal Margin Criterion.,Xiaoyang Tan,https://dblp.org/pid/79/768.html,CVPR,2006
+Learning Non-Metric Partial Similarity Based on Maximal Margin Criterion.,Songcan Chen,https://dblp.org/pid/60/5111.html,CVPR,2006
+Learning Non-Metric Partial Similarity Based on Maximal Margin Criterion.,Jun Li,https://dblp.org/pid/116/1011.html,CVPR,2006
+Learning Non-Metric Partial Similarity Based on Maximal Margin Criterion.,Zhi-Hua Zhou,https://dblp.org/pid/z/ZhiHuaZhou.html,CVPR,2006
+Distributed Cost Boosting and Bounds on Mis-classification Cost.,John P. Kaufhold,https://dblp.org/pid/70/4703.html,CVPR,2006
+Distributed Cost Boosting and Bounds on Mis-classification Cost.,Justin Abbott,https://dblp.org/pid/60/84.html,CVPR,2006
+Distributed Cost Boosting and Bounds on Mis-classification Cost.,Robert Kaucic,https://dblp.org/pid/80/1423.html,CVPR,2006
+Equivalence of Non-Iterative Algorithms for Simultaneous Low Rank Approximations of Matrices.,Kohei Inoue,https://dblp.org/pid/37/1673.html,CVPR,2006
+Equivalence of Non-Iterative Algorithms for Simultaneous Low Rank Approximations of Matrices.,Kiichi Urahama,https://dblp.org/pid/36/259.html,CVPR,2006
+Semi-Supervised Classification Using Linear Neighborhood Propagation.,Fei Wang,https://dblp.org/pid/52/3194-1.html,CVPR,2006
+Semi-Supervised Classification Using Linear Neighborhood Propagation.,Changshui Zhang,https://dblp.org/pid/z/ChangshuiZhang.html,CVPR,2006
+Semi-Supervised Classification Using Linear Neighborhood Propagation.,Helen C. Shen,https://dblp.org/pid/07/2356.html,CVPR,2006
+Semi-Supervised Classification Using Linear Neighborhood Propagation.,Jingdong Wang,https://dblp.org/pid/49/3441.html,CVPR,2006
+Learning Semantic Patterns with Discriminant Localized Binary Projections.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,CVPR,2006
+Learning Semantic Patterns with Discriminant Localized Binary Projections.,Tianqiang Yuan,https://dblp.org/pid/75/2649.html,CVPR,2006
+Learning Semantic Patterns with Discriminant Localized Binary Projections.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Rank-one Projections with Adaptive Margins for Face Recognition.,Dong Xu,https://dblp.org/pid/09/3493-1.html,CVPR,2006
+Rank-one Projections with Adaptive Margins for Face Recognition.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,CVPR,2006
+Rank-one Projections with Adaptive Margins for Face Recognition.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,CVPR,2006
+Rank-one Projections with Adaptive Margins for Face Recognition.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Hierarchical Statistical Learning of Generic Parts of Object Structure.,Sanja Fidler,https://dblp.org/pid/08/6607.html,CVPR,2006
+Hierarchical Statistical Learning of Generic Parts of Object Structure.,Gregor Berginc,https://dblp.org/pid/65/4893.html,CVPR,2006
+Hierarchical Statistical Learning of Generic Parts of Object Structure.,Ales Leonardis,https://dblp.org/pid/l/AlesLeonardis.html,CVPR,2006
+Spectral Methods for Automatic Multiscale Data Clustering.,Arik Azran,https://dblp.org/pid/62/788.html,CVPR,2006
+Spectral Methods for Automatic Multiscale Data Clustering.,Zoubin Ghahramani,https://dblp.org/pid/g/ZoubinGhahramani.html,CVPR,2006
+Impact of Dynamics on Subspace Embedding and Tracking of Sequences.,Kooksang Moon,https://dblp.org/pid/14/4656.html,CVPR,2006
+Impact of Dynamics on Subspace Embedding and Tracking of Sequences.,Vladimir Pavlovic,https://dblp.org/pid/98/2506.html,CVPR,2006
+Training Deformable Models for Localization.,Deva Ramanan,https://dblp.org/pid/49/488.html,CVPR,2006
+Training Deformable Models for Localization.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,CVPR,2006
+Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking.,Tony X. Han,https://dblp.org/pid/11/5694.html,CVPR,2006
+Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking.,Huazhong Ning,https://dblp.org/pid/75/804.html,CVPR,2006
+Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,CVPR,2006
+Conditional Random People: Tracking Humans with CRFs and Grid Filters.,Leonid Taycher,https://dblp.org/pid/25/1689.html,CVPR,2006
+Conditional Random People: Tracking Humans with CRFs and Grid Filters.,David Demirdjian,https://dblp.org/pid/d/DavidDemirdjian.html,CVPR,2006
+Conditional Random People: Tracking Humans with CRFs and Grid Filters.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,CVPR,2006
+Conditional Random People: Tracking Humans with CRFs and Grid Filters.,Gregory Shakhnarovich,https://dblp.org/pid/17/1926.html,CVPR,2006
+Sparse and Semi-supervised Visual Mapping with the S3P.,Oliver Williams,https://dblp.org/pid/18/4107.html,CVPR,2006
+Sparse and Semi-supervised Visual Mapping with the S3P.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,CVPR,2006
+Sparse and Semi-supervised Visual Mapping with the S3P.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,CVPR,2006
+3D People Tracking with Gaussian Process Dynamical Models.,Raquel Urtasun,https://dblp.org/pid/u/RaquelUrtasun.html,CVPR,2006
+3D People Tracking with Gaussian Process Dynamical Models.,David J. Fleet,https://dblp.org/pid/07/2099.html,CVPR,2006
+3D People Tracking with Gaussian Process Dynamical Models.,Pascal Fua,https://dblp.org/pid/f/PFua.html,CVPR,2006
+Diffusion Distance for Histogram Comparison.,Haibin Ling,https://dblp.org/pid/93/3488.html,CVPR,2006
+Diffusion Distance for Histogram Comparison.,Kazunori Okada,https://dblp.org/pid/83/4587.html,CVPR,2006
+Transformation invariant component analysis for binary images.,Zoran Zivkovic,https://dblp.org/pid/91/4026.html,CVPR,2006
+Transformation invariant component analysis for binary images.,Jakob Verbeek,https://dblp.org/pid/v/JakobJVerbeek.html,CVPR,2006
+On-line Boosting and Vision.,Helmut Grabner,https://dblp.org/pid/25/1065.html,CVPR,2006
+On-line Boosting and Vision.,Horst Bischof,https://dblp.org/pid/69/3793.html,CVPR,2006
+Discriminative Learning of Mixture of Bayesian Network Classifiers for Sequence Classification.,Minyoung Kim,https://dblp.org/pid/34/5733.html,CVPR,2006
+Discriminative Learning of Mixture of Bayesian Network Classifiers for Sequence Classification.,Vladimir Pavlovic,https://dblp.org/pid/98/2506.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Vassili Kovalev,https://dblp.org/pid/97/4066.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Nathalie Harder,https://dblp.org/pid/76/6906.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Beate Neumann,https://dblp.org/pid/20/2487.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Michael Held,https://dblp.org/pid/61/3561.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Urban Liebel,https://dblp.org/pid/80/1653.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Holger Erfle,https://dblp.org/pid/89/699.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Jan Ellenberg,https://dblp.org/pid/74/4229.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Roland Eils,https://dblp.org/pid/63/1724.html,CVPR,2006
+Feature Selection for Evaluating Fluorescence Microscopy Images in Genome-Wide Cell Screens.,Karl Rohr,https://dblp.org/pid/69/2417.html,CVPR,2006
+Large-scale Learning with SVM and Convolutional for Generic Object Categorization.,Fu Jie Huang,https://dblp.org/pid/30/736.html,CVPR,2006
+Large-scale Learning with SVM and Convolutional for Generic Object Categorization.,Yann LeCun,https://dblp.org/pid/l/YannLeCun.html,CVPR,2006
+Grouping with Asymmetric Affinities: A Game-Theoretic Perspective.,Andrea Torsello,https://dblp.org/pid/11/2491.html,CVPR,2006
+Grouping with Asymmetric Affinities: A Game-Theoretic Perspective.,Samuel Rota Bulò,https://dblp.org/pid/05/4139.html,CVPR,2006
+Grouping with Asymmetric Affinities: A Game-Theoretic Perspective.,Marcello Pelillo,https://dblp.org/pid/42/1745.html,CVPR,2006
+A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Prob.,Rik Fransens,https://dblp.org/pid/47/1032.html,CVPR,2006
+A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Prob.,Christoph Strecha,https://dblp.org/pid/27/3603.html,CVPR,2006
+A Mean Field EM-algorithm for Coherent Occlusion Handling in MAP-Estimation Prob.,Luc Van Gool,https://dblp.org/pid/61/5017.html,CVPR,2006
+Improving Recognition of Novel Input with Similarity.,Jerod J. Weinman,https://dblp.org/pid/50/2682.html,CVPR,2006
+Improving Recognition of Novel Input with Similarity.,Erik G. Learned-Miller,https://dblp.org/pid/l/ErikGLearnedMiller.html,CVPR,2006
+Toward Robust Distance Metric Analysis for Similarity Estimation.,Jie Yu,https://dblp.org/pid/74/3437-1.html,CVPR,2006
+Toward Robust Distance Metric Analysis for Similarity Estimation.,Qi Tian,https://dblp.org/pid/78/1467-1.html,CVPR,2006
+Toward Robust Distance Metric Analysis for Similarity Estimation.,Jaume Amores,https://dblp.org/pid/75/4824.html,CVPR,2006
+Toward Robust Distance Metric Analysis for Similarity Estimation.,Nicu Sebe,https://dblp.org/pid/20/3519.html,CVPR,2006
+When Fisher meets Fukunaga-Koontz: A New Look at Linear Discriminants.,Sheng Zhang,https://dblp.org/pid/69/6137-7.html,CVPR,2006
+When Fisher meets Fukunaga-Koontz: A New Look at Linear Discriminants.,Terence Sim,https://dblp.org/pid/78/392.html,CVPR,2006
+Learning Boosted Asymmetric Classifiers for Object Detection.,Xinwen Hou,https://dblp.org/pid/76/5119.html,CVPR,2006
+Learning Boosted Asymmetric Classifiers for Object Detection.,Cheng-Lin Liu,https://dblp.org/pid/24/3006.html,CVPR,2006
+Learning Boosted Asymmetric Classifiers for Object Detection.,Tieniu Tan,https://dblp.org/pid/t/TieniuTan.html,CVPR,2006
+Lensless Imaging with a Controllable Aperture.,Assaf Zomet,https://dblp.org/pid/48/2087.html,CVPR,2006
+Lensless Imaging with a Controllable Aperture.,Shree K. Nayar,https://dblp.org/pid/n/ShreeKNayar.html,CVPR,2006
+Picture Collage.,Jingdong Wang,https://dblp.org/pid/49/3441.html,CVPR,2006
+Picture Collage.,Long Quan,https://dblp.org/pid/04/575.html,CVPR,2006
+Picture Collage.,Jian Sun,https://dblp.org/pid/68/4942-1.html,CVPR,2006
+Picture Collage.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Picture Collage.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,CVPR,2006
+Accurate Tracking of Monotonically Advancing Fronts.,M. Sabry Hassouna,https://dblp.org/pid/15/1204.html,CVPR,2006
+Accurate Tracking of Monotonically Advancing Fronts.,Aly A. Farag,https://dblp.org/pid/55/6410.html,CVPR,2006
+Real Time Localization and 3D Reconstruction.,E. Mouragnon,https://dblp.org/pid/63/5135.html,CVPR,2006
+Real Time Localization and 3D Reconstruction.,Maxime Lhuillier,https://dblp.org/pid/l/MaximeLhuillier.html,CVPR,2006
+Real Time Localization and 3D Reconstruction.,Michel Dhome,https://dblp.org/pid/20/5690.html,CVPR,2006
+Real Time Localization and 3D Reconstruction.,Fabien Dekeyser,https://dblp.org/pid/62/742.html,CVPR,2006
+Real Time Localization and 3D Reconstruction.,Patrick Sayd,https://dblp.org/pid/61/2903.html,CVPR,2006
+Panoramic 3D Reconstruction Using Rotational Stereo Camera with Simple Epipolar Constraints.,Wei Jiang,https://dblp.org/pid/21/3839.html,CVPR,2006
+Panoramic 3D Reconstruction Using Rotational Stereo Camera with Simple Epipolar Constraints.,Masatoshi Okutomi,https://dblp.org/pid/17/5585.html,CVPR,2006
+Panoramic 3D Reconstruction Using Rotational Stereo Camera with Simple Epipolar Constraints.,Shigeki Sugimoto,https://dblp.org/pid/21/4815.html,CVPR,2006
+Contour-Based Structure from Reflection.,Po-Hao Huang,https://dblp.org/pid/21/6254.html,CVPR,2006
+Contour-Based Structure from Reflection.,Shang-Hong Lai,https://dblp.org/pid/27/679.html,CVPR,2006
+Modeling Age Progression in Young Faces.,Narayanan Ramanathan,https://dblp.org/pid/07/4607.html,CVPR,2006
+Modeling Age Progression in Young Faces.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,CVPR,2006
+Multi-Resolution Patch Tensor for Facial Expression Hallucination.,Kui Jia,https://dblp.org/pid/60/3834.html,CVPR,2006
+Multi-Resolution Patch Tensor for Facial Expression Hallucination.,Shaogang Gong,https://dblp.org/pid/17/4389.html,CVPR,2006
+How Do Movie Viewers Perceive Scene Structure from Dynamic Cues.,Loong Fah Cheong,https://dblp.org/pid/c/LoongFahCheong.html,CVPR,2006
+How Do Movie Viewers Perceive Scene Structure from Dynamic Cues.,Xu Xiang,https://dblp.org/pid/41/3059.html,CVPR,2006
+Video Completion by Motion Field Transfer.,Takaaki Shiratori,https://dblp.org/pid/17/5270.html,CVPR,2006
+Video Completion by Motion Field Transfer.,Yasuyuki Matsushita,https://dblp.org/pid/11/3619.html,CVPR,2006
+Video Completion by Motion Field Transfer.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Video Completion by Motion Field Transfer.,Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,CVPR,2006
+The Design of High-Level Features for Photo Quality Assessment.,Yan Ke,https://dblp.org/pid/13/6836.html,CVPR,2006
+The Design of High-Level Features for Photo Quality Assessment.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+The Design of High-Level Features for Photo Quality Assessment.,Feng Jing,https://dblp.org/pid/49/6424.html,CVPR,2006
+Quantitative Evaluation of Near Regular Texture Synthesis Algorithms.,Wen-Chieh Lin,https://dblp.org/pid/43/6790.html,CVPR,2006
+Quantitative Evaluation of Near Regular Texture Synthesis Algorithms.,James Hays,https://dblp.org/pid/57/5958.html,CVPR,2006
+Quantitative Evaluation of Near Regular Texture Synthesis Algorithms.,Chenyu Wu,https://dblp.org/pid/33/2049.html,CVPR,2006
+Quantitative Evaluation of Near Regular Texture Synthesis Algorithms.,Yanxi Liu,https://dblp.org/pid/l/YanxiLiu.html,CVPR,2006
+Quantitative Evaluation of Near Regular Texture Synthesis Algorithms.,Vivek Kwatra,https://dblp.org/pid/27/6787.html,CVPR,2006
+Making a Long Video Short: Dynamic Video Synopsis.,Alex Rav-Acha,https://dblp.org/pid/90/2121.html,CVPR,2006
+Making a Long Video Short: Dynamic Video Synopsis.,Yael Pritch,https://dblp.org/pid/15/1134.html,CVPR,2006
+Making a Long Video Short: Dynamic Video Synopsis.,Shmuel Peleg,https://dblp.org/pid/p/ShmuelPeleg.html,CVPR,2006
+Image Completion Using Global Optimization.,Nikos Komodakis,https://dblp.org/pid/05/3782.html,CVPR,2006
+RANSAC for (Quasi-)Degenerate data (QDEGSAC).,Jan-Michael Frahm,https://dblp.org/pid/19/6011.html,CVPR,2006
+RANSAC for (Quasi-)Degenerate data (QDEGSAC).,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,CVPR,2006
+Single-Image Vignetting Correction.,Yuanjie Zheng,https://dblp.org/pid/44/3875.html,CVPR,2006
+Single-Image Vignetting Correction.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,CVPR,2006
+Single-Image Vignetting Correction.,Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,CVPR,2006
+Scalable Monocular SLAM.,Ethan Eade,https://dblp.org/pid/67/5758.html,CVPR,2006
+Scalable Monocular SLAM.,Tom Drummond,https://dblp.org/pid/50/1633.html,CVPR,2006
+Structure from Motion with Known Camera Positions.,Rodrigo L. Carceroni,https://dblp.org/pid/35/5682.html,CVPR,2006
+Structure from Motion with Known Camera Positions.,Ankita Kumar,https://dblp.org/pid/03/3767.html,CVPR,2006
+Structure from Motion with Known Camera Positions.,Kostas Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,CVPR,2006
+Removing Outliers Using The L\infty Norm.,Kristy Sim,https://dblp.org/pid/34/622.html,CVPR,2006
+Removing Outliers Using The L\infty Norm.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,CVPR,2006
+Polarization-based Surface Reconstruction via Patch Matching.,Gary A. Atkinson,https://dblp.org/pid/02/3841.html,CVPR,2006
+Polarization-based Surface Reconstruction via Patch Matching.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,CVPR,2006
+Hierarchical Volumetric Multi-view Stereo Reconstruction of Manifold Surfaces based on Dual Graph Embedding.,Alexander Hornung,https://dblp.org/pid/46/4142.html,CVPR,2006
+Hierarchical Volumetric Multi-view Stereo Reconstruction of Manifold Surfaces based on Dual Graph Embedding.,Leif Kobbelt,https://dblp.org/pid/k/LeifKobbelt.html,CVPR,2006
+Improving Border Localization of Multi-Baseline Stereo Using Border-Cut.,Marc-Antoine Drouin,https://dblp.org/pid/28/1359.html,CVPR,2006
+Improving Border Localization of Multi-Baseline Stereo Using Border-Cut.,Martin Trudeau,https://dblp.org/pid/23/5059.html,CVPR,2006
+Improving Border Localization of Multi-Baseline Stereo Using Border-Cut.,Sébastien Roy,https://dblp.org/pid/43/1661-1.html,CVPR,2006
+A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,CVPR,2006
+A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.,Brian Curless,https://dblp.org/pid/c/BrianCurless.html,CVPR,2006
+A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.,James Diebel,https://dblp.org/pid/75/5314.html,CVPR,2006
+A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.,Daniel Scharstein,https://dblp.org/pid/s/DanielScharstein.html,CVPR,2006
+A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms.,Richard Szeliski,https://dblp.org/pid/46/2186.html,CVPR,2006
+A General Framework and New Alignment Criterion for Dense Optical Flow.,Rami Ben-Ari,https://dblp.org/pid/07/1624.html,CVPR,2006
+A General Framework and New Alignment Criterion for Dense Optical Flow.,Nir A. Sochen,https://dblp.org/pid/s/NirASochen.html,CVPR,2006
+Using Stationary-Dynamic Camera Assemblies for Wide-area Video Surveillance and Selective Attention.,Ankur Jain,https://dblp.org/pid/77/1658.html,CVPR,2006
+Using Stationary-Dynamic Camera Assemblies for Wide-area Video Surveillance and Selective Attention.,Dan Koppel,https://dblp.org/pid/43/5032.html,CVPR,2006
+Using Stationary-Dynamic Camera Assemblies for Wide-area Video Surveillance and Selective Attention.,Kyle Kakligian,https://dblp.org/pid/54/114.html,CVPR,2006
+Using Stationary-Dynamic Camera Assemblies for Wide-area Video Surveillance and Selective Attention.,Yuan-Fang Wang,https://dblp.org/pid/13/6125.html,CVPR,2006
+Modeling Correspondences for Multi-Camera Tracking Using Nonlinear Manifold Learning and Target Dynamics.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,CVPR,2006
+Modeling Correspondences for Multi-Camera Tracking Using Nonlinear Manifold Learning and Target Dynamics.,Octavia I. Camps,https://dblp.org/pid/69/6960.html,CVPR,2006
+Efficient Maximally Stable Extremal Region (MSER) Tracking.,Michael Donoser,https://dblp.org/pid/29/4499.html,CVPR,2006
+Efficient Maximally Stable Extremal Region (MSER) Tracking.,Horst Bischof,https://dblp.org/pid/69/3793.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Gang Wu,https://dblp.org/pid/99/6515-5.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Amir M. Rahimi,https://dblp.org/pid/126/1617.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Edward Y. Chang,https://dblp.org/pid/c/EdwardYChang.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Kingshy Goh,https://dblp.org/pid/47/3773.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Tomy Tsai,https://dblp.org/pid/07/4199.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Ankur Jain,https://dblp.org/pid/77/1658.html,CVPR,2006
+Identifying Color in Motion in Video Sensors.,Yuan-Fang Wang,https://dblp.org/pid/13/6125.html,CVPR,2006
+Spatial Divide and Conquer with Motion Cues for Tracking through Clutter.,Zhaozheng Yin,https://dblp.org/pid/89/4637.html,CVPR,2006
+Spatial Divide and Conquer with Motion Cues for Tracking through Clutter.,Robert T. Collins,https://dblp.org/pid/76/2806.html,CVPR,2006
+Robust multi-target tracking using spatio-temporal context.,Hieu Tat Nguyen,https://dblp.org/pid/10/4830.html,CVPR,2006
+Robust multi-target tracking using spatio-temporal context.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Robust multi-target tracking using spatio-temporal context.,Arnold W. M. Smeulders,https://dblp.org/pid/15/5400.html,CVPR,2006
+Unsupervised Bayesian Detection of Independent Motion in Crowds.,Gabriel J. Brostow,https://dblp.org/pid/41/281.html,CVPR,2006
+Unsupervised Bayesian Detection of Independent Motion in Crowds.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,CVPR,2006
+A Joint Illumination and Shape Model for Visual Tracking.,Amit A. Kale,https://dblp.org/pid/54/5169.html,CVPR,2006
+A Joint Illumination and Shape Model for Visual Tracking.,Christopher O. Jaynes,https://dblp.org/pid/46/1071.html,CVPR,2006
+Kernel-based Template Alignment.,Igor Guskov,https://dblp.org/pid/80/6081.html,CVPR,2006
+Toward Optimal Kernel-based Tracking.,Maneesh Dewan,https://dblp.org/pid/91/5549.html,CVPR,2006
+Interactive Feature Tracking using K-D Trees and Dynamic Programming.,Aeron Buchanan,https://dblp.org/pid/81/4.html,CVPR,2006
+Interactive Feature Tracking using K-D Trees and Dynamic Programming.,Andrew W. Fitzgibbon,https://dblp.org/pid/f/AndrewWFitzgibbon.html,CVPR,2006
+A Novel Data Association Algorithm for Object Tracking in Clutter with Application to Tennis Video Analysis.,Fei Yan,https://dblp.org/pid/52/4851-1.html,CVPR,2006
+A Novel Data Association Algorithm for Object Tracking in Clutter with Application to Tennis Video Analysis.,Alexey Kostin,https://dblp.org/pid/25/999.html,CVPR,2006
+A Novel Data Association Algorithm for Object Tracking in Clutter with Application to Tennis Video Analysis.,William J. Christmas,https://dblp.org/pid/19/5515.html,CVPR,2006
+A Novel Data Association Algorithm for Object Tracking in Clutter with Application to Tennis Video Analysis.,Josef Kittler,https://dblp.org/pid/k/JosefKittler.html,CVPR,2006
+Fusion of Detection and Matching Based Approaches for Laser Based Multiple People Tracking.,Jinshi Cui,https://dblp.org/pid/21/2565.html,CVPR,2006
+Fusion of Detection and Matching Based Approaches for Laser Based Multiple People Tracking.,Huijing Zhao,https://dblp.org/pid/95/967.html,CVPR,2006
+Fusion of Detection and Matching Based Approaches for Laser Based Multiple People Tracking.,Ryosuke Shibasaki,https://dblp.org/pid/00/2937.html,CVPR,2006
+Measurement integration under inconsistency for robust tracking.,Gang Hua,https://dblp.org/pid/75/5209.html,CVPR,2006
+Measurement integration under inconsistency for robust tracking.,Ying Wu,https://dblp.org/pid/64/5840-1.html,CVPR,2006
+Efficient Optimal Kernel Placement for Reliable Visual Tracking.,Zhimin Fan,https://dblp.org/pid/36/338.html,CVPR,2006
+Efficient Optimal Kernel Placement for Reliable Visual Tracking.,Ming Yang,https://dblp.org/pid/98/2604-7.html,CVPR,2006
+Efficient Optimal Kernel Placement for Reliable Visual Tracking.,Ying Wu,https://dblp.org/pid/64/5840-1.html,CVPR,2006
+Efficient Optimal Kernel Placement for Reliable Visual Tracking.,Gang Hua,https://dblp.org/pid/75/5209.html,CVPR,2006
+Efficient Optimal Kernel Placement for Reliable Visual Tracking.,Ting Yu,https://dblp.org/pid/y/TingYu-3.html,CVPR,2006
+Multi-Object Tracking Through Simultaneous Long Occlusions and Split-Merge Conditions.,A. G. Amitha Perera,https://dblp.org/pid/13/2828.html,CVPR,2006
+Multi-Object Tracking Through Simultaneous Long Occlusions and Split-Merge Conditions.,Chukka Srinivas,https://dblp.org/pid/73/5930.html,CVPR,2006
+Multi-Object Tracking Through Simultaneous Long Occlusions and Split-Merge Conditions.,Anthony Hoogs,https://dblp.org/pid/15/5671.html,CVPR,2006
+Multi-Object Tracking Through Simultaneous Long Occlusions and Split-Merge Conditions.,Glen Brooksby,https://dblp.org/pid/67/2274.html,CVPR,2006
+Multi-Object Tracking Through Simultaneous Long Occlusions and Split-Merge Conditions.,Wensheng Hu,https://dblp.org/pid/21/5063.html,CVPR,2006
+Tracking With Sobolev Active Contours.,Ganesh Sundaramoorthi,https://dblp.org/pid/11/1348.html,CVPR,2006
+Tracking With Sobolev Active Contours.,Jeremy D. Jackson,https://dblp.org/pid/51/1490.html,CVPR,2006
+Tracking With Sobolev Active Contours.,Anthony J. Yezzi,https://dblp.org/pid/y/AJYezzi.html,CVPR,2006
+Tracking With Sobolev Active Contours.,Andrea Mennucci,https://dblp.org/pid/86/3647.html,CVPR,2006
+Robust Real-Time Face Pose and Facial Expression Recovery.,Zhiwei Zhu,https://dblp.org/pid/19/3995.html,CVPR,2006
+Robust Real-Time Face Pose and Facial Expression Recovery.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Off-road Path Following using Region Classification and Geometric Projection Constraints.,Yaniv Alon,https://dblp.org/pid/26/5708.html,CVPR,2006
+Off-road Path Following using Region Classification and Geometric Projection Constraints.,Andras Ferencz,https://dblp.org/pid/39/6806.html,CVPR,2006
+Off-road Path Following using Region Classification and Geometric Projection Constraints.,Amnon Shashua,https://dblp.org/pid/47/1492.html,CVPR,2006
+Intelligent Collaborative Tracking by Mining Auxiliary Objects.,Ming Yang,https://dblp.org/pid/98/2604-7.html,CVPR,2006
+Intelligent Collaborative Tracking by Mining Auxiliary Objects.,Ying Wu,https://dblp.org/pid/64/5840-1.html,CVPR,2006
+Intelligent Collaborative Tracking by Mining Auxiliary Objects.,Shihong Lao,https://dblp.org/pid/88/5273.html,CVPR,2006
+Counting Crowded Moving Objects.,Vincent C. Rabaud,https://dblp.org/pid/198/2246.html,CVPR,2006
+Counting Crowded Moving Objects.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,CVPR,2006
+Automatic Kinematic Chain Building from Feature Trajectories of Articulated Objects.,Jingyu Yan,https://dblp.org/pid/66/4128.html,CVPR,2006
+Automatic Kinematic Chain Building from Feature Trajectories of Articulated Objects.,Marc Pollefeys,https://dblp.org/pid/p/MarcPollefeys.html,CVPR,2006
+Differential Tracking based on Spatial-Appearance Model (SAM).,Ting Yu,https://dblp.org/pid/y/TingYu-3.html,CVPR,2006
+Differential Tracking based on Spatial-Appearance Model (SAM).,Ying Wu,https://dblp.org/pid/64/5840-1.html,CVPR,2006
+Covariance Tracking using Model Update Based on Lie Algebra.,Fatih Porikli,https://dblp.org/pid/p/FatihMuratPorikli.html,CVPR,2006
+Covariance Tracking using Model Update Based on Lie Algebra.,Oncel Tuzel,https://dblp.org/pid/73/2943.html,CVPR,2006
+Covariance Tracking using Model Update Based on Lie Algebra.,Peter Meer,https://dblp.org/pid/60/6290.html,CVPR,2006
+A New Deformable Model for Boundary Tracking in Cardiac MRI and Its Application to the Detection of Intra-Ventricular Dyssynchrony.,Paulo F. U. Gotardo,https://dblp.org/pid/33/4206.html,CVPR,2006
+A New Deformable Model for Boundary Tracking in Cardiac MRI and Its Application to the Detection of Intra-Ventricular Dyssynchrony.,Kim L. Boyer,https://dblp.org/pid/63/3117.html,CVPR,2006
+A New Deformable Model for Boundary Tracking in Cardiac MRI and Its Application to the Detection of Intra-Ventricular Dyssynchrony.,Joel H. Saltz,https://dblp.org/pid/s/JoelHSaltz.html,CVPR,2006
+A New Deformable Model for Boundary Tracking in Cardiac MRI and Its Application to the Detection of Intra-Ventricular Dyssynchrony.,Subha V. Raman,https://dblp.org/pid/02/2175.html,CVPR,2006
+Robust People Tracking with Global Trajectory Optimization.,Jérôme Berclaz,https://dblp.org/pid/88/3819.html,CVPR,2006
+Robust People Tracking with Global Trajectory Optimization.,François Fleuret,https://dblp.org/pid/90/5265.html,CVPR,2006
+Robust People Tracking with Global Trajectory Optimization.,Pascal Fua,https://dblp.org/pid/f/PFua.html,CVPR,2006
+Dynamic Appearance Modeling for Human Tracking.,Hwasup Lim,https://dblp.org/pid/99/510.html,CVPR,2006
+Dynamic Appearance Modeling for Human Tracking.,Octavia I. Camps,https://dblp.org/pid/69/6960.html,CVPR,2006
+Dynamic Appearance Modeling for Human Tracking.,Mario Sznaier,https://dblp.org/pid/14/1686.html,CVPR,2006
+Dynamic Appearance Modeling for Human Tracking.,Vlad I. Morariu,https://dblp.org/pid/27/6671.html,CVPR,2006
+An Adaptive Appearance Model Approach for Model-based Articulated Object Tracking.,Alexandru O. Balan,https://dblp.org/pid/55/2425.html,CVPR,2006
+An Adaptive Appearance Model Approach for Model-based Articulated Object Tracking.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,CVPR,2006
+Gesture Recognition using Hidden Markov Models from Fragmented Observations.,Ruiduo Yang,https://dblp.org/pid/92/1773.html,CVPR,2006
+Gesture Recognition using Hidden Markov Models from Fragmented Observations.,Sudeep Sarkar,https://dblp.org/pid/72/3470.html,CVPR,2006
+Tracking of the Articulated Upper Body on Multi-View Stereo Image Sequences.,Julius Ziegler,https://dblp.org/pid/99/4882.html,CVPR,2006
+Tracking of the Articulated Upper Body on Multi-View Stereo Image Sequences.,Kai Nickel,https://dblp.org/pid/74/2506.html,CVPR,2006
+Tracking of the Articulated Upper Body on Multi-View Stereo Image Sequences.,Rainer Stiefelhagen,https://dblp.org/pid/31/4699.html,CVPR,2006
+Regression-based Hand Pose Estimation from Multiple Cameras.,Teófilo Emídio de Campos,https://dblp.org/pid/94/4509.html,CVPR,2006
+Regression-based Hand Pose Estimation from Multiple Cameras.,David William Murray,https://dblp.org/pid/60/5939-1.html,CVPR,2006
+A Modular Approach to the Analysis and Evaluation of Particle Filters for Figure Tracking.,Ping Wang,https://dblp.org/pid/37/1304-12.html,CVPR,2006
+A Modular Approach to the Analysis and Evaluation of Particle Filters for Figure Tracking.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,CVPR,2006
+Robust Fragments-based Tracking using the Integral Histogram.,Amit Adam,https://dblp.org/pid/84/2369.html,CVPR,2006
+Robust Fragments-based Tracking using the Integral Histogram.,Ehud Rivlin,https://dblp.org/pid/32/5978.html,CVPR,2006
+Robust Fragments-based Tracking using the Integral Histogram.,Ilan Shimshoni,https://dblp.org/pid/12/5204.html,CVPR,2006
+Robust Visual Tracking Using Case-Based Reasoning with Confidence.,Zhiwei Zhu,https://dblp.org/pid/19/3995.html,CVPR,2006
+Robust Visual Tracking Using Case-Based Reasoning with Confidence.,Wenhui Liao,https://dblp.org/pid/26/6292.html,CVPR,2006
+Robust Visual Tracking Using Case-Based Reasoning with Confidence.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Learning a manifold-constrained map between image sets: applications to matching and pose estimation.,Jihun Ham,https://dblp.org/pid/69/7426.html,CVPR,2006
+Learning a manifold-constrained map between image sets: applications to matching and pose estimation.,Ikkjin Ahn,https://dblp.org/pid/39/912.html,CVPR,2006
+Learning a manifold-constrained map between image sets: applications to matching and pose estimation.,Daniel D. Lee,https://dblp.org/pid/38/5967.html,CVPR,2006
+Non-rigid Image Registration Using Geometric Features and Local Salient Region Features.,Jinzhong Yang,https://dblp.org/pid/11/3940.html,CVPR,2006
+Non-rigid Image Registration Using Geometric Features and Local Salient Region Features.,Rick S. Blum,https://dblp.org/pid/11/4798.html,CVPR,2006
+Non-rigid Image Registration Using Geometric Features and Local Salient Region Features.,James P. Williams,https://dblp.org/pid/90/6821-1.html,CVPR,2006
+Non-rigid Image Registration Using Geometric Features and Local Salient Region Features.,Yiyong Sun,https://dblp.org/pid/66/5969.html,CVPR,2006
+Non-rigid Image Registration Using Geometric Features and Local Salient Region Features.,Chenyang Xu,https://dblp.org/pid/82/5658-1.html,CVPR,2006
+Shape Representation based on Integral Kernels: Application to Image Matching and Segmentation.,Byung-Woo Hong,https://dblp.org/pid/16/3511.html,CVPR,2006
+Shape Representation based on Integral Kernels: Application to Image Matching and Segmentation.,Emmanuel Prados,https://dblp.org/pid/26/6163.html,CVPR,2006
+Shape Representation based on Integral Kernels: Application to Image Matching and Segmentation.,Stefano Soatto,https://dblp.org/pid/08/1262.html,CVPR,2006
+Shape Representation based on Integral Kernels: Application to Image Matching and Segmentation.,Luminita A. Vese,https://dblp.org/pid/69/1294.html,CVPR,2006
+Neighborhood Aided Implicit Active Contours.,Huafeng Liu,https://dblp.org/pid/48/4950-3.html,CVPR,2006
+Neighborhood Aided Implicit Active Contours.,Yunmei Chen,https://dblp.org/pid/c/YunmeiChen.html,CVPR,2006
+Neighborhood Aided Implicit Active Contours.,Wufan Chen,https://dblp.org/pid/48/4823.html,CVPR,2006
+Neighborhood Aided Implicit Active Contours.,Pengcheng Shi,https://dblp.org/pid/05/773.html,CVPR,2006
+An Intensity-augmented Ordinal Measure for Visual Correspondence.,Anurag Mittal,https://dblp.org/pid/59/6614.html,CVPR,2006
+An Intensity-augmented Ordinal Measure for Visual Correspondence.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,CVPR,2006
+Image Comparison by Compound Disjoint Information.,Zhaohui Sun,https://dblp.org/pid/85/5028.html,CVPR,2006
+Image Comparison by Compound Disjoint Information.,Anthony Hoogs,https://dblp.org/pid/15/5671.html,CVPR,2006
+Multi-Resolution Spin-Images.,H. Quynh Dinh,https://dblp.org/pid/48/1740.html,CVPR,2006
+Multi-Resolution Spin-Images.,Steven Kropac,https://dblp.org/pid/54/4725.html,CVPR,2006
+Robust Tracking and Stereo Matching under Variable Illumination.,Jingdan Zhang,https://dblp.org/pid/64/2421.html,CVPR,2006
+Robust Tracking and Stereo Matching under Variable Illumination.,Leonard McMillan,https://dblp.org/pid/m/LeonardMcMillan.html,CVPR,2006
+Robust Tracking and Stereo Matching under Variable Illumination.,Jingyi Yu,https://dblp.org/pid/58/4808.html,CVPR,2006
+Geometric Hashing with Local Affine Frames.,Ondrej Chum,https://dblp.org/pid/96/63.html,CVPR,2006
+Geometric Hashing with Local Affine Frames.,Jiri Matas,https://dblp.org/pid/m/JiriMatas.html,CVPR,2006
+Hierarchical Procrustes Matching for Shape Retrieval.,Graham McNeill,https://dblp.org/pid/91/1552.html,CVPR,2006
+Hierarchical Procrustes Matching for Shape Retrieval.,Sethu Vijayakumar,https://dblp.org/pid/68/1347.html,CVPR,2006
+Image Denoising Via Learned Dictionaries and Sparse representation.,Michael Elad,https://dblp.org/pid/e/MichaelElad.html,CVPR,2006
+Image Denoising Via Learned Dictionaries and Sparse representation.,Michal Aharon,https://dblp.org/pid/27/2725.html,CVPR,2006
+Noise Estimation from a Single Image.,Ce Liu,https://dblp.org/pid/61/3937-1.html,CVPR,2006
+Noise Estimation from a Single Image.,William T. Freeman,https://dblp.org/pid/86/6650.html,CVPR,2006
+Noise Estimation from a Single Image.,Richard Szeliski,https://dblp.org/pid/46/2186.html,CVPR,2006
+Noise Estimation from a Single Image.,Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,CVPR,2006
+Learning Patch Dependencies for Improved Pose Mismatched Face Verification.,Simon Lucey,https://dblp.org/pid/01/3542.html,CVPR,2006
+Learning Patch Dependencies for Improved Pose Mismatched Face Verification.,Tsuhan Chen,https://dblp.org/pid/c/TsuhanChen.html,CVPR,2006
+Continuous Super-Resolution for Recovery of 1-D Image Features: Algorithm and Performance Modeling.,Frédéric Champagnat,https://dblp.org/pid/07/5672.html,CVPR,2006
+Continuous Super-Resolution for Recovery of 1-D Image Features: Algorithm and Performance Modeling.,Guy Le Besnerais,https://dblp.org/pid/41/272.html,CVPR,2006
+Continuous Super-Resolution for Recovery of 1-D Image Features: Algorithm and Performance Modeling.,Caroline Kulcsar,https://dblp.org/pid/62/4500.html,CVPR,2006
+Extracting Subimages of an Unknown Category from a Set of Images.,Sinisa Todorovic,https://dblp.org/pid/01/6892.html,CVPR,2006
+Extracting Subimages of an Unknown Category from a Set of Images.,Narendra Ahuja,https://dblp.org/pid/30/3572.html,CVPR,2006
+Augmenting Shape with Appearance in Vehicle Category Recognition.,Özge Can Özcanli,https://dblp.org/pid/175/2262.html,CVPR,2006
+Augmenting Shape with Appearance in Vehicle Category Recognition.,Amir Tamrakar,https://dblp.org/pid/84/332.html,CVPR,2006
+Augmenting Shape with Appearance in Vehicle Category Recognition.,Benjamin B. Kimia,https://dblp.org/pid/90/2917.html,CVPR,2006
+Augmenting Shape with Appearance in Vehicle Category Recognition.,Joseph L. Mundy,https://dblp.org/pid/32/5297.html,CVPR,2006
+Composite Templates for Cloth Modeling and Sketching.,Hong Chen,https://dblp.org/pid/52/4150.html,CVPR,2006
+Composite Templates for Cloth Modeling and Sketching.,Zi Jian Xu,https://dblp.org/pid/45/3629-1.html,CVPR,2006
+Composite Templates for Cloth Modeling and Sketching.,Ziqiang Liu,https://dblp.org/pid/88/6615.html,CVPR,2006
+Composite Templates for Cloth Modeling and Sketching.,Song Chun Zhu,https://dblp.org/pid/10/10313.html,CVPR,2006
+"Tracking of Multiple, Partially Occluded Humans based on Static Body Part Detection.",Bo Wu,https://dblp.org/pid/47/6534-1.html,CVPR,2006
+"Tracking of Multiple, Partially Occluded Humans based on Static Body Part Detection.",Ram Nevatia,https://dblp.org/pid/n/RamakantNevatia.html,CVPR,2006
+The Function Space of an Activity.,Ashok Veeraraghavan,https://dblp.org/pid/84/858.html,CVPR,2006
+The Function Space of an Activity.,Amit K. Roy-Chowdhury,https://dblp.org/pid/c/AmitKRoyChowdhury.html,CVPR,2006
+Shape Guided Object Segmentation.,Eran Borenstein,https://dblp.org/pid/87/222.html,CVPR,2006
+Shape Guided Object Segmentation.,Jitendra Malik,https://dblp.org/pid/58/2944.html,CVPR,2006
+Shape-Based Approach to Robust Image Segmentation using Kernel PCA.,Samuel Dambreville,https://dblp.org/pid/61/4479.html,CVPR,2006
+Shape-Based Approach to Robust Image Segmentation using Kernel PCA.,Yogesh Rathi,https://dblp.org/pid/37/3484.html,CVPR,2006
+Shape-Based Approach to Robust Image Segmentation using Kernel PCA.,Allen R. Tannenbaum,https://dblp.org/pid/t/AllenTannenbaum.html,CVPR,2006
+Improved watershed segmentation using water diffusion and local shape priors.,Hieu Tat Nguyen,https://dblp.org/pid/10/4830.html,CVPR,2006
+Improved watershed segmentation using water diffusion and local shape priors.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs.,Carsten Rother,https://dblp.org/pid/r/CarstenRother.html,CVPR,2006
+Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs.,Thomas P. Minka,https://dblp.org/pid/m/ThomasPMinka.html,CVPR,2006
+Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,CVPR,2006
+Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs.,Vladimir Kolmogorov,https://dblp.org/pid/89/3764.html,CVPR,2006
+Weakly Supervised Top-down Image Segmentation.,Manuela Vasconcelos,https://dblp.org/pid/53/5209.html,CVPR,2006
+Weakly Supervised Top-down Image Segmentation.,Nuno Vasconcelos,https://dblp.org/pid/78/4806.html,CVPR,2006
+Weakly Supervised Top-down Image Segmentation.,Gustavo Carneiro,https://dblp.org/pid/53/3609.html,CVPR,2006
+Real-Time Semi-Automatic Segmentation Using a Bayesian Network.,Eric N. Mortensen,https://dblp.org/pid/43/635.html,CVPR,2006
+Real-Time Semi-Automatic Segmentation Using a Bayesian Network.,Jin Jia,https://dblp.org/pid/62/5689.html,CVPR,2006
+Segmentation by Level Sets and Symmetry.,Tammy Riklin-Raviv,https://dblp.org/pid/87/6827.html,CVPR,2006
+Segmentation by Level Sets and Symmetry.,Nahum Kiryati,https://dblp.org/pid/69/1868.html,CVPR,2006
+Segmentation by Level Sets and Symmetry.,Nir A. Sochen,https://dblp.org/pid/s/NirASochen.html,CVPR,2006
+Active Graph Cuts.,Olivier Juan,https://dblp.org/pid/07/4592.html,CVPR,2006
+Active Graph Cuts.,Yuri Boykov,https://dblp.org/pid/b/YuriBoykov.html,CVPR,2006
+Globally Optimal Grouping for Symmetric Boundaries.,Joachim S. Stahl,https://dblp.org/pid/99/751.html,CVPR,2006
+Globally Optimal Grouping for Symmetric Boundaries.,Song Wang,https://dblp.org/pid/62/3151-2.html,CVPR,2006
+A Geodesic Active Contour Framework for Finding Glass.,Kenton McHenry,https://dblp.org/pid/88/4303.html,CVPR,2006
+A Geodesic Active Contour Framework for Finding Glass.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,CVPR,2006
+Solving Markov Random Fields using Second Order Cone Programming Relaxations.,M. Pawan Kumar,https://dblp.org/pid/45/2527.html,CVPR,2006
+Solving Markov Random Fields using Second Order Cone Programming Relaxations.,Philip H. S. Torr,https://dblp.org/pid/t/PhilipHSTorr.html,CVPR,2006
+Solving Markov Random Fields using Second Order Cone Programming Relaxations.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,CVPR,2006
+Graph Partitioning by Spectral Rounding: Applications in Image Segmentation and Clustering.,David Tolliver,https://dblp.org/pid/35/5438.html,CVPR,2006
+Graph Partitioning by Spectral Rounding: Applications in Image Segmentation and Clustering.,Gary L. Miller,https://dblp.org/pid/m/GaryLMiller.html,CVPR,2006
+MRF's forMRI's: Bayesian Reconstruction of MR Images via Graph Cuts.,Ashish Raj,https://dblp.org/pid/63/2698.html,CVPR,2006
+MRF's forMRI's: Bayesian Reconstruction of MR Images via Graph Cuts.,Gurmeet Singh,https://dblp.org/pid/43/33.html,CVPR,2006
+MRF's forMRI's: Bayesian Reconstruction of MR Images via Graph Cuts.,Ramin Zabih,https://dblp.org/pid/z/RaminZabih.html,CVPR,2006
+Scale Variant Image Pyramids.,Joshua Gluckman,https://dblp.org/pid/89/6137.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Emmanuel Prados,https://dblp.org/pid/26/6163.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Stefano Soatto,https://dblp.org/pid/08/1262.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Christophe Lenglet,https://dblp.org/pid/62/1649.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Jean-Philippe Pons,https://dblp.org/pid/98/2742.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Nicolas Wotawa,https://dblp.org/pid/34/2564.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Rachid Deriche,https://dblp.org/pid/07/4284.html,CVPR,2006
+Control Theory and Fast Marching Techniques for Brain Connectivity Mapping.,Olivier D. Faugeras,https://dblp.org/pid/48/4143.html,CVPR,2006
+Vessel Crawlers: 3D Physically-based Deformable Organisms for Vasculature Segmentation and Analysis.,Chris McIntosh,https://dblp.org/pid/83/2445.html,CVPR,2006
+Vessel Crawlers: 3D Physically-based Deformable Organisms for Vasculature Segmentation and Analysis.,Ghassan Hamarneh,https://dblp.org/pid/h/GhassanHamarneh.html,CVPR,2006
+On Manifold Structure of Cardiac MRI Data: Application to Segmentation.,Qilong Zhang,https://dblp.org/pid/22/3730.html,CVPR,2006
+On Manifold Structure of Cardiac MRI Data: Application to Segmentation.,Richard Souvenir,https://dblp.org/pid/95/5553.html,CVPR,2006
+On Manifold Structure of Cardiac MRI Data: Application to Segmentation.,Robert Pless,https://dblp.org/pid/76/1967.html,CVPR,2006
+Fast Variational Segmentation using Partial Extremal Initialization.,Jan Erik Solem,https://dblp.org/pid/14/5633.html,CVPR,2006
+Fast Variational Segmentation using Partial Extremal Initialization.,Niels Chr. Overgaard,https://dblp.org/pid/02/5208.html,CVPR,2006
+Fast Variational Segmentation using Partial Extremal Initialization.,Markus Persson,https://dblp.org/pid/81/4965.html,CVPR,2006
+Fast Variational Segmentation using Partial Extremal Initialization.,Anders Heyden,https://dblp.org/pid/85/717.html,CVPR,2006
+Integration of Top-down and Bottom-up Information for Image Labeling.,Takahiro Toyoda,https://dblp.org/pid/29/3093.html,CVPR,2006
+Integration of Top-down and Bottom-up Information for Image Labeling.,Keisuke Tagami,https://dblp.org/pid/80/2102.html,CVPR,2006
+Integration of Top-down and Bottom-up Information for Image Labeling.,Osamu Hasegawa,https://dblp.org/pid/71/4386.html,CVPR,2006
+Statistical Analysis of Local 3D Structure in 2D Images.,Sinan Kalkan,https://dblp.org/pid/62/2714.html,CVPR,2006
+Statistical Analysis of Local 3D Structure in 2D Images.,Florentin Wörgötter,https://dblp.org/pid/37/5353.html,CVPR,2006
+Statistical Analysis of Local 3D Structure in 2D Images.,Norbert Krüger,https://dblp.org/pid/23/6840.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Ayelet Akselrod-Ballin,https://dblp.org/pid/74/2915.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Meirav Galun,https://dblp.org/pid/92/3521.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Ronen Basri,https://dblp.org/pid/b/RonenBasri.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Achi Brandt,https://dblp.org/pid/09/1013.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Moshe John Gomori,https://dblp.org/pid/91/2327.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Massimo Filippi,https://dblp.org/pid/91/6592.html,CVPR,2006
+An Integrated Segmentation and Classification Approach Applied to Multiple Sclerosis Analysis.,Paola Valsasina,https://dblp.org/pid/24/2761.html,CVPR,2006
+Model Order Selection and Cue Combination for Image Segmentation.,Andrew Rabinovich,https://dblp.org/pid/81/4193.html,CVPR,2006
+Model Order Selection and Cue Combination for Image Segmentation.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,CVPR,2006
+Model Order Selection and Cue Combination for Image Segmentation.,Tilman Lange,https://dblp.org/pid/35/5464.html,CVPR,2006
+Model Order Selection and Cue Combination for Image Segmentation.,Joachim M. Buhmann,https://dblp.org/pid/b/JMBuhmann.html,CVPR,2006
+Meta-Evaluation of Image Segmentation Using Machine Learning.,Hui Zhang,https://dblp.org/pid/z/HuiZhang10.html,CVPR,2006
+Meta-Evaluation of Image Segmentation Using Machine Learning.,Sharath R. Cholleti,https://dblp.org/pid/77/1989.html,CVPR,2006
+Meta-Evaluation of Image Segmentation Using Machine Learning.,Sally A. Goldman,https://dblp.org/pid/58/6348.html,CVPR,2006
+Meta-Evaluation of Image Segmentation Using Machine Learning.,Jason E. Fritts,https://dblp.org/pid/92/3416.html,CVPR,2006
+Image-Segmentation Evaluation From the Perspective of Salient Object Extraction.,Feng Ge,https://dblp.org/pid/25/2031.html,CVPR,2006
+Image-Segmentation Evaluation From the Perspective of Salient Object Extraction.,Song Wang,https://dblp.org/pid/62/3151-2.html,CVPR,2006
+Image-Segmentation Evaluation From the Perspective of Salient Object Extraction.,Tiecheng Liu,https://dblp.org/pid/11/5433.html,CVPR,2006
+Comparing Belief Propagation and Graph Cuts for Novelty Detection.,Shyjan Mahamud,https://dblp.org/pid/39/1510.html,CVPR,2006
+Acceleration Strategies for Gaussian Mean-Shift Image Segmentation.,Miguel Á. Carreira-Perpiñán,https://dblp.org/pid/23/5257.html,CVPR,2006
+Nonlinear Mean Shift for Clustering over Analytic Manifolds.,Raghav Subbarao,https://dblp.org/pid/95/4047.html,CVPR,2006
+Nonlinear Mean Shift for Clustering over Analytic Manifolds.,Peter Meer,https://dblp.org/pid/60/6290.html,CVPR,2006
+Dynamics Based Robust Motion Segmentation.,Roberto Lublinerman,https://dblp.org/pid/92/3144.html,CVPR,2006
+Dynamics Based Robust Motion Segmentation.,Mario Sznaier,https://dblp.org/pid/14/1686.html,CVPR,2006
+Dynamics Based Robust Motion Segmentation.,Octavia I. Camps,https://dblp.org/pid/69/6960.html,CVPR,2006
+Reconstruction with Interval Constraints Propagation.,Michela Farenzena,https://dblp.org/pid/81/1953.html,CVPR,2006
+Reconstruction with Interval Constraints Propagation.,Andrea Fusiello,https://dblp.org/pid/f/AndreaFusiello.html,CVPR,2006
+Reconstruction with Interval Constraints Propagation.,Agostino Dovier,https://dblp.org/pid/d/ADovier.html,CVPR,2006
+Non-Rigid Metric Shape and Motion Recovery from Uncalibrated Images Using Priors.,Alessio Del Bue,https://dblp.org/pid/73/6117.html,CVPR,2006
+Non-Rigid Metric Shape and Motion Recovery from Uncalibrated Images Using Priors.,Xavier Lladó,https://dblp.org/pid/32/4689.html,CVPR,2006
+Non-Rigid Metric Shape and Motion Recovery from Uncalibrated Images Using Priors.,Lourdes Agapito,https://dblp.org/pid/70/3697.html,CVPR,2006
+Uncertainty Models in Quasiconvex Optimization for Geometric Reconstruction.,Qifa Ke,https://dblp.org/pid/88/2889.html,CVPR,2006
+Uncertainty Models in Quasiconvex Optimization for Geometric Reconstruction.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,CVPR,2006
+"The Registration Problem Revisited: Optimal Solutions From Points, Lines and Planes.",Carl Olsson,https://dblp.org/pid/67/5489.html,CVPR,2006
+"The Registration Problem Revisited: Optimal Solutions From Points, Lines and Planes.",Fredrik Kahl,https://dblp.org/pid/01/7013.html,CVPR,2006
+"The Registration Problem Revisited: Optimal Solutions From Points, Lines and Planes.",Magnus Oskarsson,https://dblp.org/pid/43/2905.html,CVPR,2006
+Euclidean Structure from Confocal Conics: Theory and Application to Camera Calibration.,Pierre Gurdjos,https://dblp.org/pid/74/526.html,CVPR,2006
+Euclidean Structure from Confocal Conics: Theory and Application to Camera Calibration.,Jun-Sik Kim,https://dblp.org/pid/15/5827-1.html,CVPR,2006
+Euclidean Structure from Confocal Conics: Theory and Application to Camera Calibration.,In-So Kweon,https://dblp.org/pid/74/4917.html,CVPR,2006
+Are two rotational flows sufficient to calibrate a smooth non-parametric sensor?,Etienne Grossmann,https://dblp.org/pid/92/640.html,CVPR,2006
+Are two rotational flows sufficient to calibrate a smooth non-parametric sensor?,Eun-Joo Lee,https://dblp.org/pid/53/3079.html,CVPR,2006
+Are two rotational flows sufficient to calibrate a smooth non-parametric sensor?,Peter Hislop,https://dblp.org/pid/55/2954.html,CVPR,2006
+Are two rotational flows sufficient to calibrate a smooth non-parametric sensor?,David Nistér,https://dblp.org/pid/07/1533.html,CVPR,2006
+Are two rotational flows sufficient to calibrate a smooth non-parametric sensor?,Henrik Stewénius,https://dblp.org/pid/58/409.html,CVPR,2006
+Recovering Camera Motion Using L\infty Minimization.,Kristy Sim,https://dblp.org/pid/34/622.html,CVPR,2006
+Recovering Camera Motion Using L\infty Minimization.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,CVPR,2006
+Motion Estimation from Spheres.,Guoqiang Zhang,https://dblp.org/pid/24/5631.html,CVPR,2006
+Motion Estimation from Spheres.,Kwan-Yee Kenneth Wong,https://dblp.org/pid/w/KwanYeeKennethWong.html,CVPR,2006
+Real-Time Visual SLAM with Resilience to Erratic Motion.,Mark Pupilli,https://dblp.org/pid/10/3194.html,CVPR,2006
+Real-Time Visual SLAM with Resilience to Erratic Motion.,Andrew Calway,https://dblp.org/pid/c/AndrewCalway.html,CVPR,2006
+Homography from Coplanar Ellipses with Application to Forensic Blood Splatter Reconstruction.,John Wright,https://dblp.org/pid/10/3047-1.html,CVPR,2006
+Homography from Coplanar Ellipses with Application to Forensic Blood Splatter Reconstruction.,Andrew Wagner,https://dblp.org/pid/05/4874.html,CVPR,2006
+Homography from Coplanar Ellipses with Application to Forensic Blood Splatter Reconstruction.,Shankar R. Rao,https://dblp.org/pid/13/2244.html,CVPR,2006
+Homography from Coplanar Ellipses with Application to Forensic Blood Splatter Reconstruction.,Yi Ma,https://dblp.org/pid/69/1112-1.html,CVPR,2006
+Epipolar Geometry of Central Projection Systems Using Veronese Maps.,João Pedro Barreto,https://dblp.org/pid/b/JoaoPBarreto1.html,CVPR,2006
+Epipolar Geometry of Central Projection Systems Using Veronese Maps.,Kostas Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,CVPR,2006
+"""How many planar viewing surfaces are there in noncentral catadioptric cameras?"" Towards singe-image localization of space lines.",Vincenzo Caglioti,https://dblp.org/pid/21/1504.html,CVPR,2006
+"""How many planar viewing surfaces are there in noncentral catadioptric cameras?"" Towards singe-image localization of space lines.",Simone Gasparini,https://dblp.org/pid/62/2415.html,CVPR,2006
+Recursive Recovery of Position and Orientation from Stereo Image Sequences without Three-Dimensional Structures.,Ying Kin Yu,https://dblp.org/pid/70/5663.html,CVPR,2006
+Recursive Recovery of Position and Orientation from Stereo Image Sequences without Three-Dimensional Structures.,Kin-hong Wong,https://dblp.org/pid/11/2362.html,CVPR,2006
+Recursive Recovery of Position and Orientation from Stereo Image Sequences without Three-Dimensional Structures.,Siu-Hang Or,https://dblp.org/pid/95/5729.html,CVPR,2006
+Recursive Recovery of Position and Orientation from Stereo Image Sequences without Three-Dimensional Structures.,Michael Ming Yuen Chang,https://dblp.org/pid/210/8608.html,CVPR,2006
+Groupwise point pattern registration using a novel CDF-based Jensen-Shannon Divergence.,Fei Wang,https://dblp.org/pid/52/3194-2.html,CVPR,2006
+Groupwise point pattern registration using a novel CDF-based Jensen-Shannon Divergence.,Baba C. Vemuri,https://dblp.org/pid/93/1847.html,CVPR,2006
+Groupwise point pattern registration using a novel CDF-based Jensen-Shannon Divergence.,Anand Rangarajan,https://dblp.org/pid/90/6511-1.html,CVPR,2006
+An Efficiency Criterion for 2D Shape Model Selection..,Kathryn Leonard,https://dblp.org/pid/46/6845.html,CVPR,2006
+Fully Automatic Registration of 3D Point Clouds.,Ameesh Makadia,https://dblp.org/pid/59/6004.html,CVPR,2006
+Fully Automatic Registration of 3D Point Clouds.,Alexander Patterson,https://dblp.org/pid/94/3184.html,CVPR,2006
+Fully Automatic Registration of 3D Point Clouds.,Kostas Daniilidis,https://dblp.org/pid/d/KostasDaniilidis.html,CVPR,2006
+3D Alignment of Face in a Single Image.,Lie Gu,https://dblp.org/pid/38/3741.html,CVPR,2006
+3D Alignment of Face in a Single Image.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,CVPR,2006
+Accurate Face Alignment using Shape Constrained Markov Network.,Lin Liang,https://dblp.org/pid/91/5326.html,CVPR,2006
+Accurate Face Alignment using Shape Constrained Markov Network.,Fang Wen,https://dblp.org/pid/66/1922-1.html,CVPR,2006
+Accurate Face Alignment using Shape Constrained Markov Network.,Ying-Qing Xu,https://dblp.org/pid/66/2652.html,CVPR,2006
+Accurate Face Alignment using Shape Constrained Markov Network.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Accurate Face Alignment using Shape Constrained Markov Network.,Heung-Yeung Shum,https://dblp.org/pid/s/HarryShum.html,CVPR,2006
+Clustering Appearance for Scene Analysis.,Sanjeev J. Koppal,https://dblp.org/pid/86/5412.html,CVPR,2006
+Clustering Appearance for Scene Analysis.,Srinivasa G. Narasimhan,https://dblp.org/pid/57/2011.html,CVPR,2006
+Space-Time Video Montage.,Hong-Wen Kang,https://dblp.org/pid/42/4596.html,CVPR,2006
+Space-Time Video Montage.,Yasuyuki Matsushita,https://dblp.org/pid/11/3619.html,CVPR,2006
+Space-Time Video Montage.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Space-Time Video Montage.,Xue-Quan Chen,https://dblp.org/pid/16/3021.html,CVPR,2006
+Fast Compact City Modeling for Navigation Pre-Visualization.,Nico Cornelis,https://dblp.org/pid/09/3071.html,CVPR,2006
+Fast Compact City Modeling for Navigation Pre-Visualization.,Kurt Cornelis,https://dblp.org/pid/44/2625.html,CVPR,2006
+Fast Compact City Modeling for Navigation Pre-Visualization.,Luc Van Gool,https://dblp.org/pid/61/5017.html,CVPR,2006
+Single View Reconstruction of Curved Surfaces.,Mukta Prasad,https://dblp.org/pid/69/863.html,CVPR,2006
+Single View Reconstruction of Curved Surfaces.,Andrew W. Fitzgibbon,https://dblp.org/pid/f/AndrewWFitzgibbon.html,CVPR,2006
+Recognize High Resolution Faces: From Macrocosm to Microcosm.,Dahua Lin,https://dblp.org/pid/53/6088.html,CVPR,2006
+Recognize High Resolution Faces: From Macrocosm to Microcosm.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Local Steerable Phase (LSP) Feature for Face Representation and Recognition.,Xiaoxun Zhang,https://dblp.org/pid/57/4134.html,CVPR,2006
+Local Steerable Phase (LSP) Feature for Face Representation and Recognition.,Yunde Jia,https://dblp.org/pid/71/2334.html,CVPR,2006
+Fusion of Summation Invariants in 3D Human Face Recognition.,Wei-Yang Lin,https://dblp.org/pid/59/4249.html,CVPR,2006
+Fusion of Summation Invariants in 3D Human Face Recognition.,Kin-Chung Wong,https://dblp.org/pid/56/3759.html,CVPR,2006
+Fusion of Summation Invariants in 3D Human Face Recognition.,Nigel Boston,https://dblp.org/pid/00/5341.html,CVPR,2006
+Fusion of Summation Invariants in 3D Human Face Recognition.,Yu Hen Hu,https://dblp.org/pid/54/4645.html,CVPR,2006
+Deformation Modeling for Robust 3D Face Matching.,Xiaoguang Lu,https://dblp.org/pid/30/1548.html,CVPR,2006
+Deformation Modeling for Robust 3D Face Matching.,Anil K. Jain,https://dblp.org/pid/j/AnilKJain.html,CVPR,2006
+Locally Linear Models on Face Appearance Manifolds with Application to Dual-Subspace Based Classification.,Wei Fan,https://dblp.org/pid/54/3488.html,CVPR,2006
+Locally Linear Models on Face Appearance Manifolds with Application to Dual-Subspace Based Classification.,Dit-Yan Yeung,https://dblp.org/pid/41/5668.html,CVPR,2006
+3D Face Recognition Using 3D Alignment for PCA.,Trina Russ,https://dblp.org/pid/22/2835.html,CVPR,2006
+3D Face Recognition Using 3D Alignment for PCA.,Chris Boehnen,https://dblp.org/pid/67/2952.html,CVPR,2006
+3D Face Recognition Using 3D Alignment for PCA.,Tanya Peters,https://dblp.org/pid/56/4049.html,CVPR,2006
+3D Facial Expression Recognition Based on Primitive Surface Feature Distribution.,Jun Wang,https://dblp.org/pid/125/8189.html,CVPR,2006
+3D Facial Expression Recognition Based on Primitive Surface Feature Distribution.,Lijun Yin,https://dblp.org/pid/y/LijunYin.html,CVPR,2006
+3D Facial Expression Recognition Based on Primitive Surface Feature Distribution.,Xiaozhou Wei,https://dblp.org/pid/82/4681.html,CVPR,2006
+3D Facial Expression Recognition Based on Primitive Surface Feature Distribution.,Yi Sun,https://dblp.org/pid/65/2709.html,CVPR,2006
+Face Recognition using 2.5D Shape Information.,William A. P. Smith,https://dblp.org/pid/84/1121.html,CVPR,2006
+Face Recognition using 2.5D Shape Information.,Edwin R. Hancock,https://dblp.org/pid/h/EdwinRHancock.html,CVPR,2006
+Joint Boosting Feature Selection for Robust Face Recognition.,Rong Xiao,https://dblp.org/pid/75/5560-3.html,CVPR,2006
+Joint Boosting Feature Selection for Robust Face Recognition.,Wu-Jun Li,https://dblp.org/pid/26/988.html,CVPR,2006
+Joint Boosting Feature Selection for Robust Face Recognition.,Yuandong Tian,https://dblp.org/pid/t/YuandongTian.html,CVPR,2006
+Joint Boosting Feature Selection for Robust Face Recognition.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+A Generalized EM Approach for 3D Model Based Face Recognition under Occlusions.,Michaël De Smet,https://dblp.org/pid/198/6216.html,CVPR,2006
+A Generalized EM Approach for 3D Model Based Face Recognition under Occlusions.,Rik Fransens,https://dblp.org/pid/47/1032.html,CVPR,2006
+A Generalized EM Approach for 3D Model Based Face Recognition under Occlusions.,Luc Van Gool,https://dblp.org/pid/61/5017.html,CVPR,2006
+Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects.,Ying Shan,https://dblp.org/pid/68/5910.html,CVPR,2006
+Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects.,Feng Han,https://dblp.org/pid/58/2012-2.html,CVPR,2006
+Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects.,Harpreet S. Sawhney,https://dblp.org/pid/86/689.html,CVPR,2006
+Learning Exemplar-Based Categorization for the Detection of Multi-View Multi-Pose Objects.,Rakesh Kumar,https://dblp.org/pid/98/4371-1.html,CVPR,2006
+Optimal Pose for Face Recognition.,Xiaoming Liu,https://dblp.org/pid/l/XiaomingLiu0002.html,CVPR,2006
+Optimal Pose for Face Recognition.,Jens Rittscher,https://dblp.org/pid/11/377.html,CVPR,2006
+Optimal Pose for Face Recognition.,Tsuhan Chen,https://dblp.org/pid/c/TsuhanChen.html,CVPR,2006
+A Visual Vocabulary for Flower Classification.,Maria-Elena Nilsback,https://dblp.org/pid/28/3025.html,CVPR,2006
+A Visual Vocabulary for Flower Classification.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,CVPR,2006
+Searching Off-line Arabic Documents.,Jim Chan,https://dblp.org/pid/13/5357.html,CVPR,2006
+Searching Off-line Arabic Documents.,Celal Ziftci,https://dblp.org/pid/52/1019.html,CVPR,2006
+Searching Off-line Arabic Documents.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,CVPR,2006
+Animals on the Web.,Tamara L. Berg,https://dblp.org/pid/63/6787.html,CVPR,2006
+Animals on the Web.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,CVPR,2006
+Aligning ASL for Statistical Translation Using a Discriminative Word Model.,Ali Farhadi,https://dblp.org/pid/37/5826.html,CVPR,2006
+Aligning ASL for Statistical Translation Using a Discriminative Word Model.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,CVPR,2006
+A Graph Based Approach for Naming Faces in News Photos.,Derya Ozkan,https://dblp.org/pid/70/3427.html,CVPR,2006
+A Graph Based Approach for Naming Faces in News Photos.,Pinar Duygulu,https://dblp.org/pid/16/4903.html,CVPR,2006
+AnnoSearch: Image Auto-Annotation by Search.,Xin-Jing Wang,https://dblp.org/pid/00/5625.html,CVPR,2006
+AnnoSearch: Image Auto-Annotation by Search.,Lei Zhang,https://dblp.org/pid/z/LeiZhang.html,CVPR,2006
+AnnoSearch: Image Auto-Annotation by Search.,Feng Jing,https://dblp.org/pid/49/6424.html,CVPR,2006
+AnnoSearch: Image Auto-Annotation by Search.,Wei-Ying Ma,https://dblp.org/pid/m/WYMa.html,CVPR,2006
+Fast Human Detection Using a Cascade of Histograms of Oriented Gradients.,Qiang Zhu,https://dblp.org/pid/34/6522-6.html,CVPR,2006
+Fast Human Detection Using a Cascade of Histograms of Oriented Gradients.,Mei-Chen Yeh,https://dblp.org/pid/89/3060.html,CVPR,2006
+Fast Human Detection Using a Cascade of Histograms of Oriented Gradients.,Kwang-Ting Cheng,https://dblp.org/pid/c/KwangTingCheng.html,CVPR,2006
+Fast Human Detection Using a Cascade of Histograms of Oriented Gradients.,Shai Avidan,https://dblp.org/pid/02/617.html,CVPR,2006
+Real-time Hand Pose Recognition Using Low-Resolution Depth Images.,Zhenyao Mo,https://dblp.org/pid/58/782.html,CVPR,2006
+Real-time Hand Pose Recognition Using Low-Resolution Depth Images.,Ulrich Neumann,https://dblp.org/pid/52/4897.html,CVPR,2006
+A Detection Technique for Degraded Face Images.,Shinji Hayashi,https://dblp.org/pid/25/4431.html,CVPR,2006
+A Detection Technique for Degraded Face Images.,Osamu Hasegawa,https://dblp.org/pid/71/4386.html,CVPR,2006
+Automatic Cast Listing in Feature-Length Films with Anisotropic Manifold Space.,Ognjen Arandjelovic,https://dblp.org/pid/98/5718.html,CVPR,2006
+Automatic Cast Listing in Feature-Length Films with Anisotropic Manifold Space.,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,CVPR,2006
+Hidden Conditional Random Fields for Gesture Recognition.,Sy Bor Wang,https://dblp.org/pid/55/4859.html,CVPR,2006
+Hidden Conditional Random Fields for Gesture Recognition.,Ariadna Quattoni,https://dblp.org/pid/77/3898.html,CVPR,2006
+Hidden Conditional Random Fields for Gesture Recognition.,Louis-Philippe Morency,https://dblp.org/pid/31/739.html,CVPR,2006
+Hidden Conditional Random Fields for Gesture Recognition.,David Demirdjian,https://dblp.org/pid/d/DavidDemirdjian.html,CVPR,2006
+Hidden Conditional Random Fields for Gesture Recognition.,Trevor Darrell,https://dblp.org/pid/d/TrevorDarrell.html,CVPR,2006
+Person Reidentification Using Spatiotemporal Appearance.,Niloofar Gheissari,https://dblp.org/pid/87/325.html,CVPR,2006
+Person Reidentification Using Spatiotemporal Appearance.,Thomas B. Sebastian,https://dblp.org/pid/38/857.html,CVPR,2006
+Person Reidentification Using Spatiotemporal Appearance.,Richard I. Hartley,https://dblp.org/pid/h/RIHartley.html,CVPR,2006
+Body Localization in Still Images Using Hierarchical Models and Hybrid Search.,Jiayong Zhang,https://dblp.org/pid/46/1130.html,CVPR,2006
+Body Localization in Still Images Using Hierarchical Models and Hybrid Search.,Jiebo Luo,https://dblp.org/pid/25/5545.html,CVPR,2006
+Body Localization in Still Images Using Hierarchical Models and Hybrid Search.,Robert T. Collins,https://dblp.org/pid/76/2806.html,CVPR,2006
+Body Localization in Still Images Using Hierarchical Models and Hybrid Search.,Yanxi Liu,https://dblp.org/pid/l/YanxiLiu.html,CVPR,2006
+Probabilistic 3D Polyp Detection in CT Images: The Role of Sample Alignment.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,CVPR,2006
+Probabilistic 3D Polyp Detection in CT Images: The Role of Sample Alignment.,Xiang Sean Zhou,https://dblp.org/pid/z/XiangSeanZhou.html,CVPR,2006
+Probabilistic 3D Polyp Detection in CT Images: The Role of Sample Alignment.,Luca Bogoni,https://dblp.org/pid/74/2090.html,CVPR,2006
+Probabilistic 3D Polyp Detection in CT Images: The Role of Sample Alignment.,Adrian Barbu,https://dblp.org/pid/59/3600.html,CVPR,2006
+Probabilistic 3D Polyp Detection in CT Images: The Role of Sample Alignment.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,CVPR,2006
+Modeling and Classifying Breast Tissue Density in Mammograms.,Anna Bosch,https://dblp.org/pid/24/4493.html,CVPR,2006
+Modeling and Classifying Breast Tissue Density in Mammograms.,Xavier Muñoz,https://dblp.org/pid/15/5133.html,CVPR,2006
+Modeling and Classifying Breast Tissue Density in Mammograms.,Arnau Oliver,https://dblp.org/pid/16/5582.html,CVPR,2006
+Modeling and Classifying Breast Tissue Density in Mammograms.,Joan Martí,https://dblp.org/pid/30/1336.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Shaohua Kevin Zhou,https://dblp.org/pid/57/98.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Jin Hyeong Park,https://dblp.org/pid/58/6033.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Bogdan Georgescu,https://dblp.org/pid/91/1880.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Costas Simopoulos,https://dblp.org/pid/01/5846.html,CVPR,2006
+Image-Based Multiclass Boosting and Echocardiographic View Classification.,Joanne Otsuki,https://dblp.org/pid/29/525.html,CVPR,2006
+Performance Modeling and Prediction of Face Recognition Systems.,Peng Wang,https://dblp.org/pid/95/4442-5.html,CVPR,2006
+Performance Modeling and Prediction of Face Recognition Systems.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Multiple Face Model of Hybrid Fourier Feature for Large Face Image Set.,Wonjun Hwang,https://dblp.org/pid/23/798.html,CVPR,2006
+Multiple Face Model of Hybrid Fourier Feature for Large Face Image Set.,Gyu-tae Park,https://dblp.org/pid/08/36.html,CVPR,2006
+Multiple Face Model of Hybrid Fourier Feature for Large Face Image Set.,Jong Ha Lee,https://dblp.org/pid/56/6292.html,CVPR,2006
+Multiple Face Model of Hybrid Fourier Feature for Large Face Image Set.,Seok-Cheol Kee,https://dblp.org/pid/61/4179.html,CVPR,2006
+Multi-Aspect Detection of Articulated Objects.,Edgar Seemann,https://dblp.org/pid/05/476.html,CVPR,2006
+Multi-Aspect Detection of Articulated Objects.,Bastian Leibe,https://dblp.org/pid/41/1228.html,CVPR,2006
+Multi-Aspect Detection of Articulated Objects.,Bernt Schiele,https://dblp.org/pid/s/BerntSchiele.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Alexander Thomas,https://dblp.org/pid/25/5601.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Vittorio Ferrari,https://dblp.org/pid/16/3608.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Bastian Leibe,https://dblp.org/pid/41/1228.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Tinne Tuytelaars,https://dblp.org/pid/79/2382.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Bernt Schiele,https://dblp.org/pid/s/BerntSchiele.html,CVPR,2006
+Towards Multi-View Object Class Detection.,Luc Van Gool,https://dblp.org/pid/61/5017.html,CVPR,2006
+Using Dependent Regions for Object Categorization in a Generative Framework.,Gang Wang,https://dblp.org/pid/71/4292.html,CVPR,2006
+Using Dependent Regions for Object Categorization in a Generative Framework.,Ye Zhang,https://dblp.org/pid/147/0497.html,CVPR,2006
+Using Dependent Regions for Object Categorization in a Generative Framework.,Li Fei-Fei,https://dblp.org/pid/79/2528.html,CVPR,2006
+Using Multiple Segmentations to Discover Objects and their Extent in Image Collections.,Bryan C. Russell,https://dblp.org/pid/29/2277.html,CVPR,2006
+Using Multiple Segmentations to Discover Objects and their Extent in Image Collections.,William T. Freeman,https://dblp.org/pid/86/6650.html,CVPR,2006
+Using Multiple Segmentations to Discover Objects and their Extent in Image Collections.,Alexei A. Efros,https://dblp.org/pid/40/6158.html,CVPR,2006
+Using Multiple Segmentations to Discover Objects and their Extent in Image Collections.,Josef Sivic,https://dblp.org/pid/71/5006.html,CVPR,2006
+Using Multiple Segmentations to Discover Objects and their Extent in Image Collections.,Andrew Zisserman,https://dblp.org/pid/z/AndrewZisserman.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,Michael T. Chan,https://dblp.org/pid/64/124.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,Anthony Hoogs,https://dblp.org/pid/15/5671.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,Rahul Bhotika,https://dblp.org/pid/28/2609.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,A. G. Amitha Perera,https://dblp.org/pid/13/2828.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,John Schmiederer,https://dblp.org/pid/87/2422.html,CVPR,2006
+Joint Recognition of Complex Events and Track Matching.,Gianfranco Doretto,https://dblp.org/pid/61/3857.html,CVPR,2006
+Inferring Facial Action Units with Causal Relations.,Yan Tong,https://dblp.org/pid/20/2146.html,CVPR,2006
+Inferring Facial Action Units with Causal Relations.,Wenhui Liao,https://dblp.org/pid/26/6292.html,CVPR,2006
+Inferring Facial Action Units with Causal Relations.,Qiang Ji,https://dblp.org/pid/42/3586.html,CVPR,2006
+Learning Temporal Sequence Model from Partially Labeled Data.,Yifan Shi,https://dblp.org/pid/91/1278.html,CVPR,2006
+Learning Temporal Sequence Model from Partially Labeled Data.,Aaron F. Bobick,https://dblp.org/pid/b/AaronFBobick.html,CVPR,2006
+Learning Temporal Sequence Model from Partially Labeled Data.,Irfan A. Essa,https://dblp.org/pid/e/IrfanAEssa.html,CVPR,2006
+Automatic Discovery of Action Taxonomies from Multiple Views.,Daniel Weinland,https://dblp.org/pid/27/1163.html,CVPR,2006
+Automatic Discovery of Action Taxonomies from Multiple Views.,Rémi Ronfard,https://dblp.org/pid/23/4044.html,CVPR,2006
+Automatic Discovery of Action Taxonomies from Multiple Views.,Edmond Boyer,https://dblp.org/pid/b/EdmondBoyer.html,CVPR,2006
+Successive Convex Matching for Action Detection.,Hao Jiang,https://dblp.org/pid/38/6049-7.html,CVPR,2006
+Successive Convex Matching for Action Detection.,Mark S. Drew,https://dblp.org/pid/d/MarkSDrew.html,CVPR,2006
+Successive Convex Matching for Action Detection.,Ze-Nian Li,https://dblp.org/pid/l/ZeNianLi.html,CVPR,2006
+Unsupervised Discovery of Action Classes.,Yang Wang,https://dblp.org/pid/w/YangWang3.html,CVPR,2006
+Unsupervised Discovery of Action Classes.,Hao Jiang,https://dblp.org/pid/38/6049-7.html,CVPR,2006
+Unsupervised Discovery of Action Classes.,Mark S. Drew,https://dblp.org/pid/d/MarkSDrew.html,CVPR,2006
+Unsupervised Discovery of Action Classes.,Ze-Nian Li,https://dblp.org/pid/l/ZeNianLi.html,CVPR,2006
+Unsupervised Discovery of Action Classes.,Greg Mori,https://dblp.org/pid/m/GregMori.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Alphan Altinok,https://dblp.org/pid/78/2237.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Motaz A. El Saban,https://dblp.org/pid/48/2335.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Austin J. Peck,https://dblp.org/pid/26/750.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Leslie Wilson,https://dblp.org/pid/17/4542.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Stuart C. Feinstein,https://dblp.org/pid/86/4755.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,B. S. Manjunath,https://dblp.org/pid/m/BSManjunath.html,CVPR,2006
+Activity Analysis in Microtubule Videos by Mixture of Hidden Markov Models.,Kenneth Rose,https://dblp.org/pid/85/5752.html,CVPR,2006
+Human Carrying Status in Visual Surveillance.,Dacheng Tao,https://dblp.org/pid/46/3391.html,CVPR,2006
+Human Carrying Status in Visual Surveillance.,Xuelong Li,https://dblp.org/pid/l/XuelongLi.html,CVPR,2006
+Human Carrying Status in Visual Surveillance.,Stephen J. Maybank,https://dblp.org/pid/m/StephenJMaybank.html,CVPR,2006
+Human Carrying Status in Visual Surveillance.,Xindong Wu,https://dblp.org/pid/59/4107.html,CVPR,2006
+Classifying Human Dynamics Without Contact Forces.,Alessandro Bissacco,https://dblp.org/pid/93/2043.html,CVPR,2006
+Classifying Human Dynamics Without Contact Forces.,Stefano Soatto,https://dblp.org/pid/08/1262.html,CVPR,2006
+AdaBoost.MRF: Boosted Markov Random Forests and Application to Multilevel Activity Recognition.,Tran The Truyen,https://dblp.org/pid/55/2269.html,CVPR,2006
+AdaBoost.MRF: Boosted Markov Random Forests and Application to Multilevel Activity Recognition.,Dinh Q. Phung,https://dblp.org/pid/71/5859.html,CVPR,2006
+AdaBoost.MRF: Boosted Markov Random Forests and Application to Multilevel Activity Recognition.,Svetha Venkatesh,https://dblp.org/pid/81/1984.html,CVPR,2006
+AdaBoost.MRF: Boosted Markov Random Forests and Application to Multilevel Activity Recognition.,Hung Hai Bui,https://dblp.org/pid/16/2565.html,CVPR,2006
+Parameterized Duration Mmodeling for Switching Linear Dynamic Systems.,Sang Min Oh,https://dblp.org/pid/97/2343.html,CVPR,2006
+Parameterized Duration Mmodeling for Switching Linear Dynamic Systems.,James M. Rehg,https://dblp.org/pid/r/JMRehg.html,CVPR,2006
+Parameterized Duration Mmodeling for Switching Linear Dynamic Systems.,Frank Dellaert,https://dblp.org/pid/d/FrankDellaert.html,CVPR,2006
+Using Bilinear Models for View-invariant Action and Identity Recognition.,Fabio Cuzzolin,https://dblp.org/pid/60/2919.html,CVPR,2006
+Recognition of Composite Human Activities through Context-Free Grammar Based Representation.,Michael S. Ryoo,https://dblp.org/pid/r/MichaelSRyoo.html,CVPR,2006
+Recognition of Composite Human Activities through Context-Free Grammar Based Representation.,J. K. Aggarwal,https://dblp.org/pid/a/JakeKAggarwal.html,CVPR,2006
+Correlated Label Propagation with Application to Multi-label Learning.,Feng Kang,https://dblp.org/pid/77/4296.html,CVPR,2006
+Correlated Label Propagation with Application to Multi-label Learning.,Rong Jin,https://dblp.org/pid/j/RongJin.html,CVPR,2006
+Correlated Label Propagation with Application to Multi-label Learning.,Rahul Sukthankar,https://dblp.org/pid/57/3775.html,CVPR,2006
+Pursuing Informative Projection on Grassmann Manifold.,Dahua Lin,https://dblp.org/pid/53/6088.html,CVPR,2006
+Pursuing Informative Projection on Grassmann Manifold.,Shuicheng Yan,https://dblp.org/pid/y/ShuichengYan.html,CVPR,2006
+Pursuing Informative Projection on Grassmann Manifold.,Xiaoou Tang,https://dblp.org/pid/04/5226.html,CVPR,2006
+Dimensionality Reduction by Learning an Invariant Mapping.,Raia Hadsell,https://dblp.org/pid/98/5136.html,CVPR,2006
+Dimensionality Reduction by Learning an Invariant Mapping.,Sumit Chopra,https://dblp.org/pid/68/4681.html,CVPR,2006
+Dimensionality Reduction by Learning an Invariant Mapping.,Yann LeCun,https://dblp.org/pid/l/YannLeCun.html,CVPR,2006
+Learning Joint Top-Down and Bottom-up Processes for 3D Visual Inference.,Cristian Sminchisescu,https://dblp.org/pid/96/3826.html,CVPR,2006
+Learning Joint Top-Down and Bottom-up Processes for 3D Visual Inference.,Atul Kanaujia,https://dblp.org/pid/38/2688.html,CVPR,2006
+Learning Joint Top-Down and Bottom-up Processes for 3D Visual Inference.,Dimitris N. Metaxas,https://dblp.org/pid/m/DNMetaxas.html,CVPR,2006
+"Local Features, All Grown Up.",Andrea Vedaldi,https://dblp.org/pid/99/2825.html,CVPR,2006
+"Local Features, All Grown Up.",Stefano Soatto,https://dblp.org/pid/08/1262.html,CVPR,2006
+BoostMotion: Boosting a Discriminative Similarity Function for Motion Estimation.,Shaohua Kevin Zhou,https://dblp.org/pid/57/98.html,CVPR,2006
+BoostMotion: Boosting a Discriminative Similarity Function for Motion Estimation.,Bogdan Georgescu,https://dblp.org/pid/91/1880.html,CVPR,2006
+BoostMotion: Boosting a Discriminative Similarity Function for Motion Estimation.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,CVPR,2006
+BoostMotion: Boosting a Discriminative Similarity Function for Motion Estimation.,Jie Shao,https://dblp.org/pid/02/5139-7.html,CVPR,2006
+New Method of Probability Density Estimation with Application to Mutual Information Based Image Registration.,Ajit Rajwade,https://dblp.org/pid/32/1263-2.html,CVPR,2006
+New Method of Probability Density Estimation with Application to Mutual Information Based Image Registration.,Arunava Banerjee,https://dblp.org/pid/40/6110.html,CVPR,2006
+New Method of Probability Density Estimation with Application to Mutual Information Based Image Registration.,Anand Rangarajan,https://dblp.org/pid/90/6511-1.html,CVPR,2006
+Nonparametric Priors on the Space of Joint Intensity Distributions for Non-Rigid Multi-Modal Image Registration.,Daniel Cremers,https://dblp.org/pid/c/DanielCremers.html,CVPR,2006
+Nonparametric Priors on the Space of Joint Intensity Distributions for Non-Rigid Multi-Modal Image Registration.,Christoph Guetter,https://dblp.org/pid/14/2102.html,CVPR,2006
+Nonparametric Priors on the Space of Joint Intensity Distributions for Non-Rigid Multi-Modal Image Registration.,Chenyang Xu,https://dblp.org/pid/82/5658-1.html,CVPR,2006
+Automatic Landmark Tracking and its Application to the Optimization of Brain Conformal Mapping.,Lok Ming Lui,https://dblp.org/pid/77/1959.html,CVPR,2006
+Automatic Landmark Tracking and its Application to the Optimization of Brain Conformal Mapping.,Yalin Wang,https://dblp.org/pid/88/128-1.html,CVPR,2006
+Automatic Landmark Tracking and its Application to the Optimization of Brain Conformal Mapping.,Tony F. Chan,https://dblp.org/pid/61/2585.html,CVPR,2006
+Automatic Landmark Tracking and its Application to the Optimization of Brain Conformal Mapping.,Paul M. Thompson,https://dblp.org/pid/t/PaulMThompson.html,CVPR,2006
+Visible Surface Reconstruction from Normals with Discontinuity Consideration.,Tai-Pang Wu,https://dblp.org/pid/53/5293.html,CVPR,2006
+Visible Surface Reconstruction from Normals with Discontinuity Consideration.,Chi-Keung Tang,https://dblp.org/pid/34/4366.html,CVPR,2006
+Reciprocal Image Features for Uncalibrated Helmholtz Stereopsis.,Todd E. Zickler,https://dblp.org/pid/33/2279.html,CVPR,2006
+Combining Cues: Shape from Shading and Texture.,Ryan White,https://dblp.org/pid/91/253.html,CVPR,2006
+Combining Cues: Shape from Shading and Texture.,David A. Forsyth,https://dblp.org/pid/f/DavidAForsyth.html,CVPR,2006
+A New Formulation for Shape from Shading for Non-Lambertian Surfaces.,Abdelrehim H. Ahmed,https://dblp.org/pid/37/2276.html,CVPR,2006
+A New Formulation for Shape from Shading for Non-Lambertian Surfaces.,Aly A. Farag,https://dblp.org/pid/55/6410.html,CVPR,2006
+Mesostructure from Specularity.,Tongbo Chen,https://dblp.org/pid/10/1242.html,CVPR,2006
+Mesostructure from Specularity.,Michael Goesele,https://dblp.org/pid/94/104.html,CVPR,2006
+Mesostructure from Specularity.,Hans-Peter Seidel,https://dblp.org/pid/s/HansPeterSeidel.html,CVPR,2006
+Spatial Reflectance Recovery under Complex Illumination from Sparse Images.,Li Shen,https://dblp.org/pid/91/3680-6.html,CVPR,2006
+Spatial Reflectance Recovery under Complex Illumination from Sparse Images.,Haruo Takemura,https://dblp.org/pid/t/HaruoTakemura.html,CVPR,2006
+Shape from Shading: Recognizing the Mountains through a Global View.,Qihui Zhu,https://dblp.org/pid/11/225.html,CVPR,2006
+Shape from Shading: Recognizing the Mountains through a Global View.,Jianbo Shi,https://dblp.org/pid/71/3879.html,CVPR,2006
+Reconstruction in the Round Using Photometric Normals and Silhouettes..,George Vogiatzis,https://dblp.org/pid/36/2989.html,CVPR,2006
+Reconstruction in the Round Using Photometric Normals and Silhouettes..,Carlos Hernández,https://dblp.org/pid/14/1804-2.html,CVPR,2006
+Reconstruction in the Round Using Photometric Normals and Silhouettes..,Roberto Cipolla,https://dblp.org/pid/c/RobertoCipolla.html,CVPR,2006
+Separation of Highlight Reflections on Textured Surfaces.,Ping Tan,https://dblp.org/pid/61/6118.html,CVPR,2006
+Separation of Highlight Reflections on Textured Surfaces.,Long Quan,https://dblp.org/pid/04/575.html,CVPR,2006
+Separation of Highlight Reflections on Textured Surfaces.,Stephen Lin,https://dblp.org/pid/55/4755-1.html,CVPR,2006
+Instant 3Descatter.,Tali Treibitz,https://dblp.org/pid/55/405.html,CVPR,2006
+Instant 3Descatter.,Yoav Y. Schechner,https://dblp.org/pid/95/4712.html,CVPR,2006
+Specular Flow and the Recovery of Surface Structure.,Stefan Roth,https://dblp.org/pid/24/3452.html,CVPR,2006
+Specular Flow and the Recovery of Surface Structure.,Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,CVPR,2006
+A Design Principle for Coarse-to-Fine Classification.,Sachin Gangaputra,https://dblp.org/pid/38/6502.html,CVPR,2006
+A Design Principle for Coarse-to-Fine Classification.,Donald Geman,https://dblp.org/pid/35/3448.html,CVPR,2006
+A Multi-Channel Algorithm for Edge Detection Under Varying Lighting.,Wei Xu,https://dblp.org/pid/32/1213.html,CVPR,2006
+A Multi-Channel Algorithm for Edge Detection Under Varying Lighting.,Michael Jenkin,https://dblp.org/pid/j/MichaelRMJenkin.html,CVPR,2006
+A Multi-Channel Algorithm for Edge Detection Under Varying Lighting.,Yves Lespérance,https://dblp.org/pid/74/5003.html,CVPR,2006
+Bottom-Up & Top-down Object Detection using Primal Sketch Features and Graphical Models.,Iasonas Kokkinos,https://dblp.org/pid/21/4922.html,CVPR,2006
+Bottom-Up & Top-down Object Detection using Primal Sketch Features and Graphical Models.,Petros Maragos,https://dblp.org/pid/22/4003.html,CVPR,2006
+Bottom-Up & Top-down Object Detection using Primal Sketch Features and Graphical Models.,Alan L. Yuille,https://dblp.org/pid/y/AlanLYuille.html,CVPR,2006
+The Bottleneck Geodesic: Computing Pixel Affinity.,Ido Omer,https://dblp.org/pid/03/3405.html,CVPR,2006
+The Bottleneck Geodesic: Computing Pixel Affinity.,Michael Werman,https://dblp.org/pid/24/6738.html,CVPR,2006
+Motion Patterns: High-Level Representation of Natural Video Sequences.,Duangmanee Putthividhya,https://dblp.org/pid/24/2678.html,CVPR,2006
+Motion Patterns: High-Level Representation of Natural Video Sequences.,Te-Won Lee,https://dblp.org/pid/82/5806.html,CVPR,2006
+A Framework for Feature Selection for Background Subtraction.,Toufiq Parag,https://dblp.org/pid/21/2221.html,CVPR,2006
+A Framework for Feature Selection for Background Subtraction.,Ahmed M. Elgammal,https://dblp.org/pid/e/AhmedMElgammal.html,CVPR,2006
+A Framework for Feature Selection for Background Subtraction.,Anurag Mittal,https://dblp.org/pid/59/6614.html,CVPR,2006
+Image Denoising with Shrinkage and Redundant Representations.,Michael Elad,https://dblp.org/pid/e/MichaelElad.html,CVPR,2006
+Image Denoising with Shrinkage and Redundant Representations.,Boaz Matalon,https://dblp.org/pid/86/2445.html,CVPR,2006
+Image Denoising with Shrinkage and Redundant Representations.,Michael Zibulevsky,https://dblp.org/pid/08/2700.html,CVPR,2006
+A Projective Invariant for Textures.,Yong Xu,https://dblp.org/pid/07/4630-7.html,CVPR,2006
+A Projective Invariant for Textures.,Hui Ji,https://dblp.org/pid/52/6573.html,CVPR,2006
+A Projective Invariant for Textures.,Cornelia Fermüller,https://dblp.org/pid/f/CorneliaFermuller.html,CVPR,2006
+A Shape Representation for Planar Curves by Shape Signature Harmonic Embedding.,Sang-Mook Lee,https://dblp.org/pid/91/5505.html,CVPR,2006
+A Shape Representation for Planar Curves by Shape Signature Harmonic Embedding.,A. Lynn Abbott,https://dblp.org/pid/47/6042.html,CVPR,2006
+A Shape Representation for Planar Curves by Shape Signature Harmonic Embedding.,Neil A. Clark,https://dblp.org/pid/65/894.html,CVPR,2006
+A Shape Representation for Planar Curves by Shape Signature Harmonic Embedding.,Philip A. Araman,https://dblp.org/pid/47/6416.html,CVPR,2006
+Perceptually-Inspired and Edge-Directed Color Image Super-Resolution.,Yu-Wing Tai,https://dblp.org/pid/40/566.html,CVPR,2006
+Perceptually-Inspired and Edge-Directed Color Image Super-Resolution.,Wai-Shun Tong,https://dblp.org/pid/90/5644.html,CVPR,2006
+Perceptually-Inspired and Edge-Directed Color Image Super-Resolution.,Chi-Keung Tang,https://dblp.org/pid/34/4366.html,CVPR,2006
+Image Pre-Conditioning for Out-of-Focus Projector Blur.,Michael S. Brown,https://dblp.org/pid/02/4733.html,CVPR,2006
+Image Pre-Conditioning for Out-of-Focus Projector Blur.,Peng Song,https://dblp.org/pid/58/3960-10.html,CVPR,2006
+Image Pre-Conditioning for Out-of-Focus Projector Blur.,Tat-Jen Cham,https://dblp.org/pid/29/3808.html,CVPR,2006
+Supervised Learning of Edges and Object Boundaries.,Piotr Dollár,https://dblp.org/pid/62/750.html,CVPR,2006
+Supervised Learning of Edges and Object Boundaries.,Zhuowen Tu,https://dblp.org/pid/t/ZTu.html,CVPR,2006
+Supervised Learning of Edges and Object Boundaries.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,CVPR,2006
+Multiscale Nonlinear Diffusion and Shock Filter for Ultrasound Image Enhancement.,Fan Zhang,https://dblp.org/pid/21/3626.html,CVPR,2006
+Multiscale Nonlinear Diffusion and Shock Filter for Ultrasound Image Enhancement.,Yang Mo Yoo,https://dblp.org/pid/39/5582.html,CVPR,2006
+Multiscale Nonlinear Diffusion and Shock Filter for Ultrasound Image Enhancement.,Yongmin Kim,https://dblp.org/pid/37/4852-1.html,CVPR,2006
+Multiscale Nonlinear Diffusion and Shock Filter for Ultrasound Image Enhancement.,Lichen Zhang,https://dblp.org/pid/00/6357.html,CVPR,2006
+Multiscale Nonlinear Diffusion and Shock Filter for Ultrasound Image Enhancement.,Liang Mong Koh,https://dblp.org/pid/54/1179.html,CVPR,2006
+CSIFT: A SIFT Descriptor with Color Invariant Characteristics.,Alaa E. Abdel-Hakim,https://dblp.org/pid/27/5749.html,CVPR,2006
+CSIFT: A SIFT Descriptor with Color Invariant Characteristics.,Aly A. Farag,https://dblp.org/pid/55/6410.html,CVPR,2006
+Blind Haze Separation.,Sarit Shwartz,https://dblp.org/pid/23/6829.html,CVPR,2006
+Blind Haze Separation.,Einav Namer,https://dblp.org/pid/66/4682.html,CVPR,2006
+Blind Haze Separation.,Yoav Y. Schechner,https://dblp.org/pid/95/4712.html,CVPR,2006
+Estimating Intrinsic Component Images using Non-Linear Regression.,Marshall F. Tappen,https://dblp.org/pid/45/4266.html,CVPR,2006
+Estimating Intrinsic Component Images using Non-Linear Regression.,Edward H. Adelson,https://dblp.org/pid/73/143.html,CVPR,2006
+Estimating Intrinsic Component Images using Non-Linear Regression.,William T. Freeman,https://dblp.org/pid/86/6650.html,CVPR,2006
+Color Subspaces as Photometric Invariants.,Todd E. Zickler,https://dblp.org/pid/33/2279.html,CVPR,2006
+Color Subspaces as Photometric Invariants.,Satya P. Mallick,https://dblp.org/pid/97/169.html,CVPR,2006
+Color Subspaces as Photometric Invariants.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,CVPR,2006
+Color Subspaces as Photometric Invariants.,Peter N. Belhumeur,https://dblp.org/pid/12/5558.html,CVPR,2006
+Graph Laplacian Kernels for Object Classification from a Single Example.,Hong Chang,https://dblp.org/pid/02/2689.html,CVPR,2006
+Graph Laplacian Kernels for Object Classification from a Single Example.,Dit-Yan Yeung,https://dblp.org/pid/41/5668.html,CVPR,2006
+A Generative-Discriminative Hybrid Method for Multi-View Object Detection.,DongQing Zhang,https://dblp.org/pid/89/2680.html,CVPR,2006
+A Generative-Discriminative Hybrid Method for Multi-View Object Detection.,Shih-Fu Chang,https://dblp.org/pid/c/ShihFuChang.html,CVPR,2006
+Shape Topics: A Compact Representation and New Algorithms for 3D Partial Shape Retrieval.,Yi Liu,https://dblp.org/pid/97/4626.html,CVPR,2006
+Shape Topics: A Compact Representation and New Algorithms for 3D Partial Shape Retrieval.,Hongbin Zha,https://dblp.org/pid/20/5020.html,CVPR,2006
+Shape Topics: A Compact Representation and New Algorithms for 3D Partial Shape Retrieval.,Hong Qin,https://dblp.org/pid/79/627.html,CVPR,2006
+Discriminative Object Class Models of Appearance and Shape by Correlatons.,Silvio Savarese,https://dblp.org/pid/50/3578.html,CVPR,2006
+Discriminative Object Class Models of Appearance and Shape by Correlatons.,John M. Winn,https://dblp.org/pid/w/JohnMWinn.html,CVPR,2006
+Discriminative Object Class Models of Appearance and Shape by Correlatons.,Antonio Criminisi,https://dblp.org/pid/c/AntonioCriminisi.html,CVPR,2006
+"Measure Locally, Reason Globally: Occlusion-sensitive Articulated Pose Estimation.",Leonid Sigal,https://dblp.org/pid/09/4991.html,CVPR,2006
+"Measure Locally, Reason Globally: Occlusion-sensitive Articulated Pose Estimation.",Michael J. Black,https://dblp.org/pid/b/MichaelJBlack.html,CVPR,2006
+An Integrated Model of Top-Down and Bottom-Up Attention for Optimizing Detection Speed.,Vidhya Navalpakkam,https://dblp.org/pid/78/4730.html,CVPR,2006
+An Integrated Model of Top-Down and Bottom-Up Attention for Optimizing Detection Speed.,Laurent Itti,https://dblp.org/pid/31/3256.html,CVPR,2006
+Region-based Image Annotation using Asymmetrical Support Vector Machine-based Multiple-Instance Learning.,Changbo Yang,https://dblp.org/pid/33/2547.html,CVPR,2006
+Region-based Image Annotation using Asymmetrical Support Vector Machine-based Multiple-Instance Learning.,Ming Dong,https://dblp.org/pid/22/2379-1.html,CVPR,2006
+Region-based Image Annotation using Asymmetrical Support Vector Machine-based Multiple-Instance Learning.,Jing Hua,https://dblp.org/pid/36/1209.html,CVPR,2006
+Learning Object Shape: From Drawings to Images.,Gal Elidan,https://dblp.org/pid/54/2055.html,CVPR,2006
+Learning Object Shape: From Drawings to Images.,Geremy Heitz,https://dblp.org/pid/19/2592.html,CVPR,2006
+Learning Object Shape: From Drawings to Images.,Daphne Koller,https://dblp.org/pid/k/DaphneKoller.html,CVPR,2006
+Learning Distance Metrics with Contextual Constraints for Image Retrieval.,Steven C. H. Hoi,https://dblp.org/pid/h/StevenCHHoi.html,CVPR,2006
+Learning Distance Metrics with Contextual Constraints for Image Retrieval.,Wei Liu,https://dblp.org/pid/49/3283-5.html,CVPR,2006
+Learning Distance Metrics with Contextual Constraints for Image Retrieval.,Michael R. Lyu,https://dblp.org/pid/l/MichaelRLyu.html,CVPR,2006
+Learning Distance Metrics with Contextual Constraints for Image Retrieval.,Wei-Ying Ma,https://dblp.org/pid/m/WYMa.html,CVPR,2006
+Satellite Features for the Classification of Visually Similar Classes.,Boris Epshtein,https://dblp.org/pid/34/6262.html,CVPR,2006
+Satellite Features for the Classification of Visually Similar Classes.,Shimon Ullman,https://dblp.org/pid/93/2158.html,CVPR,2006
+Affine Invariance Revisited.,Evgeni Begelfor,https://dblp.org/pid/19/2476.html,CVPR,2006
+Affine Invariance Revisited.,Michael Werman,https://dblp.org/pid/24/6738.html,CVPR,2006
+Incorporating the Boltzmann Prior in Object Detection Using SVM.,Margarita Osadchy,https://dblp.org/pid/96/2608.html,CVPR,2006
+Incorporating the Boltzmann Prior in Object Detection Using SVM.,Daniel Keren,https://dblp.org/pid/16/3921.html,CVPR,2006
+Using Language to Drive the Perceptual Grouping of Local Image Features.,Michael Jamieson,https://dblp.org/pid/69/4981.html,CVPR,2006
+Using Language to Drive the Perceptual Grouping of Local Image Features.,Sven J. Dickinson,https://dblp.org/pid/d/SvenJDickinson.html,CVPR,2006
+Using Language to Drive the Perceptual Grouping of Local Image Features.,Suzanne Stevenson,https://dblp.org/pid/99/4001.html,CVPR,2006
+Using Language to Drive the Perceptual Grouping of Local Image Features.,Sven Wachsmuth,https://dblp.org/pid/81/6660.html,CVPR,2006
+A Simple Bayesian Framework for Content-Based Image Retrieval.,Katherine A. Heller,https://dblp.org/pid/32/4403.html,CVPR,2006
+A Simple Bayesian Framework for Content-Based Image Retrieval.,Zoubin Ghahramani,https://dblp.org/pid/g/ZoubinGhahramani.html,CVPR,2006
+Spatial Weighting for Bag-of-Features.,Marcin Marszalek,https://dblp.org/pid/13/392.html,CVPR,2006
+Spatial Weighting for Bag-of-Features.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,CVPR,2006
+SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition.,Hao Zhang,https://dblp.org/pid/55/2270-3.html,CVPR,2006
+SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition.,Alexander C. Berg,https://dblp.org/pid/73/2348.html,CVPR,2006
+SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition.,Michael Maire,https://dblp.org/pid/73/1498.html,CVPR,2006
+SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition.,Jitendra Malik,https://dblp.org/pid/58/2944.html,CVPR,2006
+Putting Objects in Perspective.,Derek Hoiem,https://dblp.org/pid/08/6948.html,CVPR,2006
+Putting Objects in Perspective.,Alexei A. Efros,https://dblp.org/pid/40/6158.html,CVPR,2006
+Putting Objects in Perspective.,Martial Hebert,https://dblp.org/pid/h/MartialHebert.html,CVPR,2006
+Context and Hierarchy in a Probabilistic Image Model.,Ya Jin,https://dblp.org/pid/85/618.html,CVPR,2006
+Context and Hierarchy in a Probabilistic Image Model.,Stuart Geman,https://dblp.org/pid/77/6895.html,CVPR,2006
+Perception Strategies in Hierarchical Vision Systems.,Lior Wolf,https://dblp.org/pid/83/4103.html,CVPR,2006
+Perception Strategies in Hierarchical Vision Systems.,Stanley M. Bileschi,https://dblp.org/pid/93/6384.html,CVPR,2006
+Perception Strategies in Hierarchical Vision Systems.,Ethan Meyers,https://dblp.org/pid/81/806.html,CVPR,2006
+Scalable Recognition with a Vocabulary Tree.,David Nistér,https://dblp.org/pid/07/1533.html,CVPR,2006
+Scalable Recognition with a Vocabulary Tree.,Henrik Stewénius,https://dblp.org/pid/58/409.html,CVPR,2006
+Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories.,Svetlana Lazebnik,https://dblp.org/pid/55/5180.html,CVPR,2006
+Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories.,Cordelia Schmid,https://dblp.org/pid/s/CordeliaSchmid.html,CVPR,2006
+Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories.,Jean Ponce,https://dblp.org/pid/p/JeanPonce.html,CVPR,2006
+Tunable Kernels for Tracking.,Vasu Parameswaran,https://dblp.org/pid/39/1412.html,CVPR,2006
+Tunable Kernels for Tracking.,Visvanathan Ramesh,https://dblp.org/pid/01/4906.html,CVPR,2006
+Tunable Kernels for Tracking.,Imad Zoghlami,https://dblp.org/pid/16/6367.html,CVPR,2006
+Multi-Target Tracking - Linking Identities using Bayesian Network Inference.,Peter Nillius,https://dblp.org/pid/30/2856.html,CVPR,2006
+Multi-Target Tracking - Linking Identities using Bayesian Network Inference.,Josephine Sullivan,https://dblp.org/pid/32/3671.html,CVPR,2006
+Multi-Target Tracking - Linking Identities using Bayesian Network Inference.,Stefan Carlsson,https://dblp.org/pid/17/709.html,CVPR,2006
+Particle Video: Long-Range Motion Estimation using Point Trajectories.,Peter Sand,https://dblp.org/pid/65/4310.html,CVPR,2006
+Particle Video: Long-Range Motion Estimation using Point Trajectories.,Seth J. Teller,https://dblp.org/pid/t/SethJTeller.html,CVPR,2006
+Multi-Camera Scene Flow by Tracking 3-D Points and Surfels.,Frederic Devernay,https://dblp.org/pid/10/2822.html,CVPR,2006
+Multi-Camera Scene Flow by Tracking 3-D Points and Surfels.,Diana Mateus,https://dblp.org/pid/55/6754.html,CVPR,2006
+Multi-Camera Scene Flow by Tracking 3-D Points and Surfels.,Matthieu Guilbert,https://dblp.org/pid/71/657.html,CVPR,2006
+3D Building Detection and Modeling from Aerial LIDAR Data.,Vivek Verma,https://dblp.org/pid/04/1461.html,CVPR,2006
+3D Building Detection and Modeling from Aerial LIDAR Data.,Rakesh Kumar,https://dblp.org/pid/98/4371-1.html,CVPR,2006
+3D Building Detection and Modeling from Aerial LIDAR Data.,Stephen C. Hsu,https://dblp.org/pid/23/374.html,CVPR,2006
+Three-Dimensional Volume Reconstruction Based on Trajectory Fusion from Confocal Laser Scanning Microscope Images.,Sang-Chul Lee,https://dblp.org/pid/51/3819.html,CVPR,2006
+Three-Dimensional Volume Reconstruction Based on Trajectory Fusion from Confocal Laser Scanning Microscope Images.,Peter Bajcsy,https://dblp.org/pid/40/1250.html,CVPR,2006
+Landmark-Based Geodesic Computation for Heuristically Driven Path Planning.,Gabriel Peyré,https://dblp.org/pid/65/1759.html,CVPR,2006
+Landmark-Based Geodesic Computation for Heuristically Driven Path Planning.,Laurent D. Cohen,https://dblp.org/pid/c/LaurentDCohen.html,CVPR,2006
+Surface Reconstruction of Bone from X-ray Images and Point Distribution Model Incorporating a Novel Method for 2D-3D Correspondence.,Guoyan Zheng,https://dblp.org/pid/85/5912.html,CVPR,2006
+Surface Reconstruction of Bone from X-ray Images and Point Distribution Model Incorporating a Novel Method for 2D-3D Correspondence.,Lutz-Peter Nolte,https://dblp.org/pid/29/32.html,CVPR,2006
+Element-Free Elastic Models for Volume Fitting and Capture.,Jaeil Choi,https://dblp.org/pid/80/5811.html,CVPR,2006
+Element-Free Elastic Models for Volume Fitting and Capture.,Andrzej Szymczak,https://dblp.org/pid/s/AndrzejSzymczak.html,CVPR,2006
+Element-Free Elastic Models for Volume Fitting and Capture.,Greg Turk,https://dblp.org/pid/t/GregTurk.html,CVPR,2006
+Element-Free Elastic Models for Volume Fitting and Capture.,Irfan A. Essa,https://dblp.org/pid/e/IrfanAEssa.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,Satya P. Mallick,https://dblp.org/pid/97/169.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,Sameer Agarwal,https://dblp.org/pid/77/4196-1.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,Serge J. Belongie,https://dblp.org/pid/b/SJBelongie.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,Bridget Carragher,https://dblp.org/pid/62/2015.html,CVPR,2006
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.,Clinton S. Potter,https://dblp.org/pid/37/474.html,CVPR,2006
+3D Reconstruction of Background and Objects Moving on Ground Plane Viewed from a Moving Camera.,Chang Yuan,https://dblp.org/pid/70/2482.html,CVPR,2006
+3D Reconstruction of Background and Objects Moving on Ground Plane Viewed from a Moving Camera.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,CVPR,2006
+SDG Cut: 3D Reconstruction of Non-lambertian Objects Using Graph Cuts on Surface Distance Grid.,Tian-Li Yu,https://dblp.org/pid/01/3372-1.html,CVPR,2006
+SDG Cut: 3D Reconstruction of Non-lambertian Objects Using Graph Cuts on Surface Distance Grid.,Narendra Ahuja,https://dblp.org/pid/30/3572.html,CVPR,2006
+SDG Cut: 3D Reconstruction of Non-lambertian Objects Using Graph Cuts on Surface Distance Grid.,Wei-Chao Chen,https://dblp.org/pid/37/1413.html,CVPR,2006
+3-D Shape Reconstruction of Retinal Fundus.,Tae Eun Choe,https://dblp.org/pid/47/4589.html,CVPR,2006
+3-D Shape Reconstruction of Retinal Fundus.,Isaac Cohen,https://dblp.org/pid/35/5576.html,CVPR,2006
+3-D Shape Reconstruction of Retinal Fundus.,Gérard G. Medioni,https://dblp.org/pid/02/3016.html,CVPR,2006
+Shape from Dynamic Texture for Planes.,Yaser Sheikh,https://dblp.org/pid/71/3516.html,CVPR,2006
+Shape from Dynamic Texture for Planes.,Niels C. Haering,https://dblp.org/pid/34/1679.html,CVPR,2006
+Shape from Dynamic Texture for Planes.,Mubarak Shah,https://dblp.org/pid/s/MubarakShah.html,CVPR,2006
+Multiview Geometry for Texture Mapping 2D Images Onto 3D Range Data.,Lingyun Liu,https://dblp.org/pid/76/3726.html,CVPR,2006
+Multiview Geometry for Texture Mapping 2D Images Onto 3D Range Data.,Gene Yu,https://dblp.org/pid/97/6213.html,CVPR,2006
+Multiview Geometry for Texture Mapping 2D Images Onto 3D Range Data.,George Wolberg,https://dblp.org/pid/46/3763.html,CVPR,2006
+Multiview Geometry for Texture Mapping 2D Images Onto 3D Range Data.,Siavash Zokai,https://dblp.org/pid/36/6074.html,CVPR,2006
+Edge Suppression by Gradient Field Transformation Using Cross-Projection Tensors.,Amit K. Agrawal,https://dblp.org/pid/a/AmitKAgrawal.html,CVPR,2006
+Edge Suppression by Gradient Field Transformation Using Cross-Projection Tensors.,Ramesh Raskar,https://dblp.org/pid/r/RameshRaskar.html,CVPR,2006
+Edge Suppression by Gradient Field Transformation Using Cross-Projection Tensors.,Rama Chellappa,https://dblp.org/pid/c/RamaChellappa.html,CVPR,2006
+Vertical Parallax from Moving Shadows.,Yaron Caspi,https://dblp.org/pid/98/4125.html,CVPR,2006
+Vertical Parallax from Moving Shadows.,Michael Werman,https://dblp.org/pid/24/6738.html,CVPR,2006
+A Refractive Camera for Acquiring Stereo and Super-resolution Images.,Chunyu Gao,https://dblp.org/pid/46/4023.html,CVPR,2006
+A Refractive Camera for Acquiring Stereo and Super-resolution Images.,Narendra Ahuja,https://dblp.org/pid/30/3572.html,CVPR,2006
+A Planar Light Probe.,Neil Gordon Alldrin,https://dblp.org/pid/12/4033.html,CVPR,2006
+A Planar Light Probe.,David J. Kriegman,https://dblp.org/pid/k/DavidJKriegman.html,CVPR,2006
+"Reconstructing Occluded Surfaces Using Synthetic Apertures: Stereo, Focus and Robust Measures.",Vaibhav Vaish,https://dblp.org/pid/05/506.html,CVPR,2006
+"Reconstructing Occluded Surfaces Using Synthetic Apertures: Stereo, Focus and Robust Measures.",Marc Levoy,https://dblp.org/pid/l/MarcLevoy.html,CVPR,2006
+"Reconstructing Occluded Surfaces Using Synthetic Apertures: Stereo, Focus and Robust Measures.",Richard Szeliski,https://dblp.org/pid/46/2186.html,CVPR,2006
+"Reconstructing Occluded Surfaces Using Synthetic Apertures: Stereo, Focus and Robust Measures.",C. Lawrence Zitnick,https://dblp.org/pid/10/6888.html,CVPR,2006
+"Reconstructing Occluded Surfaces Using Synthetic Apertures: Stereo, Focus and Robust Measures.",Sing Bing Kang,https://dblp.org/pid/k/SingBingKang.html,CVPR,2006
+The Panum Proxy Algorithm for Dense Stereo Matching over a Volume of Interest.,Ankur Agarwal,https://dblp.org/pid/a/AnkurAgarwal.html,CVPR,2006
+The Panum Proxy Algorithm for Dense Stereo Matching over a Volume of Interest.,Andrew Blake,https://dblp.org/pid/b/AndrewBlake-1.html,CVPR,2006
+"Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling.",Qingxiong Yang,https://dblp.org/pid/y/QingxiongYang.html,CVPR,2006
+"Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling.",Liang Wang,https://dblp.org/pid/56/4499-2.html,CVPR,2006
+"Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling.",Ruigang Yang,https://dblp.org/pid/08/5690.html,CVPR,2006
+"Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling.",Henrik Stewénius,https://dblp.org/pid/58/409.html,CVPR,2006
+"Stereo Matching with Color-Weighted Correlation, Hierarchical Belief Propagation and Occlusion Handling.",David Nistér,https://dblp.org/pid/07/1533.html,CVPR,2006
+Surface Geometric Constraints for Stereo in Belief Propagation.,Gang Li,https://dblp.org/pid/62/2655.html,CVPR,2006
+Surface Geometric Constraints for Stereo in Belief Propagation.,Steven W. Zucker,https://dblp.org/pid/40/1041.html,CVPR,2006
+Binocular Stereo Dense Matching in the Presence of Specular Reflections.,Wei Zhou,https://dblp.org/pid/69/5011.html,CVPR,2006
+Binocular Stereo Dense Matching in the Presence of Specular Reflections.,Chandra Kambhamettu,https://dblp.org/pid/47/4773.html,CVPR,2006
+Stereo Matching with Symmetric Cost Functions.,Kuk-Jin Yoon,https://dblp.org/pid/42/5677.html,CVPR,2006
+Stereo Matching with Symmetric Cost Functions.,In-So Kweon,https://dblp.org/pid/74/4917.html,CVPR,2006
+Region-Tree Based Stereo Using Dynamic Programming Optimization.,Cheng Lei,https://dblp.org/pid/34/4955.html,CVPR,2006
+Region-Tree Based Stereo Using Dynamic Programming Optimization.,Jason M. Selzer,https://dblp.org/pid/57/5201.html,CVPR,2006
+Region-Tree Based Stereo Using Dynamic Programming Optimization.,Yee-Hong Yang,https://dblp.org/pid/01/184.html,CVPR,2006
+Stereo Vision in Structured Environments by Consistent Semi-Global Matching.,Heiko Hirschmüller,https://dblp.org/pid/94/6855.html,CVPR,2006
+Combined Depth and Outlier Estimation in Multi-View Stereo.,Christoph Strecha,https://dblp.org/pid/27/3603.html,CVPR,2006
+Combined Depth and Outlier Estimation in Multi-View Stereo.,Rik Fransens,https://dblp.org/pid/47/1032.html,CVPR,2006
+Combined Depth and Outlier Estimation in Multi-View Stereo.,Luc Van Gool,https://dblp.org/pid/61/5017.html,CVPR,2006
+Multi-View Stereo Revisited.,Michael Goesele,https://dblp.org/pid/94/104.html,CVPR,2006
+Multi-View Stereo Revisited.,Brian Curless,https://dblp.org/pid/c/BrianCurless.html,CVPR,2006
+Multi-View Stereo Revisited.,Steven M. Seitz,https://dblp.org/pid/s/StevenMSeitz.html,CVPR,2006
+Depth from Familiar Objects: A Hierarchical Model for 3D Scenes.,Erik B. Sudderth,https://dblp.org/pid/22/3923.html,CVPR,2006
+Depth from Familiar Objects: A Hierarchical Model for 3D Scenes.,Antonio Torralba,https://dblp.org/pid/t/AntonioBTorralba.html,CVPR,2006
+Depth from Familiar Objects: A Hierarchical Model for 3D Scenes.,William T. Freeman,https://dblp.org/pid/86/6650.html,CVPR,2006
+Depth from Familiar Objects: A Hierarchical Model for 3D Scenes.,Alan S. Willsky,https://dblp.org/pid/48/6690.html,CVPR,2006
+A Dynamic Bayesian Network Model for Autonomous 3D Reconstruction from a Single Indoor Image.,Erick Delage,https://dblp.org/pid/26/1546.html,CVPR,2006
+A Dynamic Bayesian Network Model for Autonomous 3D Reconstruction from a Single Indoor Image.,Honglak Lee,https://dblp.org/pid/58/2562.html,CVPR,2006
+A Dynamic Bayesian Network Model for Autonomous 3D Reconstruction from a Single Indoor Image.,Andrew Y. Ng,https://dblp.org/pid/n/AndrewYNg.html,CVPR,2006
+Simultaneous Registration and Modeling of Deformable Shapes.,Jing Xiao,https://dblp.org/pid/67/4008.html,CVPR,2006
+Simultaneous Registration and Modeling of Deformable Shapes.,Bogdan Georgescu,https://dblp.org/pid/91/1880.html,CVPR,2006
+Simultaneous Registration and Modeling of Deformable Shapes.,Xiang Zhou,https://dblp.org/pid/65/5138.html,CVPR,2006
+Simultaneous Registration and Modeling of Deformable Shapes.,Dorin Comaniciu,https://dblp.org/pid/54/4552.html,CVPR,2006
+Simultaneous Registration and Modeling of Deformable Shapes.,Takeo Kanade,https://dblp.org/pid/k/TakeoKanade.html,CVPR,2006
+Real-time Image-Based Guidance Method for Lung-Cancer Assessment.,Lav Rai,https://dblp.org/pid/65/6877.html,CVPR,2006
+Real-time Image-Based Guidance Method for Lung-Cancer Assessment.,Scott A. Merritt,https://dblp.org/pid/48/5508.html,CVPR,2006
+Real-time Image-Based Guidance Method for Lung-Cancer Assessment.,William E. Higgins,https://dblp.org/pid/49/234.html,CVPR,2006
+Object Pose Detection in Range Scan Data.,Jim Rodgers,https://dblp.org/pid/21/2418.html,CVPR,2006
+Object Pose Detection in Range Scan Data.,Dragomir Anguelov,https://dblp.org/pid/a/DragomirAnguelov.html,CVPR,2006
+Object Pose Detection in Range Scan Data.,Hoi-Cheung Pang,https://dblp.org/pid/82/1505.html,CVPR,2006
+Object Pose Detection in Range Scan Data.,Daphne Koller,https://dblp.org/pid/k/DaphneKoller.html,CVPR,2006
+3D Surface Matching and Recognition Using Conformal Geometry.,Sen Wang,https://dblp.org/pid/69/6403.html,CVPR,2006
+3D Surface Matching and Recognition Using Conformal Geometry.,Yang Wang,https://dblp.org/pid/w/YangWang1.html,CVPR,2006
+3D Surface Matching and Recognition Using Conformal Geometry.,Miao Jin,https://dblp.org/pid/83/274.html,CVPR,2006
+3D Surface Matching and Recognition Using Conformal Geometry.,Xianfeng Gu,https://dblp.org/pid/g/XianfengGu.html,CVPR,2006
+3D Surface Matching and Recognition Using Conformal Geometry.,Dimitris Samaras,https://dblp.org/pid/s/DimitrisSamaras.html,CVPR,2006
+Wire Structure Pattern Extraction and Tracking From X-Ray Images of Composite Mechanisms.,David Tschumperlé,https://dblp.org/pid/56/4705.html,CVPR,2006
+Wire Structure Pattern Extraction and Tracking From X-Ray Images of Composite Mechanisms.,Jalal Fadili,https://dblp.org/pid/f/JalalFadili.html,CVPR,2006
+Scale-Driven Iterative Optimization for Brain Extraction and Registration.,Terrence Chen,https://dblp.org/pid/51/4242.html,CVPR,2006
+Scale-Driven Iterative Optimization for Brain Extraction and Registration.,Thomas S. Huang,https://dblp.org/pid/h/ThomasSHuang.html,CVPR,2006
+Coupled Bayesian Framework for Dual Energy Image Registration.,Hao Wu,https://dblp.org/pid/72/4250.html,CVPR,2006
+Coupled Bayesian Framework for Dual Energy Image Registration.,Yunqiang Chen,https://dblp.org/pid/55/5096.html,CVPR,2006
+Coupled Bayesian Framework for Dual Energy Image Registration.,Tong Fang,https://dblp.org/pid/39/234.html,CVPR,2006
+Robust AAM Fitting by Fusion of Images and Disparity Data.,Joerg Liebelt,https://dblp.org/pid/73/6802.html,CVPR,2006
+Robust AAM Fitting by Fusion of Images and Disparity Data.,Jing Xiao,https://dblp.org/pid/67/4008.html,CVPR,2006
+Robust AAM Fitting by Fusion of Images and Disparity Data.,Jie Yang,https://dblp.org/pid/12/1198-1.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Pravin Bhat,https://dblp.org/pid/35/88.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Ke Colin Zheng,https://dblp.org/pid/11/736.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Noah Snavely,https://dblp.org/pid/33/4636.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Aseem Agarwala,https://dblp.org/pid/91/28.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Maneesh Agrawala,https://dblp.org/pid/64/2431.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Michael F. Cohen,https://dblp.org/pid/07/1994.html,CVPR,2006
+Piecewise Image Registration in the Presence of Multiple Large Motions.,Brian Curless,https://dblp.org/pid/c/BrianCurless.html,CVPR,2006
+Seamless Image Stitching of Scenes with Large Motions and Exposure Differences.,Ashley Eden,https://dblp.org/pid/53/451.html,CVPR,2006
+Seamless Image Stitching of Scenes with Large Motions and Exposure Differences.,Matthew Uyttendaele,https://dblp.org/pid/83/3020.html,CVPR,2006
+Seamless Image Stitching of Scenes with Large Motions and Exposure Differences.,Richard Szeliski,https://dblp.org/pid/46/2186.html,CVPR,2006
+Image Matching Using Photometric Information.,Michael Kolomenkin,https://dblp.org/pid/90/6911.html,CVPR,2006
+Image Matching Using Photometric Information.,Ilan Shimshoni,https://dblp.org/pid/12/5204.html,CVPR,2006

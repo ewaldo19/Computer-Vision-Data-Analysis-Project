@@ -5,7 +5,7 @@
 <h3>How to Run Project</h3>
 
 <body><ol type = "1">
-  <li>On <strong>Webscrape Conferences</strong> folder, then open <bold>Webscrape All Conferences.ipynb</bold> </li>
+  <li>On <strong>Webscrape Conferences</strong> folder, then open <b>Webscrape All Conferences.ipynb</b> </li>
   <br>
   <li>Run each cell accordingly
     

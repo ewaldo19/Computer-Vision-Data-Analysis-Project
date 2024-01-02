@@ -5,11 +5,11 @@
 <h3>How to Run Project</h3>
 
 <body><ol type = "1">
-  <li>On <strong>Webscrape Conferences</strong> folder, then open <b>Webscrape All Conferences.ipynb</b> </li>
+  <li>On <strong>Webscrape Conferences</strong> folder, open <b>Webscrape All Conferences.ipynb</b>.</li>
   <br>
   <li>Run each cell accordingly
     
-  If python packages are not installed, install it beforehand to ensure that the webscraping process can be executed properly:
+  If Python packages are not installed, install it beforehand to ensure that the webscraping process can be executed properly:
   
   Requests:
   <pre lang="console">pip install requests</pre>
@@ -20,4 +20,8 @@
   BeautifulSoup:
   <pre lang="console">pip install beautifulsoup4</pre>
   </li>
+  <br>
+  <li>On <strong>Data Cleaning and Insertion</strong> folder, open <b>Database Creation and Insertion.sql</b></li>
+  <br>
+  <li>Run each SQL query accordingly to create the database to store the web scraped data, import the csv file into a temporary table before storing it in the real table</li>
 </ol></body>

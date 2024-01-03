@@ -27,4 +27,8 @@
   <li>Run each SQL query accordingly to create the database to store the web scraped data, import the csv file into a temporary table before storing it in the real table. Make sure the data is clean and there are no missing data/data inaccuracies in the database
   
   Import the author nationality files so that each author has their nationality and alternate nationality to provide more valuable insights regarding the data</li>
+  <br>
+  <li>On <strong>Data Querying</strong> folder, open <b>Data Querying.sql</b></li>
+  <br>
+  <li>Run each SQl query to show the data you want to know, then convert each SQL query result into a csv so that it will be easily more accessible for viewing and data visualizing</li>
 </ol></p>

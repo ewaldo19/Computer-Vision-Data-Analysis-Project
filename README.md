@@ -21,8 +21,6 @@ This project aims to develop a data visualization showcasing conference-related 
 <p align = "justify">The graph above illustrates how many papers are published by South East Asian authors. As we can see, Vietnam seems to be leading ahead by quite some distance in terms of the number of authors and number of papers published, followed by Singapore. As for Indonesia, we have only published 124 papers coming from 43 different authors through these 5 conferences (2003-2023).
 
 Disclaimer: The nationalities of the authors is not 100% accurate since I use a prediction nationality API based on their names.</p>
-<h5>Detailed Table</h5>
-<img width="600" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/e9c90366-5961-4f85-95aa-b8482955bc8e">
 <br><br>
 The following is the repository to the Indonesian authors' webpages such as Profile, Google Scholar, and DBLP:
 <a href = "https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/blob/main/AUTHORS.md">Indonesian Authors Profile</a>

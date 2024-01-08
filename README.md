@@ -6,13 +6,28 @@ This project aims to develop a data visualization showcasing conference-related 
 
 <h2>Data Visualization</h2>
 
+<p>Below are some of the Data Visualizations that I believe are important insights regarding the data I gathered:</p>
+<h4>New Authors from Each Conferences</h4>
 <img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/f9c94808-c569-453c-bfab-5fffa8db11c1">
 <br><br>
 <p align = "justify">The above graph visualizes how many new authors have published for each conference every year. It is seen that every year, a bunch of new emerging authors will come to the scene, this tells us that the interest in Computer Vision is growing rapidly and more individuals have become more knowledgeable about it.</p>
 <br>
+<h4>Number of Papers Publised each Year</h4>
 <img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/97e773bd-b1e5-4db3-b0f6-41cf81be189f">
 <br><br>
 <p align = "justify">The above chart illustrates how many papers are published each year for every conference (2003-present). It shows us that authors are becoming more skilled and creative about what topics they can bring to the table as papers are published more each year.</p>
+<br>
+<h4>South East Asia Contribution</h4>
+<img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/cf23200a-70dd-4741-8d4a-4ca472f7e183">
+<br><br>
+<p align = "justify">The graph above illustrates how many papers are published by South East Asian authors. As we can see, Vietnam seems to be leading ahead by quite some distance in terms of the number of authors and number of papers published, followed by Singapore. As for Indonesia, we have only published 124 papers coming from 43 different authors through these 5 conferences (2003-2023).
+
+Disclaimer: The nationalities of the authors is not 100% accurate since I use a prediction nationality API based on their names.</p>
+<h5>Detailed Table</h5>
+<img width="600" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/e9c90366-5961-4f85-95aa-b8482955bc8e">
+<br><br>
+The following is the repository to the Indonesian authors' webpages such as Profile, Google Scholar, and DBLP:
+<a href = "https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/blob/main/AUTHORS.md">Indonesian Authors Profile</a>
 
 <h2>How to Run Project</h2>
 

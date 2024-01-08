@@ -4,8 +4,6 @@
 To view the Data Visualization output in a much more interactive experience: <a href="https://nbviewer.org/github/ewaldo19/Computer-Vision-Data-Analysis-Project/blob/main/Data%20Visualization/Data%20Viz%20Conferences.ipynb">Data Visualization - Computer Vision</a>.<br><br>
 This project aims to develop a data visualization showcasing conference-related information over the years. It involves presenting statistics such as the quantity of published papers, identifying the most established authors around the globe, and many more. Notably, the main focus is on comparing the number of authors and published papers from Indonesia with those from other Southeast Asian countries and globally. With the help of this project, I've also contributed to the  <a href="https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference">Awesome Indonesia Computer Vision Research - Conference Publication</a> repository. The conferences considered for this analysis span from 2002 - present and include BMVC, WACV, CVPR, ICCV, and ECCV.</p>
 
-<h2>Data Visualization</h2>
-
 <p>Below are some of the Data Visualizations that I believe are important insights regarding the data I gathered:</p>
 <h4>New Authors from Each Conferences</h4>
 <img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/f9c94808-c569-453c-bfab-5fffa8db11c1">

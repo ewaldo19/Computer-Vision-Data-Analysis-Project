@@ -16,7 +16,7 @@ This project aims to develop a data visualization showcasing conference-related 
 <p align = "justify">The above chart illustrates how many papers are published each year for every conference (2003-present). It shows us that authors are becoming more skilled and creative about what topics they can bring to the table as papers are published more each year.</p>
 <br>
 <h4>South East Asia Contribution</h4>
-<img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/cf23200a-70dd-4741-8d4a-4ca472f7e183">
+<img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/67fb936c-470d-49dc-8320-2be1fea28eac">
 <br><br>
 <p align = "justify">The graph above illustrates how many papers are published by South East Asian authors. As we can see, Vietnam seems to be leading ahead by quite some distance in terms of the number of authors and number of papers published, followed by Singapore. As for Indonesia, we have only published 124 papers coming from 43 different authors through these 5 conferences (2003-2023).
 

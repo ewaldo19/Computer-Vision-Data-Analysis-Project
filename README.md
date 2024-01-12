@@ -44,6 +44,10 @@ The following is the repository to the Indonesian authors' webpages such as Prof
   <pre lang="console">pip install beautifulsoup4</pre>
   </li>
   <br>
+  <li>On Predict Nationality folder, open <b>predicty.py</b>
+
+  Run predict.py, with the webscraped author names data and valid API key
+  For this I used namsor.app to predict the nationality based on the authors' names. So, you need to create an account before to get the valid API key. Of course, the result of this is not 100% accurate with the exception for Indonesia because I created this project specifically to view the data about Indonesia.</li>
   <li>On <strong>Data Cleaning and Insertion</strong> folder, open <b>Database Creation and Insertion.sql</b>
     
   Run each SQL query accordingly to create the database to store the web scraped data, import the csv file into a temporary table before storing it in the real table. Make sure the data is clean and there are no missing data/data inaccuracies in the database.

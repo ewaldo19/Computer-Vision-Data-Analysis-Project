@@ -51,8 +51,12 @@ The following is the repository to the Indonesian authors' webpages such as Prof
   <li>On <strong>Data Cleaning and Insertion</strong> folder, open <b>Database Creation and Insertion.sql</b>
     
   Run each SQL query accordingly to create the database to store the web scraped data, import the csv file into a temporary table before storing it in the real table. Make sure the data is clean and there are no missing data/data inaccuracies in the database.
+
+  Import the Countries Data.json file to ensure that the nationality column on authors table has a connection to another table.
   
-  Import the author nationality files so that each author has their nationality and alternate nationality to provide more valuable insights regarding the data.</li>
+  Import the author nationality files so that each author has their nationality and alternate nationality to provide more valuable insights regarding the data.
+  
+  Note: If you want to have the same data as the data I have, I suggest you import the Authors.json file instead of predicting the nationality as well because there are still some inaccuracies about predicting the nationality. By using the Authors.json, it corrects some data especially the data regarding Indonesia.</li>
   <br>
   <li>On <strong>Data Querying</strong> folder, open <b>Data Querying.sql</b>
   

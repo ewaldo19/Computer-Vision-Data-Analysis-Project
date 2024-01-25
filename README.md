@@ -25,6 +25,10 @@ Disclaimer: The nationalities of the authors is not 100% accurate since I use a 
 The following is the repository to the Indonesian authors' webpages such as Profile, Google Scholar, and DBLP:
 <a href = "https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/blob/main/AUTHORS.md">Indonesian Authors Profile</a>
 
+<h4>Wordcloud for All Papers</h4>
+
+
+
 <h2>How to Run Project</h2>
 
 <p align = "justify"><ol type = "1">

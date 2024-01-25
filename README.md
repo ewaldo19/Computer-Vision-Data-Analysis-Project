@@ -15,6 +15,12 @@ This project aims to develop a data visualization showcasing conference-related 
 <br><br>
 <p align = "justify">The above chart illustrates how many papers are published each year for every conference (2003-present). It shows us that authors are becoming more skilled and creative about what topics they can bring to the table as papers are published more each year.</p>
 <br>
+
+<h4>Wordcloud for All Papers</h4>
+<img width = "1000" src ="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/blob/0e1aae7d552b76b357b1ac2fa99432a400988688/wordcloud.jpg">
+<br><br>
+<p align = "justify">The image above shows what word or phrase is most used in a title for all conferences (CVPR, WACV, ECCV, ICCV, and BMVC)</p>
+
 <h4>Number of Authors in South East Asia</h4>
 <img width="1000" alt="image" src="https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project/assets/57058557/67fb936c-470d-49dc-8320-2be1fea28eac">
 <br><br>
@@ -24,10 +30,6 @@ Disclaimer: The nationalities of the authors is not 100% accurate since I use a 
 <br><br>
 The following is the repository to the Indonesian authors' webpages such as Profile, Google Scholar, and DBLP:
 <a href = "https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/blob/main/AUTHORS.md">Indonesian Authors Profile</a>
-
-<h4>Wordcloud for All Papers</h4>
-
-
 
 <h2>How to Run Project</h2>
 
